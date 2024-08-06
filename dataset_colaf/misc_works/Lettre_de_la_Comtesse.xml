@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_DEU_005</idno>
+            <title type="main">Lettre de la Comtesse de ***</title>
+            <title type="collection">Molyé</title>
+            <author>Jean-Martin de La Colonie</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/Memoires_de_Monsieur_de_La_Colonie_mar%C3%A9/0lMGAAAAQAAJ"/>
+               <title>Mémoires de monsieur de La Colonie, maréchal de camp des armées de l'Électeur de Bavière</title>
+               <author>Jean-Martin de La Colonie</author>
+               <publisher>Aux dépens de la compagnie</publisher>
+               <date when="1737"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://www.google.fr/books/edition/Memoires_de_Monsieur_de_La_Colonie_mar%C3%A9/0lMGAAAAQAAJ"/>
+               <title>Mémoires de monsieur de La Colonie, maréchal de camp des armées de l'Électeur de Bavière</title>
+               <author>Jean-Martin de La Colonie</author>
+               <publisher>Oxford University</publisher>
+               <date when="2007-01-31"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="met-fr">
+               <idno type="langue">met-fr</idno>
+               <idno type="script">Latin</idno>
+               <name>French of Metropolitan France</name>
+            </language>
+            <language ident="fra-deu">
+               <idno type="langue">fra-deu</idno>
+               <idno type="script">Latin</idno>
+               <name>Germanic Baragouin</name>
+               <date when="1703"/>
+            </language>
+            
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="nonfiction">Nonfiction</term>
+               <term type="genre" rend="nonfiction-press">Press</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-08-06" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p xml:lang="fra-deu">
+            <pb n="310"/>
+            Ly fiens d'aprentre avec in crant cha-
+            crinement, mon cher Moncir, com-
+            me fous l'y être en quarnison dans in 
+            crant éloignement de moi; ah que sty
+            sort être crantement contraire à mon fou-
+            loir ! car j'afer touchours espéré qu'a a-
+            près ly Campagne faite, fous fenir foir
+            fotre cher Comtesse, que ly être touchours
+            ly même pour fous ; mais ly espéré que 
+            si fous n'être pas feni encore, que fous
+            ly fiénder pientôt. Ah, pourquoi sty
+            moment n'y être pas feni ! puisque ly ê-
+            tre d'in crant contentement de moy; &amp;
+            si ne fenir pientôt, que fous ly soufiend-
+            der à fous compien ly premettre que l'aimer
+            touchours à moi pocoup pien cran-
+            tement. Ly craintre pien, mon cher 
+            Moncir, que dans sty petite File fous
+            ly troufer des Dames qui fairons faire 
+            l'indélité à moi; non, non, mon cher,
+            quer, fous ly être trop honnête homme
+            pour ly faire chamais l'oubliance des pel-
+            les promesses que fous ly afoir fait à moi
+            si tentrement. Ah ! quand me soufenir
+            que fous ly dire, mon cher Comtesse,
+            moi ly aimer fous pli que tout ly mon-
+            
+            <pb n="311"/>
+            de &amp; ny chanchir chamis pour in au-
+            tre, quant ly serir plis pelle que ly chour,
+            ly aver in crante choyeuseté, parce que
+            fous ly promettre &amp; fous ly tinir fotre
+            parolle. Adieu, mon cher quer, n'écou-
+            tir point stys petits Dames de forte quar-
+            tir, mais fenir promptement foir moi,
+            que ly attendre à vous afec in crant im-
+            patiemment.</p>
+      </body>
+  </text>
+</TEI>

@@ -201,7 +201,7 @@ def main(list_file, recache=False, annotate=False):
         tc.save_tc_works(raw_classique_folder, classique_works)
         tc.transform_classique(raw_classique_folder, classique_tei_folder)
     if annotate:
-        annotation.annotate_all_plays(classique_works, f"{fin_dir}/theatre")
+        annotation.annotate_all_plays(classique_works, f"{fin_dir}/{classique_tei_folder}")
     #
     # hat.main()
     # gal.main()
@@ -219,12 +219,12 @@ def main(list_file, recache=False, annotate=False):
     misc_extracts, misc_langs = prep_misc_works("../dataset_colaf/misc_works", targets)
 
 
-    # print(prepped_extracts[0][1][0])
     all_extracts = play_extracts + poem_extracts + prose_extracts + misc_extracts
     all_langs = play_langs.union(poem_langs).union(misc_langs).union(prose_langs)
 
     #print(all_langs)
-    corpus_file_name = "../molyé.xml"
+    main_corpus_fol = "../main_corpus"
+    corpus_file_name = f"{main_corpus_fol}/molyé.xml"
     corpus_metadata = {"id" : "Molyé_000", "title": "Molyé", "author": "Rasul Dent",
                        "publisher": "CoLAF", "online_publisher": "CoLAF",  "permalien" : "https://colaf.huma-num.fr/",
                        "online_date": "2024"}
@@ -235,7 +235,4 @@ def main(list_file, recache=False, annotate=False):
 if __name__ == '__main__':
     list_file = "Molyé_list.tsv"
     main(list_file)
-    m_soup = BeautifulSoup(open("../molyé.xml"), features="xml")
-    text = m_soup.text
-    print(len(text.split()))
 
