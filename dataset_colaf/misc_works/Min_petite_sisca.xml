@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>MOL_NLD_002</idno>
+        <title type="main">Min petite Sisca</title>
+        <title type="collection">Molyé</title>
+        <author>Jules Watteuw</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Min petite Sisca</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <date when="1924-08-24"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <title>Min petite Sisca</title>
+          <author>Jules Watteuw</author>
+          <publisher>Bibliothèque nationale de France</publisher>
+          <date when="2019-01-20"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fra-deu">
+          <idno type="langue">fra-nld</idno>
+          <idno type="script">Latin</idno>
+          <name>Flemish Baragouin</name>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-short-stories">Short Story</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="fra-deu">
+    <body>
+      <div n="1" type="chapter">
+        <head>Min petite Sisca</head>
+        <p xml:lang="fra-nld">Vous te connais pas mon petite fille</p>
+        <p xml:lang="fra-nld">Sisca?... Ça c'est un maline! Te n'as za</p>
+        <p xml:lang="fra-nld">mais connu de parelle.</p>
+        <p xml:lang="fra-nld">Y' est copable min petite Sisca, y est</p>
+        <p xml:lang="fra-nld">copable! y connait tout: de rismétique, d̀e</p>
+        <p xml:lang="fra-nld">stoire de France, de zigraphie, de criture</p>
+        <p xml:lang="fra-nld">de licture. de meusique. Tout, tout, tout</p>
+        <p xml:lang="fra-nld">mais qui copable</p>
+        <p xml:lang="fra-nld">Te vas parler lui de rismétique, et, tout</p>
+        <p xml:lang="fra-nld">suite, y compter sur sin doigts : sept, déze-</p>
+        <p xml:lang="fra-nld">huit, quatre ving mille,, deux et doux tait</p>
+        <p xml:lang="fra-nld">huit. et vela de carcul y fénit, de temps</p>
+        <p xml:lang="fra-nld">d'ouvrir et de serrer ton z'œil.</p>
+        <p xml:lang="fra-nld">Te parler de zigraphie, te lui demande</p>
+        <p xml:lang="fra-nld">Vous dire, ma petite Sisca, ous' qui est</p>
+        <p xml:lang="fra-nld">Paris? -- Là,  y dire, et y montrer avec</p>
+        <p xml:lang="fra-nld">sin doigt</p>
+        <p xml:lang="fra-nld">D'ous' qu'il l'est de Mérique? -- Là,</p>
+        <p xml:lang="fra-nld">là. et y montrer avec sin doigt. -- Oh!  qui</p>
+        <p xml:lang="fra-nld">est copable, min petite Sisca</p>
+        <p xml:lang="fra-nld">Et de criture!</p>
+        <p xml:lang="fra-nld">Lui criver un lette à se grand-papa,</p>
+        <p xml:lang="fra-nld">de nouvel an. et y nous tous pleurer quans</p>
+        <p xml:lang="fra-nld">qui lire :  heu! heu! heu! Mais, ça trop</p>
+        <p xml:lang="fra-nld">onstruit pour nous autes; y rien comprenne</p>
+        <p xml:lang="fra-nld">de lette qui crire min petite Sisca:</p>
+        <p xml:lang="fra-nld">Et y lire: Ouh!... quans qui liser, sin</p>
+        <p xml:lang="fra-nld">lèfes y aller aussi vite comme un maçine</p>
+        <p xml:lang="fra-nld">à coudre : blé, blé, blé, blé, ça y copable</p>
+        <p xml:lang="fra-nld">min petite Sisca!</p>
+        <p xml:lang="fra-nld">Et de stoire de France! Te povez lui man¬</p>
+        <p xml:lang="fra-nld">der de réponse, y parler d'Henri Quaque, de</p>
+        <p xml:lang="fra-nld">Louis Soixante, de Catherine Metsinsemise,</p>
+        <p xml:lang="fra-nld">y connait tout, tout, tout, mais qui copable.</p>
+        <p xml:lang="fra-nld">Et de meusique! ne pas pour dire mais y</p>
+        <p xml:lang="fra-nld">connaite tout sin notes</p>
+        <p xml:lang="fra-nld">A côté de mon meson y a un piéno, et</p>
+        <p xml:lang="fra-nld">ben, te faut voir min petite Sisca! avec son</p>
+        <p xml:lang="fra-nld">doigt y zouer et y canter</p>
+        <p xml:lang="fra-nld">Petite papa c'l'est auzourd'hui ton fête</p>
+        <p xml:lang="fra-nld">Maman l'a moi dit que vous te n’es pas la,</p>
+        <p xml:lang="fra-nld">Z' l'avais de fleurs pour moi cronner ton tête</p>
+        <p xml:lang="fra-nld">Et un belle baise pour moi dorer ta cœur</p>
+        <p xml:lang="fra-nld">Petite papa !</p>
+        <p xml:lang="fra-nld">Petite papa !</p>
+        <p xml:lang="fra-nld">Et y ne zamais appris saite! Y çante zus¬</p>
+        <p xml:lang="fra-nld">temont comme un rassignol. Et, pour zeuer</p>
+        <p xml:lang="fra-nld">de piéno, y ne pas besoin de tous sin doigts</p>
+        <p xml:lang="fra-nld">Savez, y zouer avec un doigt, et y faire de</p>
+        <p xml:lang="fra-nld">roulates! Mais qui copable!</p>
+        <p xml:lang="fra-nld">Et de broderie: y broder de fleurs, que te</p>
+        <p xml:lang="fra-nld">vas prinne avec ton main et que te vas</p>
+        <p xml:lang="fra-nld">aller mette à tin nez pour sintir, te penser</p>
+        <p xml:lang="fra-nld">que c'est de fleurs vivantes</p>
+        <p xml:lang="fra-nld">Et ben, te vas croire que min petite</p>
+        <p xml:lang="fra-nld">Sisca y est peunie à d'école pour un bêtise,</p>
+        <p xml:lang="fra-nld">un bahatelle de rien de tout.</p>
+        <p xml:lang="fra-nld">vela que de Supérieure, y venir passer</p>
+        <p xml:lang="fra-nld">l'exament à d'ecole.</p>
+        <p xml:lang="fra-nld">Min petite Sisca, c'est de plus copable</p>
+        <p xml:lang="fra-nld">ènan ? et c'est zustement à lui que de supé</p>
+        <p xml:lang="fra-nld">périeure y demander de question à de suiet</p>
+        <p xml:lang="fra-nld">de prière à min petite Sisca.</p>
+        <p xml:lang="fra-nld">Dire un fois. à moi, mon petite fille,</p>
+        <p xml:lang="fra-nld">quois que vous te faire de soir en te</p>
+        <p xml:lang="fra-nld">couçant ?</p>
+        <p xml:lang="fra-nld">--Bé, y réponde Sisca: de soit en moi</p>
+        <p xml:lang="fra-nld">concant ze mette bien mon cemise desous</p>
+        <p xml:lang="fra-nld">ma derrière</p>
+        <p xml:lang="fra-nld">Et min petite Sisca y ête peunie pas' qui</p>
+        <p xml:lang="fra-nld">réponde ca.</p>
+        <p xml:lang="fra-nld">Ne pas zuste, Énon? Et ben, ze vas moi</p>
+        <p xml:lang="fra-nld">tirer mon petite fille d'Ecole et ze vas mette</p>
+        <p xml:lang="fra-nld">en Belzique, et là y lui apprener à parter</p>
+        <p xml:lang="fra-nld">de francais en flamand.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

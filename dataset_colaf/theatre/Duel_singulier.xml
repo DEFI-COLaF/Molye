@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <idno>MOL_MAU_001</idno>
+               <title type="main">Le duel singulier</title>
+               <title type="collection">Molyé</title>
+               <author>Dorvigny</author>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="RDENT">
+                     <surname>Dent</surname>
+                     <forename>Rasul</forename>
+                     <idno type="orcid">0009-0004-1032-1745</idno>
+                  </persName>
+               </respStmt>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="JJANES">
+                     <surname>Janès</surname>
+                     <forename>Juliette</forename>
+                     <idno type="orcid">0000-0002-8971-6173</idno>
+                  </persName>
+               </respStmt>
+               <principal>
+                  <persName xml:id="BSAGOT">
+                     <surname>Sagot</surname>
+                     <forename>Benoît</forename>
+                     <idno type="orcid">0000-0001-8957-9503</idno>
+                  </persName>
+               </principal>
+               <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+               <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+               <date when="2024-05-30"/>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="PrintSource">
+                  <ptr target="https://www.google.fr/books/edition/Le_duel_singulier_com%C3%A9die_en_un_acte_et/WIf8TGD9F_UC"/>
+                  <title>Le duel singulier</title>
+                  <author>Dorvigny</author>
+                  <publisher></publisher>
+                  <date when="1800"/>
+               </bibl>
+               <bibl type="CorpusSource">
+                  <ptr target="https://www.google.fr/books/edition/Le_duel_singulier_com%C3%A9die_en_un_acte_et/WIf8TGD9F_UC"/>
+                  <title>Le duel singulier</title>
+                  <author>Dorvigny</author>
+                  <publisher>National Library of Naples</publisher>
+                  <date when="2014-07-15"/>
+               </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="met-fr">
+                  <idno type="langue">met-fr</idno>
+                  <idno type="script">Latin</idno>
+                  <name>French of Metropolitan France</name>
+               </language>
+               <language ident="mau">
+                  <idno type="langue">hat</idno>
+                  <idno type="script">Latin</idno>
+                  <name>Mauritian Creole (presumed)</name>
+               </language>
+               <language ident="fra-ang">
+                  <idno type="langue">fra-ang</idno>
+                  <idno type="script">Latin</idno>
+                  <name>Anglo-Baragouin</name>
+               </language>
+               <language ident="fra-gsc">
+                  <idno type="langue">fra-gsc</idno>
+                  <idno type="script">Latin</idno>
+                  <name>Gascon-accent French</name>
+               </language>
+            
+
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term rend="spoken" type="supergenre">Fiction</term>
+                  <term rend="spoken-script" type="genre">fiction-drama</term>
+               </keywords>
+            </textClass>
+            <particDesc>
+               <listPerson>
+                  <person xml:id="GEFFERSON">
+                     <persName>GEFFERSON</persName>
+                  </person>
+                  <person xml:id="STRAFFORD">
+                     <persName>STRAFFORD</persName>
+                  </person>
+                  <person xml:id="BELTON">
+                     <persName>BELTON</persName>
+                  </person>
+                  <person xml:id="VALCOUR">
+                     <persName>VALCOUR</persName>
+                  </person>
+                  <person xml:id="FIJEAC">
+                     <persName>FIJEAC</persName>
+                  </person>
+                  <person xml:id="JACQUES">
+                     <persName>JACQUES</persName>
+                  </person>
+               </listPerson>
+            </particDesc>
+         </profileDesc>
+         <revisionDesc>
+            <change when="2024-06-25" who="#RDENT">Génération du document</change>
+         </revisionDesc>
+      </teiHeader>
+  <text>
+     
+     
+      <body>
+         <div type="liminal">
+         <div type="titlepage">
+            <p>LE DUEL SINGULIER</p>
+            <p>COMEDIE EN UN ACTE ET EN PROSE;</p>
+            <p>Représentée, pour la première fois , sur le Théâtre de</p>
+            <p>l'Ambigu-Comique , le 28 Vendémiaire an 9.</p>
+            <p>Par le citoyen DORVIGNY.</p>
+            <p>A Paris,</p>
+            <p>Au magasin de pièces de Théâtres , rue des Prêtres St.-Germainl'Auxerrois , n°. 44, en face de l'Eglise.</p>
+            <p>An IX.</p>
+            <p>Les Exemplaires ont été fournis à la Bibliothèque nationale.</p>
+         </div>
+            <div type="liminal">
+               <head>PERSONNAGES. ARTISTES</head>
+               <list>
+                  <item>
+                     Mistriss GEFFERSON
+                     Mme. Bourgeois
+                  </item>
+                  <item>
+                     STRAFFORT, baragouinant, Anglais-Américain
+                     Corse.
+                  </item>
+                  <item>
+                     BELTON , Anglais- Américain
+                     Boischeresse.
+                  </item>
+                  <item>
+                     VALCOUR, jeune Français
+                     Tautin.
+                  </item>
+                  <item>
+                     FIJEAC, gascon au service de Valcour
+                     Rafille.
+                  </item>
+                  <item>
+                     JACQUES, nègre au service de Strafford, parlant patois
+                     Platet.
+                  </item>
+               </list>
+               <p>
+                  La Scène est à Boston , dans une maison où logent mistriss
+                  Gefferson , Strafford et Valcour.
+               </p>
+               
+               <p>
+                  C'est le matin. Le théâtre représente un salon commun à
+                  trois appartemens ; il y aune table garnie pour écrire.
+               </p>
+            </div>
+         
+         </div>
+         <div type="act" n="1">
+            <div type="scene" n="1">
+               <head>SCENE PREMIÈRE.</head>
+               <stage>
+                  STRAFFORD sort de chez lui,
+                  à droite ,
+                  suivi de JACQUES, 
+                  domestique négre
+               </stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD</speaker>
+                  <p>JACQUES , 
+                     je entrer ici 
+                     chez mistriss Gefferson ;
+                     Belton il doit venir voir moi ; 
+                     tu feras attendre lui
+                     et viendra avertir moi 
+                     quand il être arrivé.
+                  </p>
+               </sp>
+               <sp who="JACQUES" xml:lang="mau">
+                  <speaker>JACQUES.</speaker>
+                  <p>
+                     Li , bon maître ; toi pas peur , 
+                     moi va pas manquer.
+                     
+                  </p>
+                  <stage>(Il rentre. )</stage>
+               </sp>
+            </div>
+            
+            <div type="scene" n="2">
+               <head>SCÈNE II.</head>
+               <stage>
+                  STRAFFORD va pour entrer chez mistriss
+                  àgauche. VALCOUR sort de chez lui , du
+                  fond , et arrête Strafford.
+               </stage>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, d'en haut</speaker>
+                  <p>Un mot, s'il vous plaît monsieur</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, se retournant</speaker>
+                  <p>A moi vous parler ?</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>
+                     A vous-même; vous ressouvenez-vous d'avoir été
+                     hier au soir à la taverne de Lyoll- Boy?
+                     
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker> STRAFFORD.</speaker>
+                  <p>Oui , bien.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Vous ressouvenez-vous, de m'y avoir vu ?</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Très-peu.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Mais vous devez vous rappeller d'avoir eu une contestation fort vive avec moi?</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Point du tout.</p>
+               </sp>
+               
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Cela est surprenant ; une mémoire si courte risque
+                     de vous faire du tort.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Pourquoi?</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR,</speaker>
+                  <p>C'est qu'on regarde assez souvent comme manque de
+                     bravoure, l'oubli d'une dispute vive et qui a été publique.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>C'est mal fait ; un honnête homme qui avait raison ,
+                     il pouvait oublier l'étourderie de celui- là qui avait
+                     manqué ; mais l'autre honnête homme qui avait tort ,
+                     il devait souvenir lui , pour plus avoir encore ein autre
+                     fois.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Aussi je m'en souviens , monsieur , et je viens pour le réparer.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Alors il être bien fait; j'estime vous davantage , et je
+                     pardonne de bon cœur. 
+                  </p>
+                  <stage>( Il lui tend la main.” )</stage>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR , fièrement.</speaker>
+                  <p>Je ne veux pas de votre pardon ; c'est une offense
+                     que vous me faites à votre tour .... et si je vous ai
+                     offensé hier le premier , la réparation que je viens
+                     vous faire , c'est de vous proposer de me couper la
+                     gorge , ou de me brûler la cervelle avec vous.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Charmante réparation ! ....</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>C'est la seule entre gens d'honneur.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Très-bien il veut dire que , pour réparer l'offense
+                     que vous convenez avoir fait à moi hier , vous venez
+                     bonnement m'offrir de tuer moi aujourd'hui !</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Oui , monsieur, ou vous donner l'occasion de me
+                     tuer moi-même.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>L'occasion il être fort agréable assurément ; mais ,
+                     mon cher monsieur , il tenter pas moi di tout.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, dédaigneusement.</speaker>
+                  <p>Je vous entends : c'est-à dire que vous aimez mieux
+                     être deshonoré , et que vous consentez que je publie
+                     par-tout que vous êtes un lâche.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, vivement,</speaker>
+                  <p>Point du tout ; je deffendre bien au contraire.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR,</speaker>
+                  <p>Hé bien donc , pour m'en empêcher , il n'est qu'un
+                     moyen; c'est de vous battre avec moi.
+                  </p>
+               </sp>    
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, à part.</speaker>
+                  <p>Quel diable d'homme ! il être enragé pour courir à
+                     son mort ! .... 
+                     </p><stage>(Haut. )</stage> 
+                  <p>Vous vouloir donc absolument tout-à-fait , monsieur?</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>
+                     Oh! très -absolument ; ou vous allez sortir avec
+                     moi pour soutenir votre honneur , ou je sors tout
+                     seul , pour aller déclarer par-tout que vous n'en
+                     avez pas.
+                  </p>
+               </sp>    
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , piqué , mais avec une colère froide.</speaker>
+                  <p>Gaddem ! il être trop fort celui-là ! .... La vie il
+                     être certainement beaucoup .... mais la honneur il
+                     être encore plis davantage , et vous va connaître qu'il
+                     rester encor la- dedans. 
+                  </p>
+                  <stage>( Il se touche le cœur. )</stage>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR impatienté.</speaker>
+                  <p>Eh ! c'est ce que je deinande ; marchons , monsieur.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, l'arrestant.</speaker>
+                  <p>Ecoute ein instant. Je comprendre à stheure véritablement que , pour sauver l'honneur à nous deux ,
+                     il faut qu'une il perde la vie , et je consentir tout de bon ; mais j'être bien-aise d'avertir vous que , si j'aimais pas à battre moi , il n'être pas poltronnerie , ...
+                     il être prudence. Monsieur jeune homme.... informevous de Strafford ....à l'épée d'abord , je n'avais pas
+                     ma pareil , ni sur la sabre non plis ... et pour la pistolet ,
+                     à cinquante pas , je moucher ein chandelle , ou je
+                     couper ein balle sur la lame de couteau ..... et si
+                     je batte avec ces avantages , je deviendre ein assassin !
+                     la loi même il avait deffendu pour moi.
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Eh bien , monsieur , je vous relève de cette loi-là ,
+                     Et je vas vous signer d'avance que je vous pardonne ma mort,</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Très-bien , monsieur ; vous il être brave beaucoup ! ...
+                     mais moi , je serais pas si je profitais. Ecoute donc bien
+                     mon condition pour égaliser le sort des armes , sans quoi je batte pas.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR</speaker>
+                  <p>Oh ! que de détours ! dites-la donc vite , cette condition ; car je commence à mal augurer de vous.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Presser pas vous encore tant ; vous verra bientôt. Réfléchir seulement un peu , et dire- moi si vous pense
+                     bien sérieusement que notre honneur il voulait qu'un de nous deux il meure.
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, vivement et avec humeur.</speaker>
+                  <p>Eh morbleu oui , monsieur , c'est obligé , et cela devrait être déjà fait.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , toujours froidement , mais fermement.</speaker>
+                  <p>Bon il va pas tarder non plis , et mon manière il
+                     étre bien aisée et bien sûre . Attendre-moi là deux minutes. </p>
+                  <stage>(Il rentre chez lui. )</stage>
+               </sp>
+               
+            </div>
+            
+
+            <div type="scene" n="3">
+               <head>SCÈNE III.</head>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, seul.</speaker>
+                  <p>AH monsieur l'Anglais , malgré votre sang-froid
+                     et votre fermeté affectée , vous m'avez bien l'air de n'être pas dangereux..... 
+                     </p>
+                  <stage>( Il se promène. )</stage>
+               </sp>
+            </div>
+            
+            
+            <div type="scene" n="4">
+               <head>SCENE IV.</head>
+               <stage>VALCOUR, STRAFFORD revient de chez lui.</stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, plus lestement,</speaker>
+                  <p>DONNE la main , mon brave ; vous va être content
+                     toute suite. Voilà ein bon pistolet carabiné et portant
+                     bien ses trois balles. Il être bien chargé , bien amorcé ,
+                     avec ein bonne pierre d'agate bien préparée .....
+                     Jamais il avait pas ratté encore .
+                     pour..avancée. et je garantis
+                     </p>
+                  <stage>(Il le pose surla table qu'il a un peu)</stage>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Eh bien où est l'autre pareil ?</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD,</speaker>
+                  <p>Non , il faut pas davantage qu'une. Quand on se
+                     batte avec deux , chacune la sienne , on se manquait ,
+                     on rechargeait , on recommençait , et les témoins ils
+                     arranger pour vous et réconcilier ,,, .... et on paraître
+                     brave à trop bon marché..... Ici , tout ça il n'être pas
+                     de même. Voilà le pistolet toute prête entre nous
+                     deux..... Nous i va jouer pair ou non...
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, surpris,</speaker>
+                  <p>Comment! jouer !</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD,</speaker>
+                  <p>
+                     Oui , monsieur , quand on être décidé , la vie il n'être
+                     plis rien qu'un jeu,,... Ou bien , nous va jetter les dez
+                     au plis haut point , ou avec les cartes .... comme vous
+                     voulez. , .. , Celle- là qui va gagner prendre la pistoler,
+                     et il espédier l'autre à son volonté. 
+                  </p>
+                  <stage>(Il prend un siége , et s'assied devant la table. )</stage>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, un peu ému.</speaker>
+                  <p>Oh oh ! vous avez-là une singulière façon....</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, avec sang froid.</speaker>
+                  <p>
+                     Singulière , si vous trouvez ; mais il être bien sûre...
+                     Et puisque vous il être décidé , il n'y il n'y avait pas la meilleure et la plis honnête ; personne il avait l'avantage...
+                     Allons , monsieur , voilà les dez , ou voilà des guinées
+                     ou voilà des cartes..... </p>
+                  <stage>(Il met tout cela sur la table avec un cornet pour les dez. )</stage> 
+                  <p>Choisir vous-même à-présent le jeu qu'il conviendra mieux pour vous </p>
+                  <stage>( Durement. )</stage> 
+                  <p>Ou bien , je dire , moi , à mon tour , que
+                     vous il être un lâche , et que vous il avait peur pour
+                     mourir,
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, affecté.</speaker>
+                  <p>Moi , peur ! allons , monsieur , je suis décidé , et voilà
+                     votre dernier moment , ou le mien. Je prends les dez.
+                  </p>
+                     <stage>(Il remue le cornet. )</stage> 
+                  <p>Le plut haut point aura le pistolet,</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Bon , je suis content ; roulez. </p>
+                  <stage>( Valcour jette les der sur la table. )</stage> 
+                  <p>Il y a 15 ; vous avez beau jeu. A moi à- présent. Mette les dez vous-même. </p>
+                  <stage>( Il les remue ensui et les jette. )</stage>
+                  <p>18. La pistolet il être à moi. </p>
+                  <stage>( Il le prend. )</stage>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, fermement.</speaker>
+                  <p>Eh bien , monsieur , servez-vous - en. </p>
+                  <stage>( Il se présente. )</stage>
+                    <p> Mais ne vous flattez pas que j'aie peur. Tirez. </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Ah! vous il être donc toute prête pour mourir ?.
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR,</speaker>
+                  <p>Oui , monsieur.</p>
+               </sp>
+               <sp who="STRAFFORD">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Oh bien ! moi , j'être pas encore en disposition pour
+                     tuer ; mais il être tout de même. Pensez que vous il
+                     être mort. Allez faire votre affaire encore , je permettais
+                     à vous. Voilà assez à st'heure pour contenir votre vivacité. Vous être brave et honnête ; mais souviendre-vous
+                     bien que la pistolet il être à moi , et que je regarder
+                     vous comme mort. Adieu , monsieur. </p>
+                  <stage>( Il ramasse toutes ses affaires avec sang-froid, et rentre chez lui. )</stage>
+               </sp>
+            </div>
+            
+            
+            
+            <div type="scene" n="5">
+               <head>SCENE V.</head>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR , seul , et interdit.</speaker>
+                  <p>
+                     Je suis confondu de cette aventure .. et me voilà
+                     dans une situation indéfinissable ! ... Cet homme est
+                     maître de ma vie , et il me la laisse ... .. J'aimerais
+                     autant , je préférerais même qu'il me l'eût ôtée dans le
+                     moment d'effervescence ... je serais quitte de tout ...
+                     au lieu que l'obligation que je lui ai me pèse et m'humilie..... 
+                     Mais enfin , puisqu'il me laisse vivre , profi- tons de son honnêteté . et allons réfléchir sur ma
+                     position. 
+                  </p>
+                  <stage>(Il rentre chez lui , aufond. )</stage>
+               </sp>
+            </div>
+
+
+            <div type="scene" n="6">
+               <head>SCÈNE VI.</head>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON , sortant de chez mistriss Gefferson ,avec un air chagrin.</speaker>
+                  <p>CERTES, je ne m'attendais pas à cette fâcheuse
+                     nouvelle, Il faut que j'aille consulter mon ami Strafford ,
+                     et que je cherche avec lui les moyens de parer ce coup
+                     si fatal à mon amour. </p>
+                  <stage>( Il va pour entrer chez Strafford.)</stage>
+               </sp>
+               
+            </div>
+               
+               
+               
+            
+            <div type="scene" n="">
+               <head>SCENE VII.</head>
+               <stage>BELTON, STRAFFORD , sortant de chez lui.</stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , affectueusement.</speaker>
+                  <p>
+                     AH! mon cher Belton , j'attendais pour toi. Tu as
+                     bien tardé pour venir.
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>
+                     Hélas ! mon ami , tu me vois au désespoir. Je sors
+                     de chez mistriss Gefferson , où j'avais été pour saluer
+                     ma chère miss Charlotte. Je l'ai trouvée dans la dernière affliction ; et elle m'a appris que sa mère lui
+                     avait ordonné de se préparer à épouser un homme qui
+                     l'a éblouie par ses richesses , et sur- tout par la faveur
+                     dont il s'est vanté de jouir auprès du ministre.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , avec chagrin.</speaker>
+                  <p>Comment toi i ne serait pas mon beau - frère ! ....
+                     Oh si fait. Je voulais épouser moi miss Henriette
+                     Gefferson , et je voulais encore que toi il épouse son
+                     sœur , miss Charlotte .... Attendre ein peu , j'allais
+                     toute suite faire entendre raison pour son mère ...
+                     Mais dire moi encore , qui donc il être cette rival qui
+                     voulait supplanter toi ?
+                     </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>C'est un Français qui est ici depuis peu.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD..</speaker>
+                  <p>
+                     Un Français ! ... Et comment il appeller lui ?     
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Miss Charlotte m'a dit que c'était monsieur Valcour, et qu'il s'est mème venu loger dans cette maison
+                     depuis hier.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, vivement par amitié.</speaker>
+                  <p>
+                     Valcour ! .... Oh bien , prendre courage , et n'avoir
+                     plis peur. Valcour il pouvait pas nuire à toi ; il être
+                     mort.
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Mort ! .. qu'est-ce que tu me dis- là ? Je l'ai vu encore hier au soir , et bien portant.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Hier il était possible .... Mais aujourd'hui , à
+                     st'heure , je dire à toi qu'il n'être plis vivant.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Quel conte encore une fois , cela ne se peut pas.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>J'assure toi qu'il être véritablement. Toi i va voir
+                     bien vite. </p>
+                  <stage>( Il écrit à la table)</stage>
+                     <stage>( Il dit haut en écrivant. )</stage> 
+                  <p>« Monsieur , un homme
+                     » qu'il être mort , il pouvait pas épouser miss Char-
+                     » lotte Gefferson , la prétendue de mon ami intime
+                     » Belton. J'espère que si vous , il pense être encore
+                     » vivant , vous va faire voir que vous il vivre avec
+                     » honneur». </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <stage>(Il ploie la lettre , se lève , et la montre à Belton , en lui disant)</stage>
+                  <p>
+                     Voilà tout.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Eh bien , après ; que vas-tu faire de cette folie-là 1</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>J'allais envoyer pour lui et toute suite , toi n'avoir
+                     plis de rival. </p>
+                  <stage>( Il appelle à sa porte . )</stage> 
+                  <p>Oh ! Jacques¹ .</p>
+                     <stage>(Jacques vient)</stage>
+               </sp>
+            </div>
+                 
+            <div type="scene" n="8">
+               <head>SCÈNE VIII.</head>
+               <stage>
+                  LES PRÉCÉDENS , JACQUES.
+               </stage>
+               <sp who="JACQUES" xml:lang="mau">
+                  <speaker>JACQUES.</speaker>
+                  <p>
+                     QUI çà maîte , voulet moi ?
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>
+                     STRAFFORD, à Jacques.
+                  </speaker>
+                  <p>
+                     Entrer chez monsieur Valcour ,
+                     donner cette billet là ,
+                     et porter le réponse.
+                  </p>
+               </sp>
+               <sp who="JACQUES" xml:lang="mau">
+                  <speaker>JACQUES,</speaker>
+                  <p>
+                     Moi couri. 
+                  </p>
+                  <stage>
+                     (Il entre chez Valcour )
+                  </stage>
+               </sp>
+            </div>
+
+               
+            <div type="scene" n="9">
+               <head>SCENE IX.</head>
+               <stage>STRAFFORD,BELTON.</stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD,</speaker>
+                  <p>TOUT-A-L'HEURE toi va savoir.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Mais je ne te comprends pas...</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Il être tout-à-fait clair, miss Charlotte il être pour
+                     toi. Viendre avec moi chez mistriss Gefferson ; je vou
+                     lais faire ton raccommodement.
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Elle est sortie pour aller solliciter une place pour
+                     son fils sir Henri.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Eh bien , nous attendre pour elle. Je voulais pas
+                     que toi aller avant que la paix il être fait entre vous.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Mais , mon cher , encore une fois tu n'y penses pas..
+                     Tes plaisanteries sont hors de saison. Je t'assures que
+                     rien n'est plus sérieux , et que miss Charlotte vient de
+                     m'affirmer elle-même que sa mère lui avait expressément défendu de recevoir dorénavant mes visites,
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Il prouvait rien du tout ça. La mère il savait pas
+                     encore que monsieur Valcour il être mort ; mais quand
+                     il va savoir, il pouvait plis penser à donner lui son
+                     fille.
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>En vérité , mon pauvre Strafford , tu m'inquiètes toimême à présent avec tes propos incompréhensibles !
+                     Est-ce que ta raison est dérangée ? Comment tu me
+                     dis que Valcour est mort , et tu lui écris ! .... Remarque donc la contradiction .</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Il n'y a pas du tout , et toi va convenir avec, Justement, voilà Jacques , écoute son réponse.</p>
+               </sp>
+            </div>
+            
+
+            
+            <div type="scene" n="10">
+               <head>SCÈNE X.</head>
+               <stage>LES MÊMES, JACQUES revient de chez
+                  Valcour , avec un papier.</stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>EH bien ! Jacques ? ....</p>
+               </sp>
+               <sp who="JACQUES" xml:lang="mau">
+                  <speaker>JACQUES.</speaker>
+                  <p>Oh ! maîte à moi , ça monchié-là li fou !</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON, à part.</speaker>
+                  <p>Je ne sais pas si mon pauvre ami est plus raisonnable.</p>
+               </sp>
+               <sp who="JACQUES" xml:lang="mau">
+                  <speaker>JACQUES.</speaker>
+                  <p>ah vlà li tourné. Quand li fini miré billet à vous ,
+                     grands yeux , et ouvri grand bouche , comme pour li va
+                     mangé moi.... Après ça , li couri grands pas par tout
+                     la chambe , comme pour sauver li ...... Après li sauté
+                     sus son zépée , li tiré dehors fourreau , et pis prendre
+                     pistolet et mordé dans son canon.... Pendant moment
+                     là , moi tremblé et moi demandé grace pour li..... . …………… .
+                     Mais li diré moi : « N'a pas contre toi que moi n'en a
+                     » colère ; toi , pauvre guiabe ! .... » 
+                     Hélas ! oui , monchié , moi diré ; moi , pauvre saclave , jamais n'en a pas
+                     faire di mal à vous..... Enfin pourtant , li jetté son
+                     zépée , li remetté pistolet dans son place , li prendre son
+                     plume , li assisé tranquille , et li fini écrire sa billlet là
+                     moi porté vous. Ah vlà li. 
+                     </p>
+                  <stage>( Strafford prend le billet, et
+                     fait signe à Jacques de rentrer ; Jacques s'en va . )</stage>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD lit le billet haut.</speaker>
+                  <p>» Vous avez raison , monsieur , je suis mort pour
+                     vous et pour votre ami » . </p>
+                  <stage>( Il parle. )</stage>
+                  <p>Toi voir lui mort………. </p>
+                  <stage>(Il liz. )</stage>
+                  <p>« Je sens que je ne dois pas disputer
+                     » à Belton le cœur de miss Charlotte , sur- tout puis-
+                     » qu'elle l'aime , et je la lui cède. Valcour , mort ou
+                     » vif à votre choix , mais brave et honnête
+                     Eh bien ! toi comprendre à présent.
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Moins que jamais ; c'est absolument une énigme
+                     pour moi.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Mais , du moins , toi comprendre bien qu'il céder
+                     miss Charlotte pour toi ?
+                  </p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Je le vois , et c'est ce qui m'étourdit davantage. Estce que la tête vous tourne à tous deux ? ... Que signifie
+                     ce stile baroque de vos billets ?</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p> Il signifier , mon cher , que toutes les deux nous
+                     être vraiment braves et honnêtes comme il dire fort
+                     bien.... mais voilà mistriss ; nous va parler avec.</p>
+               </sp>
+               
+            </div>
+
+            
+            <div type="scene" n="11">
+               <head>SCENE XI.</head>
+               <stage>LES MÊMES, mistriss GEFFERSON vient de
+                  dehors ; ils la saluent tons deux : elle témoigne de
+                  l'embarras en voyant Belton , et veut rentrer chez
+                  elle sans parler, après avoir rendy le salut....</stage>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD arréte mistriss Gefferson.</speaker>
+                  <p>OH non , passer pas vous encore.... Excuse, pardonne , mistriss .... mais voilà mon ami , la brave
+                     Belton , que son cœur i saignait devant vous , et vous
+                     que l'ame il être généreuse , i va donner consolation
+                     pour lui.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>
+                     Ah! mistriss ! pouvez-vous , en changeant ainsi à
+                     mon égard , vouloir me désespérer.
+                  </p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, se retirant toujours</speaker>
+                  <p>Permettez-moi , messieurs ....</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD l'arrestant encore.</speaker>
+                  <p>Ecoute , mistriss ; vous sauver ! vous pas vouloir
+                     parler pour nous..... Oh! besoin parler , quand faire
+                     la peine pour le monde , l'explication de la bouche il
+                     soulageait le cœur.
+                  </p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON.</speaker>
+                  <p>Messieurs , une mère a ses raisons qui la déterminent,</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>Des raisons ! ....</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, à Belton</speaker>
+                  <p>Taisez-toi ; moi va dire meilleur encore . . .. Non
+                     mistriss , la raison il être pas ici .... Belton il être
+                     ein bon parti pour miss Charlotte : il aimer pour elle ,
+                     il être aimé encore . j'osais dire parce qu'il être
+                     véritable et honnête , et que vous-même déjà il avait
+                     consenti honorablement , ... A st'heure , eine fantaisie
+                     il faire décider vous l'autrement ! .... mais vous va
+                     convenir qu'il pouvait pas être , et vous va retourner
+                     avec nous.</p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON.</speaker>
+                  <p>Je croyais , messieurs , n'avoir pas de compte à rendre
+                     de mes sentimens , et je m'étonne que vous m'en
+                     demandiez.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Bien contraire , c'est nous qui rendaient à vous. Voir
+                     d'abord la signature de ce billet-là.</p> 
+                  <stage>( Il lui montre le
+                     billet de Valcour. )</stage>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, regardant.</speaker>
+                  <p>Je vois , Valcour.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Vous connaître bien l'écriture ?</p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistris GEFFERSON.</speaker>
+                  <p>Oui , il me paraît que c'est la sienne véritablement.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p> Lire donc vous à présent ici. </p>
+                  <stage>( Il lui montre , en cachant le reste. )</stage>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, lit haut.</speaker>
+                  <p>Je sens que je ne dois pas disputer à Belton let
+                     » cœur de miss Charlotte , sur-tout puisqu'elle l'aime ,
+                     » et je la lui cède. VALCOUR. » </p>
+                  <stage>( Elle dit avec étonnement et confusion :)</stage>
+                     <p> Cela est positif.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, vivement et avec ame.</speaker>
+                  <p>Eh bien , ma chère mistriss ! nous chacune oublier la rancune ,
+                     et revenir comme il était avant. Monsieur Valcour il être généreux et raisonable ; il voulait pas
+                     troubler eine inclination réciproque; vous montrer brave
+                     aussi , et consentir pour faire la bonheur de deux
+                     amans , que vous il avait déjà approuvé son tendresse.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>            
+                     Ah mistriss ! ne me rendez pas le plus malheureux
+                     des hommes ! .
+                  </p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistris GEFFERSON, à part.</speaker>
+                  <p>Voilà qui me confond , et je n'ai rien à répondre.</p>
+                     <stage>( Haut )</stage> 
+                  <p>Messieurs , je suis honteuse avec vous ; mais
+                     je dois tout vous dire . La demande de Belton ne trouverait aucune opposition de ma part ; mais je ne suis
+                     pas maîtresse .... mon fils aîné , sir Henri , est plus
+                     maître que moi , et il a déclaré qu'il n'accorderait sa
+                     sœur qu'à celui qui lui ferait avoir un poste qu'il
+                     ambitionne , celui de secrétaire du bureau de la marine.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON, vivement.</speaker>
+                  <p>Oh bien , je taupe très-volontiers à cette condition ;
+                     j'ai un ami intime qui a toute la confiance du ministre.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Et moi , je connaître beaucoup la première commis
+                     du bureau , et je vas parler avec. Allons-nous ensemble. Mistriss , la poste il être sûr pour sir henri
+                     et quand nous il reviendra aussi , miss Charlotte il
+                     être pour mon ami Belton. 
+                     
+                  </p>
+                  <stage>( Il le prend sous le bras , et ils sortent tous deux. )</stage>
+               </sp>
+            </div>
+              
+
+            <div type="scene" n="12">
+               <head>SCENE XII.</head>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, seule.</speaker>
+                  <p>
+                     JE ne conçois pas comment Valcour , après l'empressement qu'il m'a témoigné , peut se dédire ainsi ;
+                     son procédé m'offense , et je veux m'expliquer avec lui.
+                  </p>
+                  <stage>(Elle va sonner à la porte de Valcour ; un nègre parait , elle lui dit :)</stage>
+                  <p>
+                     Je demande monsieur de Valcour. 
+                  </p>
+                  <stage>( Le nègre rentre, elle redescend. )</stage>
+               </sp>
+            </div>
+            
+            
+
+            <div type="scene" n="13">
+               <head>SCENE XIII.</head>
+               <stage>Mistriss GEFFERSON , VALCOUR sort de
+                  chez lui.</stage>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, venant à elle d'un air embarrassé et agité.</speaker>
+                  <p>AH! mistris, que je suis confus de la peine que
+                     vous prenez ! ....</p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker> Mistriss GEFFERSON, gravement.</speaker>
+                  <p>On m'a dit , monsieur , que vous renonciez à la
+                     main de ma fille , pour la céder à Belton ; j'ai voulu
+                     savoir de vous-même si c'était la vérité.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, faisant effort pour cacher les mouvemens qui l'agitent , dit enfin avec peine :</speaker>
+                  <p>Oui , madame.</p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, avec dépit, mais toujours gravement.</speaker>
+                  <p>
+                     Peut- on apprendre les motifs qui vous font mépriser
+                     notre alliance après l'avoir recherchée ?
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, vivement.</speaker>
+                  <p>
+                     Moila mépriser ! ... Oh ! ma chère mistriss , nevoyez ,
+                     je vous prie, rien d'offensant pour vous dans un procédé que la délicatesse et l'honneur m'ont prescrit.
+                     Instruit que l'aimable Charlotte me préfère Belton ,
+                     j'ai cru ne devoir pas abuser de votre autorité pour
+                     contraindre son coeur ; mais j'ai imaginé un moyen
+                     de conciliation . Comme , malgré sa beauté , c'était
+                     moins un amour décidé pour elle , que le desir de m'allier
+                     à votre famille , qui me la faisait rechercher ; comme
+                     d'ailleurs , sa sœur cadette , miss Henriette ne lui est
+                     pas inférieure en attraits et en qualités estimables , j'ai
+                     pensé que je pourrais accorder ma satisfaction avec la
+                     justice , en vous demandant la permission de lui reportermon hommage. L'alliance qui fait l'objet de mes
+                     vœux aura lieu tout de même , et vos deux demoiselles
+                     seront pourvues - à- la fois .
+                  </p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, lui tendant la main qu'il baise.</speaker>
+                  <p>Cette explication raisonnable me raccommode avec
+                     vous ; venez donc , je vais vous présenter à miss Henriette , et je ferai agréer à mon fils les motifs de ce
+                     changement. 
+                  </p>
+                  <stage>( Elle rentre chez elle avec Valcour. )</stage>
+               </sp>
+
+            </div>
+            
+            <div type="scene" n="14">
+               <head> SCENE XIV.</head>
+               <stage> STRAFFORD , BELTON revenant de dehors</stage>
+               
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON, avec humeur.</speaker>
+                  <p>ENCORE un obstacle , et une affaire de manquée !</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Oh oui ! la première commis il a dit pour moi que
+                     le brévet il être expédié depuis eine heure seulement.</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON.</speaker>
+                  <p>               
+                     Si du moins il avait voulu nous dire à qui .... en
+                     faisant des démarches et des sacrifices , peut-être ....
+                     mais il s'est obstiné à nous le cacher.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Il faut aller lire toutes les papiers publics , et là
+                     sûrement , nous va apprendre bientôt ...
+                  </p>
+               </sp>
+            </div>
+               
+
+
+               <div type="scene" n="15">
+                  <head>SCÈNE XV.</head>
+                  <stage> LES MEMES , FIJEAC sort de chez Valcour avec
+                     un paquet de papier,</stage>
+                  
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , vivement à eux.</speaker>
+                     <p>AH sandis , messieurs , pourriez- bous mé donner
+                        des noubelles dé mossu dé Balcour,
+                     </p>
+                  </sp>
+                  <sp who="BELTON" xml:lang="met-fr">
+                     <speaker>BELTON, froidement.</speaker>
+                     <p>Nous ne l'avons pas vu.</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Où diavlé s'amuse-t-i donc à la vagatelle , tandis
+                        qué lé ministre i ne s'occupe qué dé lui , et qué
+                        boilà un paquet dé la plus grande conséquence qu'il
+                        bient dé lui expédier.
+                     </p>
+                  </sp>
+                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <speaker>STRAFFORD, avec intérest.</speaker>
+                     <p>Cet paquet , dites- vous , ils viendre du ministre?</p>
+                     
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>Eh cadédis dé lui-même ... et boilà vien le timbre :
+                        ministère dé la marine.
+                     </p>
+                  </sp>
+                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <speaker>STRAFFORD, bas à Belton qu'il pousse.</speaker>
+                     <p>Belton , ministère de la marine ! .... </p>
+                     <stage>( A Fijeac )</stage>
+                     <p>Eh I devine-vous bien-à-peuprès ce qu'il peut être là ?</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Sandis , il est sûrément lé vrébet d'un emploi majur
+                        qué mossu dé Balcour il a sollicité ; et , comme lé
+                        ministre il n'a rien à réfuser à son mérite trascendant , il lé lui a accordé suvitément,
+                        
+                     </p>
+                     
+                  </sp>
+                  <sp who="BELTON" xml:lang="met-fr">
+                     <speaker>BELTON, à Fijeac,</speaker>
+                     <p>Et encore, vous doutez-vous quel est cet emploi ?</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , d'un ton de prétention ridicule.</speaker>
+                     <p>Eh donc il est simplément lé sécrétariat dé la marine , rien qué ça.</p>
+                  </sp>
+                  <sp who="BELTON" xml:lang="met-fr">
+                     <speaker>BELTON, s'écrie à part avec douleur.</speaker>
+                     <p>Oh ciel ! je suis perdu !</p>
+                     
+                  </sp>
+                  
+                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <speaker>STRAFFORD, bas à Belton.</speaker>
+                     <p>Au contraire , tu es sauvé ; je répondre pour toi
+                        de la place ; cours bien vite retrouver l'ami qu'il devait
+                        solliciter pour toi , dire lui qu'il demande à st'heure
+                        et j'assure à toi qu'il va avoir.</p>
+                     
+                  </sp>
+                  <sp who="BELTON" xml:lang="met-fr">
+                     <speaker>BELTON, bas.</speaker>
+                     <p>Cela est impossible , puisque Valcour l'à .</p>
+                     
+                  </sp>
+                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <speaker>STRAFFORD, bas.</speaker>
+                     <p>Il pouvait pas avoir lui,</p>
+                     
+                  </sp>
+                  <sp who="BELTON" xml:lang="met-fr">
+                     <speaker>BELTON, bas.</speaker>
+                     <p>Mais ...</p>
+                     
+                  </sp>
+                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <speaker>STRAFFORD, bas , et le poussant.</speaker>
+                     <p>Non , pas de mais ; parte tout de suite ; je répondre
+                        de tout.... aller vite. </p>
+                     <stage>( Belton sort. )</stage>
+                     
+                  </sp>
+               </div>
+                  
+ 
+                  <div type="scene" n="16">
+                     <head>SCENE XVI.</head>
+                     <stage>STRAFFORD , FIJEAC.</stage>
+                     
+                     <sp who="STRAFFORD" xml:lang="fra-ang">
+                        <speaker>STRAFFORD, allant à la table écrire.</speaker>
+                        <p>MON ami, quand vous va remettre cet paquet à monsieur Valcour, je prier vous pour lui donner aussi ein
+                           billet que j'écrire là</p>
+                     </sp>
+                     
+                     <sp who="FIJEAC" xml:lang="fra-gsc">
+                        <speaker>FIJEAC.</speaker>
+                        <p>
+                           Bolontiers , mossu , jé bous férai cé pétit plaisir.
+                        </p>
+                        <stage>(Apart part ,, pendant que Strafford écrit . )</stage>
+                        <p>
+                           Si je croyais qu'il fût chez mistriss , j'y bolérais
+                           pour lui donner plus bîte la satisfaction dé cette vonne noubelle ; ... mais s'il n'y est pas , il peut rébénir tandis
+                           qué j'y sérai moi , et jé né beux pas lé manquer: il
+                           baut mieux lé guetter ici d'arrache-pied.
+                        </p>
+                     </sp>
+                     <sp who="STRAFFORD" xml:lang="fra-ang">
+                        <speaker>STRAFFORD, se lève , et lui donne le billet qu'il a
+                           cacheté avec un pain.</speaker>
+                        <p>Tenez , et gardez bien de l'oublier : il être fort intéressant encore.</p>
+                        <stage>( Il rentre chez lui. )</stage>
+                     </sp>
+                     
+                  </div>
+            
+
+                     
+            
+            <div type="scene" n="17">
+               <head>SCENE XVII.</head>
+
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, seul.</speaker>
+                  <p>
+                     SANDIS! quel grand intérêt y peut-il y avoir dans
+                     un petit chiffon pareil? i n'est sûrement pas un autre
+                     vrébet ... Ah ! peut-être quelqu'affaire abantageuse qu'il
+                     lui annonce.... ( Il regarde le billet. Il est vien cachété Naturellément , ié né suis pas curieux ; mais
+                     jé n'aime pas qu'on mé fasse dé mistère .... Si cế
+                     n'était la discrétion , pourtant , jé saurais vientôt tout
+                     lé sécret : car lé pétit pain il est encore tour frais , et
+                     jé pourrais facilément lé souléber ... Jé fais réflession
+                     qué lé mossu il abait une singulière mine en écribant cé
+                     poulet ; qu'il abait même chuchotté tout vas abec
+                     l'autre qu'il est parti ! Qué diavle cé pourrait- il
+                     être ?... </p>
+                  <stage>( I retourne le billet en tous sens et l'entr'ouvre un peu. )</stage> 
+                  <p>Il est trop vien fermé ; jé n'y bois rien ...
+                     Ehsandis, i n'en coûte pas dabantage dé sé contenter ; jé
+                     lé réfermérai toujours vien.
+                     </p>
+                  <stage>( Ill'ouvre. )</stage>
+                  <p>Ah ! cadédis ,
+                     je suis pris ; boila mon maître. ( Il se retourne pour
+                     refermer le billet.
+                  </p>
+               </sp>
+            </div>
+               
+               <div type="scene" n="18">
+                  <head>SCENE XVIII.</head>
+                  <stage>FIJEAC  VALCOUR sort de chez mistriss , d'un air content.</stage>
+                  
+                  
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, à lui-même.</speaker>
+                     <p>
+                        ENFIN , c'est arrangé ; la mère est satisfaite , et
+                        je serai du moins tranquille de ce côté-là avec ce monsieur Strafford.
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , allant à lui.</speaker>
+                     <p>
+                        Mossu , je suis enchanté de bous boir en si velle
+                        humeur, et jé bais encore l'augmenter. Tandis qué
+                        bous étiez chez la veauté , la fortune et la gloire y
+                        sont benues bous chercher ici, Boilà un paquet dé
+                        la part du ministre.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, vivement.</speaker>
+                     <p>Ah! donne. </p>
+                        <stage>( Ille décachette et le parcourt , pendant
+                        que Fijeac, en se retournant , achève de bien refermer le
+                        billet. )</stage>
+                        <stage>( Avec joie. )</stage>
+                     <p> Dieu soit loué ! voilà que tout commence à me réussir à souhait .</p>
+                     <stage>( Haut. )</stage>
+                     <p>Mon cher ami ,
+                        c'est le brévet du secrétariat que j'avais demandé , et
+                        je vais le porter sur- le- champ à mistriss Gefferson pour son fils.
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC, l'arrestant.</speaker>
+                     <p>
+                        Un petit moment , mossu ; une vonne noubelle i né
+                        bient jamais sule. J'ai encore ici un autre villet à bous
+                        remettre , qué l'on dit trés-intéressant.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR , vivement.</speaker>
+                     <p>Du ministre aussi ?</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Non-pas , i né bient pas dé la même main. Lé boici, 
+                     </p>
+                     <stage>( Il lui donne en appuyant encore la main sur le cachet. )</stage>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, avec une forte émotion en voyant l'adresse..</speaker>
+                     <p>C'est de l'écriture de Strafford ! .... </p>
+                     <stage>( Il s'éloigne un peu, l'ouvre vite et lit bas ; puis il s'écrie. )</stage> 
+                     <p>Ciel ! .... Il se jette dans unfauteuil et laisse tomber le billet. )</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC, à part.</speaker>
+                     <p>
+                        Eh quel diavle d'intérêt qu'il a donc mis dans cé
+                        villet dé quatre lignes ! .... ( Il voit que Valcour reste
+                        anéanti : il ramasse le billet avec précaution , le tirant
+                        d'abord avce le pied , et lit à demi-voix. )
+                        « Bous faire toujours soubenir moi que bous il
+                        » être vivant ; bous abez ovtenu un emploi que mon
+                        » ami Velton sollicitait. Soubenez-bous donc bous-
+                        » même qu'il ne poubait pas être accordé à un homme
+                        » qu'il être mort ».
+                        Quel peste de varvouillage ! et qué céla i beut- ti dire.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, revenant un peu à lui.</speaker>
+                     <p>O Dieu qu'elle situation terrible ! ....</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Eh ! quest-ce donc ça , mossu , qui dit qué bous
+                        êtes mort.... et qué bous en faites vien aussi lé
+                        semblant bous-même.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, se relevant furieux.</speaker>
+                     <p>
+                        Oui , mon ami , je le suis, et c'est Strafford qui
+                        m'a tué,
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC, étourdi.</speaker>
+                     <p>
+                        Allons , boilà vien une autre histoire à cette hure!
+                        Est- cé qué les gens qui sont tués i marchent et parlent
+                        comme bous faites ? 
+                        </p>
+                     <stage>(Apart, avec une réflexion presque comique. )</stage> 
+                     <p>Ah! sandis , jé m'abise moi .... c'est qué
+                        peut- être il y a dé la poudre empoisonnée dans cé maudit
+                        villet , et qu'il a trouvlé la cervelle dé mon paubre
+                        maître ! .... Miséricorde ! qué jé lé jette bîte , qué
+                        jé sens déjà ma téte qui sé détraque aussi ! 
+                        
+                     </p>
+                     <stage>( Il rejette le billet. )</stage>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR‚ à lui-même, avec une réflexionforte et douloureuse.</speaker>
+                     <p>
+                        Céderai-je encore cette fois .... et dois-je en effet me
+                        regarder comme mort pour lui ?
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Eh ! mais non , mossu ; ié bous garantis tout aussi
+                        bibant qué moi ..... et botre bisage i promet encore dé
+                        la santé pour plus d'un demi-siècle.
+                        Laisse-moi. Je te dis que Strafford m'a tué.
+                        
+                     </p>
+                     
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR , s'égarant encore.</speaker>
+                     <p>
+                        Céderai-je encore cette fois .... et dois-je en effet me
+                        regarder comme mort pour lui ?
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , avec impatience.</speaker>
+                     <p>
+                        Mais cadédis , bous me feriez débénir fou .... sinon
+                        qué bous l'abez rêbé ..... Dé quelle maniére donc qu'il
+                        hous aurait tué , puisqué vous mé le dites ? ...
+                        
+                        
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, avec une fureur concentrée.</speaker>
+                     <p>
+                        Je l'ai provoqué au combat.....
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>Eh vien , lé comvat i n'a pas été murtrier ; car , Dieu
+                        merch, bous n'êtes vlessés ni l'un ni l'autre.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR , lui serrant le bras fortement.</speaker>
+                     <p>Si fait ;je suis mort.</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , criant et secouant son bras.</speaker>
+                     <p>
+                        Oh! non , dé par tous les diavles ! Jé lé sens vien , et
+                        jé bous en réponds..... , Mais expliquez-moi donc ce
+                        logogrife , je bous en prie.
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, d'un ton farouche et vivement.</speaker>
+                     <p>
+                        Sous prétexte qu'il était plus fort que moi aux armes , il m'a proposé de tirer au sort à qui aurait le pistolet pour tuer l'autre. Dans ma fureur , je l'ai accepté.
+                        Nous avons joué aux dez ; il a gagné le pistolet , et ma
+                        vie est maintenant à sa disposition.
+                     </p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , s'écriant.</speaker>
+                     <p>
+                        Ah! Satanas ! quel diavle dé jeu enragé qué bous abez
+                        joué-là ! ... Mais , mon cher maître , je pense une chose ,
+                        iéquel est-ce qui a fourni les dez ?
+                        
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR</speaker>
+                     <p>C'est Strafford.</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC , s'écriant comiquement.</speaker>
+                     <p>Eh vien , mossu , iz étaient pipés.</p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR.</speaker>
+                     <p>Oh ! c'est un homme d'honneur ; il est incapable de
+                        cette infamie.</p>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>Eh, sandis ! on a fait cette fripponnérie à des parties
+                        de bien moins de conséquence.</p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR, après une réflexion , à lui-même.</speaker>
+                     <p>
+                        Oui , je le dois à mon honneur ; je lui cède encore
+                        cette fois. Je vais renvoyer le brévet avec mon désistement..... </p>
+                     <stage>( Avec force et colère concentrée. )</stage> 
+                     <p>Mais c'est bien le dernier sacrifice que je lui ferai.</p>
+                        <stage>( Brusquement à Fijeac. )</stage>
+                       <p> Va dire à Strafford qu'il sera satisfait, </p>
+                        <stage>( Il ramasse le billet , et retourne chez lui. )</stage>
+                  </sp>
+                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <speaker>FIJEAC.</speaker>
+                     <p>
+                        Il suffit , mossu..... </p>
+                     <stage>(Par réflexion , il court à lui. )</stage>
+                     <p>/
+                        Eh , dites-moi donc encore , est- cé-ti au plus haut point
+                        qué bous abez joué ?
+                     </p>
+                  </sp>
+                  <sp who="VALCOUR" xml:lang="met-fr">
+                     <speaker>VALCOUR , déjà sur sa porte.</speaker>
+                     <p>Oui , et il a amené 18. </p>
+                     <stage>( Il rentre chez lui. )</stage>
+                  </sp>
+                  
+
+               </div>
+               
+               
+               
+            
+            <div type="scene" n="19">
+               <head>SCENE XIX.</head>
+
+               
+               
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , seul , s'écriant vivement.</speaker>
+                  <p>
+                     18! raffle dé six ! .... Quand jé lé disais ... Certes,
+                     jé lé gagérais qué cé mossu l'Anglais il est un escamoteur , et qué ses dez i né sont pas dé von alloi ...
+                     Comment diavle m'y prendrai-je-ti pour bérifier lé
+                     fait ? Il rêve. ) Raffle dé six ah ! sandis , il est von
+                     comme ça ! Jé lé tiens , et jé bas rétirer l'enjeu dé mon
+                     paubre maître , et lé ressusciter....... Il faut qué jé lé
+                     défie à mon tour..... Mais déssous quel préteste ? I ne
+                     boudra pas sé mésurer abec un domestique. </p>
+                  <stage>( Il rêve encore. )</stage> 
+                  <p>Oh! j'y suis . Pour lé coup , il né pourra pas s'en
+                     défendre. J'ai fort hurusément aussi des dez dessus
+                     moi. </p>
+                     <stage>( Il les tire de sa poche , et les roule sur la table. )</stage>
+                  <p>Ils
+                     sont braves ; mais j'ai remarqué qu'ils tournent plus
+                     bolontiers , au petits points , et jé bais lé prendre par lé
+                     moyen des conditions qué jé bas écrire là d'abance.</p>
+                  <stage>(IL dit en écrivant )</stage> 
+                  <p>« Lé plus vas point il aura lé pistolet »...
+                     Ah! mossu dé la raffle dé six , j'espére qué bous allez y
+                     être pris dé cette fois. </p>
+                     <stage>( Il écrit encore un peu; puis il ploie le papier, et vafrapper à la porte de Strafford. )</stage>
+               </sp>
+
+            </div>
+            
+            
+            
+            
+            
+            <div type="scene" n="20">
+               <head>SCENE XX.</head>
+               <stage>FIJEAC , STRAFORD sort de chez lui.</stage>
+               
+               
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, d'un ton important.</speaker>
+                  <p>
+                     Mossu, j'ai remis bostre villet à monsieur dé Balcour,
+                     il la lu attentibément , et il m'a prié dé bous dire qué
+                     bous seriez satisfait , et qu'il allait renboyer le vrébet.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Très-bien , je suis content. Adieu , mon garçon.
+                     
+                  </p>
+                  <stage>(Il va pour rentrer chez lui. )</stage>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, l'arrête.</speaker>
+                  <p>
+                     Adieu , mon garçon ! .... Ah ! si bous êtes content
+                     dé mossu dé Balcour , moi jé né lé suis pas dé bous ...
+                     Quest-cé qué c'est qué des garçons ! .....
+                     un terme dé mépris céla ! .... Déjà tantôt qué bous
+                     il est
+                     abez pris cette familiarité abec moi ; j'abais cette insulte
+                     sur le cur ! .... et maintenant jé bous démande raison
+                     dé la récidibe.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Eh ! qu'est-ce que vous il demande moi ? est- ce que
+                     vous n'être pas valet de Valcour ?
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, jouant la colère de l'orgueil.</speaker>
+                  <p>
+                     Qu'appellez-bous , balet ! ... sandis , apprénez qué jé
+                     suis le goubernur et l'ami de mossu dé Balcour ; qué la
+                     race des Fijeac dé Craquignac dont cé qué j'ai l'honnur
+                     d'en être issu, est une des plus anciennes et des plus novles
+                     dé la Garonne , et que je suis gentilzhomme en droite
+                     ligne , et dé père en fils , jusqu'à la dernière génération.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, bonnement.</speaker>
+                  <p>Excuse-moi donc , je connaissais pas encore votre noblesse.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     Eh donc , jé bous la déclare et bous la manifeste ...
+                     et maintenant qué bous la connaissez tout aussi vien
+                     que moi , vous debez croire qu'un novle dé ma trempe
+                     i né sé contente pas abec des excuses bervales.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Qu'est-ce que vous il exigeait donc de plis encore ?</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, faisant de l'embarras.</speaker>
+                  <p>            
+                     J'esige , monsieur , qué la pointe dé la lame il en découse par une et deux .... 
+                     </p>
+                  <stage>(Il fait le geste de tirer une botte. )</stage> 
+                  <p>Ou qué lé canon du pistolet il emporte abec une
+                     valle la trace dé l'insulte dont cé qué bous m'abez déshonoré..... En un mot , jé vous défje.... Et , comme
+                     je suis tout aussi vrabe qué monsieur de Balcour, jé
+                     bous joue lé même jeu qué lui.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Comment , monsieur le gouverneur , vous vouloir
+                     forcer moi pour tuer vous aussi.
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     Oh ! jé dis , mé tuer ! .... I n'est pas encore décidé
+                     comme quoi que la chance y tournéra…….. Mais , à tout
+                     hasard , jé beux bous prouber qué la bie i né m'est rien
+                     qu'un fétu au régard de l'éclat dé ma réputation et dé
+                     ma novlesse.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Eh bien , monsieur , puisque vous voulez , il faut
+                     contenter pour vous. Je reviendre toute suite. 
+                  </p>
+                  <stage>(Il rentre  chez lui. )</stage>
+               </sp>
+            </div>
+            
+
+            
+            
+            
+            
+            
+            
+            <div type="scene" n="21">
+               <head>SCENE XXI.</head>
+               
+               
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , seul.</speaker>
+                  <p>
+                     ALLONS , cadédis , le sort il est jeté , Jé né beux
+                     faire aucun mal à ce homme ; mais jé beux lui rayattre son orgueil , et délibrer mon paubre maître des
+                     griffes dé son pistolet.
+                  </p>
+               </sp>
+
+            </div>
+            
+            
+            
+            
+            
+            <div type="scene" n="22">
+               <head>SCÈNE XXII.</head>
+               <stage>
+                  FIJEAC , STRAFFORD revient avec , le pistolet
+                  les dez , les cartes et la bourse de guinées ; il met le
+                  tout sur la table.
+               </stage>
+               
+               
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>ALLONS , choisir vous , monsieur gentilhomme la Garonne.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC</speaker>
+                  <p>
+                     Jé bous ai dit qué jé suis aussi hasardeux qué monsieur dé Balcour, et jé m'en tiens aux dez comme lui. </p>
+                     <stage>(Il regarde la bourse pleine de guinées. )</stage> 
+                  <p>Qu'est-cé qué
+                     c'est-ti qué cette vourse , où cé qué jé bois dé l'or dédans ? Est- elle dé la partie ?
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD. </speaker>
+                  <p>Non, monsieur ; il est des guinées pour prendre dedans chacune , au cas que vous voulez jouer pair ou non.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     Oh bien , non ; comme ié bous ai dit , jé mé fisque
+                     sur les dez..... Et il est d'autant plus commode , qué
+                     bous abez les bôtres , et moi j'ai les miens ; chacun í sé
+                     serbira dé ses propres armes.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>
+                     Tout comme il plaira à vous. Tirer , monsieur ; je
+                     cède la primauté. 
+                  </p>
+                  <stage>( Îl lui donne le cornet. )</stage>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     Bon ! j'accette la politesse ..... Boilà un papier qué
+                     jé bous rémets , où cé qué les conditions dé notre comvat i sont expliquées.... Mais bous né lé lirez qu'après lé tirage.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Soit ; je consentais encore tout de même. Roulez , monsieur.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , mettant ses dez dans le cornet,</speaker>
+                  <p>Lé pistolet il est-i vien chargé ?</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD.</speaker>
+                  <p>Trois balles dedans , et double amorce.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, remuant les dez dans le cornet.</speaker>
+                  <p>
+                     Sandis il est un joli passeport pour lé perdant, "
+                  </p>
+                     <stage>( Il jette les dez. )</stage> 
+                  <p>comptez , mossu , boilà  jouez
+                     à présent abec les bôtres , et laissez les miens sur la
+                     tavle , pour serbir dé témoins.</p>
+                  <stage>( Il lui donne le cornet. )</stage>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , mettant ses dez dedans.</speaker>
+                  <p>
+                     Très-volontiers. Ils témoignent que vous n'avez pas
+                     beau jeu ; et même , j'acquitte vous encore , si vous voulez.
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, triomphant.</speaker>
+                  <p>
+                     Oh! nenni pas , sandis ! je l'ai plus veau qué bous
+                     pensez.. Jouez toujours , et lé papier après i bous
+                     dira le reste , mossu dé la raffle dé six ....
+                     né ....
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, remuant le cornet.</speaker>
+                  <p>
+                     Pourquoi pas ? toutes les points , il être dans le jeu....
+                     Tenez , monsieur. 
+                  </p>
+                  <stage>( H jette les dez. )</stage>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, regarde , et s'écrie au désespoir.</speaker>
+                  <p>
+                     Trois as ! ... ahlé magicien d'homme ..
+                     sorcier abec ses raffles 1
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, tranquillement.</speaker>
+                  <p>
+                     il est Certes , j'avais perdu avec ein belle espérance ! ..
+                     Voyons donc la papier. 
+                  </p>
+                  <stage>( Il le prend et l'ouvre. )</stage>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, frappant des pieds et des mains .</speaker>
+                  <p>Oui, perdu 1. ... Faut-i pas qué lé diavle i s'en mêle .</p>
+               </sp>
+               
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, lit haut</speaker>
+                  <p>
+                     « Le plus bas point il aura le pistolet » . Oh ! gaddem !
+                     il être bien différent à st'heure ; il m'appartient donc.....
+                     </p>
+                  <stage>(Il le prend. )</stage>
+                  <p>Eh bien , monsieur la noble jusqu'à dernière génération !. vous il y être arrivé toute suite ,
+                     et voilà votre noblesse il être éteint tout-à-l'heure. Allons,
+                     dépêcher nous. être-vous prête ? Il lui présente le
+                     pistolet.
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, recule effrayé , en s'écriant</speaker>
+                  <p>
+                     Eh ! non , eh ! non ; pas encore .... Sandis ! bous êtes
+                     donc plus pressé abec moi qu'abec mossu dé Balcour ?...
+                     Lisez cé qué j'ai ajouté au vas,
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , lit haut.</speaker>
+                  <p>
+                     « Le perdant sera à la disposition du vainqueur ; mais
+                     il aura vingt-quatre heures pour mettre ordre à
+                     affaires ».
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, vivement.</speaker>
+                  <p>
+                     Oui , mossu , c'est-là ma condition espresse , et sine
+                     quâ non ; et jé bous réponds qué jé profitérai vien du terme dé répit.
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, ramassant toutes ses affaires qu'il met tranquillement dans ses poches.</speaker>
+                  <p>
+                     C'est bien , monsieur , je donnais à vous les vingtquatre heures ; mais après manquer pas vous pour revenir , et les trois balles qu'il être ici , </p>
+                  <stage>( Montrant le pistolet. )</stage>
+                  <p> i va changer place , et moi loger là-dedans la tête d'un gentilhomme.... Pon adieu la génération... Hondyedouser.... </p>
+                     <stage>( A part. )</stage>
+                     <p>A st'heure je m'en vais faire mon visite pour ma chère miss Henriette. </p>
+                  <stage>( Il va chez mistriss Gefferson , et, quand il est à lala porte , il se retourne , montre le pistolet à Fijeac, en lui disant. )</stage> 
+                  <p>Poun ! ...</p>
+                     <stage>( Il rentre. )</stage>
+               </sp>
+            </div>
+
+            
+            
+            <div type="scene" n="23">
+               <head>SCENE XXIII.</head>
+               
+               
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , seul.</speaker>
+                  <p>Οui , poun !... compte là-dessus.... Sandis ! jé né
+                     té laissérai pas lé tems dedé faire cé beau pon-là ..... et jé
+                     t'en réponds.... </p>
+                  <stage>( Il se jette dans le fauteuil. )</stage> 
+                  <p>Ah ! la malhuruse inbention que j'ai eue-là </p>
+               </sp>
+
+            </div>
+            
+            
+            
+            
+            
+            
+            <div type="scene" n="24">
+               <head>SCENE, XXIV.</head>
+               <stage>FIJEAC, dans le fauteuil VALCOUR,
+                  sort de chez lui avec un papier à la main.
+               </stage>
+               
+               
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, dès sa porté.</speaker>
+                  <p>
+                     TIENS , va porter cela au bureau de la marine.
+                     </p>
+                  <stage>( Fijeac ne répond pas. Il avance à lui . )</stage> 
+                  <p>Eh bien ! que fais-tu donc là ? </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , piteusement , sans bouger.</speaker>
+                  <p>Hélas ! mossu , je suis mort.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Comment mort ! ...</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , sans se lever.</speaker>
+                  <p>
+                     Oui , mossu , ni plus ni moins qué bous . Bostre diavle
+                     d'Anglais , il est un magicien qu'il a toutes les raffles à
+                     son commandement.
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>Je ne te comprends pas.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , toujours assis:</speaker>
+                  <p>
+                     Ni moi non plus ; car ça béritablement, i mé passe ! ..
+                     Imaginez-bous , mon cher maître , qué pour bous délibrer du maudit pistolet , j'ai cherché à lé régagner à cet
+                     homme , qu'il est vien , jé crois , possédé.... Mais , pour
+                     lé surprendre , j'abais espécifié dans un écrit qué lé plus
+                     vas point i gagnerait.... et j'avais des dez qué jé pensais
+                     vien dé pouboir m'y fier déssus..... Effettibément , j'amène quatre, et jé croyais déjà vien ma bie et la bostre en
+                     sûreté... lorsqué cé diavle dé sorcier il jette les siens ,
+                     et i m'emporte lé pistolet par une raffle d'as....
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>
+                     Eh bien , mon ami ! mon brave Fijeać ! je te remercie
+                     de ce beau trait de dévouement pour moi......... Mais à
+                     présent il faut te résigner comme j'ai fait.
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , se relevant vivement , s'écie.</speaker>
+                  <p>
+                     Non , cadédis ! qué jé né mé résigne pas ! ... Hurusément que j'abais eu la sage précaution d'espécifier aussi 
+                     bingt- quatre hures dé répit entre la sentence et l'exécution , et j'en vas profiter pour mé mettre déhors dé la portée dé son maudit pistolet carabiné..... Il y a justément en rade un nabire qui doit partir cette nuit à la marée montante , et jé bas mé serbir dé l'occasion,
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR,</speaker>
+                  <p>Comment ! tu veux t'en aller ?.</p>
+               </sp>
+               
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     Oui , certes , qué jé lé beux. J'aime mieux faire un
+                     pétit boyage qu'un grand . et jé bous inbite trèsfort à faire de même ..... sinon , ayez pour agréavle ,
+                     mon cher maître , qué ié vous prie dé bous ressoubénir
+                     des pétits gages qué bous me rédébez , et dé bouloir vien
+                     mé les solder , pour qué jé puisse mé payer mon passage.
+                  </p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR.</speaker>
+                  <p>            
+                     Cela est juste. Quand tu auras porté ce paquet-là , je
+                     te ferai ton compte , et je te donnerai en outre des témoignages de ma reconnaissance.
+                  </p>
+               </sp>
+            </div>
+            
+
+
+            
+            <div type="scene" n="25">
+               <head>SCENE XXV.</head>
+               <stage>
+                  LES MÊMES , STRAFFORD sort en
+                  colère de chez mistriss Gefferson.
+               </stage>
+               
+               
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , à lui- même , sans les voir.</speaker>
+                  <p>
+                     OH! pour celle- là , il va être trop fort , assurément !...
+                     Il vouloir prendre à présent mon maîtresse ! ..... Oh !
+                     nous va voir ! ……. 
+                     </p>
+                  <stage>( Il avance , et voit Valcour et Fijeas.
+                     Il tire son pistolet. A Valcour, )</stage>
+                  <p>Ah ! vous voilà ! ...
+                     Eh bien , monsieur , être vous prêt cette fois ?
+                     VALCOUR, d'un ton brusque et ferme.
+                     Oui , monsieur , débarrassez-moi.
+                  </p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , tremblant.</speaker>
+                  <p>Eh ! mossu , soubenez-bous donc qué j'ai bingt-quatre hures.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , avec un gestefort et de mépris.</speaker>
+                  <p>Décamper toi , lâche.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC , partant vite.</speaker>
+                  <p>I n'y a pas de lâcheté , mossu ; j'osserbe les conditions. </p>
+                  <stage>( Il rentre chez Valcour. )</stage>
+               </sp>
+
+            </div>
+            
+            <div type="scene" n="26">
+               <head>SCENE XXVI.</head>
+               <stage>VALCOUR, STRAFEORD.</stage>
+               
+               
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, avec flegme , mais dépit.</speaker>
+                  <p>ECOUTE-MOI ,, vous VO , brave monsieur Valcour , er juger
+                     vous-même. Suivant notre convention aussi , vous il être
+                     bien mort avec moi ... Je devais croire du moins ...
+                     Pourtant mistriss Gefferson , à st'heure , il viendre dire
+                     pour moi que vous il demandait pour mariage miss Henriette , son fille , que j'aimais moi depuis long-tems , et
+                     qu'il allait donner pour vous .... Ainsi vous voir que je trouve toujours vous par-tout pour faire enrager moi
+                     dans mes affaires , dans mes amis et dans mon maîtresse
+                     même ; et comme ça il ne pouvait pas rester plus longtems , décider vous ; voilà encore un article que vous il
+                     devait céder moi , la main de miss Henrietté,</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, outré,</speaker>
+                  <p>
+                     Oh! morbleu ! monsieur , c'est trop de sacrifices ! et
+                     j'aime mieux mourir unefois que d'être continuellement
+                     soumis à vos lois tyranniques .
+                     </p>
+                  <stage>( Plus fort encore. )</stage> 
+                  <p>Je ne
+                     veux plus rien vous céder. J'ai bravé la mort à laquelle
+                     j'ai bien voulu m'exposer, en vous provoquant; mais je
+                     n'ai pas voulu me rendre votre esclave. Tirez, monsieur.
+                  </p>
+                     <stage>( Il lui présente sa poitrine. )</stage>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, froidement.</speaker>
+                  <p>
+                     Vous avez du courage et de l'honneur , monsieur , je
+                     savais bien ; mais j'ai aussi , moi , et je voulais donner à
+                     vous ein revanche.
+                     </p>
+                  <stage>( Il tire son pistolet en l'air. )</stage>
+                  <p>
+                     Voilà la
+                     pistolet tiré ; je n'avais plis droit sur vous..... Mais voilà
+                     ein autre à st'heure ; nous va rejouer pour celle- là . Peutêtre vous il sera plis heureux ; et , si vous gagnez , vous
+                     délivre moitoute suite du chagrin de rencontrer toujours
+                     vous pour barrer moi.....
+                  </p>
+               </sp>
+            </div>
+            
+            
+            
+            <div type="scene" n="27">
+               <head>SCENE XXVII et dernière.</head>
+               <stage>
+                  Au bruit du pistolet tout le monde vient. )
+                  LES MÊMES ; mistriss GEFFERSON sort de chez
+                  elle , BELTON rentre de dehors , et FIJEAC
+                  sort de chez Valcour.
+               </stage>
+               
+               
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON.</speaker>
+                  <p>EH! mon Dieu ! qu'est-ce là ?</p>
+               </sp>
+               <sp who="BELTON" xml:lang="met-fr">
+                  <speaker>BELTON, courant à Strafford.</speaker>
+                  <p>Quest-ce que c'est , mon ami?</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, à Valcour.</speaker>
+                  <p>h sandis il est- ti tout dé bon cette fois ? ...</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, tranquillement.</speaker>
+                  <p>Il n'être rien encore , attendre ein instant , il va être fini. </p>
+                     <stage>( A Valcour. )</stage> 
+                  <p>Allons , monsieur , nous achever le partie.</p>
+               </sp>
+               <sp who="VALCOUR" xml:lang="met-fr">
+                  <speaker>VALCOUR, avec noblesse et sentiment.</speaker>
+                  <p>
+                     Non , monsieur , votre conduite loyale a terminé
+                     notre querelle ; vous ne m'avez pas vaincu par le
+                     courage , et vous me décidez par la générosité. Puisque
+                     vous êtes premier en date , la justice obtient de moi
+                     ce que jamais la violence n'aurait pu me faire céder.
+                     Messieurs , les deux demoiselles Gefferson vous préfèrent tous les deux ; soyez donc heureux ensemble
+                     tous les quatre. Voilà le brévet du secrétariat que je
+                     vous remets pour sir Henri , et pour servir de gage
+                     à votre double union ; je ne vous demande ainsi qu'à
+                     madame , que de me regarder dorénavant comme
+                     un ami sincère de toute votre famille..
+                  </p>
+               </sp>
+               <sp who="GEFFERSON" xml:lang="met-fr">
+                  <speaker>Mistriss GEFFERSON, avec affection.</speaker>
+                  <p> Vous le méritez , et nous nous en ferons tous honneur.</p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD , à Belton.</speaker>
+                  <p>
+                     Goddem! il faire rougir moi à st'heure ... mais j'admire et je remercie ... </p>
+                  <stage>( A Valcour avec enthousiasme. )</stage>
+                  <p> Embrasse pour moi , brave homme ! ....</p>
+                  <stage>( Il le serre dans ses bras. )</stage>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC, se coulant derrière Strafford et son maître.</speaker>
+                  <stage>( A Strafford, )</stage>
+                  <p>
+                      Dites zun peu , mossu ; en quittant
+                     lé pistolet abec mossu dé Balcour, l'abez bous aussi
+                     quitté dé déssus moi ?
+                  </p>
+               </sp>
+               <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <speaker>STRAFFORD, riant.</speaker>
+                  <p>Oui , oui , mon ami ; à st'heure , toi il pouvait rester vivant tout-à-fait.</p>
+               </sp>
+               <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <speaker>FIJEAC.</speaker>
+                  <p>
+                     A la vonne hure ; et je promets vien dé né plus
+                     réjouer dé partie si scavreuse !
+                  </p>
+                  <stage>AU PUBLIC.</stage>
+                  <p>
+                     Jé crois même qué si l'on aménait la mode dé cé
+                     duel là , il pourrait réténir et réfroidir vien des maubaises têtes !
+                  </p>
+               </sp>
+            </div>
+            
+         </div>
+      </body>
+
+  </text>
+</TEI>

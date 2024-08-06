@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <idno>CRE_HAT_004</idno>
+               <title type="main">Proclamation de Sonthonax</title>
+               <title type="collection">Moliyé</title>
+               <author>Léger-Félicité  Sonthonax</author>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="RDENT">
+                     <surname>Dent</surname>
+                     <forename>Rasul</forename>
+                     <idno type="orcid">0009-0004-1032-1745</idno>
+                  </persName>
+               </respStmt>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="JJANES">
+                     <surname>Janès</surname>
+                     <forename>Juliette</forename>
+                     <idno type="orcid">0000-0002-8971-6173</idno>
+                  </persName>
+               </respStmt>
+               <principal>
+                  <persName xml:id="BSAGOT">
+                     <surname>Sagot</surname>
+                     <forename>Benoît</forename>
+                     <idno type="orcid">0000-0001-8957-9503</idno>
+                  </persName>
+               </principal>
+               <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+               <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+               <date when="2024-05-30"/>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="PrintSource">
+                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
+                  <title>Proclamation à tous les Citoyens de la Colonie</title>
+                  <author>Léger-Félicité Sonthonax</author>
+                  <publisher></publisher>
+                  <date when="1796"/>
+               </bibl>
+               <bibl type="CorpusSource">
+                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
+                  <title>Proclamation à tous les Citoyens de la Colonie</title>
+                  <author>Léger-Félicité Sonthonax</author>
+                  <publisher>Groupe Européen de Recherches en Langues Créoles</publisher>
+                  <date when="2004"/>
+               </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="rcf">
+                  <idno type="langue">hat</idno>
+                  <idno type="script">Latin</idno>
+                  <name>Haitian Creole</name>
+               </language>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="supergenre" rend="fiction">Fiction</term>
+                  <term type="genre" rend="fiction-prose">Drama</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <revisionDesc>
+            <change when="2024-05-30" who="#RDENT">Génération du document</change>
+         </revisionDesc>
+      </teiHeader>
+  <text>
+      <body>
+         <head>
+            Au nom de la République Française.
+            Proclamation à tous les Citoyens de la Colonie.
+         </head>
+         <div type="part" n="0">
+            <p xml:lang="hat">Yo sorti verti nous que gagné monde méchand, zamis des anglais, monde qui pas voulé voir vous autes libre, qui cherché trompé vous, et faire craire que la République pas gagné encore l'intention de soutenir liberté vous-autes ; nous conné que ces monde malouc la, yo après parlé mal la sous compte commissaire, et que yo dis vous mensonge en pille la sus compte nous, nous conné que yo dis vous-autes que la République voyés nous ici pour mettés vous encore dans l'esclavage.</p>
+            <p xml:lang="hat">Citoyens, si vous voulés conné comme monde la yo menti, et si nous capable faire yon chose comme ci-la-la. Tandés-ça, l'assemblée nationale qui passé toute roi dans monde, dire ; ça li écrire, et ça li voulé. Li dire comme ça que li voulé que toute monde libre et égaux, li dire comme ça encore que li voulé ben que monde travail pour l'argent, mais que li pas voulé voir ni tandé absolument que monde vende corps yo, ni que l'aute monde capable achetté yo, parce que li di comme ça que monde qui conné parlé n'a pas chouval ni cochon pour vende corps yo tant comme dans yon marché.</p>
+            <p xml:lang="hat">Citoyens, et que vous-autes pas conné le décret de l'assemblée nationale, du 16 Pluviôse, qui commandé que vous autes toute libre, et que vous autes pas conné encore que l'assemblée nationale France di comme ça que li voulé que toutes les Isles françaises faire rien que yon avec grand pays la France, et que toute monde va libre là comme en France ; Citoyens, et que vous-autes pas tendé ça commissaire dis vous quand yo rivé icy, et que vous pas tandé proclamation la qui dire comme ça que n'a point l'esclave encore, et que la France envoyé commissaire ici exprès pour assurer vous-autes tout que vous libre, et qui faut que nous toute ensemble chassé z'anglais, qui icy qui pas voulé vous-autes libres ; et:que vou-autes pas voir toute navires la qui veni porté poudre, fusi avec canon, pour tuyé toutes anglais qui pas voulé vous-autes libre, et qui tiembé frères vous-autes dans l'esclavage, au Môle, à Saint-Marc, Port-au-Prince, et tout par tout ou ty gagné z'anglais. Si vous conné tout ça, comment vous-autes capable craire monde malouc qui veni dy vous que nous veni icy pour mettés vous dans l'esclavage.</p>
+            <p xml:lang="hat">Citoyens, coutés nous, vous-autes va conné qui chose qui va rassuré vous et qui va faire vous plaisir ; quand nous parti France, l'assemblée nationale avec le directoire qui passé toute roi (comme nous déjà di vous) metté papier dans main nous, papier la, c'est pour dire nous tout ça nous doit faire icy pour soutenir liberté vous-autes : papier la di comme ça que nous gagné pouvoir passé tout généraux et z'intendant roi (qui té voulés voir vous toujours l'esclave) té coutume voyé icy. Papier la recommandé nous que première chose nous doit faire icy, c'est d'assurer vous-autes tous les jours et tout par tout que vous libre, que n'a point l'esclave encore, que l'esclavage la caba yon fois, que toute monde noir, blanc ou rouge, tout égal, que n'a point yon qui passé l'aute, et que la République française jouré de maintenir la liberté, l'égalité parmi nous toute et que li va employer pour ça toutes ses forces.</p>
+            <p xml:lang="hat">Papier la recommandé nous de faire apprendre à lire et à écrire à tout les petits monde noir, rouge et blanc, afin que monde malouc pas capable trompé yo encore ; papier la recommandé nous de voyer quelques petits vous en France, pour y élevé yo parmi tout blanc France dans les principes de liberté et de l'égalité, et pour faire yo conné que tout monde libre doit travail, et que yo pas doit paresseux à cause yo libre.</p>
+            <p xml:lang="hat">Vous voir ben, citoyen, que si la France voulé tout ça et si papier la nous gagné commandé nous tout ça, vous pas doit craire que nous voulé faire vous tourner l'esclavage encore ; nous ordonné vous au nom de la République, que premier monde qui a veni faire vous compte encore, que nous voulé faire vous l'esclave ; vous n'a qu'à veni parlé nous et di nous qui monde qui di vous ça, vous va voir comment nous va traité monde malouc la yo, et comment nous va pini yo.</p>
+            <p xml:lang="hat">Citoyens, à v'là ça commissaire arrêté contre tous les malveuillans et tous les zamis des anglais qui va ozé di vous qui chose qui pas bon, pour dire ; en conséquence, a v'la ça les commissaires arrêté.</p>
+            <p xml:lang="hat">Comme nous conné que monde méchant après di vous tous les jours, tous les jours des mauvais mensonge, qui doit faire vous la peine, puisque yo dit comme ça que la République pas v'lé encore que frères nous les noirs yo libre, et que commissaire veni icy tout exprès pour tourné mette nos frères les noirs dans l'esclavage, et à rien que pour ça yon de nous tourné veni icy :</p>
+            <p xml:lang="hat">Comme nous voir que tout mensonge la, yo c'es pour ba vous défience et pour métté les citoyens en insurection, pour qui rivé grand malhor pour vous-autes ;</p>
+            <p xml:lang="hat">Comme nous voir que toute mensonge la, yo pas capable sorti dans l'aute bouche que mauvais monde qui pas capable vivre sans yo gagné l'esclave, et qui ta voudré bien faire tourné frères nous les cultivateurs dans l'esclavage.</p>
+            <p xml:lang="hat">Comme nous voir que la loi du 16 Pluviôse qui v'lé et qui commandé que monde noir, que monde blanc, monde jaune, yo va tout citoyen, tout égaux en droit, et que n'a point l'aute qui chose qui peut distingué yo que l'instruction, les talents et le mérite ; car ça ti sol capable faire monde rivé dans grand place la République bay, et que toute loi la France faire, v'lé toujours la liberté, la liberté et l'égalité, monde pas doit craire que li va jamais changé.</p>
+            <p xml:lang="hat">Comme nous counné encore que y en a monde malin qui cherché toutes les occasions de trompé nos frères les cultivateurs qui pas instruit, qui pas conné lire et écrire, et qui craire tout à cause yo bon et que monde malin la yo, cherché à caché malice yo en parlant toujours du bon Dieu, pour empêcher frères nous travail ; comme nous dois empêché tout méchant, tout monde qui malice, faire mal yo v'lé faire la commission, arrete et v'lé ça qui veni après.</p>
+         </div>
+         
+         <div type="part" n="1">
+            <head>ARTICLE PREMIER.</head>
+            <p xml:lang="hat">
+               Tout monde qui dans les marchés ou l'aute part va di comme ça que la liberté générale pas bon, et que la France v'lé l'esclavage encore, sera saisi et mêné coté juge de paix, et si deux monde di comme ça que yo tandé mauvais parole la, yo va metté en prison cila qui parlé mauvais parole.
+               Commissaire invité tous les bons citoyens a arreté yo même monde qui va laché mauvais parole.
+            </p>
+         </div>
+         
+         
+
+         <div type="part" n="2">
+            <head>II</head>
+            <p xml:lang="hat">Toute monde qui va, convaincu d'avoir laché mauvais parole nous sorti parlé, sera mis en prison pour trois, six et neuf mois, et joug la paix sera rétablie dans l'Isle.</p>
+         </div>
+         
+         
+       
+         <div type="part" n="3">
+            <head>III</head>
+            <p xml:lang="hat">Toute monde qui va condamné à la prison pour avoir laché mauvais parole, pas alé gagné aucun secours de personne du dehors ; quand li sera été nourri pendant yon mois tant comme, les autes prisonniers, yo va ba yo travail à faire pour li gagné l'argent nécessaire pour yo, ça va zaffaire à li si li pas travail, la République pas alé nourri li.</p>
+         </div>
+         
+
+
+         <div type="part" n="4">
+            <head>IV</head>
+            <p xml:lang="hat">Comme monde malfaisant qui capable di que nos frères les noirs pas bon pour libre, yo pas capable teni mauvais discours la yo sans yo haï la France et toute loi la yo, qui v'lé que toute monde libre et que nous conné que mauvais parole capable troublé l'amitié qui doit régner entre nous toute frères de toutes couleurs ; quand juge va assuré que yon monde aura lâché mauvais propos la, li sera déclaré indigne de servir la République et de porter des armes, et si le cas l'exige yo sera condamné aux peines que nous dis article III du présent arrêté.</p>
+         </div>
+
+
+
+         <div type="part" n="5">
+            <head>V</head>
+            <p xml:lang="hat">Comme nous tout conné que la constitution française a déclaré formellement que tout monde qui habite pays la France ou ses colonies sera libre ; monde qui dans pays cy, qui pour la France, sera convaincu d'avoir dit que yon monde capable l'esclave d'un l'aute monde, sera déclaré en rébellion contre la constitution, traître à la patrie et pini comme le plus grand coquin.</p>
+         </div>
+         
+
+
+         <div type="part" n="6">
+            <head>VI</head>
+            <p xml:lang="hat">Toute garçon ou fille qui alé di les autes mondes que bon Dieu inspiré yo afin de tromper frères nous qui pas gagné l'instruction, et qui va empêché yo travail avec mauvais conte yo, seront saisi et conduit en prison, et yo va rété la et traité comme nous té di à l'article III du présent arreté.</p>
+         </div>
+         
+
+         <div type="part" n="7">
+            <head>VII</head>
+            <p xml:lang="hat">Les commissaires v'lé et ordonné que tout ça yo sorti di icy soit affiché tout par tout dans les communes, dans les habitations, dans les camps de la Colonie. Commissaire recommendé à tous les officiers civils et militaires, et encore à tous les bons citoyens, que yo faire exécuté ça yo sorti recommende dans proclamation ci la la.</p>
+         </div>         
+
+         <div type="part" n="8">
+            <p xml:lang="hat">Au Cap, le 15 Prairial, l'An quatrième de la République Française, une et indivisible.</p>
+            <p xml:lang="hat">Le Président de la Commission</p>
+            <p xml:lang="hat">SONTHONAX</p>
+            <p xml:lang="hat">Le Secrétaire général</p>
+            <p xml:lang="hat">PASCAL.</p>
+         </div>         
+       
+      </body>
+  </text>
+</TEI>

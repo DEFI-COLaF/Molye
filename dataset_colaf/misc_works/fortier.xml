@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_LOU_007</idno>
+            <title type="main">Louisiana Folktales/</title>
+            <title type="collection">Molyé</title>
+            <author>Alcée Fortier</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://archive.org/details/b24865424/page/n11/mode/2up"/>
+               <title>Louisiana Folktales</title>
+               <author>Alćee Fortier</author>
+               <publisher> Published for the American Folk-lore Society, by Houghton, Mifflin and Company</publisher>
+               <date when="1895"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://github.com/JHU-CLSP/Kreyol-MT?tab=readme-ov-file"/>
+               <title>Louisiana Folktales</title>
+               <author>Alćee Fortier</author>
+               <publisher>Kreyòl-MT</publisher>
+               <date when="2024-05-01"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            
+            <language ident="lou">
+               <idno type="langue">lou</idno>
+               <idno type="script">Latin</idno>
+               <name>Louisiana Creole</name>
+            </language>
+            
+            <language ident="met-fr">
+               <idno type="langue">met-fr</idno>
+               <idno type="script">Latin</idno>
+               <name>French of Metropolitan France</name>
+            </language>
+            
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="fiction">Fiction</term>
+               <term type="genre" rend="fiction-prose">Drama</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-05-30" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="chapter" n="1">
+            <head>NÉLÉPHANT  AVEC BALEINE.</head>
+            <p>
+               <s xml:lang="lou" >Ein jou  Compair Lapin et Compair Bouki té apé voyagé  ensembe.</s>
+               <s xml:lang="lou" >Compair Lapin souvent té ménin li pou  fait paillasse avec li et pi en même temps Compair Lapin té toujou  au courant toute  sorte nouvelle que Compair Bouki té raconté li.</s>
+               <s xml:lang="lou" >Quand yé rivé  au  bord  la mer yé oua ein quichoge  qui té ben drôle.</s>
+               <s xml:lang="lou" >Ça té si telle-  ment étonné  yé que yé rété n pou tende et guetté.</s>
+               <s xml:lang="lou" >C'était ein  néléphant avec baleine qui té apé causé ensembe.</s>
+               <s xml:lang="lou" >— To oua, dit Bouki, c'est dé plis gros bétes que yé  na dans  moune et c'est yé qui plis fort que les otes zanimaux.</s>
+               <s xml:lang="lou" >— Paix to ladjeule,  dit Compair Lapin, anon  vancé  et pi  coûté,  mo oulé connin ça yé apé dit. Yé vancé proche.</s>
+               <s xml:lang="lou" >Néléphant dit baleine comme ça : — Mo commère,  comme c'est vous qui plus gros et plis fort dans la mer et  moin qui plis gros et plis fort en haut la terre, faut nous fait la loi,  et tout ça yé qui révolté na tchué yé.</s>
+               <s xml:lang="lou" >— Oui, oui, Compair Néléphant, gardé la terre et moin mo va  gardé la mer.</s>
+               <s xml:lang="lou" >— To tende, dit Bouki, anon couri,  pasqué na sorti sale si yé oua  nous zotes apé coûté yé conversation.</s>
+               <s xml:lang="lou" >— Ah ouache, dit Compair Lapin, mo fout pas mal yé, mo plis  malin que yé.</s>
+               <s xml:lang="lou" >Ta oua  comme ma rangé  yé tout les dé tout a  l'haire.</s>
+               <s xml:lang="lou" >— Non, dit Compair Bouki, mo pair, mapé couri.</s>
+               <s xml:lang="lou" >— Eh ben, couri, d'abord to si capon,  bon a rien.</s>
+               <s xml:lang="lou" >Parti vite  mo lasse tende toi a force to béte.</s>
+               <s xml:lang="lou" >Ça fait Compair Lapin couri cherché ein la corde qui té longue et  ben fort et pi li porté  so tambour et li caché ^ li dans grand zèbe.</s>
+               <s xml:lang="lou" >Li prend la corde dans eine boute et pi li proche coté Néléphant  et li dit : — Michié, vous qui si bon et si fort, </s>
+               <s xml:lang="lou" >vous doite ben rende  moin ein ti service,  va sorti  moin dans grand tracas et péché moin  perde l'argent.</s>
+               <s xml:lang="lou" >Néléphant té content tende ein si joli compliment et li dit Compair Lapin : —.</s>
+               <s xml:lang="lou" >Tout ça to oulé ma fait li pou toi, </s>
+               <s xml:lang="lou" >mo toujours paré a pou obligé tout mo zami.</s>
+               <s xml:lang="lou" > — Oui, dit Compair Lapin, mo gagnin ein lavache qui bourbe au  ras la mer, vous connin mo pas assez fort pou halé  li.</s>
+               <s xml:lang="lou" >Mo vini  coté vous pou vous idé moin ; </s>
+               <s xml:lang="lou" >prend la corde dans vous latrompe, </s>
+               <s xml:lang="lou" >ma  couri marré lavache et quand va tende moin batte tambour va haler fort en haut la corde.</s>
+               <s xml:lang="lou" >Mo dit vous ça pasqué  la vache bourbe fond  dans la boue.</s>
+               <s xml:lang="lou" >— C'est bon, dit Nélépbant, </s>
+               <s xml:lang="lou" >mo garanti toi ma sorti lavache la ou  ben la corde a cassé.</s>
+               <s xml:lang="lou" >Alors Compair Lapin prend I'ote boute la corde la, li couri au  bord la mer, </s>
+               <s xml:lang="lou" >li fait Baleine ein joli compliment, li mandé li même  service la pou débourbé so lavache qui té pris au ras ein bayou dans  bois.</s>
+               <s xml:lang="lou" >Compair Lapin gagnin la bouche si tellement doux que personne pas capab réfisé li arien.</s>
+               <s xml:lang="lou" >Baleine fait ni eine ni dé, li prend  la corde la dans so Iadjeule et li dit Compair Lapin : — Quand mo  va tende tambour ma halé.</s>
+               <s xml:lang="lou" >— Oui, dit Compair Lapin, commencé halé doucement et pi plis  fort en plis fort.</s>
+               <s xml:lang="lou" >— To pas besoin pair, dit Baleine, ma sorti to lavache quand  même Djabe apé tchombo  li.</s>
+               <s xml:lang="lou" >— Tant mié, dit Compair Lapin, tout a l'haire na ri, </s>
+               <s xml:lang="lou" >et pi li batte  so tambour.</s>
+               <s xml:lang="lou" >Néléphant prend halé, halé, la corde la té raide comme ein barre  fer, </s>
+               <s xml:lang="lou" >li té apé craqué.</s>
+               <s xml:lang="lou" >Baleine la en haut so coté  li aussi té apé halé,  halé.</s>
+               <s xml:lang="lou" >A la fin li té apé couri au ras la terre pasqué Néléphant té  boucou plis mié  placé pou halé.</s>
+               <s xml:lang="lou" >Quand Baleine oua li té apé monté  en haut la terre, cré mille tonnerre li batte so la tcheu raide et pi li  piqué au large.</s>
+               <s xml:lang="lou" >Li fait ein escousse M si tellement raide que li té  trainin Néléphant au ras dolo.</s>
+               <s xml:lang="lou" >Néléphant dit comme ça : — Aie,  mais qui ça ça yè® tout ça, c'est ein lavache qui joliment fort pou  trainin moin comme ça.</s>
+               <s xml:lang="lou" >Rété ein pé, laissé moi accroupi moin et  mette mo dé pié devant dans la boue.</s>
+               <s xml:lang="lou" >La, mo a genoux asteur.!'</s>
+               <s xml:lang="lou" >Et li commencé tortillé la corde la avec so la trompe.</s>
+               <s xml:lang="lou" >Li torde la  corde la et a la fin li réissi halé Baleine au ras la terre.</s>
+               <s xml:lang="lou" >Ça té étonné  li, au lieurein  lavache c'était so commère Baleine, </s>
+               <s xml:lang="lou" >Alors li dit  comme ça:  — Mais, mais, qui ça yé, mo commère?</s>
+               <s xml:lang="lou" >Mo té crai  c'était lavache Compair Lapin mo té apé débourbé.</s>
+               <s xml:lang="lou" >——Aïe! dit Baleine, Lapin dit moin même quichogela, </s>
+               <s xml:lang="lou" >mo croi  ben li té oulé fout nous zotes.</s>
+               <s xml:lang="lou" >— Alors li gagnin pou payé ça, dit Néléphant, </s>
+               <s xml:lang="lou" >mo défende li mangé  ein brin zèbe en haut la terre pasqué li moqué nous zotes.</s>
+               <s xml:lang="lou" >— Moin aussite, dit Baleine, mo défende li boi ein goutte dolo dans  la mer, faut nous surveillé li et premier qua oua li,  faut pas nous  raté li.</s>
+               <s xml:lang="lou" >Compair Lapin, qui té apé coûté, dit Compair Boukî : — Li temps  nous parti, fait chaud pou nous zotes.</s>
+               <s xml:lang="lou" >— To oua, dit Bouki, to mette nous zotes dans grand tracas.</s>
+               <s xml:lang="lou" >Jamais ma couri avec toi nille part.</s>
+               <s xml:lang="lou" >— Oh! paix to ladjeule, dit Lapin, </s>
+               <s xml:lang="lou" >mo pas fini avec yé, rété ein  pé, ta oua comment mo va rangé yé.</s>
+               <s xml:lang="lou" >— Ça fait yé couri yé chimin, chaquène gagnin so coté.</s>
+               <s xml:lang="lou" >Quand  Compair Lapin rivé dans ein bois li trouvé ein ti chivreil qui té  mouri, </s>
+               <s xml:lang="lou" >a force chien té massacré li li té plein bobo et dans plein place  so poil té tombé.</s>
+               <s xml:lang="lou" >Compair Lapin corché li et li mette so la peau en  haut so dos ; </s>
+               <s xml:lang="lou" >li vlopé li ben la dans, </s>
+               <s xml:lang="lou" >ça fait li té sembe ein ti chivreil.</s>
+               <s xml:lang="lou" >Alors li prend boité en haut trois pattes et pi li passé proche coté.</s>
+               <s xml:lang="lou" >Néléphant qui dit li ; — Mais pove piti chivreil, qui ça to gagnin ?</s>
+               <s xml:lang="lou" >— Oh ! oui, mapé souffri boucou, vous oua c'est Compair Lapin qui  poisonin moin et pi li voyé so malédiction en haut moin, jiste pasqué  mo té oulé comme vous té dit péché li mangé zèbe.</s>
+               <s xml:lang="lou" >Prend ga  pou  vous, Michié Néléphant, Compair Lapin engagé avec Djabe, </s>
+               <s xml:lang="lou" >la servi  vous mal si vous pas fait tention.</s>
+               <s xml:lang="lou" >Alors Néléphant té pair, </s>
+               <s xml:lang="lou" >li dit: — Ti chivreil, ta dit Compair  Lapin moin c'est so meilleur zami, dit li mangé zèbe tant li oulé.</s>
+               <s xml:lang="lou" >Pas  blié, non, et fais li compliment pou moin.</s>
+               <s xml:lang="lou" >Ti chivreil la passé so chimin et quand li rivé au bord la mer  Baleine dit li;- — Mais pove ti chivreil, tapé boité, qui ça ça yé ?</s>
+               <s xml:lang="lou" >mo  croi to boucou malade.</s>
+               <s xml:lang="lou" >— Oh oui, mapé souffri boucou, c'est Compair Lapin qui mette  moin dans nétat la, </s>
+               <s xml:lang="lou" >Li aussite  li ié pair, ça fait li dit : — Ti chivreil, mo pas oulé gagné zaffaire avec  Djabe, ten prie, dis Compair Lapin boi tout dolo li oulé, mo va laissé  li tranquille.</s>
+               <s xml:lang="lou" >prend ga pou vous, commère Baleine.</s>
+               <s xml:lang="lou" >Ça fait Compair Lapin continié so chimin, et quand li rivé au ras  Compair Bouki li oté la peau la et li dit comme ça : — To oua ben  que mo plis malin que yé et mo capab fout yé tout temps et yé dé  ensembe.</s>
+               <s xml:lang="lou" >La ou moin mo va passé ein lote va trouvé li pris.</s>
+            </p>
+         </div>
+
+
+         <div type="chapter" n="2">
+   <head>COMPAIR TAUREAU ET JEAN MALIN.</head>
+            <p>
+               <s xml:lang="lou" >Quand Jean Malin té piti li té norphelin et li té pas connin ou  couri ou ça pou fait.</s>
+               <s xml:lang="lou" >Ein jou li oua ein riche madame qui té apé passé  dans so bel carrosse.</s>
+               <s xml:lang="lou" >Li mandé madame la pou prend li.</s>
+               <s xml:lang="lou" >Comme  madame la oua que li té ein joli ti garçon et li té gagnin boucou l'esprit  li mandé Jean Malin qui l'âge li té gagnin.</s>
+               <s xml:lang="lou" >Jean Malin té pas capab  dit li jiste, mais li réponde madame la que li té tende so moman dit  comme ça li té né quand pêchers té en flairs même Tannée que la  neige té tombé.</s>
+               <s xml:lang="lou" >Ça fait madame la prend li dans so bel carrosse et  ménin li dans so la maison pou fait so commission et servi a tabe.</s>
+               <s xml:lang="lou" >Ti bougue la prend l'aimin madame la autant que so défint moman  et même li té jaloux ein michié riche qui té vini rende visite tous les  jous pou marier avec madame la.</s>
+               <s xml:lang="lou" >Mais i faut mo dit vouzotes que michié la c'était ein taureau qui  té connin tourné n'homme dans jou pou vini fait l'amour madame la, et  pi les soirs li té tournin taureau encore pou couri manzé zherbe dans  parc.</s>
+               <s xml:lang="lou" >Jean Malin té rémarqué que quand michié la té au ras madame  so l'amoureuse n'avait pas taureau dans la plaine, et quand taureau  té dans parc michié l'amouré té pas la.</s>
+               <s xml:lang="lou" >— faut mo guetter, dit  Jean Malin, yé na quichoge qui ben drôle, que mo pas comprende.</s>
+               <s xml:lang="lou" >Jean guetté, guetté, mais li té gagnin ben soin pas laissé taureau  la oua li.</s>
+               <s xml:lang="lou" >Ein jou, bo matin quand Jean Malin té couri cherché di  bois pou limin di fé, li oua Compair Taureau dans parc qui té a  genoux et pi li té apé dit : — Bouhour, madjam, fat madjam, djam,  djam, djara, djara, et pi tout d'ein coup taureau tourné n'homme et  li prend marché vini coté so madame.</s>
+               <s xml:lang="lou" >Ah !</s>
+               <s xml:lang="lou" >mo dit vouzotes Jean  Malin té pair, li té tremblé comme quand moune fraite.</s>
+               <s xml:lang="lou" >Ça fait même jou la n'amouré la té déjénin avec madame la et ti  Jean Malin qui té apé servi a tabe té couri tantôt ein coté tantôt ein  lote.</s>
+               <s xml:lang="lou" >Li té comme ein papillon a force li té pair.</s>
+               <s xml:lang="lou" >Quand yé mandé  li ein l'assiette li donnin di pain ou ben ein fourcette.</s>
+               <s xml:lang="lou" >Madame la  babillé li et pi quand so l'amouré té parti li dit Jean Malin li sré ren-  voyé li si li té pas fait mié et pi madame la té oulé connin qui ça  Jean Malin té gagnin.</s>
+               <s xml:lang="lou" >— Oui, mo connin to pas l'aimin mo l'amouré, cofaire ?</s>
+               <s xml:lang="lou" >.Qui ça  li fait toi ?</s>
+               <s xml:lang="lou" >  — Eh ben, mo va dit vous, maîtresse, </s>
+               <s xml:lang="lou" >  pou vrai mo pair et si vous té connin ça moin mo connin, vous té pair aussite et vous té pas  quitté n'homme la vini dans vous la maison.</s>
+               <s xml:lang="lou" >— Qui ça yé, </s>
+               <s xml:lang="lou" >mo oulé to dit moin tout suite ou ben mo va taillé  toi et mette toi dihors pou la gniappe.</s>
+               <s xml:lang="lou" >Alors Jean Malin prende crié et pi li dit madame la : — Vous va  connin que vous l'amouré c'est gros taureau la qui dans parc et que  li connin èhangé en n'homme et tournin taureau encore pou couri  manger zherbe.</s>
+               <s xml:lang="lou" >Ah la !</s>
+               <s xml:lang="lou" >di fé té manqué prend a force madame la té colaire, li té  oulé bimmé Jean Malin, mais pove ti garçon la dit : — Maitresse,  coûté moin, quand vous l'amouré a vini encore si mo pas prouvé  vous tout ça mo dit vous c'est la vérité, alors va renvoyé moin et fait  ça vous oulé avec moin.</s>
+               <s xml:lang="lou" >— C'est bon, dit madame la, na oua ça, mais rappelé toi to va payer  ben cher tous to menteries.</s>
+               <s xml:lang="lou" >Quéque jours après ça, michié l'amouré vini ; </s>
+               <s xml:lang="lou" >li té faraud.</s>
+               <s xml:lang="lou" >Jean  Malin té pensé en li même: — Jordi na oua la farce, pas quéli té connin qui paroles li té doit dit pou fait michié Tamoiiré la vini  taureau encore.</s>
+               <s xml:lang="lou" >Pendant yé té apé dinin madame la té apé gardé Jean Malin pou  oua ça li sré fait.</s>
+               <s xml:lang="lou" >Dans même moment que Tamouré la prend la  main madame la pou bo so joli doigts Jean Malin qui té apé vidé divin  dans so gobelet dit comme ça même paroles la yé li té tende taureau  la dit pou tournin n'homme.</s>
+               <s xml:lang="lou" >Li té pas fini dit so dernier mot, ré  mille tonnerres !</s>
+               <s xml:lang="lou" >si jamais vous tende vacarme, c'était jou la.</s>
+               <s xml:lang="lou" >Chapeau, quilottes, linettes, n'habit michié la, tout so butin tombe par  terre, et Tamcuré la tournin taureau dans la salle a manger; H quilbité  la table, cassé la vaisselle avec gobelets et bouteilles ; li défoncé la  porte vitrée pou chapper et pi li prend galpé dans la plaine.</s>
+               <s xml:lang="lou" >— Eh ben, vous content asteur ?</s>
+               <s xml:lang="lou" >dit Jean Malin.</s>
+               <s xml:lang="lou" >Madame la dit : — Oui, Jean Malin, to té raison, to sauvé moin,  mo va gardé toi toujou comme mo prope piti, pasqué to rende moin  ein grand service.</s>
+               <s xml:lang="lou" >Vouzote croit c'est tout ?</s>
+               <s xml:lang="lou" >Ah ben non, </s>
+               <s xml:lang="lou" >vouzote allé oua comment Jean Malin sorti clair avec Compair Taureau qui té fait serment li sré tripe ti bougue la qui té trahi li.</s>
+               <s xml:lang="lou" >Jean Malin té toujou pair, li  té gardé partout avant li té fait ein pas, pou pas Compair Taureau té surprende li.</s>
+               <s xml:lang="lou" >Ça fait ein jou Jean Malin té couri coté Compair Lapin  pou mandé li ein conseil, li conté li comment li té dans ein grand  n^em barras.</s>
+               <s xml:lang="lou" >Alors Compair Lapin dit li comme ça : — - Coûté ben tout ça mo va  dit toi :</s>
+               <s xml:lang="lou" >couri dans bois, to va chercher ein nique hibou qui gagnin  dézef ;  ta prend trois dans nique la ein vendredi après soleil couché  et pi to va porté yé coté moin pou mo drogué yé</s>
+               <s xml:lang="lou" >Alors Jean Malin trouvé trois dézef hibou et li porté yé coté Compair Lapin qui fait so grigris avec di lait ein femelle cabri noir et pi  li donnin yé Jean Malin et </s>
+               <s xml:lang="lou" >li dit li ça pou fait avec dézef la yé.</s>
+               <s xml:lang="lou" >— Va,  asteur, mo garantis toi, Compair Taureau a chagrin quand la fini avec toi.</s>
+               <s xml:lang="lou" >Quand Jean Malin té apé tournin coté so maîtresse li prend raccourci pou pas contré Taureau, pasqué li té gagnin ein ti méfiance malgré Compair Lapin té assiré li li té pas besoin pair.</s>
+               <s xml:lang="lou" >Dans même  moment la li tende Compair Taureau apé béglé et gratté la terre et  voyé la poussière en haut so dos.</s>
+               <s xml:lang="lou" >— Mo fout pas mal toi, dit Jean  Malin, " viens, ta oua comme mo va rangé toi.</s>
+               <s xml:lang="lou" >Aussitôt Compair  Taureau oua Jean Malin apé vini li foncé dret en haut li.</s>
+               <s xml:lang="lou" >Yavé ein nabe auras la et Jean Malin grimpé, li té pensé c'était plis sire.</s>
+               <s xml:lang="lou" >Leste comme ein cureuil dans ein ti moment li té dans la tête nabe  la, li té temps, Compair Taureau rivé proche en même temps.</s>
+               <s xml:lang="lou" >— Han, han, mo gagnin toi a la fin, to va bligé descende ou ben  crever en haut la.</s>
+               <s xml:lang="lou" >Li prend donnin coup corne après nabe la et Jean Malin té pas  rire tout temps la.</s>
+               <s xml:lang="lou" >Oui, taureau la té colère quand li oua li té pas  capabe fait Jean Malin descende, Li mette li a genoux et pi li dit  oo paroles yé pou tournin n'honme.</s>
+               <s xml:lang="lou" >Li paraite alors comme ein  n'homme avec ein la hache dans so la main.</s>
+               <s xml:lang="lou" >— Descende, descende, </s>
+               <s xml:lang="lou" >  pas quitté moin coupé nabb la pasqué mo va fini toi, ti coquin.</s>
+               <s xml:lang="lou" >— Biche, biche, Compair Taureau, mo oulé oua ça vous capabe fait.</s>
+               <s xml:lang="lou" >Alors taureau la biche : gip gop.</s>
+               <s xml:lang="lou" >Vouzote té capabe tende la hache la résonné et nabe la té tremblé.</s>
+               <s xml:lang="lou" >Alors Jean Malin dit : — Li  temps.</s>
+               <s xml:lang="lou" >Li voyé ein dézef hibou en haut n'épaule Compair Taureau,  so bras avec la hache tombé par terre.</s>
+               <s xml:lang="lou" >N'homme- la ramassé la  hache la avec la main qui resté : gip, gop ; gip, gop, li apé biche  toujou.</s>
+               <s xml:lang="lou" >— Anon oua, dit Jean Malin.</s>
+               <s xml:lang="lou" >Li voyé dézième dézef la en haut  l'ote bras, li aussi li tombé avec la hache comme premier la.</s>
+               <s xml:lang="lou" >N'homme la baissé, li prend la hache la avec so dents: gip, gop ;  gip, gop, li apé biche toujou.</s>
+               <s xml:lang="lou" >— Han, han, dit Jean Malin, asteur to compte clair.</s>
+               <s xml:lang="lou" >Li voyé  troisième dézef la en haut la tête n'homme la — la tête tombé par terre.</s>
+               <s xml:lang="lou" >Bras yé avec jambes yé et pi so corps prend tortillé comme  ein serpent dans di fé.</s>
+               <s xml:lang="lou" >Alors Jean Malin descende et pi li dit: — faut to tournin taureau encore pasqué nous besoin toi.</s>
+               <s xml:lang="lou" >Alors li dit  paroles yé, la tête et pi bras sauté après corps la et n'homme la tournin taureau encore.</s>
+               <s xml:lang="lou" >Li prend galpé dans dans la plaine jisqua li té  tombé, a force li té lasse.></s>
+               <s xml:lang="lou" >Dipis jour la li jamais tracassé Jean Malin qui té gagnin ein meillaire drogue que li.</s>
+            </p>
+</div>
+        
+         
+         
+         
+         
+         
+         
+         <div type="chapter" n="3">
+            <head>COMPAIR LAPIN ET VER DE TERRE.</head>
+            <p>
+               <s xml:lang="lou" >Tout moune connin que tous les ans au mois de mai lapin gagnin ein maladie ;</s>
+               <s xml:lang="lou" >c'est ein ver de terre qui morde li dans so cou en bas so mâchoire et sicé so disang comme pou de bois.</s>
+               <s xml:lang="lou" >Ça rende li faible,  faible, et pendant ein mois ver la tchombo li bien et resté croche dans so cou anvant li tomber.</s>
+               <s xml:lang="lou" >Lapin yé croi quand yé couché dans grand zèbe que dé ver sorti dans la terre et grimpé en haut yé.</s>
+               <s xml:lang="lou" >Ça  fait yé pair tout qualité dé vers, et si yé oua ein c'est assez pou fait  yé galpé tout la journin comme si yavait ein bande chiens darrière  yé.</s>
+               <s xml:lang="lou" >Si mo dit vous zotes tout ça c'est pou raconter vous ein zaffaire que Compair Lapin té gagnin avec ver de terre.</s>
+               <s xml:lang="lou" >Ein jour, c'était dans printemps, tout ti zozos té apé chanté, papillon té apé voltizé et pi posé en haut flairs ;</s>
+               <s xml:lang="lou" >té semblé comme si tout  zanimaux té apé mercié Bon Djé.</s>
+               <s xml:lang="lou" >Jis ein piti ver de terre qui té apé crié et babillé,</s>
+               <s xml:lang="lou" >li apé dit li té si piti, pas gagnin pattes ni la main, ni  zaile et li bligé resté dans so trou ;</s>
+               <s xml:lang="lou" >ti zozo, lézard et même froumi té  tracassé li et manzé so piti.</s>
+               <s xml:lang="lou" >Si sélement Bon Djé té fait li gros et  fort comme lote zanimaux, li seré content, pasqué li seré capabe  défende li même, mais li té sans défense et bligé resté dans so trou.</s>
+               <s xml:lang="lou" >Li crié boucou et pi li dit li seré content si li té pou Diabe.</s>
+               <s xml:lang="lou" >Li té  pas fini dit tout ça quand li oua Diabe au ras li.</s>
+               <s xml:lang="lou" >—~ Eh bien, mo tende tout ça to dit et mo vini mandé toi qui ça  to oulé, mo va accordé toi li et to sera pou moin quand ta mouri.</s>
+               <s xml:lang="lou" >— Ça mo oulé, </s>
+               <s xml:lang="lou" >mais mo oulé la force, mo oulé vini gros, gros, pou  mo capab bimin nimporte qui qua vini bété moin ou tracassé moin.</s>
+               <s xml:lang="lou" >C'est tout, jis ça, mo va content.</s>
+               <s xml:lang="lou" >— C'est bon, dit Diabe, laissé moin couri, dans ein ti moment to  va content.</s>
+               <s xml:lang="lou" >Aussitôt Diabe la parti ver de terre trouvé li même gros et fort  </s>
+               <s xml:lang="lou" >ça té vini tout d'ein coup, et so trou ou li té coutime resté vini grand  et fond comme ein pi.</s>
+               <s xml:lang="lou" >Cré matin !</s>
+               <s xml:lang="lou" >a force ver de terre té content li  té apé ri et chanté.</s>
+               <s xml:lang="lou" >Dans même moment la Compair Lapin trouvé passé tout proche.</s>
+               <s xml:lang="lou" >Yapa arien dans moune qui té fait li plis pair  que ça.</s>
+               <s xml:lang="lou" >Li prend galpé jisqua li té lasse.</s>
+               <s xml:lang="lou" >Quand li rété, li soufflé :  — Fouiff !</s>
+               <s xml:lang="lou" >jamais mo té pair comme ça ; </s>
+               <s xml:lang="lou" >si mo pas mouri, jamais mo  gagnin pou dormi encore tant gros ver de terre la a resté dans pays icite.</s>
+               <s xml:lang="lou" >Si mo té pas si béte couri vanté moin mo té capab bimin néléphant mo seré couri oua li.</s>
+               <s xml:lang="lou" >Mo connin li colère après moin, </s>
+               <s xml:lang="lou" >c'est  Bouki qui couri répété li ça ; mais pététe si mo parlé avec li bien, ma  capab rangé tout ça.</s>
+               <s xml:lang="lou" >Mapé couri oua li, pététe ma seyé fait yé batte  ou bien contré ensembe, mo pense ça va fait ein joli bataille et pététe  mo va débarrassé tout lé dé a la fois.</s>
+               <s xml:lang="lou" >Encore ver de terre la dit moin quand mo passé que li té gagné pou réglé mo compte.</s>
+               <s xml:lang="lou" >Oh ! non, mo  pas capab vive comme ça, qui ça ma fait Bon Djé, Seigneur.</s>
+               <s xml:lang="lou" >pasqué si mo parlé  avec li bien, pététe mo gagnin la chance gagnin mo procèâ.</s>
+               <s xml:lang="lou" >Laissé  moin rangé dans mo la tête ça malé dit li pou fait li content.</s>
+               <s xml:lang="lou" >Alors Compair Lapin prend marché jisqua li contré néléphant ; </s>
+               <s xml:lang="lou" >li  salie li et fait li ein joli compliment Néléphant réponde li poliment  t mandé li comment ça va. </s>
+               <s xml:lang="lou" >— Oh ! mo bien malade, dit Compair Lapin, ein lote fois ma vini pou sayé mo la force avec vous, pasqué mo croi mo capab bimin vous.</s>
+               <s xml:lang="lou" >— To tein sotte, réponde néléphant,</s>
+               <s xml:lang="lou" >couri, mo pas oulé fait toi  mal, mo gagnin pitié on toi.</s>
+               <s xml:lang="lou" >— Ma fait vous ein pari mo capab bimin vous,</s>
+               <s xml:lang="lou" >— C'est bon, quand ta oulé.</s>
+               <s xml:lang="lou" >— - Plis tard, sélement mo conin vous bon, mo té vini mandé vous  ein piti service.</s>
+               <s xml:lang="lou" >— C'est bon, qui ça yé ?</s>
+               <s xml:lang="lou" >« — Ceté pou aidé moin, donne moin ein coup de main pou char-  rier di bois pou bâti mo cabane.</s>
+               <s xml:lang="lou" >— Anon tout suite, si to oulé.</s>
+               <s xml:lang="lou" >Compair Lapin, qui té porté so la hache, biche ein gros nabe.</s>
+               <s xml:lang="lou" >Quand li tombé par terre, li dit néléphant prend gros boute coté la quilasse.</s>
+               <s xml:lang="lou" >— Moin mo va soulever branche derrière et na va porté li  dans place ou mo gagnin pou fait mo cabane.</s>
+               <s xml:lang="lou" >Néléphant chargé nabe en haut so l'épaule sans garder derrière et  Compair Lapin monté dans branche yé et pi li assite et quitté nélé-  phant traîné tout.</s>
+               <s xml:lang="lou" >Quand cila té lasse li té rété pou posé ein pé.</s>
+               <s xml:lang="lou" >Compair Lapin sauté par terre et pi li vini divant pou encouragé  néléphant </s>
+               <s xml:lang="lou" >et li dit : — Mais, compair, vous déjà lasse ?</s>
+               <s xml:lang="lou" >Mais c'est  pas arien ça, gardé moin qui forcé autant que vous,</s>
+               <s xml:lang="lou" >mo pas senti la  fatigue.</s>
+               <s xml:lang="lou" >— Foutrou, ça lourd comme Diabe, dit néléphant, </s>
+               <s xml:lang="lou" >anon parti  — C'est ein pé plus loin.</s>
+               <s xml:lang="lou" >Gros béte la chargé li même encore avec gros di bois la et pi parti.</s>
+               <s xml:lang="lou" >Lapin apé fait semblant poussé dans branche ; quand li oua néléphant pas apé gardé derrière, li sauté dans branche encore et pi li  bien assite et li dit : — Plis loin, encore plis loin, passé a droite,  passé a gauche.</s>
+               <s xml:lang="lou" >A la fin néléphant rivé au ras trou ver de terre, — La, c'est bon,  mette li la.</s>
+               <s xml:lang="lou" >— Néléphant jeté nabe la droit en haut trou ver de  terre qui té apé dromi.</s>
+               <s xml:lang="lou" >Alors ver de terre sorti, li poussé nabe la  comme ein la paille et pi li prend insilté néléphant.</s>
+               <s xml:lang="lou" >Lapin pendant  temps la té caché dans ein place ou li capab oua et tende tout.</s>
+               <s xml:lang="lou" >Néléphant perdi patience, li fout ver de terre ein coup avec so la trompe.</s>
+               <s xml:lang="lou" >Alors ver de terre sauté en haut néléphant et yé prend batte.</s>
+               <s xml:lang="lou" >Yé batte comme ça pendant dé zeures jisqua yé té proche mouri.</s>
+               <s xml:lang="lou" >A la fin ver de terre couri caché au fond dans so trou et néléphant  couché par terre pou mouri a force li té massacré.</s>
+               <s xml:lang="lou" >Compair Lapin  asteur monté en haut néléphant et li fini bimin li. Li halé so zoreille,  li fout li des tapes et li dit comme ça :</s>
+               <s xml:lang="lou" >— Mo té pas dit vous mo seré bimin vous ?</s>
+               <s xml:lang="lou" >— Oui, oui, dit néléphant, mo gagnin assez, Compair Lapin, mapé  mouri.</s>
+               <s xml:lang="lou" >Alors Compair Lapin quitté li et pi li prend ein gros baton et li entré dans trou ver de terre.</s>
+               <s xml:lang="lou" >Li cassé so la tête, li fini tchué li.</s>
+               <s xml:lang="lou" >— Comme ça, li dit, mo débarrassé tout les dé.</s>
+               <s xml:lang="lou" >Ein ti moment après li contré compair Bouki et li raconté li comment li fait néléphant avec ver de terre batte jisqua yé té tchué ein  a lote.</s>
+               <s xml:lang="lou" >— To oua mo camarade, rao va dit toi, quand dé bougue apé  géain toi, faut to fait yé batte et tchué yé entre yé.</s>
+               <s xml:lang="lou" >Ça fait ta toujou sauvé to la peau.</s>
+            </p>
+         </div>
+
+
+
+         <div type="chapter" n="4">
+            <head>COMPAIR LAPIN ET COMPAIR L'OURS.</head>
+            <p>
+               <s xml:lang="lou" >Ein jou Compair l'Ours invité Compair Lapin et Compair Bouki  pou dinin chez li.</s>
+               <s xml:lang="lou" >Compair Lapin et Compair Bouki accepté n'invitatïon Compair  l'Ours, et yé tous les trois parti dans champs avant soleil levé.</s>
+               <s xml:lang="lou" >A nef heures yé oua Compair Lapin dressé so zoreilles.</s>
+               <s xml:lang="lou" >— Ça ça  yé, dit Compair TOurs.</s>
+               <s xml:lang="lou" >— Mo jamin oua arien qui bétant comme moune chez moin, </s>
+               <s xml:lang="lou" >Yapé  pelé moin et dérangé moin dans mo nouvrage.</s>
+               <s xml:lang="lou" >— Mo pas tende arien, dit Compair l'Ours.</s>
+               <s xml:lang="lou" >— C'est pasqué vous et Compair Bouki gagnin si piti zoreilles  vous pas capabe tende.</s>
+               <s xml:lang="lou" >Mo zoreilles yé si longues mo tende des milles.</s>
+               <s xml:lang="lou" >Li parti et li révini ein moment après et li dit c'était pou so fame  qui té gagnin ein commencement maladie.</s>
+               <s xml:lang="lou" >Li fait même manège  la trois fois dans la journin.</s>
+               <s xml:lang="lou" >A midi li dit so fame té au milieu so  maladie ; a trois heures li révini tout triste et dit sélement : — Tout  fini.</s>
+               <s xml:lang="lou" >Compair l'Ours et Compair Bouki plainde li boucou pasqué yé té  cré c'était so fame qui té mouri.</s>
+               <s xml:lang="lou" >Au lieu ça chaque fois Compair  Lapin té dit H té couri chez so fame li couri chez Compair l'Ours et  manzé ein pé so provision, et quand li dit : — C'est fini, li té fini  manzé tout.</s>
+               <s xml:lang="lou" >A cinq heures trois zamis yé quitté l'ouvrage et couri chez Com-  pair l'Ours.</s>
+               <s xml:lang="lou" >Vous capabe pensé comment Compair l'Ours té colère  quand li oua so provision té disparaite.</s>
+               <s xml:lang="lou" >Tout suite li accusé Compair  Lapin, mais li jiré c'était pas li.</s>
+               <s xml:lang="lou" >— Ma connin tout suite, nouzotes trois va couché en haut la planche  la qui dans do l'eau dans soleil et voleur la va malade sire.</s>
+               <s xml:lang="lou" >Compair  Lapin, qui te fronté comme tout, dit oui, pasqué li compté couché  dans l'ombre Compair l'Ours qui té boucou plis gros que li.</s>
+               <s xml:lang="lou" > Compair Bouki dit oui aussi.</s>
+               <s xml:lang="lou" >Compair Lapin et Compair Ours   Yé couri coté la planche la, et Compair Lapin té pas content  quand li oua c'était ein stage bateau et li sré pas capabe collé contre  Compair l'Ours pou trappe so l'ombre.</s>
+               <s xml:lang="lou" >Yé couché en haut la planche  loin l'ein de l'ote, et pas plitot yé té la que Compair Lapin té ben  malade a cause do l'eau et soleil et li commencé rejeté tout ça li té  manzé.</s>
+               <s xml:lang="lou" >— Ah mo trapé toi, mo compair, dit Compair l'Ours.</s>
+               <s xml:lang="lou" >To va  payer moin ça et mo va pende toi.</s>
+               <s xml:lang="lou" >— Pende moin si to oulé, ça pas fait moin arien, dit Compair  Lapin, mais si to oulé mo va donnin toi ein bon moyen.</s>
+               <s xml:lang="lou" >Fais ein  trou dans la muraille, passez la corde ladans ; toi et Compair Bouki  vous pas dans soleil pou tirer la corde la et pende moin.</s>
+               <s xml:lang="lou" >Tout temps  vous sra apé pende moin ma crié, et quand mo sra pas crié ça sra  signe mo pas gagnin la voix et mo sra mouri.</s>
+               <s xml:lang="lou" >Compair l'Ours fait ça Compair Lapin té dit et taché li, mais quand  Compair l'Ours et Compair Bouki té dans la maison, li détaché li  même et pende so patte yé.</s>
+               <s xml:lang="lou" >Compair l'Ours tiré la corde la, Com-  pair Lapin crié fort, pi si faibe que Compair l'Ours et Compair Bouki té cré li té mouri et yé couri oua lote coté.</s>
+               <s xml:lang="lou" >Yé jiste oua la poussière Compair Lapin tapé fait et yé tende so la voix qui tapé  dit : </s>
+               <s xml:lang="lou" >— Vous oua mo plis smart que vous, et mo remercié vous pou bon dinin la mo fait chez vous.</s>
+            </p>
+         </div>
+         
+         
+         
+         
+         <div type="chapter" n="5">
+            <head>L'IRLANDAIS ET CRAPAUDS.</head>
+            <p>
+               <s xml:lang="lou" >Ein fois yavait ein l'Irlandais sou qui tapé révini village et té passé coté ein piti la rivière ou yé té gagnin boucou crapauds.</s>
+               <s xml:lang="lou" >Li tende  crapauds yé qui tapé dit : — Brum, brum, brum.</s>
+               <s xml:lang="lou" >Ah ! dit l'Irlandais la, tapé dit : — Rum, rum, rum, tolé mo rum, mo va donnin toi ein  pé, mais faut to promette moin rende moin mo jug.</s>
+               <s xml:lang="lou" >Mais di moin,  est-ce que do l'eau la fond ?</s>
+               <s xml:lang="lou" >— Jou, jou, jou, dit crapauds yé.</s>
+               <s xml:lang="lou" >— Oh! dit l'Irlandais la ça pas ben fond.</s>
+               <s xml:lang="lou" >— Tien, voila mo rum.</s>
+               <s xml:lang="lou" >li tard ; faut mo retournin chez moin ; yapé tende moin.</s>
+               <s xml:lang="lou" >Li jeté so jug dans do l'eau et li  tende ein bon moment, pi li dit : — Anon, Michié, voyé moin mo jug,</s>
+               <s xml:lang="lou" >Mais crapauds pas voyé arien.</s>
+               <s xml:lang="lou" >Alors l'Irlandais jeté li même dans do l'eau  qui té très haut et té vini jisqua so cou.</s>
+               <s xml:lang="lou" >— Sacré menteurs, dit l'Irlandais la, — vous dit moin do l'eau la sré vini jisqua mo ginoux et li jisqua mo cou.</s>
+               <s xml:lang="lou" >Comme li té sou li neyé li même.</s>
+            </p>
+         </div>
+         
+         <div type="chapter" n="6">
+            <head>COMPAIR LAPIN ET MADAME CARENCRO.</head>
+            <p>
+               <s xml:lang="lou" >Est-ce que vous connin pouquoi carencro yé chove ?</s>
+               <s xml:lang="lou" >Non, </s>
+               <s xml:lang="lou" >et ben  mo va dit vous,  </s>
+               <s xml:lang="lou" >Ein fois yavait ein dame Carencro qui té apé couvé dans ein chêne.</s>
+               <s xml:lang="lou" >Li té gagnin ein bon arien mari et té toujou apé mouri faim.</s>
+               <s xml:lang="lou" >Au  pied chêne a yavait ein gros trou et dans trou la ein lapin té resté.</s>
+               <s xml:lang="lou" >Compair Lapin té gros et gras et té donnin Mme. Carencro envie  manzé li chaque fois li té oua li.</s>
+               <s xml:lang="lou" >Ein jou li profité ein ti moment ou Compair Lapin té apé dromi et li prend la mousse et des briques et bouché trou la.</s>
+               <s xml:lang="lou" >Alors Compair Lapin sré pas capabe sorti et li sré  mouri faim.</s>
+               <s xml:lang="lou" >Quand Compair Lapin réveillé et li oua li même fermé li sipplié  Mme, Carencro laissé li sorti, </s>
+               <s xml:lang="lou" >mais li réponde chaque fois : — Mo faim  et faut mo manger la viande en haut to dézos.</s>
+               <s xml:lang="lou" >Quand Compair Lapin oua que la prière té pas fait arien li paix,  mais Mme. Carencro té si content li té prend Compair Lapin que li  tapé liché so la lèvre comme li jonglé quel bon dinin la fait.</s>
+               <s xml:lang="lou" >Comme li pas tende Compair Lapin remué li cré li té mouri touffe et li enlevé  la mousse et les briques qui té fermé trou la.</s>
+               <s xml:lang="lou" >Li commencé descende  dans trou, mais Compair Lapin fait ein bond et sorti dehors.</s>
+               <s xml:lang="lou" >Quand li té loin li dit comme ça : — To oua, c'est toi qui pris et ma vengé  moin.</s>
+               <s xml:lang="lou" >Li parti et li couri resté chez ein so zamis pasqué li té pair rétournin dans chêne la coté Mme. Carencro.</s>
+               <s xml:lang="lou" >Quéque jous après ça  Mme. Carencro, qui té blié Compair Lapin, couri promenin avec so pitî qui té tous sorti dans yé coquille.</s>
+               <s xml:lang="lou" >Compair Lapin té content et  li pensé comment li sré prend rivanche en haut Mme. Carencro.</s>
+               <s xml:lang="lou" >Li couri dans la quisine, li prend ein grand fer blanc plein la braise et la cende chaud, et quand Mme. Carencro et so piti passé coté la garlie  li jeté en haut yé tout ça li té gagnin dans ferblanc pou brûlé yé.</s>
+               <s xml:lang="lou" >Mais vous connin carencro gagnin la plïme épais cepté en haut yé la  tête.</s>
+               <s xml:lang="lou" >Ye secoué vite mais pas assez vite pou pécher la plume en  haut yé la tête brûler jisqua la peau.</s>
+               <s xml:lang="lou" >Voila pouquoi carencros choves, et que yé jamin manzé dézos lapin.</s>
+            </p>
+         </div>
+         
+         <div type="chapter" n="7">
+            <head>COMPAIR LAPIN ET MICHIÉ DINDE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Tous les soi quand Compair Lapin té révini so louvrage li té traversé ein lacou ou yé té gaingnin ein gros dinde qui tapé dromi on  so perchoir, et comme tous lé zotte dinde cila té mette aussite so latéte en bas so zaile pou couri dromi.</s>
+               <s xml:lang="lou" >Tous les soi Compair Lapin té rété gardé dinde la, et li té mandé  li même ça li té fait avec so latéte.</s>
+               <s xml:lang="lou" >Enfin ein soi li té si quirié li  rété en bas perchoir la et li dit : — Bonsoi, Michié Dinde</s>
+               <s xml:lang="lou" >— Bonsoi, dit dinde la sans levé so latéte.</s>
+               <s xml:lang="lou" >— Est-ce que vous gaingnin ein latéte, Michié Dinde ?</s>
+               <s xml:lang="lou" >— Oui, mo gaingnin ein latéte.</s>
+               <s xml:lang="lou" >— Ou li yé ?</s>
+               <s xml:lang="lou" >— Mo latéte la.</s>
+               <s xml:lang="lou" >Compair Lapin té beau chercher li té pas oua latéte Michié Dinde.</s>
+               <s xml:lang="lou" >Comme li oua dinde la té pas oulé causer avec li ni montré li ou li mette so latéte, li couri chez li et li dit so sère : — Est-ce que to connin que pou couri coucher dinde oté yé latéte?</s>
+               <s xml:lang="lou" >Eh ben, mo cré malle fait même quichoge, pasqué c'est moins tracas dromi sans latéte, et moune capabe parlé sans latéte, pasqué dinde la parlé avec  moin.</s>
+               <s xml:lang="lou" >Avant so sère té gaingnin temps dit li arien, li prend ein lahache, et li coupé so latéte.</s>
+               <s xml:lang="lou" >So sère sayé tout quichoge pou coller latéte so  frère, mais li té pas capabe, pasqué li té tchué li même.</s>
+               <s xml:lang="lou" ></s>
+               
+            </p>
+         </div>
+         
+         <div type="chapter" n="8">
+            <head xml:lang="lou" >MICHIÉ MACAQUE, MARIÉ.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >In fois yavé in macaque qui té lainmin in joli jène fille.</s>
+               <s xml:lang="lou" >Li biîlé  comme in nomme et li couri oua li.</s>
+               <s xml:lang="lou" >Mamzelle la recevoir li si bien  que li ménin so meilleur zami pou oua so namourése.</s>
+               <s xml:lang="lou" >Popa mamzelle la mandé zami michié Macaque question on namouré so fille.</s>
+               <s xml:lang="lou" >Zami la dit michié Macaque té bon et pi riche, mais li té gaingnin ein secret.</s>
+               <s xml:lang="lou" >Popa la té oulé connin secret la, mais zami la dit li va dit li  ein lote jou.</s>
+               <s xml:lang="lou" >Michié Macaque vini fiancé avec Mamzelle la, et soi so  mariage li invité so zami pou souper la.</s>
+               <s xml:lang="lou" >Zami la té jalou michié Macaque, et quand soupe té presque fini li commencé chanté.</s>
+               <s xml:lang="lou" >C'était ein chanson pou fait macaque dansé, même si yé pas oulé, alorse  michié Macaque gardé coté so zami et fait li signe rété chanté.</s>
+               <s xml:lang="lou" >Mais li continuai chanté et tout (Tin coup michié Macaque levé et li com-  mencé dansé.</s>
+               <s xml:lang="lou" >Li sauté tellement que so la tchié sorti et tout moune  oua li té ein macaque.</s>
+               <s xml:lang="lou" >Popa la comprende secret la et li batte li  raîde.</s>
+               <s xml:lang="lou" >So zarai chappé apé dansé et chanté.</s>
+            </p>
+            
+         </div>
+         
+         <div  type="chapter" n="9">
+            <head>TORTIE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >In michié qui té vive on bord in bayou trappe in gros tortie et li invité tout suitte so zami pou dinin avec li.</s>
+               <s xml:lang="lou" >So ti garçon, quand li té pas la, couri coté laçage tortie la, et tortie commencé sifflé.</s>
+               <s xml:lang="lou" >— Comme to sifflé bien, dit piti la.</s>
+               <s xml:lang="lou" >— Oh ! ça, ce pas arien, ouvri la  cage la, et ta oua.</s>
+               <s xml:lang="lou" >Garçon la ouvri la cage et tortie sifflé mié que  anvant.</s>
+               <s xml:lang="lou" >Garçon la té enchanté.</s>
+               <s xml:lang="lou" >— Mette moin on la planche et ta oua, dit tortie la.</s>
+               <s xml:lang="lou" >Garçon la fait ça, et tortie dansé et chanté.</s>
+               <s xml:lang="lou" >— Oh ! comme to dansé et chanté bien, dit garçon la.</s>
+               <s xml:lang="lou" >— Mette moin  on bord bayou, et ta oua, dit tortie.</s>
+               <s xml:lang="lou" >Garçon la ménin li au bord  bayou, et tortie la dansé et chanté.</s>
+               <s xml:lang="lou" >Tout d'in coup li disparaite dans dolo et garçon la commence crié.</s>
+               <s xml:lang="lou" >Tortie levé dans milié bayou et li  dit : — Apprende pas fié moune to pas connin.</s>
+               <s xml:lang="lou" >Garçon la té pair so popa et li mette ein gros la pierre plate dans lacage.</s>
+               <s xml:lang="lou" >Cuisinier la té cré c'était tortie et li mette lapierre dans chaudière.</s>
+               <s xml:lang="lou" >Li té étonnin oua li resté dire si longtemps et li montré  li so mai te.</s>
+               <s xml:lang="lou" >Li ordonnin mette tortie on la tabe et li prend so  couteau la tabe pou coupé li.</s>
+               <s xml:lang="lou" >C'était pas la peine.</s>
+               <s xml:lang="lou" >Li prend couteau  découpé, pas la peine.</s>
+               <s xml:lang="lou" >Li prend casse tête, pas la peine.</s>
+               <s xml:lang="lou" >Li prend lahache ; li cassé lassiette, la tabe, mais tortie la resté telle.</s>
+               <s xml:lang="lou" >Li oua alorse c'était ein lapierre, et jisqua, asteur li pas comprende comment so tortie té changé en lapierre.</s>
+            </p>
+         </div>
+
+         <div type="chapter" n="10">
+            <head>COMPAIR BOUKI, COMPAIR LAPIN, ET DÉZEF ZOZO.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Compair Bouki et Compair Lapin té voisin.</s>
+               <s xml:lang="lou" >In jou Compair Bouki dit li même li té oulé oua ça Compair Lapin té apé tchui tous les soirs dans so cabane.</s>
+               <s xml:lang="lou" >Li couri coté cabane Compair Lapin et  li oua in gros chaudière on difé.</s>
+               <s xml:lang="lou" >— Oh ! comme mo gagnin mal aux dents.</s>
+               <s xml:lang="lou" >Compair Lapin, ça vous gagnin dans chaudière la ?</s>
+               <s xml:lang="lou" >— Ça pas vous zaffaire, Compair Bouki.</s>
+               <s xml:lang="lou" >— Qui ça qui senti si bon dans chaudière la, Compair Lapin ?</s>
+               <s xml:lang="lou" >Oh ! comme mo gagnin mal aux dents !</s>
+               <s xml:lang="lou" >— Ce dézef , Compair Bouki, pas bété moin.</s>
+               <s xml:lang="lou" >— Oh ! comme mo gagnin mal aux dents !</s>
+               <s xml:lang="lou" >Laissé moin goûté ça  vous gagnin la,</s>
+               <s xml:lang="lou" >ça va guéri moin.</s>
+               <s xml:lang="lou" >Compair Lapin donnin li quéque dézef, et Compair Bouki trouvé  yé si bon li té oulé connin ou li té prend yé.</s>
+               <s xml:lang="lou" >Compair Lapin dit li  li sré ménin li avec li lendemin matin.</s>
+               <s xml:lang="lou" >Compair Bouki couri chez li et li dit so moman li té gagnin in bien  bon souper chez Compair Lapin.</s>
+               <s xml:lang="lou" >So moman dit li ouvri so labouche pou li capabe senti qui ça li té mangé.</s>
+               <s xml:lang="lou" >Li prend alors in ti morceau dibois et gratté on dents Compair Bouki morceau dézef qui té  resté la.</s>
+               <s xml:lang="lou" >— Oh ! comme c'est bon, li dit.</s>
+               <s xml:lang="lou" >Faut to porté moin in pé.</s>
+               <s xml:lang="lou" >Compair Bouki couri bonne hère lendemin matin avec Compair Lapin, qui montré li ou dézef yé té et dit li pas prende plis que inné  dans chaque nique, pasqué zozo yé sré oua ça.</s>
+               <s xml:lang="lou" >Compair Bouki  quand Lapin té parti, prend tout dézef dans chaque nique.</s>
+               <s xml:lang="lou" >Quand  zozo révini et yé oua tout yé dézef té volé yé té firié et yé fait in plan pou vengé yé même.</s>
+               <s xml:lang="lou" >Yavé dans bois in bayou qui té séle place  ou zanimo té capabe boi.</s>
+               <s xml:lang="lou" >Zozo yé placé yé même autour bayou la et  yé oua ein bef vini.</s>
+               <s xml:lang="lou" >— Compair Bef, est-ce que c'est vous qui mangé nous dézef ?</s>
+               <s xml:lang="lou" >— Non, mo zami, mo mangé jisse zerbe.</s>
+               <s xml:lang="lou" >Choal dit li mangé jisse difoin ;</s>
+               <s xml:lang="lou" >Compair Lapin dit li mangé jisse carottes et laitues, mais quand yé mandé Compair Bouki, li réponde  comme in béte : — Oui, c'est moin qui mangé vous dézef.</s>
+               <s xml:lang="lou" >Pas plitot li té parlé que tous zozo tombé on li ; yé crevé so zié et  presque mette li en pièces.</s>
+            </p>
+         </div>
+         
+         <div type="chapter" n="11">
+            <head>CHIEN AVEC TIGUE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >In jou in chien acheté cent poules et in coq, et in tigue acheté  cent coqs et in poule.</s>
+               <s xml:lang="lou" >Tous les soi chien la té trouvé in panier plein  dézef dans so poulailler, et tigue la té trouvé jisse in dézef</s>
+               <s xml:lang="lou" >Tigue  dit chien volé li, et li taché li, li mette li dans in brouette et li parti pou vende li.</s>
+               <s xml:lang="lou" >On chimin li contré in chévreil ; li conté li so zaffaire  et li mandé li si li pas raison vende chien la.</s>
+               <s xml:lang="lou" >Chévreil la dit non,  alors tigue là tchué li.</s>
+               <s xml:lang="lou" >In pé plis tard li rencontré in lion et li raconté li so lhistoire.</s>
+               <s xml:lang="lou" >Lion la dit tigue té gagnin tort, et tigue la  dit : — Vous parlé comme ça pasqué vous connin vous plis fort que  moin.</s>
+               <s xml:lang="lou" >Quéque temps après ça tigue couri dans bois et li laissé chien la seul quéque temps.</s>
+               <s xml:lang="lou" >Chassère passé et yé mandé chien la ça tapé  fait la.</s>
+               <s xml:lang="lou" >Li raconté so l'histoire, et chassère yé mandé li montré yé ou tigue la té.</s>
+               <s xml:lang="lou" >Tigue la té pair comme djabe, et dépi temps la chien jamin pair béte sauvage.</s>
+            </p>
+         </div>
+         
+         <div type="chapter" n="12">
+            <head>FILLÈLE COMPAIR LAPIN.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >In fois Compair Lapin té apé travaille pou Compair Bouki.</s>
+               <s xml:lang="lou" >Bouki  té acheté in baril dibère et li té caché li dans so lacave.</s>
+               <s xml:lang="lou" >Dé compair  yé té apé travaille dans clos ensembe, et tout d'in coup, Lapin levé  so latéte, et li dit : — Yapé pelé moin pou batisé in pitL</s>
+               <s xml:lang="lou" >Bouki dit : — Couri tout suite, faut pas to fait attende.</s>
+               <s xml:lang="lou" >Lapin parti couri et quand li révini, Bouki dit li : — Eh ben to  batisé piti la ?</s>
+               <s xml:lang="lou" >Coman to pelé li ?</s>
+               <s xml:lang="lou" >— Mo pelé li Commencé.</s>
+               <s xml:lang="lou" >— Non, ça ce in drôle nom.</s>
+               <s xml:lang="lou" >In pé plis tard, Lapin, levé so latéte encore et li dit : — Yapé pelé  moin encore pou batisé in lotte piti.</s>
+               <s xml:lang="lou" >— Couri, dit Bouki, to pas capabe dit yé non.</s>
+               <s xml:lang="lou" >Compair Lapin parti couri encore et li resté plis longtemps, que premier fois.</s>
+               <s xml:lang="lou" >Quand li révini Com pair Bouki dit li: — Coman to  pelé piti la fois cila ?</s>
+               <s xml:lang="lou" >— Mo pelé li La Motchié.</s>
+               <s xml:lang="lou" >— La Motchié, mais qui nom c'est ça.</s>
+               <s xml:lang="lou" >Mo jamin tende drôle  nom comme ça to donnin piti yé to batisé.</s>
+               <s xml:lang="lou" >In pé pli tard encore, pendant yé tapé travaille, Lapin levé so latéte  et dit : — Eh ben, yapé pelé moin encore pou in lotte piti ;</s>
+               <s xml:lang="lou" >ça bétant, ma jamin fini mo louvrage.</s>
+               <s xml:lang="lou" >Bouki dit li : — Couri, to pas capabe dit non.</s>
+               <s xml:lang="lou" >Compair Lapin parti couri et li té pé ri li tout seul.</s>
+               <s xml:lang="lou" >Quand li révini encore Compair Bouki dit li: — Coman to pelé  cila ?</s>
+               <s xml:lang="lou" >— Oh ! mo pelé li : Tout fini, pasqué mo vé pli batisé piti</s>
+               <s xml:lang="lou" >Asteur Compair Bouki dit li même : — Faut mo régalé mo même,  mapé couri rempli mo bérier avec mo bon dibère.</s>
+               <s xml:lang="lou" >Li vini gardé dans so baril ; pli arien.</s>
+               <s xml:lang="lou" >Lapin té chéché li nette.</s>
+               <s xml:lang="lou" >— Ça c'est trop fort, dit Bouki, li va payé moin ça.</s>
+               <s xml:lang="lou" >Li trapé  Compair Lapin et li taché li et li dit li : — Qui ça ma capabe fait  avec toi asteur, ma jeté toi dans dolo.</s>
+               <s xml:lang="lou" >— Ah ! oui, c'est ça mo laim itu</s>
+               <s xml:lang="lou" >— Non, to trop content, ma jeté toi dans difé.</s>
+               <s xml:lang="lou" >— Ah ! oui, jeté moin dans difé.</s>
+               <s xml:lang="lou" >— Non, to trop content, ma jeté toi dans zéronce.</s>
+               <s xml:lang="lou" >— Oh ! pardon, mo cher Bouki, pas jeté moin dans zéronce.</s>
+               <s xml:lang="lou" >— - Oui c'est la faut to couri.</s>
+               <s xml:lang="lou" >Compair Bouki lancé Compair Lapin dans zéronce.</s>
+               <s xml:lang="lou" >Asteur, quand  Lapin tombé li coupé so la corde avec so dent et li parti galpé et li  crié ; ~ Merci, mo bon Compair Bouki, to mette moin jisse la ou mo  moman resté.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="13">
+            <head>MAMZELLE MOQUÈRE, MICHIE MOQUÈRE, ET  MICHIÉ HIBOU.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein fois Moquère et pi Hibou tapé fait l'amour même Mamzelle  Moquère.</s>
+               <s xml:lang="lou" >Mamzelle Moquère dit yé : Ah bien, ma marié avec cila  qui connin resté pli lontan sans mangé.</s>
+               <s xml:lang="lou" >Moin, ma resté en bas nabe  la et vouzotte enho li.</s>
+               <s xml:lang="lou" >Asteur Moquère gardé so namoureuse et li tapé descende nabe et  apé chanté :</s>
+               <s xml:lang="lou" >Chivi! Chivi! Ta la la! Hévé ! Ta la la !</s>
+               <s xml:lang="lou" >Quand li rendi en bas li fait comme si lapé bo Mamzelle Moquère,  et cila té gagnin mangé dans so bec et li tapé donnin li jène nomme  Moquère la.</s>
+               <s xml:lang="lou" >Moquère monté dans so nabe encore.</s>
+               <s xml:lang="lou" >Hibou oua tout, lorse li aussite parti pou descende, et tant li tapé  descende li tapé chanté : —  Coucou ! Ta la la !</s>
+               <s xml:lang="lou" >Li rivé en bas, li vini pou bo mamzelle la, mais mamzelle la tournin so latéte et dit li : — Couri, couri, to lézailes fait mo la figure  mal.</s>
+               <s xml:lang="lou" >Pove Hibou té pas gagnin arien pou mangé.</s>
+               <s xml:lang="lou" >Li té bo mamzelle la et mamzelle la té donnin li morceau mangé.</s>
+               <s xml:lang="lou" >Hibou descende aussite, mais li té pé commencé bien faim et ça fait so lavoix  té vini faibe et triste, et li té pé dit: Coucou</s>
+               <s xml:lang="lou" >Mamzelle la té pas oulé gardé li ni donnin li mangé.</s>
+               <s xml:lang="lou" >Pove Hibou  té gagnin pou monté dans nabe la so vente vide</s>
+               <s xml:lang="lou" >et Moquère té pé fait so vantor apé chanté si fort</s>
+               <s xml:lang="lou" >Pove Hibou apé mouri faim, yé té jiste capabe tende li chanté a  force li té faibe : —  Coucou !Ta la !Coucou ! Ta la ! Hévé! Ta la!</s>
+               <s xml:lang="lou" >Li rivé en bas, li seyé bo mamzelle la encore, mais mamzelle la dit  li : — Oh couri, couri, to grand lézailes fait mo mal,</s>
+               <s xml:lang="lou" >et mamzelle la  donnin li in tape qui capoté li par terre</s>
+               <s xml:lang="lou" >et li té si faim que li mouri,</s>
+               <s xml:lang="lou" >et et Michié Moquère parti volé avec so fame.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="14">
+            <head>MARIAZE COMPAIR LAPIN.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >— Tim, tim, bois sec, cré coton,</s>
+               <s xml:lang="lou" >Compair Lapin, c'est ti bonhomme  qui connin sauté.</s>
+               <s xml:lang="lou" >Vous zotes doit rappeler, que après yé té voyé Compair Lapin  dans grands zerbes, comme li té chape raide et comme li dit c'était la  même so moman té fait li.</s>
+               <s xml:lang="lou" >Pour lors donc mo va dit vous que même  jou la Mamzelle Léonine couri joinde li et yé parti voyagé.</s>
+               <s xml:lang="lou" >Yé  marché longtemps, pendant au moin ein mois, a la fin yé rivé au bord  ein la rivière qui té boucou fond ;</s>
+               <s xml:lang="lou" >courant la té fort, trop fort pou  que yé té passé li a la nage.</s>
+               <s xml:lang="lou" >L'ote coté la rivière la té ein joli place,</s>
+               <s xml:lang="lou" >nabes yé té vert et chargé tout sortes fruits ;</s>
+               <s xml:lang="lou" >en bas nabe yé tout  qualité flairs dans moune té la ;</s>
+               <s xml:lang="lou" >quand ein moune té respiré c'est comme si yé té débouché ein fiole lessence dans ein la chambre.</s>
+               <s xml:lang="lou" >Mamzelle Léonine dit comme ça: — Anon couri vive la, dabord  nous pas capabe tournin coté mo popa.</s>
+               <s xml:lang="lou" >La nous va héreux et personne pas allé tracassé nous zotes.</s>
+               <s xml:lang="lou" >Mais comment nous va fait pou traversé lote coté ?</s>
+               <s xml:lang="lou" >— Rété, dit Compair Lapin, laissé moin jonglé ein ti moment, et  pi li prend marché, alors li rivé au ras ein gros di bois sec qui té tombé dans dolo.</s>
+               <s xml:lang="lou" >— Ala nous zaffaire, li dit comme ça.</s>
+               <s xml:lang="lou" >Li coupé ein  grand perche et pi li monté en haut di bois la et li dit Léonine suive.</s>
+               <s xml:lang="lou" >Pove Léonine monté aussite et li té apé tremblé a force li té  pair.</s>
+               <s xml:lang="lou" >— Tchombo bien, ta oua comment na passé, et pi li poussé avec  so baton.</s>
+               <s xml:lang="lou" >Di bois la prende descende courant et yé filé raide ; Lapin  apé pagaye, pagaye.</s>
+               <s xml:lang="lou" >Yé navigué ein demi journin avant yé té capabe  rivé l'ote coté ; courant la té si fort que di bois té toujou apé couri.</s>
+               <s xml:lang="lou" >Li raclé la terre quand li passé au ras lécore.</s>
+               <s xml:lang="lou" >— Sauté, sauté, dit  Compair Lapin.</s>
+               <s xml:lang="lou" >Quand li dit ça li même té déjà en haut la terre.</s>
+               <s xml:lang="lou" >A la fin Mamzelle Léonine sauté aussite et yé trouvé traversé.</s>
+               <s xml:lang="lou" >Ça  fait yé té Content et yé commencé manzé plein bon kichoge yé té  gagnin la, et pi yé posé bien.</s>
+               <s xml:lang="lou" >Yé trouvé ein joli place pou passé la nouitte et lendemïn bo matin  yé prend promené partout.</s>
+               <s xml:lang="lou" >Comme tout ça yé oua té vaillant, yé  pensé yé sré resté la pou vive.</s>
+               <s xml:lang="lou" >Quand yé té chape, yé té pas capabe  porté largent avec yé, ça fait yé trouvé yé a sec.</s>
+               <s xml:lang="lou" >Mais Bon Djé té béni yé, yé té vini dans ein place ou yé té pas besoin boucou largent.</s>
+               <s xml:lang="lou" >Yavé déjà ein bon boute yé té dans place la, yé té tranquille et content et yé té cré yé tout seul, mais tout d'ein coup yé tende ein  tapage, ein remu menage, ein train, comme si tonnerre té apé roulé  en haut la terre.</s>
+               <s xml:lang="lou" >— Qui ça ça, Bon Djé Seigneur, couri gardé, Compair Lapin.</s>
+               <s xml:lang="lou" >— Moin, non. Comme si mo assez béte pou couri gardé et pététe  trapé kichoge mauvais.</s>
+               <s xml:lang="lou" >Vaut mié mo resté tranquille, comme ça  arien pas apé rivé moin.</s>
+               <s xml:lang="lou" >Train la avec di bri la té augmenté toujou. A la fin, yé oua ein  procession néléphants qui té apé vini.</s>
+               <s xml:lang="lou" >Comme yé té passé tranquillement sans taquer personne, ça donne Lapin ein pé courage,</s>
+               <s xml:lang="lou" >alors li vancé coté chef néléphants et pi li dit li mandé li la permission resté dans so pays,</s>
+               <s xml:lang="lou" >que li té sorti dans pays roi Lion, ou yé té  oulé tchué li, que li té bligé chappé avec so fame.</s>
+               <s xml:lang="lou" >Néléphant la dit li : — Comme ça, c'est bon, to capabe resté ici tant  to oulé, mais pas ménin lote zanimo qui connin manzé yé entre yé.</s>
+               <s xml:lang="lou" >Tant ta comporté bien ma va protégé toi et personne pas allé vini  chercher toi icite.</s>
+               <s xml:lang="lou" >Vini oua moin souvent et ma seyé fait kichoge pou toi.</s>
+               <s xml:lang="lou" >Quéque temps après ça Compair Lapin couri oua roi néléphant, et  lé roi té si content quand Compair Lapin té expliqué comment lé roi  té capabe fait boucou largent que li nommé Lapin tout suite capitaine so la banque et gardien so bitin.</s>
+               <s xml:lang="lou" >Quand Compair Lapin oua tout largent li té apé magnin tous les  jou, ca proche rende li fou</s>
+               <s xml:lang="lou" >et comme li té habitoué boi dipi yé té fouillé ein pi dans so pays que dolo la té soulé moune,</s>
+               <s xml:lang="lou" >li continié so  vilain nabitude, chaque fois li té gagnin la chance li té soulé li bien.</s>
+               <s xml:lang="lou" >Ein soir li té rentré tard bien piqué, li prend babillé avec so fame.</s>
+               <s xml:lang="lou" >Léonine fait ni eine ni dé, li bimin Compair Lapin si tant que li resté couché pendant trois semaines.</s>
+               <s xml:lang="lou" >Quand li vini gaillard, li mandé so fame pardon, li di li té soul, que cété dernière fois et pi li bo li.</s>
+               <s xml:lang="lou" >Mais dans so tcheur li gagné vous ein ranquine que li té pas capabe  pardonné Léonine.</s>
+               <s xml:lang="lou" >Li fait serment quitté Léonine mais anvant ça li té gagnin donne li ein famé la trempe.</s>
+               <s xml:lang="lou" >Ça fait ein soir Léonine té apé dromi Compair Lapin prend ein la  corde, li marré so pattes devant et derrière,</s>
+               <s xml:lang="lou" >et comme ça li té sir so zaffaire</s>
+               <s xml:lang="lou" >et li prend ein bon fouette et li taillé so femme jisqua li té  perde connaissance,</s>
+               <s xml:lang="lou" >et pi li quitté li et li parti voyagé,</s>
+               <s xml:lang="lou" >la ou yé sré  jamis tende parlé li, pasqué li té pair Léonine sré tchué li, et li filé  loin.</s>
+               <s xml:lang="lou" >Quand Léonine réveillé li pelé, li pelé, moune vini oua ça té yé et yé  trouvé li bien marré.</s>
+               <s xml:lang="lou" >Alors yé démarré li et Léonine parti tout  suite.</s>
+               <s xml:lang="lou" >Li quitté so la maison, li voyagé longtemps jisqua li vini coté  même rivière li té traversé avec Compair Lapin en haut ein di bois.</s>
+               <s xml:lang="lou" >Li fait ni éin ni dé li sauté dans dolo.</s>
+               <s xml:lang="lou" >Courant la té si fort ça té  souteni li bien. A force débatte, nager, nager, li traversé lote coté.</s>
+               <s xml:lang="lou" >Quand li monté en haut la terre li té bien lasse et té gagnin pou  posé ein bon boute et pi li parti pou tournin coté so popa.</s>
+               <s xml:lang="lou" >Quand so popa oua li li bo li et li caressé li, mais so fille prend crié  et li di li comment Compair Lapin té traité li.</s>
+               <s xml:lang="lou" >Quand so popa tende  ça a force li té colère tout ça yé qui té au ras li prende tremblé.</s>
+               <s xml:lang="lou" >— Vini icite, Compair Renard, ta couri trouvé lé roi néléphant et  ta dit li comme ça si li pas voyé moin Compair Lapin icite plis vite  que li capabe ma va couri dans so pays tchué li" et tout lote nélé-  phants et tout ça qui yé dans so pays.</s>
+               <s xml:lang="lou" >Parti tout suite.</s>
+               <s xml:lang="lou" >Compair Renard voyagé longtemps et a la fin rivé dans pays la ou  Compair Lapin té caché.</s>
+               <s xml:lang="lou" >Mais li pas oua li, li mandé pou li mais  personne té pas capabe donné so nouvelle.</s>
+               <s xml:lang="lou" >Compair Renard couri  trouvé lé roi et li dit li ça so tchenne roi té voyé dit li.</s>
+               <s xml:lang="lou" >Néléphant qui haï Lions réponde : — Va dit to maite si li envi mo cassé so la  djole li jis seyé vini.</s>
+               <s xml:lang="lou" >Mo pas apé voyé arien ni personne et commencé par foute to camp.</s>
+               <s xml:lang="lou" >Si to oulé ein bon conseil resté coté toi.</s>
+               <s xml:lang="lou" >Si jamais Lion seyé vini, ma donné li ein lagniappe que pas eine dans  vous zotes gagnin pou tournin dans vous zote pays.</s>
+               <s xml:lang="lou" >Compair Renard pas mandé so restant, li parti mais li té pas bou-  cou envi tourné chez li, li té pair Lion sré tchoué li si li té vini sans  Compair Lapin.</s>
+               <s xml:lang="lou" >Li marché plis doucement que li té capabe et tout  di long chemin li oua yé té apé préparé pou fait la guerre.</s>
+               <s xml:lang="lou" >Li pensé que pététe néléphants té oulé couri taqué lions,</s>
+               <s xml:lang="lou" >li continié so chimin,  quand li rivé dans ein la plaine li oua Compair Lapin qui té apé galopé  en zigzag, tantôt ein coté tantôt lote</s>
+               <s xml:lang="lou" >et pi li té rété quand li rencontré zanimo, et pi li parlé avec yé et pi li parti encore aussi raide comme anvant.</s>
+               <s xml:lang="lou" >A la fin yé fini par contré, mais Compair Lapin té pas reconaite so vie padna.</s>
+               <s xml:lang="lou" >— Ou tapé couri comme ça, galopé, galopé tout temps ?</s>
+               <s xml:lang="lou" >— Ah, réponde Compair Lapin, vous pas connin mauvais nouvelle que Lion déclaré ladjerre tous néléphants et mapé verti tous milets,  choals et chameaux yé pou yé fou camp.</s>
+               <s xml:lang="lou" >— Mais to même qui zaffaire to gagnin pou galopé,</s>
+               <s xml:lang="lou" >yé pas apé  prend toi pou fait soldat avec toi ?</s>
+               <s xml:lang="lou" >— Non, to croi ça, réponde Compair Lapin, ah bien, to pas connin  arien avec tout to malin.</s>
+               <s xml:lang="lou" >Quand n'officier lé roi a vini chercher choals et milets pou la cavalerie pou fait la djerre yé va dit comme  ça :</s>
+               <s xml:lang="lou" >Ala ein bougue grand zoreille, c'est ein milet, anon prend li,</s>
+               <s xml:lang="lou" >et  quand même mo réclamé et dit moîn c'est ein lapin yé va dit :</s>
+               <s xml:lang="lou" >Oh  non, gardé so zoreille, vouzote oua ben c'est ein milet, et mo sra  fouti, yé va enrôlé moin et mo va bligé marché.</s>
+               <s xml:lang="lou" >Mais semblé moin mo connin vous, mais si longtemps mo pas oua vous.</s>
+               <s xml:lang="lou" >Bon Djé tende  moin, c'est Renard, mo zami lézotes fois.</s>
+               <s xml:lang="lou" >— Oui, oui, c'est moin, mo vie.</s>
+               <s xml:lang="lou" >Eh ben, ça vous dit pou tout vilain  zaffaire yé ?</s>
+               <s xml:lang="lou" >—  Tout ça pou ein femme, dit Compair Lapin, faut nous seyé, mo  zami, pas trouvé nouzottes dans yé procès.</s>
+               <s xml:lang="lou" >— Mais comment na fait, dit Renard,</s>
+               <s xml:lang="lou" >yé va forcé nouzotes la  dans.</s>
+               <s xml:lang="lou" >— Non, dit Compair Lapin, faut to conseillé Lion, mo va conseillé  Néléphant, alors comme ça nous va resté gardé et laissé ye batte  tant yé oulé.</s>
+               <s xml:lang="lou" >— To connin, dit Renard, Léonine tournin coté so popa et comme  vouzotes té pas marié devant léglise mo croi ben Lion en train marié  so fille avec ein dans so voisin ;</s>
+               <s xml:lang="lou" >ça pas fait toi la peine, Compair Lapin, tende tout ça ?</s>
+               <s xml:lang="lou" >— Non, ça zié pas oua tcheur pas fait mal.</s>
+               <s xml:lang="lou" >Dé malin yé causé bon boute, yé té si content, navé si longtemps yé té pas contré.</s>
+               <s xml:lang="lou" >Dans même moment yé té paré pou parti yé oua dé chien qui tapé grongnin nez a nez et pi yé senti ye même  partout.</s>
+               <s xml:lang="lou" >— Vous, Compair Renard, qui connin tout quichoge, vous capabe  dit moin cofaire chien gagnin vilain nhabitude la ?</s>
+               <s xml:lang="lou" >— Mo va dit vous, Compair Lapin, cofaire yé fait ça.</s>
+               <s xml:lang="lou" >Les otes  fois, yéna longtemps, dans temps yé navé jis ein Bon Djé qui té pelé  Michié Zipiter, tout chien té trouvé yé sort té malheureux, alors yé  voyé ein délégation, ein bande chien pou mandé Bon Djé pou li méliorer yé condition.</s>
+               <s xml:lang="lou" >Quand yé té rivé au ras la maison Michié Zipiter  dans ciel tout la restant chien yé té pair, yé parti,</s>
+               <s xml:lang="lou" >jis Brisetout, plis gros chien la bande qui resté.</s>
+               <s xml:lang="lou" >Li té pas pair arien, li vancé au rais  Michié Zipiter, et pi li dit comme ça :</s>
+               <s xml:lang="lou" >— Mo nation voyé moin coté vous pou mandé vous, qui maite tout ça yéna en haut la terre, si vous  croi na va gardé nous maites yé tout la journin et tout la nouite,  jappé tout temps, trappe coups pied, pas mangé arien.</s>
+               <s xml:lang="lou" >Nous trop malheureux et nous oulé connin si nous pas capabe temps en temps  manzé moutons nous zotes maites ;</s>
+               <s xml:lang="lou" >nous pas capabe travaille comme  ça pou arien,</s>
+               <s xml:lang="lou" >ça vous dit, Michié Zipiter ?</s>
+               <s xml:lang="lou" >— Attende ein ti moment,</s>
+               <s xml:lang="lou" >mo va donnin toî ein réponse que jamin  vous zotes a envie vini bété moin encore,</s>
+               <s xml:lang="lou" >mo lasse tende tout sortes plaintes, to tende.</s>
+               <s xml:lang="lou" >Alors li parlé ein langage personne té capabe comprende et ein dans so commis sorti pou couri cherché quichoge.</s>
+               <s xml:lang="lou" >Li dit Brisetout  assite et chien la resté en haut dernier marche l'escalier.</s>
+               <s xml:lang="lou" >Li té cré  Michié Zipiter té gagnin pou régalé li, mais premier quichoge li té  connin, commis la tournin avec lote moune,</s>
+               <s xml:lang="lou" >yé prend Brisetout, yé marré li ben, ensuite yé prend ein pote ferblanc yé mette ladans  piment avec télébentine</s>
+               <s xml:lang="lou" >et yé frotté chien la partout.</s>
+               <s xml:lang="lou" >A force ça té bourlé li, li hélé, li béglé et pi yé lâché li.</s>
+               <s xml:lang="lou" >Alors Michié Zipiter dit  li comme ça : — Va porté ça to camarades et chaque dans vous zotes  qua vini plainde, ma va traité yé pareil, to tende, hein ?</s>
+               <s xml:lang="lou" >Ah non, li pas tende, pasqué Brisetout galopé dret devant li, sans connin ou la couri.</s>
+               <s xml:lang="lou" >A la fin li rivé devant ein bayou, li tombé ladans  et li neyé.</s>
+               <s xml:lang="lou" >Quéque temps après ça Michié Zipiter té pas senti li bien,</s>
+               <s xml:lang="lou" >li pensé  li sré quitté ciel, vini promenin ein pé en haut la terre.</s>
+               <s xml:lang="lou" >Dans so  chimin li contré ein pommier qui té chargé avec belle dépommes.</s>
+               <s xml:lang="lou" >Li commencé mangé et pendant temps la ein bande chien vini jappé après li.</s>
+               <s xml:lang="lou" >Li commandé so Baton fout yé ein bon trempe</s>
+               <s xml:lang="lou" >et Baton la prend tournin a droite et a gauche.</s>
+               <s xml:lang="lou" >Li bimin tout chiens yé et paillé yé tout,</s>
+               <s xml:lang="lou" >jis ein pove chien gale.</s>
+               <s xml:lang="lou" >Li mandé Baton la pardon.</s>
+               <s xml:lang="lou" >Alors Baton la poussé li divant Michié Zipiter et li dit comme ça :</s>
+               <s xml:lang="lou" >— Chien cila té si maigre mo té pas gagnin courage bimin li.</s>
+               <s xml:lang="lou" >— C'est bon, dit Michié Zipiter, laissé li couri, mais si jamais chien vini jappé  après moin mo va détruit yé tout.</s>
+               <s xml:lang="lou" >Vous zotes déjà voyé ein délégation coté moin et mo traité li bien pou pas li vini encore et vous  zotes déjà blié ça.</s>
+               <s xml:lang="lou" >Pove chien maigre la dit li : — C'est vrai ça vous  dit, mais nous pas jamin oua commissionaire nous té voyé coté vous,  napé tende li toujou.</s>
+               <s xml:lang="lou" >Alors Michié Zipiter dit: — Mo va dit toi  comment vous zotes sra capabe reconnaite :</s>
+               <s xml:lang="lou" >si vous zotes senti  lein a lote, cila qui senti télébentine, c'est li vous zotes té voyé coté  moin.</s>
+               <s xml:lang="lou" >— Vous oua asteur, Compair Lapin, cofaire chien senti ein a lote,</s>
+               <s xml:lang="lou" >c'est Michié Zipiter qui fait ça.</s>
+               <s xml:lang="lou" >Pove vieux Michié Zipiter li perdi tout so pratique pasqué pape ordonnin tout moune quitté li et ii té bligé fermé so boutique.</s>
+               <s xml:lang="lou" >Li parti et personne pas connin ou li couri.</s>
+               <s xml:lang="lou" >Vous comprende, Compair Lapin, toujou même quichoge, ein moune fini par dégoûté, alors yé prend ein lote Bon Djé et ein lote religion.</s>
+               <s xml:lang="lou" >Cila nous gagnin asteur mo croi li bon.</s>
+               <s xml:lang="lou" >— Merci, merci, Compair Renard, et pou prouvé vous nous toujou  bon zamis mo va dit vous ça nous capab fait.</s>
+               <s xml:lang="lou" >Comme mo déjà dit vous na va resté tranquille.</s>
+               <s xml:lang="lou" >Comme Néléphant yé oulé couri taqué Lion chez li même na va fait en pont pou passé larmée</s>
+               <s xml:lang="lou" >et sitôt li va fini na va marché dret sans rété nille part jisqua nous rendi coté  Lion. Nous oulé surprende li ; pas dit ça personne, vous tende.</s>
+               <s xml:lang="lou" >Yé serré la main et yé séparé.</s>
+               <s xml:lang="lou" >Renard prend so chimin et Lapin  couri trouvé Roi Néléphant et pi li dit tout charpentier et forgeron  dans pays faut yé coûté li.</s>
+               <s xml:lang="lou" >Quand tout zouvrier té réini Compair  Lapin commencé fait so pont qui té vite fini.</s>
+               <s xml:lang="lou" >Au boute pont la, coté yé, li fait ein grand parc.</s>
+               <s xml:lang="lou" >C'était barre di fer qui té planté dans la terre disse pieds haut et pi si pointi au boute que ein démouche té  pas capabe posé sans li resté pris ;</s>
+               <s xml:lang="lou" >et pi li couvri tout barre di fer  avec la liane et tout quichoge qui té vert comme si c'était ein grand talle zéronce, pou yé douté c'était ein la trappe.</s>
+               <s xml:lang="lou" >Alorse li prend  quatre lavache avec yé piti veaux et marré yé dans bo milié la.</s>
+               <s xml:lang="lou" >Après ça li mette piment, la cendre et la prise que li paillé partout dans la trappe la.</s>
+               <s xml:lang="lou" >Li mette aussi plein baille dolo avec ein drogue qui té  connin endormi tout souite.</s>
+               <s xml:lang="lou" >— La, Compair Lapin dit, nous paré, laissé Lion vini taqué nous zotes.</s>
+               <s xml:lang="lou" >Renard té apé voyagé toujou pou couri rende compte so commission, mais li té si pair couri coté Lion sans Compair Lapin que li  pensé li té vaut mié pas couri ditout.</s>
+               <s xml:lang="lou" >Dans so chimin li contré ein  poule, li tchué li, li prend so disang et barbouillé ein vie linge.</s>
+               <s xml:lang="lou" >Li  marré so patte darriere et li prend boité, sauté en haut trois pattes</s>
+               <s xml:lang="lou" >A la fin li rencontré Bourriquet et li dit comme ça : — Mo cher zami,  rende moin ein ti service, to oua comme mo malade.</s>
+               <s xml:lang="lou" >Tant prie,  couri coté Lion et dit li mo pas capabe vini.</s>
+               <s xml:lang="lou" >Yé cassé mo patte coté  néléphant pasqué mo té couri réclamé Compair Lapin.</s>
+               <s xml:lang="lou" >— Oh, non, dit Bourriquet, to té toujou conte moin avec Compair Lapin, couri to même.</s>
+               <s xml:lang="lou" >— C'est bon, dit Renard, c'est pas jis einfois la bouche besoin manger, ta va besoin moin avant longtemps,</s>
+               <s xml:lang="lou" >si to té connin ça mo oua et  ça mo connin, to té coûté moin.</s>
+               <s xml:lang="lou" >— Eh ben, dis moin tout, mo va couri, dabord vous pas capabe  marcher.</s>
+               <s xml:lang="lou" >— C'est ben, coûté alors : Néléphant conté vini taqué Lion chez  li ;</s>
+               <s xml:lang="lou" >pou ça yé fait ein grand pont pou passer et yé va vini tout suite  surprende Lion.</s>
+               <s xml:lang="lou" >Si Lion connin quichoge, la fait mié couri taqué néléphant avant yé vini soulever li sans li douté arien.</s>
+               <s xml:lang="lou" >Alors Bourriquet parti grand galop et quand li rivé coté Lion  li dit tout ça Renard té conté li.</s>
+               <s xml:lang="lou" >Lion té si content li dit ein so  moune donnin Bourriquet ein pé lapaille pou mangé.</s>
+               <s xml:lang="lou" >Bourriquet té pas content, li babillé ein pé, alors cila qui donne li la paille dit li :</s>
+               <s xml:lang="lou" >— To connin que ein choal donnin to doite pas gardé la bride.</s>
+               <s xml:lang="lou" >— Mo té croï, dit Bourriquet, mo sré gagnin meillère récompense,  mais ma prend ça toujou, pasqué ein ti zozo dans la main vaut mié  que plein ti zozos quapé voltigé dans bois.</s>
+               <s xml:lang="lou" >Tout dein coup yé tende ein grand boulvari.</s>
+               <s xml:lang="lou" >C'était Lion avec  tout so zanimo, tigue, lours, loup et tout ça li té capabe ramassé.</s>
+               <s xml:lang="lou" >Renard té déjà tournin pou verti Compair Lapin yété apé vini.</s>
+               <s xml:lang="lou" >Léonine té dans la bande et a tout moment so popa té apé dit li :  — Mo content to vini, Compair Lapin gagnin pou payer tout so  farce, faut to traité li comme li traité toi.</s>
+               <s xml:lang="lou" >Lion té en tête la bande ; quand yé té proche pont la li contré  Compair Renard qui té couché dans chimin avec so patte cassé.</s>
+               <s xml:lang="lou" >— An, an, dit Lion, c'est comme ça yé traité toi,</s>
+               <s xml:lang="lou" >yé gagnin pou payé tout ça</s>
+               <s xml:lang="lou" >— Couri vite, dit Renard, pas attende yé vini taqué vous zotes,  passé pont la tout souite, vous zotes va dérouté yé.</s>
+               <s xml:lang="lou" >Yé continué yé chimin.</s>
+               <s xml:lang="lou" >Yé tout té apé galpé et yé prend pou passé  pont, Lion en tête avec so fille.</s>
+               <s xml:lang="lou" >Quand yé vini coté la trappe la et  yé oua lavache layé qui té apé béglé, Lion et so la bande mangé yé  tout.</s>
+               <s xml:lang="lou" >Ensuite yé prende batte</s>
+               <s xml:lang="lou" >et yé voltigé la cendre et piment et la</s>
+               <s xml:lang="lou" >Yé batte, yé massacré yé même et pi ça  yé qui té resté boi dolo la.</s>
+               <s xml:lang="lou" >Dé zère après ça yé tout té apé dromi.</s>
+               <s xml:lang="lou" >Alors néléphant vini tchué yé et jeté yé dans dolo.</s>
+               <s xml:lang="lou" >Yé corché Lion, yé prend so lapeau et coude Bourriquet ladans.</s>
+               <s xml:lang="lou" >Yé mette ein tas la paille avec godron après so la tcheu, et yé mette di fé ladans et  pi yé lâché li pou couri porté la nouvelle dans pays Lion.</s>
+               <s xml:lang="lou" >Quand Bourriquet passé en haut pont, a force li galpé vite moune  té cré c'était tonnerre qui té apé roulé plis dé cent charretées.</s>
+               <s xml:lang="lou" >Quand  Bourriquet rivé dans pays Lion so boute la tcheu té tombé a force li  té bourlé, li dit c'était dans ein bataille</s>
+               <s xml:lang="lou" >yé té donne li ein coup sabe.</s>
+               <s xml:lang="lou" >Malgré li té porté ein triste nouvelle yé ri après li pasqué li té trop drôle comme ça.</s>
+               <s xml:lang="lou" >Quand tout ça té fini, Compair Lapin couri trouvé Compair Renard  et li ménin li coté Roi Néléphants.</s>
+               <s xml:lang="lou" >Compair Lapin présenté li et  dit lé roi que Renard té ein so bon zamis et li sré content si Roi té  accepté li et yé dé sré rende bande services.</s>
+               <s xml:lang="lou" >Roi néléphants dit  yé : — Mo croi vous zotes ce dé malin, dans zaffaire nous té gagnin  avec Lion mo croi Compair Renard té galpé avec chévreil et chassé  avec chien.</s>
+               <s xml:lang="lou" >Enfin c'est bon, li capabe resté icite.</s>
+               <s xml:lang="lou" >Tant qu'a pou toi,  Compair Lapin, mo ouié to marié,</s>
+               <s xml:lang="lou" >Ala ein Mamzelle Lapin Blanc qui riche, c'est to zaffaire,</s>
+               <s xml:lang="lou" >demain mo oulé la noce la.</s>
+               <s xml:lang="lou" >Lendemin tout moune té réini et yé célébré la noce Compair Lapin avec Mamzelle Lapin Blanc et Compair Renard té so premier garçon d'honnair.</s>
+               <s xml:lang="lou" >Trois semaines après la noce Madame Compair Lapin  gagnin dé piti, ein té blanc, lote té noir comme la souie chimin.</s>
+               <s xml:lang="lou" >Compair Lapin té pas content, li couri oua Roi néléphant pou dit  li ça.</s>
+               <s xml:lang="lou" >— Ah bah, dit lé Roi, to pas connin arien, to bien marié devant léglise, mo pas capabe donnin toi divorce,</s>
+               <s xml:lang="lou" >et pi mo va dit toi, c'est nhabitude dans famille Madame Compair Lapin gagnin piti qui noir</s>
+               <s xml:lang="lou" >c'est quand madame yé pair la nouitte, ainsi consolé toi.</s>
+               <s xml:lang="lou" >Ça fait Compair Lapin consenti resté avec so femme jiska li mouri et c'est comme ça li marié avec tout so fredaine.</s>
+               <s xml:lang="lou" >Comme mo té la quand tout ça rivé mo vini pou conté vous ça.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="15">
+            <head>LÉ ROI PAN.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >In fois yavait in madame qui té si joli, si joli, que li té jamin oulé  marié.</s>
+               <s xml:lang="lou" >Tou cila qui té vini, li té trouvé quichoge pou di — Ob, toi  to trop laide — Oh, toi, to trop piti.</s>
+               <s xml:lang="lou" >Oh, toi, to la bouche trop grand.</s>
+               <s xml:lang="lou" >Enfin chacunne té gaingnin quichoge qui té pas dréte.</s>
+               <s xml:lang="lou" >Asteur ein jou in vaillant michié vini Li té dans in carrosse tout en  or, et yavait huite choals blancs qui té apé trainin carrosse la.</s>
+               <s xml:lang="lou" >Li  mandé madame la pou marié. Li té jamin oulé.</s>
+               <s xml:lang="lou" >Michié la té si en  colère, li dit madame la que dans in an li sré gaingnin in fille qui sré  boucou, boucou pli joli que li.</s>
+               <s xml:lang="lou" >Madame la di li couri, que li té pas oulé mette so giés enho li encor.</s>
+               <s xml:lang="lou" >Asteur, jisse in an après ça madame la té gaingnin in joli joli piti  fille.</s>
+               <s xml:lang="lou" >Quand li oua li té si joli li frinmin li dans in lachambe au  boute so la maison : et li mette so nourice, pou gardé.</s>
+               <s xml:lang="lou" >Ti fille la vini grand, et plis li té pé grandi, et plis li té pé vini joli.</s>
+               <s xml:lang="lou" >Jamin so  nourice té laissé li sorti dans lachambe la.</s>
+               <s xml:lang="lou" >In jou, li té pé balayé,  fille la gadé déyors, et li oua in gros zozo.</s>
+               <s xml:lang="lou" >— Oh, moman Tété, li di, comment to pelé zozo la, li si joli ?</s>
+               <s xml:lang="lou" >— -Ça, mo piti, c'est in pan.</s>
+               <s xml:lang="lou" >— Oh, li di li, moman Tété, si mo jamin marié, mole marié lé roi  Pan.</s>
+               <s xml:lang="lou" >— Lors so gadgienne di li : — Bon Djié tende toi, mo piti.</s>
+               <s xml:lang="lou" >Jou la même moman la vini, li pelé gadgienne la dans in coin, li  tiré en bas so romaine in gros couteau et li di li : — Mole to tchijé  mo fille.</s>
+               <s xml:lang="lou" >Lapé vini plis joli que moin.</s>
+               <s xml:lang="lou" >Gadgienne la parti crié, mandé pardon pou so pove piti, mais ça té  pas la peine, caire noir la té pas tende arien.</s>
+               <s xml:lang="lou" >Asteur quand lé soir  vini, gadgienne la di so fille : — Mo pove piti, fo mo tchué toi, to moman oulé ça.</s>
+               <s xml:lang="lou" >Pove piti, la té si bon, li di : — Ah ben, moman Tété, fé li, pisse  moman oulé ça.</s>
+               <s xml:lang="lou" >Mais li di fille la : — Mo pas gaingnin courage fé sorte louvrage  la, mo piti.</s>
+               <s xml:lang="lou" >Tiens, ala trois graines, ta jette to même dans pi et pi ta neyé.</s>
+               <s xml:lang="lou" >Mais avant to tombé dans pi valé inné dans graines yé, to va pas souffri ditout comme ça.</s>
+               <s xml:lang="lou" >Fille la bo so moman tété et li prend so chimin pou couri.</s>
+               <s xml:lang="lou" >Li  marché jouqu'a li rendi coté in grand pi.</s>
+               <s xml:lang="lou" >Li descende ladans, et avant li rivé coté dolo, li jette in graine dans so la bouche.</s>
+               <s xml:lang="lou" >Mais  au lieu couri dans so labouche li tombé dans dolo.</s>
+               <s xml:lang="lou" >Asteur pi li  vini tout sec. Mamzelle la té si chagrin.</s>
+               <s xml:lang="lou" >Li sorti dans pi et li  marché, marché loin dans bois, jouqu'a li tombé enho in piti la maison.</s>
+               <s xml:lang="lou" >Li cognin enho la porte et in vie femme vini ouvri.</s>
+               <s xml:lang="lou" >Li jette in cri quand li oua joli mamzelle la.</s>
+               <s xml:lang="lou" >— Oh bon Djié Seigneur, mo piti,  ça to vini fait icite.</s>
+               <s xml:lang="lou" >To pas connin que mo mari c'est in norgue, li  mangé moune.</s>
+               <s xml:lang="lou" >Alors fille la di li:— Ah ben, madame, c'est ça mole,</s>
+               <s xml:lang="lou" >mo moman  dit fo mo mouri,</s>
+               <s xml:lang="lou" >Lors vie femme la di li : — Si c'est ça, entré, mo pove piti, mais ça  bien dommage.</s>
+               <s xml:lang="lou" >Pove piti la assite apé crié et apé tende norgue la.</s>
+               <s xml:lang="lou" >Tout d'in coup  yé tende in gros pas ki té apé marché.</s>
+               <s xml:lang="lou" >Sitôt la porte la ouvri,  norgue crié : — Oh, mo femme, mo senti la vianne fraîche, et ou ça  yé ?</s>
+               <s xml:lang="lou" >Li gardé coté fille la,</s>
+               <s xml:lang="lou" >qui jisse gardé li avec so grand giés et  norgue la tchullé, et li di :</s>
+               <s xml:lang="lou" >— Oh, mo femme, esqué to croi que mo  capabe mangé in joli fille comme ça?</s>
+               <s xml:lang="lou" >Non, li jisse bon pou yé  gardé li.</s>
+               <s xml:lang="lou" >Fille la di li li té si lasse, alors li minnin li dans in joli lachambe,  et li cou chaché in ventail avec déplime pan et li di so femme vanté  li tout temps dromi.</s>
+               <s xml:lang="lou" >Alors pove fille la di: — Vo mié mo mouri einne foi, pasqué  pété té dinmain norgue la va envie mangé moin.</s>
+               <s xml:lang="lou" >Li prend so piti  graine, li mette li dans so labouche et pi li parti dromi, dromi, et  femme norgue la té pé vanté li tout temps.</s>
+               <s xml:lang="lou" >Yavait trois jours li té  pé dromi, norgue la vini gadé li et li di so femme: — Mo croi li  mouri, et c'est dommage.</s>
+               <s xml:lang="lou" >Li couri laville, et li porté in cercueil  tout en or.</s>
+               <s xml:lang="lou" >Li mette fille la ladans et li posé li enho flève.</s>
+               <s xml:lang="lou" >Asteur cercueil la parti descenne, descenne flève.</s>
+               <s xml:lang="lou" >Rivé loin, lé roi Pan té pé pranne la fraîche enho la levée avec tout so prince yé.</s>
+               <s xml:lang="lou" >Quand li  oua ça qui té pé claire enho flève,  li di so moune yé, couri bien vite  oua qui ça.</s>
+               <s xml:lang="lou" >Yé tout prend skif et yé parti.</s>
+               <s xml:lang="lou" >Yé crié : — Ce in cercueil,  et yé minnin li coté lé roi.</s>
+               <s xml:lang="lou" >Quand li oua joli mamzelle la qui té jisse  sembe apé dromi, li di :</s>
+               <s xml:lang="lou" >— Minnin li coté mo lachambe, mole seyé pou  réveillé.</s>
+               <s xml:lang="lou" >Li fermin li même dans so Iachambe, li frotté mamzelle  la avec dolo cologne, mais ça té pas fait arien.</s>
+               <s xml:lang="lou" >Alorse li ouvri so  labouche, et li té pé gardé comme li té gaingnin joli dents.</s>
+               <s xml:lang="lou" >Li oua  quichoge qui té rouge dans so dent devant, li prend in épingle en or.</s>
+               <s xml:lang="lou" >Li jisse ote ça,</s>
+               <s xml:lang="lou" >fille la ouvri so gié et li dit : — Mo content oua vous.</s>
+               <s xml:lang="lou" >Alors li roi dit li : — Moin, ce lé roi Pan, et mole marié avec vous.</s>
+               <s xml:lang="lou" >Mamzelle la dit : — C'est ça, et yé fait in gros la noce et yé di moh  couri conté ça partout, partout.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="16">
+            <head>DES OS QUI CHANTÉ.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Yavait eine fois ein n'homme et ein fame qui té gagnin vingt-cinq  pitis.</s>
+               <s xml:lang="lou" >Yé té très pove, n'homme la té bon, fame la té mauvais.</s>
+               <s xml:lang="lou" >'Tous les jous quand mari la té révini so louvrage fame la té servi dinin,  mais toujou la viande sans des os.</s>
+               <s xml:lang="lou" >— Comment ça fait la viande la pas gagnin des os ?</s>
+               <s xml:lang="lou" >— Pasqué des os ça pesé, et c'est meilleur marché sans des os.</s>
+               <s xml:lang="lou" >Yé  donnin plis pou largent.</s>
+               <s xml:lang="lou" >Mari la mangé et pas dit arien.</s>
+               <s xml:lang="lou" >— Comment ça fait to pas mangé la viande ?</s>
+               <s xml:lang="lou" >— To blié mo pas gagnin dents.</s>
+               <s xml:lang="lou" >Comment to lé mo mangé la viande sans dents ?</s>
+               <s xml:lang="lou" >— C'est vrai, dit mari la, et li paix pasqué li té pair fait la peine so fame qui té aussi laide que li té méchant.</s>
+               <s xml:lang="lou" >Quand moune gagnin vingt-cinq pitis moune pas capabe pensé yé tout temps et moune pas oua si yé na ein ou dé qui manqué.</s>
+               <s xml:lang="lou" >Ein jou après so dinin, mari la mandé so pitis.</s>
+               <s xml:lang="lou" >Quand yé té coté li li compté yé et jiste trouvé quinze.</s>
+               <s xml:lang="lou" >Li mandé so fame ou té disse les otes yé.</s>
+               <s xml:lang="lou" >Li réponde yé té chez yé grandmoman et tous les jous li voyé ein lote pou yé changé l'air.</s>
+               <s xml:lang="lou" >Ça té vrai, tous les jous yavait eine qui manqué.</s>
+               <s xml:lang="lou" >Ein jou mari la té on so pasporte divant ein gros la pierre yé té  gagnin la.</s>
+               <s xml:lang="lou" >Li tapé pensé so pitis et li té oulé couri chercher yé  chez yé grandmoman, quand li tende des lavoix qui tapé dit :</s>
+               <s xml:lang="lou" >Nous moman tchué nous,  Nous popa manzé nous.</s>
+               <s xml:lang="lou" >Nous pas dans la bière,  Nous pas dans cimetière.</s>
+               <s xml:lang="lou" >En premier li té pas rende compte ça ça té, mais li levé la pierre la et li oua ein grand quantité des os qui recommencé chanté.</s>
+               <s xml:lang="lou" >Li  comprende alors c'était des os so pitis so fame té tchué et que li té manzé.</s>
+               <s xml:lang="lou" >Alors li té si en colère li tchué so fame et terré des: os so  pitis dans cimetière et li couri, resté sel chez li.</s>
+               <s xml:lang="lou" >Dipi temps li jamais manzé la viande pasqué li té toujou cré c'était so pitis, que té apé manzé.</s>   
+            </p>
+         </div>
+         
+         <div type="chapter" n="17">
+            <head>JEAN SOTTE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Yavait eine fois ein bougue a force li té béte tout moune té pelé Jean Sotte.</s>
+               <s xml:lang="lou" >Lï té si simple que tout moune té foute dé li.</s>
+               <s xml:lang="lou" >Li té  coutume limin la lampe lé jou et teigne li lé soi.</s>
+               <s xml:lang="lou" >Jamin li té pas  prend so parasol dans jou, jis la nouitte, quand li té fait ben noir.</s>
+               <s xml:lang="lou" >Dans l'été li té mette so gros capot et l'hiver li té couri tout ni et  prend ein grand vantail ;</s>
+               <s xml:lang="lou" >li té fait tout quichoge a la rebours bon  sens.</s>
+               <s xml:lang="lou" >Ça fait lé roi Bangon qui té laimin fait farce tende parlé tout  faits et geste Jean Sotte, alors li voyé chercher li pou amuser tout  so camarade.</s>
+               <s xml:lang="lou" >Quand Jean Sotte rivé coté lé roi yé prend ri a force  Jean té paraite gauche.</s>
+               <s xml:lang="lou" >Lé roi mandé li comme ça si li té connin  compter.</s>
+               <s xml:lang="lou" >Jean réponde li té connin compter dézefs, que hier li  trouvé quatre et pi dé.</s>
+               <s xml:lang="lou" >— Combien ça fait en tout ? dit lé roi.</s>
+               <s xml:lang="lou" >Jean compté en haut so la main et pi li dit ça fait quatre et pi dé.</s>
+               <s xml:lang="lou" >— C'est ça même, dit Bangon ; yé dit moin c'est Compair Lapin  qui to popa ? "</s>
+               <s xml:lang="lou" >— Oui, dit Jean Sotte, c'est li même.</s>
+               <s xml:lang="lou" >•—Non, non, dit ein lote moune qui té la, mo croi plitot c'est  Compair Bouki.</s>
+               <s xml:lang="lou" >— Oui, oui, dit Jean, li aussite.</s>
+               <s xml:lang="lou" >— Non, dit ein vie fame qui té apé passé, c'est Renard qui to  popa.</s>
+               <s xml:lang="lou" >— Oui, oui, dit Jean Sotte, tout ça yé, c'est tout mo popa,</s>
+               <s xml:lang="lou" >chaquéne  dans yé quand yé passé dit moin : — Bonjou, mo piti,</s>
+               <s xml:lang="lou" >Alors mo croi yé tout c'est mo popa.</s>
+               <s xml:lang="lou" >Moune yé ri boucou après Jean Sotte,</s>
+               <s xml:lang="lou" >alors lé roi dit li : — Mo  oulé to porté moin demain matin ein bouteille di lait taureau,</s>
+               <s xml:lang="lou" >c'est pou fait réméde pou mo fille qui malade, li gagnin ein point coté dans  dos.</s>
+               <s xml:lang="lou" >— C'est bon, dit Jean Sotte, demain matin bonne haire ma  porté li.</s>
+               <s xml:lang="lou" >Et pi roi Bangon dit li comme ça :  — Premier avril prochain dans ein mois, ta vini,</s>
+               <s xml:lang="lou" >na gagnin pou  dévinin ein quichoge.</s>
+               <s xml:lang="lou" >Cila qua trouvé gagnin pou marié avec mo  fille, mais cila qui seyé troi fois, si li pas trouvé, mo bourreau gagnin  pou coupé so cou.</s>
+               <s xml:lang="lou" >— C'est bon, ma seyé, dit Jean Sotte,</s>
+               <s xml:lang="lou" >et pi li parti, soi disant pou chercher di lait taureau.</s>
+               <s xml:lang="lou" >Quand li rivé coté li, li raconté tout ça so moman, et vie femme prend  crié, crié,</s>
+               <s xml:lang="lou" >pasqué tout sotte so garçon té yé moman la té laimin li quand même, pasqué c'était jisse ein piti li té gagnin.</s>
+               <s xml:lang="lou" >Li défende  Jean Sotte couri, menacé li marré li ou ben fait sheriff jeté li dans  prison.</s>
+               <s xml:lang="lou" >Jean Sotte té fout ben tout ça ; li parti anvant jou, li prend  so la hache et anvant li té fait clair li té devant la maison lé roi.</s>
+               <s xml:lang="lou" >Li grimpé dans la tête ein chêne qui té devant la maison et pi li commencé :</s>
+               <s xml:lang="lou" >— Caou, caou, biche, biche. Comme ça té fait train et réveillé  tout moune ein domestique lé roi sorti et vini oua.</s>
+               <s xml:lang="lou" >Quand li jeté so zié en haut Jean Sotte, li dit comme ça : — Mais que commerce tapé  mené, bowgue d'animal, réveillé tout moune comme ça ?</s>
+               <s xml:lang="lou" >Ça pas gardé toi, to tende, dit Jean Sotte,</s>
+               <s xml:lang="lou" >toi c'est chien pou jappé  dans la cour.</s>
+               <s xml:lang="lou" >Quand to maite, lé roi Bangon, a vini, mo va dit li  ça mapé fait ici.</s>
+               <s xml:lang="lou" >Alors lé roi vini oua, li gardé li longtemps et pi li mandé li ça li té  apé fait dans la tête nabe la.</s>
+               <s xml:lang="lou" >Jean Sotte réponde li té apé biche  l'écorche chêne pou fait la tisane pou so popa qui té malade, li té  accouché la veille, so popa té fait dé jumeaux.</s>
+               <s xml:lang="lou" >— Aïe, dit lé roi, mais pou qui to prend moin, Jean Sotte,</s>
+               <s xml:lang="lou" >ou ça  to déjà tende ein n'homme accouché ?</s>
+               <s xml:lang="lou" >Mo pensé to oulé foute toi dé moin.</s>
+               <s xml:lang="lou" >— Comment ça fait vous mandé moin hier ein bouteille dit lait  taureau, réponde Jean Sotte,</s>
+               <s xml:lang="lou" >si vous té gagnin raison, moin aussite.</s>
+               <s xml:lang="lou" >Alors lé roi dit li comme ça : — Mo pas croi to aussi sotte que to oulé sayé fait nous zotes croi.</s>
+               <s xml:lang="lou" >Couri la quisine, ya donne toi to déjéner et pi couri coté to la maison</s>
+               <s xml:lang="lou" >et pas blié vini premier avril pou  oua cila dans nous zotes qua mangé posson d'avril la.</s>
+               <s xml:lang="lou" >Quand Jean Sotte tournin coté so moman li raconté tout ça.</s>
+               <s xml:lang="lou" >Vie  femme la prend crié et pi li défende Jean couri coté roi encore, li té  pair yé sré coupé cou so pove piti.</s>
+               <s xml:lang="lou" >Quand jou la vini Jean monté eft  haut so choal et li parti sans so moman té connin.</s>
+               <s xml:lang="lou" >Compair Bouki  qui té traite et malfaisant, dit comme ça : — Moin mo va péché Jean  Sotte couri dévinin, pasqué rao connin li si sotte yé va coupé so cou  et pi g^rdé so choal,</s>
+               <s xml:lang="lou" >vaut mié moin mo profité et prend choal la,</s>
+               <s xml:lang="lou" >pas  dit arien, ta oua ça ma fait.</s>
+               <s xml:lang="lou" >Li prend ein grand panier gateaux qui té poisonnin et pi li mette  yé en haut ein pont ou Jean Sotte té gagnin pou passé.</s>
+               <s xml:lang="lou" >— La, quand  li va mangé gateaux la yé la mouri et ma vini prend so choal.</s>
+               <s xml:lang="lou" >Bouki té connin Jean Sotte té gourmand et li té mangé pou sire  dans gateaux yé,</s>
+               <s xml:lang="lou" >mais Compair Lapin te laimin Jean Sotte, pasqué  ein fois li té trouvé li même dans grand nembarras, li té trouvé dans  prison dans ein la trappe et Jeaa Sotte té lâché li fou ça</s>
+               <s xml:lang="lou" >Compair  Lapin dit li même : - — Mo va protégé pove ninnocent la.</s>
+               <s xml:lang="lou" >Li tende  Jean Sotte longtemps dans chimin anvant jou et quand li rivé li dit :  — Jean Sotte, mo vini pou rende toi service, coûté moin ben, pas  mangé ni bois arien dans chimin pendant to voyage, quand même tapé  mouri faim et soit Coûté moin, to tende, ye gagnin pou poisonné  toi si to boi ou mangé.</s>
+               <s xml:lang="lou" >Quand lé roi a mandé toi pou dévinin ta  reponde li jisse ça mo va dit toi dans to zoreille ;</s>
+               <s xml:lang="lou" >vancé, mo pas oulé personne tende.</s>
+               <s xml:lang="lou" >Alors Compair Lapin dit li tout doucement ça pou réponde.</s>
+               <s xml:lang="lou" >— An, an, oui, oui, dit Jean Sotte, mo comprende, et pi li rit Oui,  oui, c'est ça même.</s>
+               <s xml:lang="lou" >— Asteur, dit Compair Lapin, pas blié moîn quand ta marié avec  fille lé roi, voyé chercher moin et na fait bon zaffaire.</s>
+               <s xml:lang="lou" >— Oui, dit Jean Sotte, mo va pas blié vous.</s>
+               <s xml:lang="lou" >— Eh ben, bon voyage, fait ben tention tout ça to oua, gardé partout, coûté ben et ça va profité toi.</s>
+               <s xml:lang="lou" >Alors Jean Sotte mette li en route et ein piti moment après li rivé  coté pont en haut la rivière.</s>
+               <s xml:lang="lou" >Premier quichoge li oua, c'était panier  bel gateaux Compair Bouki.</s>
+               <s xml:lang="lou" >Yé té senti bon, ça té donnin envie mangé.</s>
+               <s xml:lang="lou" >Jean Sotte gardé yé, li taté yé, li té proche envie morde  ladans, mais li rappelé ça Compair Lapin dit li, ça fait li rété ein ti  moment.</s>
+               <s xml:lang="lou" >Laissé moin oua si ya fait mo choal mal.</s>
+               <s xml:lang="lou" >Li prend ein  demi douzaine gateaux et donne so choal.</s>
+               <s xml:lang="lou" >Pove béte la mouri ein ti  moment après, li tombé raide en haut pont la, c'était fini dans ein ti  moment.</s>
+               <s xml:lang="lou" >— Gardé si mo té pas prend précaution.</s>
+               <s xml:lang="lou" >Ah, Compair  Lapin té raison ; ein pé plis mo té fouti.</s>
+               <s xml:lang="lou" >Anvant li parti li culbité so choal dans la rivière et quand pove  béte té apé dérivé dans courant trois carencros vini posé en haut li  et commencé mangé so pove choal.</s>
+               <s xml:lang="lou" >Jean Sotte gardé li longtemps jisqua li disparaite derrière la pointe.</s>
+               <s xml:lang="lou" >— Compair Lapin dit moin  gardé, coûté et pas dit arien, c'est bon, moin aussite mo va gagnin  pou mandé lé roi dévinin quichoge.</s>
+               <s xml:lang="lou" >Quand Jean Sotte rivé coté lé roi yé navait déjà plein moune qui té sayé dévinin ça lé roi té proposé yé, et après yé té sayé trois fois  so bourreau té coupé yé cou.</s>
+               <s xml:lang="lou" >Yavait cinquante qui té déjà mouri.</s>
+               <s xml:lang="lou" >Alors tout moune dit : — Ala Jean Sotte, li va sayé dévinin aussite,</s>
+               <s xml:lang="lou" >li si sotte vous zotes a oua comme ya coupé so cou,</s>
+               <s xml:lang="lou" >laissé li fait,  dabord li si béte.</s>
+               <s xml:lang="lou" >Lé roi prend ri quand li oua Jean Sotte et li dit li comme ça.</s>
+               <s xml:lang="lou" >— Qui  ça qui bon matin marché en haut quatre pattes, a midi en haut dé  pattes, et lé soir en haut trois pattes ?</s>
+               <s xml:lang="lou" >— Si mo dévinin, vous va donnin moin vous fille ?</s>
+               <s xml:lang="lou" >— Oui, dit lé roi.</s>
+               <s xml:lang="lou" >— Oh, c'est pas arien pou dévinin.</s>
+               <s xml:lang="lou" >— Eh ben, hourrah, fait vite si to pas oulé mo coupé to cou.</s>
+               <s xml:lang="lou" >— C'est ein piti moune qui marché en haut quatre pattes.</s>
+               <s xml:lang="lou" >Quand  li vini grand li marché en haut dé,</s>
+               <s xml:lang="lou" >et quand li vini vie li bligé prend ein baton pou apiyer li, ça fait trois pattes.</s>
+               <s xml:lang="lou" >Tout moune resté la bouche ouvri a force yé té étonné.</s>
+               <s xml:lang="lou" >— To dévinin jiste, dit lé roi, mo fille pou toi.</s>
+               <s xml:lang="lou" >Asteur nimporte qui  dans vous zotes mandé moin ein quichoge et si mo pas trouvé, pasqué  mo connin tout ça yé na dans moune, alors mo va donnin li mo place  avec mo fortine.</s>
+               <s xml:lang="lou" >Alors Jean Sotte dit lé roi : — Mo oua eîn mort qui té apé porté trois vivants et apé nourri yé.</s>
+               <s xml:lang="lou" >Mort la té pas touché la terre ni li té  pas dans ciel, dis moin qui c'est ou ben mo va prend vous place avec vous fortine.</s>
+               <s xml:lang="lou" >Roi Bangon sayé dévinin, li dit c'est ça et tout plein quichoge, li  pas fouti dévinin et li té bligé bandonné la partie.</s>
+               <s xml:lang="lou" >Alors Jean  Sotte dit li comme ça : — Mo choal mouri en haut ein pont, mo jeté  li dans la rivière et quand li té apé dérivé carencros posé en haut li  et mangé li dans dolo.</s>
+               <s xml:lang="lou" >Li té pas touché la terre ni li té pas dans  ciel.</s>
+               <s xml:lang="lou" >Alors tout moune oua que Jean Sotte té boucou plis malin que  yé tous ensembe.</s>
+               <s xml:lang="lou" >Li marié avee fille lé roi, li prend so place et  c'est li qui té gouverné pays la après.</s>
+               <s xml:lang="lou" >Li prend Compair Lapin pou  so premier colombe, et pi après ça yé pende Compair Bouki pou  so coquinerie.</s>
+               <s xml:lang="lou" >Après ça yé changé nom Jean Sotte et pelé li Jean l'Esprit.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="18">
+            <head>MARIAZE DJABE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein jou yé té gagnin ein joli jeine fille mais li té fière.</s>
+               <s xml:lang="lou" >A chaque fois des michiés té vini fé li lamour, li té toujou gagnin prétexes.</s>
+               <s xml:lang="lou" >Ein té tro piti, lote té tro grand, ci la, so chivé té trop rouge.</s>
+               <s xml:lang="lou" >Enfin li té jamin oulé marié yé.</s>
+               <s xml:lang="lou" >In jou, so moman dit li : — Mo fille, to oua  gros nabe, haut, haut, milié fléve,</s>
+               <s xml:lang="lou" >malé mette giromon ça to oua on  nabe la au boutte branche plis fèbe la, et cila qua capabe trappe  giromon la, ta marié avec li.</s>
+               <s xml:lang="lou" >Ça fait fille la dit ouï. Yé mette ça en haut tous la gazette.</s>
+               <s xml:lang="lou" >La  semaine après yé té gagnia in tas jeine nommes la.</s>
+               <s xml:lang="lou" >Yé té gagnin  ein qui té si bien habillé, si joli.</s>
+               <s xml:lang="lou" >Ça té djabe et personne té pas connin ça.</s>
+               <s xml:lang="lou" >Li té allé bien avec mamzelle la.</s>
+               <s xml:lang="lou" >Mamzelle la dit so  moman : — Mo sré voudré li té capabe trappe giromon la.</s>
+               <s xml:lang="lou" >Tout moune seyé, et yé tout dit yé té pas capabe.</s>
+               <s xml:lang="lou" >Ça fait tour djabe la vini.</s>
+               <s xml:lang="lou" >Dans ein minite li té on nabe la avec giromon la on  so la main.</s>
+               <s xml:lang="lou" >Li descende et li dit mamzelle la : — Vini asteur, vini  dans mo la maison.</s>
+               <s xml:lang="lou" >Fille la habillé li même bien, et parti avec djabe.</s>
+               <s xml:lang="lou" >Enho chimin  ein moune oua djab et dit li : — Donne moin mo cravate, et mo col,  ça mo té prêté toi.</s>
+               <s xml:lang="lou" >Djabe oté so cravate et so col, et dit : — Tchiens, tchiens, to vie  cravate et to vie col.</s>
+               <s xml:lang="lou" >Ein pé plis loin ein lote nhomme oua djabe et  dit : — Donne moin mo chimise, ça mo té prêté toi.</s>
+               <s xml:lang="lou" >Djabe oté so  chimise et dit : — Tchiens, tchiens, to vie chimise.</s>
+               <s xml:lang="lou" >Ein pé plis loin  li oua ein lote nhomme qui dit li : — Donne moin mo capot, ça mo  té prêté toi.</s>
+               <s xml:lang="lou" >Djabe oté so capot et dit li : — Tchiens, tchiens, to  vie capot.</s>
+               <s xml:lang="lou" >Ein pé plis loin li oua ein lote nhomme qui dit li :  — Donne moin mo tchilottes, et mo caneçons ça mo prêté toi.</s>
+               <s xml:lang="lou" >Djabe oté so tchilotte et so caneçons et dit li : — Tchiens, tchiens,  to vie tchilottes et to vie caneçons.</s>
+               <s xml:lang="lou" >Plis loin encore, ein lote mandé  li pou so chapeau.</s>
+               <s xml:lang="lou" >Li ouété so chapeau et donné</s>
+               <s xml:lang="lou" >Li descende   la voitire, et yé pas oua li pendant ein piti moment.</s>
+               <s xml:lang="lou" >Li révini  bien faraud comme anvant.</s>
+               <s xml:lang="lou" >Fille la commencé pair.</s>
+               <s xml:lang="lou" >Plis loin encore ein lote dit li : — Donne moin mo choal yé mo té prêté toi.</s>
+               <s xml:lang="lou" >Djabe descende et donne li  so quatre choal yé.</s>
+               <s xml:lang="lou" >Lors li dit fille la : — Descende et trainin moin ;</s>
+               <s xml:lang="lou" >fille la descende et so caire té apé batte fort. Li trainin djabe jisqua  coté so la maison.</s>
+               <s xml:lang="lou" >Li couri dans so jardin, et dit fille la : — Resté avec mo moman.</s>
+               <s xml:lang="lou" >Quand djabe té bien parti, moman djabe dit fille la :</s>
+               <s xml:lang="lou" >— Ah, mo fille,  to tombé mal marié. To marié djabe.</s>
+               <s xml:lang="lou" >Fille la té si chagrin li té pas connin ça pou fait.</s>
+               <s xml:lang="lou" >Li dît vie fame  la : — Tan prie, mo bon vie madame, vous pas capabe donne moin  monien pou chappé.</s>
+               <s xml:lang="lou" >Fame la dit : — Oui, attende jouqua dinmain  matin, et vini oua quichoge.</s>
+               <s xml:lang="lou" >Li minnin fille la dans ein ti la chambe,</s>
+               <s xml:lang="lou" >Li ouvert ti la chambe la.</s>
+               <s xml:lang="lou" >Li dit : — Vini oua quichoge, mo fille.</s>
+               <s xml:lang="lou" >Fille la gardé dans ti la chambe la.</s>
+               <s xml:lang="lou" >Ça li oua ?</s>
+               <s xml:lang="lou" >Ein tas fames pende  en haut ein déclou.</s>
+               <s xml:lang="lou" >Li té si pair li té pas connin ça pou dit. Li  mandé fame la, si li té pas capabe caché li même erç quéque part,  jouqua dinmain matin.</s>
+               <s xml:lang="lou" >Fame la dit oui, mais, quitté mo dit toi in  monien pou chapper.</s>
+               <s xml:lang="lou" >Quand djabe la dit toi a soir faut donne so  coq qui réveillé li tous les matins ein sac maïs, au lieu donne li ein  donne li trois, pou tchombo li apé mangé plis que tous les matins,  pou pas li hélé trop vite.</s>
+               <s xml:lang="lou" >Fame la dit aussite : — Couri dans poulailler, prend six dézefs sales.</s>
+               <s xml:lang="lou" >Pas prend dézefs propres, mo piti ça va porté toi malhére.</s>
+               <s xml:lang="lou" >Lendemin matin fille la donne coq la trois sacs maïs.</s>
+               <s xml:lang="lou" >Li prend so  dézefs et li parti.</s>
+               <s xml:lang="lou" >Quand coq la fini so trois sacs maïs li chanté.</s>
+               <s xml:lang="lou" >Djabe réveillé vite : — Quéquenne dans la maison parti, li dit.</s>
+               <s xml:lang="lou" >Djabe  levé vite et parti.</s>
+               <s xml:lang="lou" >Fille la gardé derrière li.</s>
+               <s xml:lang="lou" >Ça té la fumin et di  fé. Ça té djabe minme.</s>
+               <s xml:lang="lou" >Li prend ein dézef, li cassé dézef la.</s>
+               <s xml:lang="lou" >In  gros barrière en dibois poussé.</s>
+               <s xml:lang="lou" >Djabe la té gagnin pou tournin chez  li, cherché so ti la hache pou cassé barrière la.</s>
+               <s xml:lang="lou" >Li cassé barrière la,  li tournin chez li porter so la hache.</s>
+               <s xml:lang="lou" >Fille la tende di bri, li gardé derrière li,</s>
+               <s xml:lang="lou" >li oua la fumin et di fé. Ça té djabe même.</s>
+               <s xml:lang="lou" >Li cassé ein lote dézef ein la barrière en fer poussé.</s>
+               <s xml:lang="lou" >Djabe tournin chez li pou chercher so ti la hache en or.</s>
+               <s xml:lang="lou" >Li  cassé la barrière la et tournin porté so la hache.</s>
+               <s xml:lang="lou" >Fille la gardé derrière, li oua la fumin et di fé,</s>
+               <s xml:lang="lou" >li cassé ein lote  dézef, ein gros di fé limin.</s>
+               <s xml:lang="lou" >Djabe te gagnin pou tournin chercher  ein la jarre dolo pou taingnin di fé.</s>
+               <s xml:lang="lou" >Li té gagnin pou couri rapporté  so la jarre.</s>
+               <s xml:lang="lou" >Fille la gardé encore, li oua la fumin et difé. Ça té djabe.</s>
+               <s xml:lang="lou" >Li cassé ein lote dézef, ein la barrière en briques poussé.</s>
+               <s xml:lang="lou" >Djabe té  gagnin pou couri chercher so la hache en or, et li tournin rapporté li.</s>
+               <s xml:lang="lou" >Fille la gardé encore, li oua la fumin et di fé, ça té djabe.</s>
+               <s xml:lang="lou" >Li cassé  ein lote dézef, ein ti fléve poussé.</s>
+               <s xml:lang="lou" >Yé té gagnin ein ti pirogue,</s>
+               <s xml:lang="lou" >li  traversé et djabe la nagé.</s>
+               <s xml:lang="lou" >Fille la gardé derrière li encore. Li oua la fumin et di fé. Ça té djabe.</s>
+               <s xml:lang="lou" >Li cassé ein lote dézef, ein gros fléve poussé.</s>
+               <s xml:lang="lou" >Yé té gagnin  ein gras caïman on bord apé chauffé dans soleil ;</s>
+               <s xml:lang="lou" >fille la chanté :  — Ten prie, grandmoman, traversez moin, sauvez mo la vie, belle,  belle, tonié belle.</s>
+               <s xml:lang="lou" >Cocodrille dit : — Monté on mo dos, ma sauvé to  la vie.</s>
+               <s xml:lang="lou" >Djabe oua magnière fille la té gagnin pou traverser,</s>
+               <s xml:lang="lou" >li dit cocodrille la : — Traversé moin, cocodrille, traversé moin.</s>
+               <s xml:lang="lou" >Cocodrille  dit : — Monté on mo dos, ma traversé toi.</s>
+               <s xml:lang="lou" >Rendi dans milié fléve  li calé, li calé en bas dolo et li neyé djabe.</s>
+               <s xml:lang="lou" >Anvant fille la té parti chez so moman, so moman té dit li : — Eh  ben, mo fille, ça tolé mo fait avec corps to vie choal blanc ?</s>
+               <s xml:lang="lou" >Fille la ' dit so moman : — Mo pas inquiété li, lâché li dans la savane, et laissé li mouri si li oulé.</s>
+               <s xml:lang="lou" >Fille la oua so vie choal dans la savane, et li dit li : — Ten prie, vie corps, sauvé mo la vie, ten prie, vie corps, sauvé  mo la vie.</s>
+               <s xml:lang="lou" >So vie choal blanc réponne li : — Oui, c'est comme ça to  traité moin ; to dit to moman quitté moin mouri, si mole, asteur tolé  mo sauvé to la vie.</s>
+               <s xml:lang="lou" >Monté on mo dos, ma minnin toi chez to  moman."</s>
+               <s xml:lang="lou" ></s>
+               <s xml:lang="lou" >Fille la descende, li bo so choal et so moman,</s>
+               <s xml:lang="lou" >et resté avec so  moman. Li té plis oulé marié encore, pasqué li té marié djabe.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="19">
+            <head>TI DOIGT.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Anvant nous vini icite, nouzotte pove djabe, nous té libe; nous  té pas bligé travaille pou ein maite.</s>
+               <s xml:lang="lou" >C'est blancs yé qui vini dans  nous pays, l'Afrique, pou chercher nous ;</s>
+               <s xml:lang="lou" >ye volé quéquenne dans  nous, yé acheté lézottes nous popa pou ein tignon rouge, in bouteille  tafia ou in vie fisi.</s>
+               <s xml:lang="lou" >Quand nous couri la guère cila yé yé trapé yé  vende blanc yé qui vini fait zaffaire on bord lamer.</s>
+               <s xml:lang="lou" >Yé té minnin  nous taché dé par dé, et quand nous rivé coté lamer comme bande  zanimo, nommes, fames et piti mounes, yé té changé nous pas pou  largent mais pou tout sorte marchandise, et blanc yé mette nous  dans bateau et minnin nous icite.</s>
+               <s xml:lang="lou" >C'est comme ça nouzottes vini  nesclaves dans Namérique.</s>
+               <s xml:lang="lou" >Quand Manga, mo grandmoman, rivé coté lamer, li oua ein joli  piti laville, avec piti lamaisons.</s>
+               <s xml:lang="lou" >Yé té gagnin plein bateaux, et yé té  gagnin l'air apé dansé on la mer; quéquesermes té levé et lézottes té  baissé.</s>
+               <s xml:lang="lou" >Cété divent, vous connin, qui tapé soufflé et rémié lamer.</s>
+               <s xml:lang="lou" >Mo pove grandmoman, qui té zéne alors, té pair quand li oua yé tapé  mette tous négue yé a bord navire.</s>
+               <s xml:lang="lou" >Li té cré yé té oulé neyé yé  dans lamer.</s>
+               <s xml:lang="lou" >In nomme blanc vini coté li et acheté li avec so maite.</s>
+               <s xml:lang="lou" >Li minnin li chez li et li dit li dans so langage : — Mo acheté toi pou  gardé mo piti garçon.</s>
+               <s xml:lang="lou" >Li té gagnin ein joli la maison avec ein  magasin ladans, et ein joli jardin.</s>
+               <s xml:lang="lou" >Derrière la maison yé té gagnin  plein zoranger, et nabe yé té si grand que yé té fait bon nombe.</s>
+               <s xml:lang="lou" >Pou montré coman pays mo grandmoman té bon mo va dit vous que  zoranger té en flére tout lannée ;</s>
+               <s xml:lang="lou" >yavé flére et piti zorange, et zorange mire tout temps.</s>
+               <s xml:lang="lou" >La maison la té coté lamer et tous les matin Manga te minnin ti Florimond baignin.</s>
+               <s xml:lang="lou" >Ti garçon la té si joli et so  popa et so moman té si bon que Manga sré pas laissé yé pou arien  dans moune.</s>
+               <s xml:lang="lou" >Li té lainmin ti Florimond si tant ; so chivé té bouclé, so zié blé, so la peau blanc et rose.</s>
+               <s xml:lang="lou" >Tout moune té adoré pove  ti garçon la, li té si, si joli et smart.</s>
+               <s xml:lang="lou" >Li té connin chanté si bien et imité tout zozo si bien que souvent yé té cré c'était Nita qui tapé  chanté dans nabe.</s>
+               <s xml:lang="lou" >Nita c'est ein ti zozo Nafrique qui chanté la  nuite quand la lune apé claire.</s>
+               <s xml:lang="lou" >Li perché en haut plis grand nabe,  et si yé gagnin divent li chanté mié, pasqué quand branche la balancé ça idé piti zozo la chanté, comme hamac idé ein nomme chanté.</s>
+               <s xml:lang="lou" >Florimond té imité Nita si bien que tout moune té trompé, et ça té  amisé ti garçon la boucou.</s>
+               <s xml:lang="lou" >Papa Florimond té fait zaffaire avec négue qui vive loin dans bois,  et ein jou li parti pou chercher la poude d'or et dent néléphant.</s>
+               <s xml:lang="lou" >Quand li parti li dit Manga : — Prend bien soin mo fame et mo piti  garçon ;</s>
+               <s xml:lang="lou" >to connin mo dija donne toi ein paire soulier, mo sra donne  toi quand ma revini ein joli robe et ein collier.</s>
+               <s xml:lang="lou" >— Premier fois Manga  mette so soulier yé té fait li si tant mal li té pas capabe a peine marcher.</s>
+               <s xml:lang="lou" >Li oté yé, quand li rivé la maison et li assite on n'escalierapé  gardé so zorteilles.</s>
+               <s xml:lang="lou" >— Soucouyé, soucouyé, pove quichoge, H dit  — Vous té en prison tout a l'hère, vous Iibe asjeur, vous content,  hein ?</s>
+               <s xml:lang="lou" >Oh, mo sra jamais fermin vous encore,</s>
+               <s xml:lang="lou" >mo pas comprende  comment blanc yé capabe mette yé zorteille dans quichoge comme  ça.</s>
+               <s xml:lang="lou" >Dépi temps la Manga jamin mette soulier.</s>
+               <s xml:lang="lou" >Eh bien, maite la couri dans grand bois et trois jou après ça  madame la dit Manga prend Florimond et minnin li baignin dans  lamer.</s>
+               <s xml:lang="lou" >Pendant ti garçon la té apé joué avec coquille et di sabe yé  oua ein nesquif avec plein nomme rivé.</s>
+               <s xml:lang="lou" >Ein blanc descende et passé  coté Mange et li senti quéque choge drôle comme si malhére allé  rivé,</s>
+               <s xml:lang="lou" >Zié nomme la té brillé comme quenne chatte dans la nouitte.</s>
+               <s xml:lang="lou" >Quand li passé li dit : — Bonjou, Florimond, mais piti garçon la pas  réponde arien.</s>
+               <s xml:lang="lou" >Quand yé couri la maison madame la voyé yé joué  dans la cou, et chaque fois maite la té pas la nétranger la té vini la  maison.</s>
+               <s xml:lang="lou" >Florimond té pas oulé oua li et ein jou li dit li sré dit so  popa on nétranger la.</s>
+               <s xml:lang="lou" >Cila la dit Manga : — Piti djabe noir, si jamin  to ouvri to la bouche pou dit ça to oua icite ma coupé to la langue  avec mo gros couteau,</s>
+               <s xml:lang="lou" >et ma porté toi dans mo bateau, coude toi  dans sac et jette toi dans lamer pou posson mangé toi.</s>
+               <s xml:lang="lou" >Manga té si  pair que li sré pas dit ein mot même si yé té taillé li tout la journin.</s>
+               <s xml:lang="lou" >Soir la Florimond crié si tant que Manga té gagnin boucou tracas  fait li dromi.</s>
+               <s xml:lang="lou" >So litte té a coté quenne piti garçon la.</s>
+               <s xml:lang="lou" >Pendant la  nouitte li oua pirate la entré dans lachambe la avec ein gros baton.</s>
+               <s xml:lang="lou" >Li frappé piti garçon la on so latéte et li dit : — Li mouri, ma mette  lu dans trou la mo fouillé dans jardin</s>
+               <s xml:lang="lou" >asteur ma fait zaffaire ti négresse la.</s>
+               <s xml:lang="lou" >Mais Manga té déjà parti couri dans la cou, et nomme la couri  on chimin pou trapé li.</s>
+               <s xml:lang="lou" >Moman Florimond vini dans lachambe, li  prend ti garçon la et li terré li dans ein trou coté la Manga té yé.</s>
+               <s xml:lang="lou" >Li  té pas fini so vilain nouvrage, quand li tende dibri et li galpé couri.</s>
+               <s xml:lang="lou" >Li rencontré nomme la qui dit : — Mo croi fille là couri dans bois,  pas besoin pensé li encore, lion et tigue va mangé li bien vite.</s>
+               <s xml:lang="lou" >Asteur faut mo couri a bord mo bateau et quand ma révini ma prend  vous avec moin.</s>
+               <s xml:lang="lou" >Madame la rétournin la maison et Manga sorti.</s>
+               <s xml:lang="lou" >Li té si faible  li té pas capabe resté diboute, mais anvant li parti li bo la terre ou so  pove ti maite té terré.</s>
+               <s xml:lang="lou" >Li dit : — Adié, ti nange, et li couri dans  bois.</s>
+               <s xml:lang="lou" >Li té laimin mié resté avec zanimo sauvage que avec mauvais  moman la.</s>
+               <s xml:lang="lou" >Li marché quéque temps si vite li capabe et li rété coté ein bayou  dans bois ; li boi dolo et assite pou posé.</s>
+               <s xml:lang="lou" >Li commencé dromi, mais  li tende moune apé parlé fort et li réveillé.</s>
+               <s xml:lang="lou" >Li oua nomme autour li  et so maite qui té gagnin lair très colère : — Qui ça tapé fait icite si  loin mo la maison,</s>
+               <s xml:lang="lou" >mo laissé toi pou gardé mo ti garçon,</s>
+               <s xml:lang="lou" >mo pensé to  fait quichoge mal et to chappé.</s>
+               <s xml:lang="lou" >Manga pas réponde arien, pasqué li  rappelé ça pirate la té dit.</s>
+               <s xml:lang="lou" >Maite la ordonnin yé minnin li la maison  et li rétournin chez li aussi vite li capabe.</s>
+               <s xml:lang="lou" >Li trouvé so fame apé  crié et li dit li ; — Oh que malhor !</s>
+               <s xml:lang="lou" >Manga quitté Florimond tombé on  so latéte et nous pove ti garçon mouri.</s>
+               <s xml:lang="lou" >Mo té oulé tchué négresse  la, mais li parti couri et mo pas connin ou li yé.</s>
+               <s xml:lang="lou" >Si jamin mo trappe  li ma tranglé li.</s>
+               <s xml:lang="lou" >Quand pove nomme la tende so cher ti garçon té mouri, li tombé  par terre.</s>
+               <s xml:lang="lou" >Yé mette li dans so litte et li resté quinze jou dans délire.</s>
+               <s xml:lang="lou" >Pendant temps la madame la dit Manga li sré tchué li si li ouvri so  la bouche.</s>
+               <s xml:lang="lou" >Li fermin fille la dans ein cabane et donnin li jisse dipain  et dolo.</s>
+               <s xml:lang="lou" >Popa Florimond levé mais li té vé pas consolé et li crié tout la  journin pou so piti garçon.</s>
+               <s xml:lang="lou" >Comme Manga té dans prison so maite  té pas oua li.</s>
+               <s xml:lang="lou" >Ein jou li tapé marché dans la cou, li gardé temps en  temps la tombe so piti garçon et délarme coulé dans so zié.</s>
+               <s xml:lang="lou" >Nita  tapé chanté on ein nabe a coté li et so chanson té si triste que pove  nommé la senti plis triste que jamin.</s>
+               <s xml:lang="lou" >Ça té sembe li c'était Florimond qui tapé chanté, et li vance coté la tombe la et gardé li longtemps.</s>
+               <s xml:lang="lou" >Tout d'ein coup pove popa la té croi li tapé rêvé,</s>
+               <s xml:lang="lou" >li oua quichoge si drolle que plein moune va pas cré ça, mais si tant moune dit  moin même nistoire la que mo cré li sire comme soleil apé claire.</s>
+               <s xml:lang="lou" >Quand madame la té terré ti garçon la li té pas gagnin temps couvri  tout so corps et ein piti larnain té dehors,</s>
+               <s xml:lang="lou" >et c'était joli ti doigt la  qui tapé remué comme si li tapé fait signe pou pelé quéquenne.</s>
+               <s xml:lang="lou" >Ti doigt la remué ein coté et lote coté et jamin fini pelé, nous capabe  dit.</s>
+               <s xml:lang="lou" >Pove popa la enlevé la terre avec so lamain et découvri corps la.</s>
+               <s xml:lang="lou" >Li trouvé li fraîche comme si yé té sorti terré li, et li prend li dans  so bras et porté li la maison.</s>
+               <s xml:lang="lou" >Li mette garçon la on litte et li frotté  li si tant, que piti la réveillé.</s>
+               <s xml:lang="lou" >Popa la voyé cherché ein médecin qui  commencé soignin li et qui dit li sré bientôt vive encore.</s>
+               <s xml:lang="lou" >Yé té  pas gagnin danger pou so la vie, pasqué so latéte té pas cassé ;</s>
+               <s xml:lang="lou" >piti  la té sélement dans targie et bientôt li sré bien encore.</s>
+               <s xml:lang="lou" >Ouéque jou  après Florimond té apé galpé comme si pas arien té rivé, mais li  jamin dit arien on so moman et nétranger la, et madame la laissé  Manga sorti so prison.</s>
+               <s xml:lang="lou" >Moman Florimond té gagnin remor, li maigri tous les jou, et ein soi, maigre yé soignin li bien, li mouri.</s>
+               <s xml:lang="lou" >So  dernier mots té : — Oh ! Bon Djié, pardonnin moin.</s>
+               <s xml:lang="lou" >Yé terré li dans  tombe so ti garçon ; Pirate la jamin révini.</s>
+               <s xml:lang="lou" >Yé dit yé pende li.</s>
+               <s xml:lang="lou" >Après lamort so fame popa Florimond parti Nafrique et li vende  pove Manga.</s>
+               <s xml:lang="lou" >Yé mette li a bord ein navire, et c'est comme ça li vini nesclave dans la Louisiane et li raconté moin nistoire ti doigt.</s>
+            </p>
+            
+         </div>
+         
+         <div type="chapter" n="20">
+            <head>STATIE ST. ANTOUÉNE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein cordonnier dans ein piti la ville té gagnin ein belle fille.</s>
+               <s xml:lang="lou" >Ein  jou li oua ein jéne nomme entré dans la maison coté so quenne et li  vini amouré.</s>
+               <s xml:lang="lou" >Li mandé so vie quisiniére ça li capabe fait pou fait jéne nomme lainmin</s>
+               <s xml:lang="lou" >Vie fame la conseillé li prié St. Antouène.</s>
+               <s xml:lang="lou" >Li fait li, mais pou arien.</s>
+               <s xml:lang="lou" >— Pététe li sourd, dit quisiniére la, anon fait ein trou dans so  zoreille.</s>
+               <s xml:lang="lou" >Quand yé tapé seyé percé ein trou dans zoreille statie dibois la domestique nomme la jéne fille la té lainmin vini dans boutique.</s>
+               <s xml:lang="lou" >Li  mandé dé fame yé ça yé tapé fait.</s>
+               <s xml:lang="lou" >Yé dit yé té oulé St. Antouène  tende ein prière.</s>
+               <s xml:lang="lou" >Domestique la fait trou dans zoreille Statie la et li tende dehors pou tende prière jéne fille té si tant oulé mandé.</s>
+               <s xml:lang="lou" >Quand li tende jéne fille té apé mandé St. Antouène fait so voisin lainmin li, li couri raconté so maite nistoire la.</s>
+               <s xml:lang="lou" >Jéne nomme la té si flatté belle fille la té lainmin li que li vini amouré aussite et li  marié fille la</s>
+            </p>
+         </div>
+         <div type="chapter" n="21">
+            <p xml:lang="lou">
+               <s xml:lang="lou" >PITI GARÇONS ET GÉANTS.</s>
+               <s xml:lang="lou" >En fois yavé dé ti garçons qui té vive dans ein lamaison avec fléve dréte derrière.</s>
+               <s xml:lang="lou" >Yé parent té défende yé couri au ras fléve, mais ein jou yé chappé et yé prend ein nesquif qui té dans fléve et yé commencé ramain, ramain,</s>
+               <s xml:lang="lou" >mô cré yé doite ramain des millions  milles.</s>
+               <s xml:lang="lou" >Quand lé soi rivé yé té bien pair et yé té pas connin ou pou çouri.</s>
+               <s xml:lang="lou" >Yé oua ein lumière loin, loin, et en minme temps géants vini pou trappe yé.</s>
+               <s xml:lang="lou" >Yé monté on nabe, mais géants jisse soucouyé nabe la et pove garçon yé tombé.</s>
+               <s xml:lang="lou" >Géants yé porté yé dans yé la maison  ou yé trouvé boucou lotte piti garçon.</s>
+               <s xml:lang="lou" >Yé te donnin yé mangé dilaite et digri pou yé vini gras, et tous les jou yé té tchui quéque ti garçon pou géants mangé.</s>
+               <s xml:lang="lou" >Pas loin la maison géant yé yé té gagnin in vie fame qui té sorcière.</s>
+               <s xml:lang="lou" >Ein jou popa dé ti garçon yé qui té chappé vini coté la maison vie fame la avec so zamis et li mandé li si pas oua so garçon.</s>
+               <s xml:lang="lou" >Li réponde yé té dans la maison a coté divant qui yé té gagnin ein caillou pas plis grand que ein piti canique.</s>
+               <s xml:lang="lou" >Nomme yé couri coté la  maison la mais yé trouvé que caillou la té tournin ein lapierre grand comme ein lamontagne.</s>
+               <s xml:lang="lou" >Yé té gagnin boucou tracas pou oté lapierre  la et ouvri la porte, mais yé entré dans la maison la, ye tchué géants  yé et yé raminnin piti garçon yé.</s>
+            </p>
+            
+         </div>
+         <div type="chapter" n="22">
+            <head>NOMME QUI TOURNIN ZOZO.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein fois yavé ein madame qui té gagnin douze piti, onze garçon, et  ein fille.</s>
+               <s xml:lang="lou" >Pove madame la mouri et so mari marié avec ein lotte madame qui té ein sorcière et qui té bien méchant.</s>
+               <s xml:lang="lou" >Dans la journin  li té fait onze piti garçon yé tournin zozo et révini nomme lésoi.</s>
+               <s xml:lang="lou" >Fille la li fait li tournin négresse pou tout temps.</s>
+               <s xml:lang="lou" >So popa té pas  capabe réconnaite li et li mette li dehors.</s>
+               <s xml:lang="lou" >Sorcière la té fait tout ça piti so mari, pasqué li té oulé li donnin so quenne piti so fortine.</s>
+               <s xml:lang="lou" >Quand yé mette pove fille la dehors li couri joinde so frère yé et li  dit ça yé té fait li.</s>
+               <s xml:lang="lou" >Yé dit lendemain matin yé sré minnin li dans lote  pays.</s>
+               <s xml:lang="lou" >Yé fait ein litte avec feille, et lendemin, quand yé té zozo encore chaquenne prend ein boutte litte avec yé bec et yé voltigé avec  yé sére loin dans lotte pays.</s>
+               <s xml:lang="lou" >Yé ménin li dans ein bois et bâti li  ein joli ti cabane.</s>
+               <s xml:lang="lou" >Alors ein jou ein vie sorcière passé coté cabane la et quand li oua jéne fille la li mandé li ça li tapé fait tout séle la.</s>
+               <s xml:lang="lou" >Jéne fille conté ça so belle-mère té fait li, et alors vie fame la dit comme ça li connin ein moyen pou fait so frère resté nomme tout  temps.</s>
+               <s xml:lang="lou" >Li sré gagnin pou fait ein chimise pou chaquenne so frère  yé, mais faut pas li coude chimise yé, jisse tissé yé, et faut pas li  parlé anvant tous chimise yé sré prête.</s>
+               <s xml:lang="lou" >Ça prend li longtemps pou  fait louvrage la, et quand li té gagnin jisse ein lamanche pou fini on  dernier chimise la, so belle-mère vini connin ou li té et li fait rété li  pasqué li dit li té sorcière.</s>
+               <s xml:lang="lou" >Yé tapé minnin li dans prison dans ein  vie charrette, alors so ouze frère yé vini voltigé autour charrette la.</s>
+               <s xml:lang="lou" >Li jette tout suite chimise layé on yé et yé tournin nomme encore et fait descende yé sére.</s>
+               <s xml:lang="lou" >Par exemple quand li jeté chimise la qui té gagnin jisse ein lamanche fini, frère la, qui té trouvé gagnin chimise  la, resté tout so lavie avec ein zélé zozo pou so bras.</s>
+            </p>
+         </div>
+
+
+         <div type="chapter" n="23">
+            <head>EIN BON TI DOMESTIQUE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein fois yavé ein michié qui té bien riche et bien bon.</s>
+               <s xml:lang="lou" >So fame  té tout temps dit li té malade et li té besoin tout sorte drôle réméde  que so mari té gagnin pou couri chercher pou li.</s>
+               <s xml:lang="lou" >Fame la té fait ça  pou so mari sorti so chimin et pou li capabe gaspiller so largent.</s>
+               <s xml:lang="lou" >Ein  jou li dit faut li gagnin dolo lamer ou la mouri.</s>
+               <s xml:lang="lou" >Michié la té gagnin  ein ti domestique yé té pelé Ti Margot et qui toujou couri voyagé  avec li.</s>
+               <s xml:lang="lou" >Michié la parti cherché dolo lamer, mais li pas minnin Ti  Margot fois cila, et ti domestique la oua ça so, maîtresse tapé fait  avec largent so mari.</s>
+               <s xml:lang="lou" >Li té oulé donnin ein grand bal et ein grand  souper.</s>
+               <s xml:lang="lou" >Ti Margot couri dit so maite ça li té oua et li mandé li laissé  li trappe li.</s>
+               <s xml:lang="lou" >Yé révini sans personne connin, et Ti Margot dit domestique yé suive li et fait ça la dit yé.</s>
+               <s xml:lang="lou" >Li mette so maite dans  grand panier et li caché dans panier la boucou fouette.</s>
+               <s xml:lang="lou" >Pendant  bal la Ti Margot vini dans la salle la avec dé nommes qui tapé porté  panier la, et lotte domestique yé.</s>
+               <s xml:lang="lou" >Maîtresse la et so ninvité té cré  c'était quéque joli cadeau et yé vancé coté panier la pou oua.</s>
+               <s xml:lang="lou" >Alors tout suite Ti Margot dit : — Ala mo maite révini, et li prend fouette yé dans panier la et li donnin yé so maite et domestique yé, et yé  batte raide ninvité yé et madame la.</s>
+               <s xml:lang="lou" >Michié la mette so fame dihors  et li dit li : — To pas besoin dolo lamer pou guéri toi.</s>
+            </p>
+         </div>
+         
+         <div type="chapter" n="24">
+            <head>CORBEILLE FLÈRE.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein fois yavé eîn ti fille yé té pelé Marie ;</s>
+               <s xml:lang="lou" >li té pas gagnin parents  ditout, li té resté avec so vie grand-père.</s>
+               <s xml:lang="lou" >Li couri prend ein place  pou travaille chez moune qui té bien méchant, et moune la yé té  gagnin ein pie voleuse.</s>
+               <s xml:lang="lou" >Ein jou pie voleuse la volé ein bague qui té  on la fenêtre ;</s>
+               <s xml:lang="lou" >alorse quand yé manqué bague la yé acquise Marie, et  yé prend li et mette li dans prison.</s>
+               <s xml:lang="lou" >Pendant li té dans prison yé  fait li plein boucou lamisère et yé batte li pou fait li dit c'était li  qui té voie bague la.</s>
+               <s xml:lang="lou" >So pove grand-père té crié tout la journin et li té couri la prison  oua li.</s>
+               <s xml:lang="lou" >Dernier jou la que yé té gagnin pou jiger Marie yé dit yé  sré voyé li la pénitentiaire,</s>
+               <s xml:lang="lou" >Li sitant prié la Sainte Vierge que jou  la yé té donnin li so sentence, yé scié ein nabe dans la cou madame  et dans cré nabe la yé trouvé bague la.</s>
+               <s xml:lang="lou" >Quand madame la trouvé so bague li couri dans prison la et li dit  li trouvé li.</s>
+               <s xml:lang="lou" >Mo blié dit vouzote que quand Marie té sîtant prié la  Sainte Vierge li té promette li, si yé té lâché li li sré couri dans bois  chercher pli belle flère layé li sré capabe trouvé.</s>
+               <s xml:lang="lou" >Alorse, quand madame la tendé connin promesse la Marie té fait la Sainte Vierge, li fait ein corbeille avec plis belle flère layé li té capabe trouvé dans so  jardin, et li donnin li ein ti la maison pou li et so grand-popa resté.</s>
+            </p>
+         </div>
+
+
+         <div type="chapter" n="25">
+            <head>JEAN DES POIS VERTS.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Ein vie négue yé té pelé Jean des Pois Verts té vive dans ein  cabane coté palais lé roi.</s>
+               <s xml:lang="lou" >Comme yé tapé volé tout ti poulet lé roi li té oulé sauvé so dézoi et li mandé Jean ou pou mette yé.</s>
+               <s xml:lang="lou" >Jean té bien content, et dézoi diparaite même manière que ti poulet yé.</s>
+               <s xml:lang="lou" >Lé roi mandé Jean ou pou caché so largent et Jean dit li pou mette so lor ou li té mette so dézoi.</s>
+               <s xml:lang="lou" >Lor disparaite aussite.</s>
+               <s xml:lang="lou" >Voisin yé alorse  persiadé lé roi que c'était Jean qui té volé li, et lé roi couri avec so  soldat pou rété vie nomme la.</s>
+               <s xml:lang="lou" >Jean té connin ça yé té allé fait et li  mette on so latabe ein dézoi avec pièce lor en bas so lézaille.</s>
+               <s xml:lang="lou" >Quand  lé roi vini Jean montré li dézoi la et li dit li, si li jamin besoin largent  dézoi la sré donnin li, si li joué violon.</s>
+               <s xml:lang="lou" >Roi acheté dézoi la, mais  quand li oua coman Jean té trompé li, li fait mette li dans ein sac pou  yé jette li dans fléve.</s>
+               <s xml:lang="lou" >Nomme yé qui tapé porté sac la soulé yé  même et pi quitté Jean in moment on chimin.</s>
+               <s xml:lang="lou" >Li tende ein berger  apé vini avec so troupeau et li commencé crié li pas oulé marié fille.</s>
+               <s xml:lang="lou" >Lé roi Berger la prend place Jean dans sac la pou marié fille lé roi,  et vie négue parti couri avec mouton yé.</s>
+               <s xml:lang="lou" >Lé roi contré Jean, et Jean  dit li li té trouvé mouton yé et lor la au fond larivière.</s>
+               <s xml:lang="lou" >Lé roi jeté li même dans fléve et li neyé li même.</s>
+               <s xml:lang="lou" >Pove roi qui té  béte, li té quitté ein palais pou sauté dans fléve.</s>
+            </p>
+            
+         </div>
+
+         
+         <div type="chapter" n="26">
+            <head>POVE TI GARÇON.</head>
+            <p xml:lang="lou">
+               <s xml:lang="lou" >Yé té gagnin ein fois ein fame qui té coutime dit li té pove et li té pas gagnin arien pou manger.</s>
+               <s xml:lang="lou" >Tous les jou so mari té couri travaille et souvent so lestomac té vide.</s>
+               <s xml:lang="lou" >Ein jou ein ti garçon vini  frappé on laporte madame la et li mandé li si li té capabe entré pou  chauffé liméme, et si li oulé donnin li mangé et couché.</s>
+               <s xml:lang="lou" >Fame la  refusé et li dit li pas gagnin difé, pas arien pou manger et pou coucher.</s>
+               <s xml:lang="lou" >Ti garçon la té bien fâché, mais li couché par terre divant cabane  la et li oua dans lafente laporte tout ça yé fait dans cabane la.</s>
+               <s xml:lang="lou" >Li  oua fame la limin ein grand difé, fait biscuit, tchui cochon, et li oua  ein nomme qui té cache dans lachambe sorti et vini chauffer coté  difé.</s>
+               <s xml:lang="lou" >— Ah ! Ah ! dit ti garçon la, ala pouquoi li pas laissé moin entré  dans la maison la.</s>
+               <s xml:lang="lou" >Quand so mari pas la li fait bal.</s>
+               <s xml:lang="lou" >Lapé laissé  moin mouri faim et frette dihors, mais la payé moin ça.</s>
+               <s xml:lang="lou" >Ein ti moment après ça fame la tende marcher, et comme li pensé  c'était so mari, li caché cochon la dans garde manger, biscuit yé en  bas ein tamis et nomme la en bas litte.</s>
+               <s xml:lang="lou" >Quand mari la rivé li oua ti  garçon la couché par terre qui tapé gelé, et li dit li : — Qui ça tapé  fait la,</s>
+               <s xml:lang="lou" >pouquoi to pas chez toi ?</s>
+               <s xml:lang="lou" >To pas mandé mo fame entrer.</s>
+               <s xml:lang="lou" >Nous pove, mais nous sré toujou trouvé ein ti coin pou toi.</s>
+               <s xml:lang="lou" >— Mo pas chez moin pasqué mo pas gagnin popa ni lamaison,</s>
+               <s xml:lang="lou" >mo  pas chez vous, pasqué vous fame dit moin ya pas place pou moin.</s>
+               <s xml:lang="lou" >— Vini avec moin ; mo fame va changé nidée.</s>
+               <s xml:lang="lou" >Li prend ti garçon la et li fait li entrer.</s>
+               <s xml:lang="lou" >So fame té connin oua  so mari avec ti garçon la, et li té pair li té oua ça yé té fait dans  cabane et li té couri conter ça so mari.</s>
+               <s xml:lang="lou" >Mais mari la té gagnin l'air  tranquille et li dit li li té content oua li trouvé quéque morceau  dibois pou fait difé, pasqué yé fait bien frette et li mandé si li gagnin souper pou li.</s>
+               <s xml:lang="lou" >Li dit non, alorse mari la tiré ein dipain dans so sac et ti dit li pas travaille boucou et c'était tout ça li té capabe  porter.</s>
+               <s xml:lang="lou" >Li partagé dipain la en trois morceaux, pou li, so fame et ti  garçon la.</s>
+               <s xml:lang="lou" >Chaquenne mangé so dipain, et quand yé té fini mari la dit :  — Anon conter conte pou passer temps anvant nous couri coucher.</s>
+               <s xml:lang="lou" >— Bon, dit fame la, pasqué li té connin conte té fait so mari dromi  et li sré capabe fait nomme la chappé qui en bas so litte.</s>
+               <s xml:lang="lou" >— Eh bien, dit mari la, commencé premier, ti garçon, pasqué c'est  toi qui plis jéne.</s>
+               <s xml:lang="lou" >— Mo pas connin conte, dit ti garçon la,</s>
+               <s xml:lang="lou" >Mo popa té toujou dit  moin dit la vérité,</s>
+               <s xml:lang="lou" >mo pas connin conte, mais mo connin des vérités.</s>
+               <s xml:lang="lou" >— Dis-nous vérités, alorse, dit mari la.</s>
+               <s xml:lang="lou" >— Eh bien dit ti garçon la, mo connin yé na biscuit en bas tamis la, laviande cochon dans garde manger et ein nomme en bas litte,</s>
+               <s xml:lang="lou" >— Ça c'est pas vrai, dit fame la, qui tapé tremblé pair.</s>
+               <s xml:lang="lou" >Na pas  arien ditout.</s>
+               <s xml:lang="lou" >— Anon gardé toujou, dit mari la, et li trouvé biscuit yé, cochon la  et nomme la.</s>
+               <s xml:lang="lou" >Mari la té si colère oua so fame té trompé H que li mette li dehors  avec nomme la, qui té pas oulé li, pasqué si li trompé ein nomme, li  capabe trompé ein lotte.</s>
+               <s xml:lang="lou" >Li mouri frette dans bois.</s>
+               <s xml:lang="lou" >Mari la prend ti garçon la pou resté avec li et li té cré li té ein zombi, pasqué li té pas dit li coman li té connin ça li té dit.</s>
+               
+            </p>
+         </div>
+
+</body>
+  </text>
+</TEI>

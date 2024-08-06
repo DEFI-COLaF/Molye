@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <idno>CRE_HAT_005</idno>
+               <title type="main">Proclamation là, li tiré dans registe Consuls la Répiblique</title>
+               <title type="collection">Moliyé</title>
+               <author>Charles Victoire Emmanuel Leclerc</author>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="RDENT">
+                     <surname>Dent</surname>
+                     <forename>Rasul</forename>
+                     <idno type="orcid">0009-0004-1032-1745</idno>
+                  </persName>
+               </respStmt>
+               <respStmt>
+                  <resp>Encoding</resp>
+                  <persName xml:id="JJANES">
+                     <surname>Janès</surname>
+                     <forename>Juliette</forename>
+                     <idno type="orcid">0000-0002-8971-6173</idno>
+                  </persName>
+               </respStmt>
+               <principal>
+                  <persName xml:id="BSAGOT">
+                     <surname>Sagot</surname>
+                     <forename>Benoît</forename>
+                     <idno type="orcid">0000-0001-8957-9503</idno>
+                  </persName>
+               </principal>
+               <funder>Inria</funder>
+            </titleStmt>
+            <publicationStmt>
+               <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+               <date when="2024-05-30"/>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="PrintSource">
+                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
+                  <title>Proclamation là, li tiré dans registe Consuls la Répiblique</title>
+                  <author>Charles Victoire Emmanuel Leclerc</author>
+                  <publisher></publisher>
+                  <date when="1800"/>
+               </bibl>
+               <bibl type="CorpusSource">
+                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
+                  <title>Proclamation là, li tiré dans registe Consuls la Répiblique</title>
+                  <author>Charles Victoire Emmanuel Leclerc</author>
+                  <publisher>Groupe Européen de Recherches en Langues Créoles</publisher>
+                  <date when="2004"/>
+               </bibl>
+            </sourceDesc>
+            <extent>TO BE DEFINED</extent>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="rcf">
+                  <idno type="langue">hat</idno>
+                  <idno type="script">Latin</idno>
+                  <name>Haitian Creole</name>
+               </language>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="supergenre" rend="fiction">Fiction</term>
+                  <term type="genre" rend="fiction-prose">Drama</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <revisionDesc>
+            <change when="2024-05-30" who="#RDENT">Génération du document</change>
+         </revisionDesc>
+      </teiHeader>
+  <text>
+      <body>
+         <div type="part">
+            <head xml:lang="hat">
+               Proclamation là, li tiré dans registe Consuls la Répiblique
+               Paris, 17 Brimer, an 10 Répiblique francé, yon et indivisible.
+               PROCLAMATION.
+            </head>
+            
+            <p xml:lang="hat">Consuls la Répiblique Francé a tout zabitans Saint-Domingue.</p>
+            <p xml:lang="hat">Zabitans, et vous tous qui dans Saint-Domingue,</p>
+            <p xml:lang="hat">Qui ça vous tout yé, qui couleur vous yé, qui côté papa zote vini, nous pas gardé ça : nous savé tan seleman que zote tout libre, que zote tout égal, douvant bon Dieu et dans zyé la Répiblique.</p>
+            <p xml:lang="hat">Dans tan révolution, la France voir tout plein misère, dans la même que tout monde te fere la guerre contre Français. Français levé les ens contre les otes. Mes jordi là tout fini, tout fere la paix, tout embrassé Français ; tout Français zami ; tout hémé gouverneman, tout obéi li. Nation même qui té, en guerre, yo touché la main avec français. Vini don zote de Saint-Domingue : es que vous pas Français itou ? Vini touché la main avec nation zote, qui arrivé ; vous va contan embrassé frères à zote ; yo va contan embrassé vous.</p>
+            <p xml:lang="hat">Capitaine-général Leclerc, que nous voyé pour commandé Saint-Domingue, li mené avec li tout plen navire, tout plen soldat, tout plen canon : mais pas crere ci la yo qui va dit zote, que blanc velé fere vous esclave encore : ya manti plitot que crere yo, repond, et songé bien que cé la Répiblique qui baye liberté, et qui va ben savé empêché personne de pren li encore : soldat là, navire là, tout, cé pour gardé liberté là, et gardé pays qui pour la Répiblique.</p>
+            <p xml:lang="hat">Vini donc zote tout, rangé côté Capitaine-général. Cé la Pé li porté ; cé tout zafere li vini rangé, cé bonher tout monde li vélé. Blancs, négues, tout cé zenfant la Répiblique. Mes ci la la yo qui pas allé rangé côté li, qui pas vélé obéi li, tout ça li va commandé yo, va pini, parce que yo va traité à pays à yo et à la Répiblique.</p>
+            <p xml:lang="hat">Signé : BOnAPARTE.</p>
+            <p xml:lang="hat">Par Primié Consul</p>
+            <p xml:lang="hat">Sécrétere d'Etat,</p>
+            <p xml:lang="hat">Signé : HUGUES-B. MARET.</p>
+            <p xml:lang="hat">Cé yon vrai copi di zote,</p>
+            <p xml:lang="hat">Capitaine général,</p>
+            <p xml:lang="hat">LECLERC.</p>
+            <p xml:lang="hat">Au nom du Gouvernement français</p>
+            <p xml:lang="hat">LIBERTÉ	EGALITÉ </p>
+                          
+         </div>
+         <div type="part">
+            <head xml:lang="hat">
+               PROCLAMATION
+               A bord de l'Océan, Rade du Cap, le... Pluviose, an 10.
+               Répiblique francé, yon et indiuisible.
+               LECLERC, Général en chef l'Armée Saint-Domingue, qui vini gouverné tout la Colonie,
+            </head>
+            
+            <p xml:lang="hat">A tout monde qui habité S. Domingue.</p>
+            <p xml:lang="hat">Zabitans de S. Domingue ;</p>
+            <p xml:lang="hat">Lire Proclamation primié Consul Bonaparte. Voyez pour zote. Zote à voir que li vélé négues resté libre. Li pas vélé ôté liberté à yo que yo gagné en combattant, et que li va mainteni li de tout pouvoir à li. Li va mainteni commerce et culture, parceque zote doit conné que sans ça, colonie-ci pas cable prospéré. Ça li promé zote li va rempli li, fidellement ; c'est yon crime si zote te douté de ça li promé zote dans Proclamation à li.</p>
+            <p xml:lang="hat">Général en chef qui vini pou gouverné tout</p>
+            <p xml:lang="hat">la Colonie : LECLERC,</p>
+            <p xml:lang="hat">Par ordre Général en chef, Capitaine-général,</p>
+            <p xml:lang="hat">Le Secrétere-général : LENOIR.</p>
+         </div>
+         
+  
+      </body>
+  </text>
+</TEI>

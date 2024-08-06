@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_DEU_001</idno>
+            <title type="main">D'un Suisse et d'un singe</title>
+            <title type="collection">Molyé</title>
+            <author>Anonymous</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/_/doYca2pWzVAC?hl=en"/>
+               <title>Les Divertissements curieux, ou le Thrésor des meilleurs rencontres, et mots subtils de ce Temps.‎</title>
+               <author>Various</author>
+               <publisher>Jean Huguetan</publisher>
+               <date when="1650"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://www.google.fr/books/edition/_/doYca2pWzVAC?hl=en"/>
+               <title>Les Divertissements curieux, ou le Thrésor des meilleurs rencontres, et mots subtils de ce Temps.‎</title>
+               <author>Various</author>
+               <publisher>Lyon Public Library</publisher>
+               <date when="2014-09-08"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="met-fr">
+               <idno type="langue">met-fr</idno>
+               <idno type="script">Latin</idno>
+               <name>French of Metropolitan France</name>
+            </language>
+            <language ident="fra-deu">
+               <idno type="langue">fra-deu</idno>
+               <idno type="script">Latin</idno>
+               <name>Germanic Baragouin</name>
+            </language>
+            
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="fiction">Fiction</term>
+               <term type="genre" rend="fiction-prose">Prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-06-30" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>
+            VN Suisse vn iour à my-yure cherchant la mon¬
+            noye d’vn cart d’escu, s’addressa à vn singe, cro¬
+            yant que ce fut l’enfant du logis, &amp; luy dit <s xml:lang="fra-deu"> petit car¬
+            çon, moy voudrois bien auoir la monnoye de mon
+            piece</s>, le singe aussi tost prit le cart d’escu, &amp; le mit
+            dans son reseruoir, &amp; s’enfuit en la chambre de son
+            maistre: le Suisse croyant que le petit garçon fut al¬
+            Ié querir la monnoye de sa piece, l’attendoit auec im¬
+            patience, mais voyant qu’il ne reuenoit point s’écria,
+            <s xml:lang="fra-deu">petit carçon, par mon foy si toy ny vient pas l’y ren¬
+            dre mon argent, moy ty coupperay ton teste de mon
+            lippée</s>, (voulant dire de mon espée:) l’Apotiquaire
+            entendant ce bruit descent, &amp; demande à ce Suisse ce
+            qu’il vouloit? le Suisse en colere dit,<s xml:lang="fra-deu"> Monsieur l’A¬
+               poticuire</s>, voulant dire l’Apotiquaire, <s xml:lang="fra-deu">moî donni mon
+            largent à le fils de vous, &amp; ly moy point rendu, par
+            mon foy dy qui luy est vn berneutre</s>: l’Apoticaire ne
+            se pouuant tenir de rire, luy dit, Monsieur vous vous
+            este mépris, ce n’est pas mon fils, c’est vn singe: le
+            Suisse qui entendoit de trauers, dit,<s xml:lang="fra-deu"> par mon foy cely
+            saint ian ny vale rin, dy tromper moy</s>: sur cette con¬
+            teste le drôle de singe grimpa à vne fenestre, où il
+            treuua vn pot de chambre, qu’il fit tomber sur la teste
+            du Suisse, qui s’en alla voyant qu’il ny auoit rien
+            faire pour luy.
+            
+         </p>
+      </body>
+  </text>
+</TEI>

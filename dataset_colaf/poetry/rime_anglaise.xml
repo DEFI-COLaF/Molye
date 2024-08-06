@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_ANG_003</idno>
+            <title type="main">Rime anglaise contre les ofﬁciers généraux de la Martinique</title>
+            <title type="collection">Moliyé</title>
+            <author>Anonymous</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+               <title>Recueil Clairambault-Maurepas : chansonnier historique du XVIIIe siècle. 4 </title>
+               <author>Jean-Frédéric Phélypeaux Maurepas and </author>
+               <author>Pierre Clairambault</author>
+               <author>Pierre Raunié</author>
+               <publisher>Bibliothèque nationale de France</publisher>
+               <date when="1865"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://satires18.univ-st-etienne.fr/texte/martinique-anglais-parodie/rime-anglaise-contre-les-officiers-g%C3%A9n%C3%A9raux-de-la-martinique"/>
+               <title>Rime anglaise contre les ofﬁciers généraux de la Martinique</title>
+               <author>Anonymous</author>
+               <publisher>Université St-Étienne</publisher>
+               <date when="2024-01-20"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fra-ang">
+               <idno type="langue">fra-ang</idno>
+               <idno type="script">Latin</idno>
+               <name>Anglo-Baragouin</name>
+               <date when="1721"/>
+            </language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="fiction">Fiction</term>
+               <term type="genre" rend="fiction-poetry">Poetry</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-06-30" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <lg xml:lang="fra-ang">
+            <l xml:lang="fra-ang">Je t’écris, mon ami,</l>
+            <l xml:lang="fra-ang">Comme le gouvernement de Martinique</l>
+            <l xml:lang="fra-ang">Ly être bien conduit</l>
+            <l xml:lang="fra-ang">Partout plein de fanatiques,</l>
+            <l xml:lang="fra-ang">Qui se croire beaucoup d’esprit ;</l>
+            <l xml:lang="fra-ang">J’en ris, toi riras aussi ;</l>
+            <l xml:lang="fra-ang">Le monsieur général et Bénard<note n="1">Intendant de ladite île. (M.) — Charles Bénard, commissaire de marine, intendant au port de Rochefort, installé en juin 1719, comme intendant des îles du Vent de l’Amérique. (R)</note> ,</l>
+            <l xml:lang="fra-ang">Qui l’être de si ﬁns renards,</l>
+            <l xml:lang="fra-ang">Ly plumer la poule comme diable,</l>
+            <l xml:lang="fra-ang">Sans quartier je dis ly être impitoyable,</l>
+            <l xml:lang="fra-ang">Mais cela faire grand bruit,</l>
+            <l xml:lang="fra-ang">Le monde entendre l’argent sonner dans réduit.</l>
+            <l xml:lang="fra-ang">Le Malherbe <note n="2"> Commissaire général d’artillerie. (M.) (R)</note> qui l’autre fois un laquais</l>
+            <l xml:lang="fra-ang">L’y être à présent dans tout secret,</l>
+            <l xml:lang="fra-ang">Et La Bessière à l’intendant ly servir de chat,</l>
+            <l xml:lang="fra-ang">Sur pauvres Anglais qui être les rats,</l>
+            <l xml:lang="fra-ang">L’un être bon singe, l’autre agent,</l>
+            <l xml:lang="fra-ang">Pour le Feuquière<note n="3">Par de Feuquières, lieutenant général aux îles du Vent, depuis 1717, et gouverneur de la Martinique. (R)</note> ly être confus</l>
+            <l xml:lang="fra-ang">Ly baille un ordre aujourd’hui, demain, ne souvient plus</l>
+            <l xml:lang="fra-ang">Ly être irrésolu, ly être facile,</l>
+            <l xml:lang="fra-ang">Car le gentilman ou un gille</l>
+            <l xml:lang="fra-ang">Tenir même place chez lui,</l>
+            <l xml:lang="fra-ang">Puisqu’on y voit aujourd’hui</l>
+            <l xml:lang="fra-ang">Un rogue de soldat Thery</l>
+            <l xml:lang="fra-ang">Fouetté autrefois, pour un crime commis,</l>
+            <l xml:lang="fra-ang">Dans un bel fauteuil assis,</l>
+            <l xml:lang="fra-ang">N’a pas avoir tort, ceuxlà qui en ri</l>
+            <l xml:lang="fra-ang">Le monsieur Cornet et sa moitié,</l>
+            <l xml:lang="fra-ang">Qui être cause de ces sales affaires,</l>
+            <l xml:lang="fra-ang">Savent bien se rendre nécessaires,</l>
+            <l xml:lang="fra-ang">Ly conduire bien le gibier</l>
+            <l xml:lang="fra-ang">Pour l’y témoigner la bonne amitié ;</l>
+            <l xml:lang="fra-ang">Justice l’y être rendue, ho ciel ! quelle pitié !</l>
+            <l xml:lang="fra-ang">Ami, toi voir le procureur de Hauterive,</l>
+            <l xml:lang="fra-ang">Ly tenir place aussi sur cette rive,</l>
+            <l xml:lang="fra-ang">Ly conseiller ce bel Laurent sot,</l>
+            <l xml:lang="fra-ang">Ly être, ly avoir fait, n’a pas à dire mot.</l>
+            <l xml:lang="fra-ang">Contriman n’a pas être étonné,</l>
+            <l xml:lang="fra-ang">Ly être un galant, avec poil doré</l>
+            <l xml:lang="fra-ang">Que quand une fois l’y parle</l>
+            <l xml:lang="fra-ang">Tout aussitôt l’y décidé,</l>
+            <l xml:lang="fra-ang">Ly promettre tout, ly pas tenir rien,</l>
+            <l xml:lang="fra-ang">Ly n’a pas tenir cœur, ly traite avec vanité,</l>
+            <l xml:lang="fra-ang">Qui ne pouvoir pas, avec tout son bien,</l>
+            <l xml:lang="fra-ang">Payer ses dettes et larcins, je dire la vérité :</l>
+            <l xml:lang="fra-ang">Tout être fait ici avec point de rappel</l>
+            <l xml:lang="fra-ang">Par cette infernale séquelle,</l>
+            <l xml:lang="fra-ang">Une qui tue, qui friponne,</l>
+            <l xml:lang="fra-ang">Une qui calomnie, l’autre qui empoisonne,</l>
+            <l xml:lang="fra-ang">Ly être pendu très promptement</l>
+            <l xml:lang="fra-ang">Mais si l’y tenir de l’argent</l>
+            <l xml:lang="fra-ang">Ou si ly connaisse une p…    de grand gens,</l>
+            <l xml:lang="fra-ang">Tout aussitôt de noir ly devenir blanc.</l>
+            <l xml:lang="fra-ang">Sage conduite de ce double triumvirat</l>
+            <l xml:lang="fra-ang">Aidé dc ce bel triumconat,</l>
+            <l xml:lang="fra-ang">Qui ne connaître pas Dieu, ne craindre pas la peste,</l>
+            <l xml:lang="fra-ang">Prendre garde aussi au bel jeu du reste.</l>
+            <l xml:lang="fra-ang">Sus, réveillezvous conseillers, non pas tous,</l>
+            <l xml:lang="fra-ang">Je dire pour ceux qui savent juger des coups,</l>
+            <l xml:lang="fra-ang">Vous gentilmans et habitants,</l>
+            <l xml:lang="fra-ang">Vous, être menés comme des manans,</l>
+            <l xml:lang="fra-ang">Ouvrez les yeux que fermez,</l>
+            <l xml:lang="fra-ang">Pensez des Romains à la fermeté,</l>
+            <l xml:lang="fra-ang">Ou si vous voulez être menés</l>
+            <l xml:lang="fra-ang">Partout par le bout du nez,</l>
+            <l xml:lang="fra-ang">Vous pouvez continuer,</l>
+            <l xml:lang="fra-ang">By God, j’en riré,</l>
+            <l xml:lang="fra-ang">Farewell countrymen.<note n="4">Écrit au dos de la pièce : Pour M. le général de Feuquières. (R)</note></l>
+         </lg>
+      </body>
+  </text>
+</TEI>

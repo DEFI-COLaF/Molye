@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_LOU_004</idno>
+            <title type="main">L’Amour d'une Blanche</title>
+            <title type="collection">Molyé</title>
+            <author>Charles Jobey</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/L_amour_d_une_blanche/7-s5AAAAcAAJ"/>
+               <title>L’Amour d'une Blanche</title>
+               <author>Charles Jobey</author>
+               <publisher>Michel Lévy frères</publisher>
+               <date when="1861"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://www.google.fr/books/edition/L_amour_d_une_blanche/7-s5AAAAcAAJ"/>
+               <title>L’Amour d'une Blanche</title>
+               <author>Charles Jobey</author>
+               <publisher>Bavarian State Library</publisher>
+               <date when="2009-01-23"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lou">
+               <idno type="langue">lou</idno>
+               <idno type="script">Latin</idno>
+               <name>Louisiana Creole</name>
+               <date when="1837"></date>
+            </language>
+            <language ident="met-fr">
+               <idno type="langue">met-fr</idno>
+               <idno type="script">Latin</idno>
+               <name>French of Metropolitan France</name>
+            </language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="supergenre" rend="fiction">Fiction</term>
+               <term type="genre" rend="fiction-prose">Prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-05-30" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <div type="chapter" n="5">
+            <p>
+               <s xml:lang="lou">Oui, mô maite .</s>
+               <s xml:lang="lou">Oui , mouché.</s>
+               <s xml:lang="lou">C'est manman moè , quand li tè couri au pays la pluie coton.</s>
+            </p>
+            <p>
+               
+               <s xml:lang="lou"></s>
+            </p>            
+         </div>
+         <div type="chapter" n="8">
+            <p>
+               <s xml:lang="lou">
+                  Merci, taitesse ! Merci , mouché Marcel ! Nous
+                  autres tè courir dans clos là, nous autres tè bien tra-
+                  vaillé même !</s>
+               <s xml:lang="lou">
+                  Mouché! ton cheval est là, derrière mô cabane ,
+                  saute dessus , couri , quittez tout vilain monde la yest.
+               </s>
+            </p>       
+         </div>
+         <div type="part" n="LE_LAC_CATHAOULA">
+            <p>
+               <s xml:lang="lou">
+                  Mon nègue, téné corde là , méné chouale layé à
+                  so l'écurie ; préné garde laissé échappé li , mon nè-
+                  gue.
+               </s>
+               <s xml:lang="lou">
+                  Moè té connai : piti monde là tini bon son chouale,
+                  n'a pas lâché li.
+               </s>
+            </p>
+            <p>
+               <s xml:lang="lou">Mô té gagné aussi deux balles, mô maite.</s>
+            </p>
+
+            <p>
+               <s xml:lang="lou">C'est caiman ! mô maîte , mo tien bon li</s>
+            </p>
+            <p>
+               <s xml:lang="lou">Mô té gagné la liquair , qui té capable guéri vous ,
+                  mouché
+               </s>
+            </p>
+            <p>
+               <s xml:lang="lou">Oui, mouché.</s> 
+            </p>
+            
+            <lg xml:lang="lou">
+               <l>Mouché Préval,</l>
+               <l>Li donné grand bal ,</l>
+               <l>Li fait nègues payé.</l>
+               <l>Pou sauté un pé.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Li donné soupé,</l>
+               <l>Pou nègues régalé.</l>
+               <l>So vié la musique ,</l>
+               <l>Té baye la colique.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Mouché Préval ,</l>
+               <l>Té capitaine bal,</l>
+               <l>So cocher Louis,</l>
+               <l>Té maîte crémoni.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Ala ain bourrique,</l>
+               <l>Tendé la musique,</l>
+               <l>Li vini valsé,</l>
+               <l>Com quand li cabré.</l>
+            </lg>
+            
+            
+            <lg xml:lang="lou">
+               <l> Yavé des néguesses,</l>
+               <l>Belles com yé maîtresses</l>
+               <l>Yé té volé bel bel,</l>
+               <l>Dans l'ormoir mamzel.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Blanc et pi noir,</l>
+               <l>Yé dansé bamboula,</l>
+               <l>Vous pas jamais voir,</l>
+               <l>Un plus grand gala</l>
+            </lg>
+
+            <lg xml:lang="lou">
+               <l>la le gardien la geôle,</l>
+               <l>Li trouvé ça ben drôle;</l>
+               <l>Li dit : Mo aussi,</l>
+               <l>Ma fé bal ici.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Et pi lé wacheman</l>
+               <l>Yé tombé làdan</l>
+               <l>Yé fé branleba</l>
+               <l>Dans licherie la</l>
+            </lg>
+            
+            <lg xml:lang="lou">
+               <l>Yé méné yé tous,</l>
+               <l>Dans la calabous;</l>
+               <l>Lendemain matin,</l>
+               <l>Yé fouetté yé bien.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l> Yé té volé bel chaîne,</l>
+               <l>Yé té volé Romaine ,</l>
+               <l>Yé té volé nécrin ,</l>
+               <l>Et pi jouyé fin.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Yé té volé faussé qué,</l>
+               <l>So maîtresse n'a plus chevé !</l>
+               <l> Yé té volé polisson là,</l>
+               <l> Qui té fé madame gra.</l>
+            </lg>
+            
+            
+            <lg xml:lang="lou">
+               <l>Un mari godiche,</l>
+               <l>Vini mandé postiche,</l>
+               <l>Qui té servi so femme</l>
+               <l>Pou fai la bel dame.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Comment, sapajou !</l>
+               <l>To pran, ma Kilotte? -</l>
+               <l> Non, mo maite , mo di vou,</l>
+               <l>Mo j'ai pris vos botte.</l>
+            </lg>
+            <lg xml:lang="lou">
+               <l>Peti maîtresse,</l>
+               <l>Li t'apré crié ,</l>
+               <l>To voir néguesse.</l>
+               <l>C'est mo robe to volè.</l>
+            </lg>
+            <lg xml:lang="lou"> 
+               <l>Chez mouché Préval ,</l>
+               <l>Dans la rue n'opital ,</l>
+               <l>Yé fé nègue payé,</l>
+               <l>Pou sauté un pé.</l>
+            </lg>
+            <lg xml:lang="lou"> 
+               <l>Ché mo pou sortí.</l>
+               <l>Va payé bien pli</l>
+               <l> Cinq piasse m'en va cappe </l>
+               <l>Ma f... fouet pou la niappe.</l>
+            </lg>
+            <lg xml:lang="lou"> 
+               <l>Pové mouché Préval</l>
+               <l>Mo cré li bien mal</l>
+               <l>Ya pli encor bal</l>
+               <l>Dans la rue n'opital</l>
+            </lg>
+            <lg xml:lang="lou"> 
+               <l>Li payé cent piasse</l>
+               <l>Li couri à la chasse</l>
+               <l>Li dit : C'est fini,</l>
+               <l>Ya pli bal sans permi</l>
+            </lg>
+
+         </div>
+      </body>
+  </text>
+</TEI>

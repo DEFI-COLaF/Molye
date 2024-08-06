@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_GCF_001</idno>
+            <title type="main">Le Triton (first version)</title>
+            <title type="collection">Molyé</title>
+            <author>Greffe de la ville du Fort Royal</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/Textes_anciens_en_cr%C3%A9ole_fran%C3%A7ais_de_l/nWI7ct3uJlsC"/>
+               <title>Le Triton (first version)</title>
+               <author>Greffe de la ville du Fort Royal</author>
+               <publisher>Guy Carden, Morris Goodman, Rebecca Posner and William A. Stewart</publisher>
+               <date when="1990"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://web.archive.org/web/20000917220151/http://www.ling.su.se/Creole/Archive/French-Martinique-1671.html"/>
+               <title>Le Triton</title>
+               <author>Le Triton</author>
+               <publisher>Mikael Parkvall</publisher>
+               <date when="1998-04-16"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gcf">
+               <idno type="langue">gcf</idno>
+               <idno type="script">Latin</idno>
+               <name>Lesser Antillean Creole</name>
+               <date when="1671"/>
+            </language>
+            <language ident="eng">
+               <idno type="langue">met-fr</idno>
+               <idno type="script">Latin</idno>
+               <name>English</name>
+            </language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term rend="spoken" type="supergenre">Fiction</term>
+               <term rend="spoken-script" type="genre">fiction-drama</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person xml:id="André">
+                  <persName>André negre du Sieur Desforges</persName>
+               </person>
+               <person xml:id="Pierre_la_Rosiere">
+                  <persName>Pierre negre du Né noel di la Rosiere</persName>
+               </person>
+               <person xml:id="Pierre_legras">
+                  <persName>Pierre negre du Sr. legras</persName>
+               </person>
+
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-06-25" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <head>French, Martinique, 1671</head>
+         <p xml:lang="eng">These texts give the witnesses of the slaves who claim to have seen a merman near the islet of Diamant, off Martinique's southern coast in 1671.
+            They were presented by Guy Carden, Morris Goodman, Rebecca Posner and William Stewart at the 1990 Meeting of the Society for Pidgin and Creole Linguistics, on January 5th, 1991. 
+            No info available on the speakers, except that the second one was about 22 or 23 years old.</p>
+         
+         
+         <sp who="André" xml:lang="gcf">
+            <speaker>André negre du Sieur Desforges</speaker>
+            <p>J'ai vu bete comme homme dans lamer, cheveux longs comme Epaules, un peu gris, 
+               barbe grise, large comme mains, pardevant le Corps tout demême comme homme, le Col 
+               blanc, poils gris sus le sein, laqueue tout de même comme Carangue, li vini trois fois sur 
+               l'eau et gardez nous tous avec gros yeux, moi tini peur li: mouchié faire yon autre negre 
+               courir après li pour prendre li avec [ligne?] li caché dans lamer et puis moi pas voir li.</p>
+         </sp>
+         
+         <sp who="Pierre_la_Rosiere" xml:lang="gcf">
+            <speaker>Pierre negre du Né noel di la Rosiere</speaker>
+            <p>Moi mirer un homme en mer du Diamant, moi voir li trois fois, li tini assés bon visage et
+               Zyeux comme monde, li tini grande barbe grise, li sorti hors de l'eau, regardé nous tous, 
+               moi prendre ligne et Zain pour prendre li, moi teni petit peur; non pas grand, et puis li caché 
+               li, li tourné pour garder nous enpartant, li tini queue comme poisson.</p>
+         </sp>
+         
+         <sp who="Pierre_legras" xml:lang="gcf">
+            <speaker>Pierre negre du Sr. legras</speaker>
+            <p>moi miré bête qui tini Zyeux, tini barbe, tini mains, tini Zépaules tout comme homme, tini
+               cheveux et barbe gris, noir et puis blanc, moi na pas miré bas li parce li té dans diau, li 
+               sembe pourtant poisson moi té tini peur bete là manger monde, li regardé plusieurs fois, 
+               li allé devant savanne, puis li caché li dans diau, puis moi pas voir li d'avantage.</p>
+         </sp>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <idno>MOL_GCF_002</idno>
+            <title type="main">Le Triton (second version)</title>
+            <title type="collection">Molyé</title>
+            <author>Benoît de Maillet</author>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="RDENT">
+                  <surname>Dent</surname>
+                  <forename>Rasul</forename>
+                  <idno type="orcid">0009-0004-1032-1745</idno>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Encoding</resp>
+               <persName xml:id="JJANES">
+                  <surname>Janès</surname>
+                  <forename>Juliette</forename>
+                  <idno type="orcid">0000-0002-8971-6173</idno>
+               </persName>
+            </respStmt>
+            <principal>
+               <persName xml:id="BSAGOT">
+                  <surname>Sagot</surname>
+                  <forename>Benoît</forename>
+                  <idno type="orcid">0000-0001-8957-9503</idno>
+               </persName>
+            </principal>
+            <funder>Inria</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+            <date when="2024-05-30"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="PrintSource">
+               <ptr target="https://www.google.fr/books/edition/Textes_anciens_en_cr%C3%A9ole_fran%C3%A7ais_de_l/nWI7ct3uJlsC"/>
+               <title>Telliamed</title>
+               <author>Benoît de Maillet</author>
+               <publisher>Gosse</publisher>
+               <date when="1755"/>
+            </bibl>
+            <bibl type="CorpusSource">
+               <ptr target="https://web.archive.org/web/20000917220151/http://www.ling.su.se/Creole/Archive/French-Martinique-1671.html"/>
+               <title>Telliamed</title>
+               <author>Benoît de Maillet</author>
+               <publisher>the Bavarian State Library</publisher>
+               <date when="2008-12-01"/>
+            </bibl>
+         </sourceDesc>
+         <extent>TO BE DEFINED</extent>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gcf">
+               <idno type="langue">gcf</idno>
+               <idno type="script">Latin</idno>
+               <name>Lesser Antillean Creole</name>
+               <date when="1671"/>
+            </language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term rend="spoken" type="supergenre">Fiction</term>
+               <term rend="spoken-script" type="genre">fiction-drama</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person xml:id="André">
+                  <persName>André negre du Sieur Desforges</persName>
+               </person>
+               <person xml:id="Pierre_la_Rosiere">
+                  <persName>Pierre negre du Né noel di la Rosiere</persName>
+               </person>
+               <person xml:id="Pierre_legras">
+                  <persName>Pierre negre du Sr. legras</persName>
+               </person>
+               
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-06-25" who="#RDENT">Génération du document</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <sp who="André" xml:lang="gcf">
+            <speaker>André negre du Sieur Desforges</speaker>
+            <p>
+               J'ai vû bête faite
+               comme homme dans la mer ; cheveux
+               longs , épaules , un poil gris ; bar-
+               be ly gris , large comme main ; par-
+               devant le corps tout de même comme
+               homme , le cou blanc , poil gris sur
+               le sein , la queue tout de même com-
+               me Carangue : ly veny trois fois sur
+               l'eau, &amp; gardé nous toujours avec ses
+               gris yeux ; my teny mouche per ly
+               faire , autre Negre coury après ly
+               pour prendre comme ligne , luy cacher
+               dans la mer, &amp; puis pu voir lui.
+            </p>
+         </sp>
+         
+         <sp who="Pierre_la_Rosiere" xml:lang="gcf">
+            <speaker>Pierre negre du Né noel di la Rosiere</speaker>
+            <p>
+               moi miré un homme en mer du
+               Diamant , moi miré lui trois fois , lui
+               teny tête;bon viſage de ly comme mon-
+               de , ly teny grand barbe gris , ly sor-
+               ty hors de l'eau , regardé nous. Je vous
+               moy prendre luy dans ains pour pren-
+               dre luy, moy teny petit peur , non
+               pas grand , non ; &amp; puis luy , &amp; puis
+               luy caché : luy souvent gardé nous ,
+               &amp; pourtant luy teny queue comme
+               poisson.
+            </p>
+         </sp>
+         
+         <sp who="Pierre_legras" xml:lang="gcf">
+            <speaker>Pierre negre du Sr. legras</speaker>
+            <p>
+               Moy miré bête , lui teny yeux ,
+               teny barbe , teny mains , teny épaules
+               tout comme homme , teny cheveux &amp;
+               barbe grife , non pas blanc : moy non
+               pas miré bien luy , parceque lui étoit
+               dans l'yau , lui sembloit pourtant pois-
+               son, moy teny peur , autre dire c'est
+               un ange monde ; lui regardé plusieurs
+               fois ; lui allé contre Savanne , &amp; puis
+               luy caché dans l'yau , &amp; moi non miré
+               lui d'avantage
+            </p>
+         </sp>
+      </body>
+   </text>
+</TEI>
