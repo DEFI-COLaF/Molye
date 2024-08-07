@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 met_fra_meta = {"ident": "met-fr", "script": "Latin", "lang_name": "French of Metropolitan France"}
 fra_dia_meta = {"ident": "fra-dia", "script": "Latin", "lang_name": "Peasant French"}
-fra_gsc_meta = {"ident": "fra-gsd", "script": "Latin", "lang_name": "Gascon-accented French"}
+fra_gsc_meta = {"ident": "fra-gsc", "script": "Latin", "lang_name": "Gascon-accented French"}
 
 fra_deu_meta = {"ident": "fra-deu", "script": "Latin", "lang_name": "Germanic Baragouin"}
 fra_nld_meta = {"ident": "fra-nld", "script": "Latin", "lang_name": "Flemish Baragouin"}

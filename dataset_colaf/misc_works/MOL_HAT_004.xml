@@ -3,9 +3,9 @@
       <teiHeader>
          <fileDesc>
             <titleStmt>
-               <idno>CRE_HAT_005</idno>
-               <title type="main">Proclamation là, li tiré dans registe Consuls la Répiblique</title>
-               <title type="collection">Moliyé</title>
+               <idno>MOL_HAT_004</idno>
+               <title type="main">Proclamations de Leclerc</title>
+               <title type="collection">Molyé</title>
                <author>Charles Victoire Emmanuel Leclerc</author>
                <respStmt>
                   <resp>Encoding</resp>
@@ -13,14 +13,6 @@
                      <surname>Dent</surname>
                      <forename>Rasul</forename>
                      <idno type="orcid">0009-0004-1032-1745</idno>
-                  </persName>
-               </respStmt>
-               <respStmt>
-                  <resp>Encoding</resp>
-                  <persName xml:id="JJANES">
-                     <surname>Janès</surname>
-                     <forename>Juliette</forename>
-                     <idno type="orcid">0000-0002-8971-6173</idno>
                   </persName>
                </respStmt>
                <principal>
@@ -41,17 +33,17 @@
             </publicationStmt>
             <sourceDesc>
                <bibl type="PrintSource">
-                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
-                  <title>Proclamation là, li tiré dans registe Consuls la Répiblique</title>
+                  <ptr target="http://creoles.free.fr/Cours/proclam2.htm"/>
+                  <title>Proclamations de Leclerc</title>
                   <author>Charles Victoire Emmanuel Leclerc</author>
                   <publisher></publisher>
-                  <date when="1800"/>
+                  <date when="1802"/>
                </bibl>
                <bibl type="CorpusSource">
-                  <ptr target="http://creoles.free.fr/Cours/proclam1.htm"/>
-                  <title>Proclamation là, li tiré dans registe Consuls la Répiblique</title>
+                  <ptr target="http://creoles.free.fr/Cours/proclam2.htm"/>
+                  <title>Proclamations de Leclerc</title>
                   <author>Charles Victoire Emmanuel Leclerc</author>
-                  <publisher>Groupe Européen de Recherches en Langues Créoles</publisher>
+                  <publisher>Marie-Christine Hazaël-Massieux</publisher>
                   <date when="2004"/>
                </bibl>
             </sourceDesc>
@@ -59,7 +51,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="rcf">
+               <language ident="hat">
                   <idno type="langue">hat</idno>
                   <idno type="script">Latin</idno>
                   <name>Haitian Creole</name>
@@ -67,8 +59,8 @@
             </langUsage>
             <textClass>
                <keywords>
-                  <term type="supergenre" rend="fiction">Fiction</term>
-                  <term type="genre" rend="fiction-prose">Drama</term>
+                  <term type="supergenre" rend="nonfiction">Nonfiction</term>
+                  <term type="genre" rend="spoken-intended">Spoken-intended</term>
                </keywords>
             </textClass>
          </profileDesc>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <idno>MOL_RCF_001</idno>
+        <title type="main">Profession de Foy, en jargon des Esclaves Nêgres</title>
+        <title type="collection">Molyé</title>
+        <author>Philippe Caulier</author>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="RDENT">
+            <surname>Dent</surname>
+            <forename>Rasul</forename>
+            <idno type="orcid">0009-0004-1032-1745</idno>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoding</resp>
+          <persName xml:id="JJANES">
+            <surname>Janès</surname>
+            <forename>Juliette</forename>
+            <idno type="orcid">0000-0002-8971-6173</idno>
+          </persName>
+        </respStmt>
+        <principal>
+          <persName xml:id="BSAGOT">
+            <surname>Sagot</surname>
+            <forename>Benoît</forename>
+            <idno type="orcid">0000-0001-8957-9503</idno>
+          </persName>
+        </principal>
+        <funder>Inria</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <date when="2024-05-30"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="PrintSource">
+          <ptr target="https://creolica.net/Edition-de-deux-textes-religieux"/>
+          <title>Profession de Foy, en jargon des Esclaves Nêgres</title>
+          <author>Philippe Caulier</author>
+          <publisher>Philip Baker and Annegret Bollée</publisher>
+          <date when="2004"/>
+        </bibl>
+        <bibl type="CorpusSource">
+          <ptr target="https://creolica.net/Edition-de-deux-textes-religieux"/>
+          <title>Profession de Foy, en jargon des Esclaves Nêgres</title>
+          <author>Philippe Caulier</author>
+          <publisher>Philip Baker and Annegret Bollée</publisher>
+          <date when="2004"/>
+        </bibl>
+      </sourceDesc>
+      <extent>TO BE DEFINED</extent>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rcf">
+          <idno type="langue">rcf</idno>
+          <idno type="script">Latin</idno>
+          <name>Réunion Creole</name>
+          <date when="1760"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="supergenre" rend="fiction">Fiction</term>
+          <term type="genre" rend="fiction-bible">Bible</term>
+          <term type="genre" rend="spoken-intended">Spoken-intended</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body> 
+        <pb n="ms 24"/>
+      <head>Profession de Foy, en jargon des Esclaves Nêgres</head>
+      
+      <p xml:lang="rcf">
+        Moi i crois vrai, bien vrai dans mon cœur n’en a bon Dieu, li qui fini 
+        faire là longtems, longtems, tout ça que nou-i voit, Ciel, terre, Soleil, &amp;c
+        Bon Dieu Li même, qui fini faire à nous trétous;;</p>
+        <p xml:lang="rcf">li connoit tout;; tout ça qui a <pb n="ms 25"/> dans note cœur ne peut pas cacher à li;; nous ne peut pas mentir à li;:</p>
+      <p xml:lang="rcf"> Tout ça que bon Dieu dire à nous, bien vrai;; tout ça que li promêt, tenir.</p>
+      <p xml:lang="rcf">Bon Dieu l’a donné à nous tretous un corps, une ame;; corps pour travail, pour souffrir et à la fin mourir;:</p>
+      <p xml:lang="rcf"> Li a donné à nous notre ame, ça qui fait penser à nous, notre ame, moi i dis, pour connoitre à Li, servir
+      à Li, apprendre prières, catrecime, et gagner Paradis, quand nous fini mourir.</p>
+      <p xml:lang="rcf"> Bon Dieu n’a pas metté à nou au monde, pou jurer,
+        mentir, voler, courir, faire malice, pensé malice, &amp;c.</p>
+      <p xml:lang="rcf"> Li mettre à <pb n="ms 26"/>
+      nous autres icy même, pou vive bian comme i faut;; pas pensé à mal,
+      pas faire mauvais peché, pas faire ça que Bon Dieu defend, mais faire
+      tout ça que li commande à nous.</p>
+      <p xml:lang="rcf"> Servir, aimer bon Dieu, ça même li i entend, ça même li i veut.</p>
+      <p xml:lang="rcf"> Bon Dieu il est partout, li qui fait vivre
+      à nous, qui donne à nous tout ça qui est note besoin, li qui sogne à
+      nous la nouict, le jour.</p>
+      <p xml:lang="rcf"> Moi croir itou dans mon cœur Bon Dieu n’ena Son fils, Son nom à li Jesuchrît, note Signeur.</p>
+      <p xml:lang="rcf"> Li fini venir au monde dans li tems passé;;</p>
+      <p xml:lang="rcf"> li fini prendé un corp et une ame, comme nous auttes même dans li ventre de Sa maman, Marie tres Ste Vierge.</p>
+      <p xml:lang="rcf"> Car li n’étoit <pb n="ms 27"/> pas fini marier, mais tant seulement fiancée à St José, qui n’a jamais touché à li.</p> 
+      <p xml:lang="rcf">St José et Vierge Marie, vivre comme ça même ensembe,manière frère et sœur.</p> 
+      <p xml:lang="rcf">St José travailler metier charpentier, et la Ste Vierge sogner menage, ça que brave femme doit faire. </p>
+      <p xml:lang="rcf">Maski, ça qui faire devenir mere de Dieu, Ste Vierge Marie, St Espirit même, troisième Parsonne la Sainte Tarnité, pour l’amour nous autes, pou tout le monde.</p>
+      <p xml:lang="rcf">Car si J.C. n’a pas prendé corp et ame, si li n’a pas faire homme, nous tous pardus tous damnés;;</p>
+      <p xml:lang="rcf">Li fini venir au monde pou racheter à nous autres tous, pauvres Saclaves du Diabe, à cause peché que nou i apporte en venant au monde, et à cause tout ça
+      <pb n="ms 28"/> que nou i fait mechans pechez, mauvais malices.</p>
+      <p xml:lang="rcf">Note Signeur J.C. fini passer age marmaïe, et commencé à gagner barbe, deja li travaïe, beaucoup beaucoup suïer, metier St José, stila qui estimé être son Papa;;</p>
+       <p xml:lang="rcf">à celle fin de condamner tous stila, qui aimé faire la cagne, faire grand paresse.</p>
+      <p xml:lang="rcf">Après ça, N. Signeur prêcher catrechime à tout lé [li;?] monde qui accourt après li, faire miraques, guéri maladies, faire reproche à ceux qui ne vivre pas bien,</p>
+      <p xml:lang="rcf">A cause ça même, les gens des son Pays, les Juîs - moi i dit, faire beaucoup rage contre li, eux autes n’a pas vouloir reconnoit à li, n’a pas vouloir acouter son bons paroles;; </p>
+      <p xml:lang="rcf">Li voulu montrér bon espirit, <pb n="ms 29"/> bon Service bon Dieu à tout li monde;; </p>
+      <p xml:lang="rcf">mais eux autes malins, beaucoup michans touzour mocque à li, touzour siputer contre li, touzour charcher à tuÿer à li.</p>
+      <p xml:lang="rcf"> Enfin quand Bon Dieu fini permette à eux autes grand canaïe là, de faire mourir son Fils à li;; 
+        michantes gens-la, par grand et terrible malice, courir vîte prende J.C. dans un jardin, la nouît, où ça que li acoutumé faire bonne et long prière;; amarer à li, trainer
+       à li par les chemins et dedans les bouës,  accuser à li grandes menteriës, à devant les Prêtres et Conseïers de leur Pays, dire que note Signeur faire
+       mauvais complot, que li montrer mauvais cabale à tout ça qui vient acouter à li.</p>
+      <pb n="ms 30"/>
+      <p xml:lang="rcf">Eux autes-même, michans Juges et Sacabirs-la, souffler étout ces vilains menteries, crier rage contre li, mener à li devant le Gouverneur, li Payen, et ne pas connoite bon Dieu.</p> 
+      <p xml:lang="rcf">Quand J.C. N. Signeur fini rendre devant li, son nom à li Ponce Pilate, gouverneur payen-là, première, li avoir envie délivrer J.C., mais son zoréïes beaucoup lasses, à la fin, li rendre mauvais jistice contre bon Dieu.</p>
+      <p xml:lang="rcf">Pilate, moi i dis, faire amarer à li à un piquet comme mauvais Saclave, fouëtter à li, dechirer à li zusqu’aux os. Fini fouëtter, corcher longtems longtems,
+        Soldats donner à li grands coups de soufflets, coups de poings, coups de piés, tant <pb n="ms 31"/> que li pover porter, cracher sus li, mocquer à li;:</p> 
+      <p xml:lang="rcf">Puis bander Son zieux, mette sus Son tête couronne d’Esquines et longs picans;; puis enfoncer dans Son tête à coups de triques, et ça tant que la nouïct durer.</p>
+      <p xml:lang="rcf">Fini faire soufrir à note Signeur, tous ces michans malices là, eux autes tretous, Pilate li même, tenir encor conseïe, et condamner tou ensembe note Sauveur Fils de Dieu, à mouri clouté sur une Croix.</p>
+      <p xml:lang="rcf">Michans Juif-là beaucoup bien aises, à cause li Gouverneur Pilate fini consenti leu michant l’envie.</p>
+      <p xml:lang="rcf">Eux autes après ça conduire à li au haut d’un Piton, là même clouter Son piés Son mains su la croix, et quitter mourir à li cõe ça même, après que li fini repandre tout son Sang.</p>
+      <pb n="ms 32"/>
+      <p xml:lang="rcf">Ça même note Signeur J.C. l’a fait pou racheter à nous autes, pou gagner grace à tout li monde, pou tous les pechez que nou i fait conte bon Dieu.</p>
+      <p xml:lang="rcf">Après tout ça note Sauveur fini rassissiter 3e jour, li monter au Ciel, et à la fin du monde revenir encore pou juger les vivans les morts.</p>
+      <p xml:lang="rcf">Moi i crois encor le St Espirit &amp;c &amp;c</p>
+       <pb n="ms 33"/>
+
+      
+    </body>
+  </text>
+</TEI>

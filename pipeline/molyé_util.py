@@ -208,9 +208,8 @@ def check_lines(interesting_paragraphs, disjunctive_regex):
 def get_lines_of_interest(file_text, langs, level="p"):
     soup = BeautifulSoup(file_text, features="xml")
     matches = soup.find_all(level, attrs={"xml:lang": langs})
-    if level == "s":
-        #trick to get an ordered set
-        matches = list(dict.fromkeys([match.parent for match in matches]))
+    #trick to get an ordered set
+    matches = list(dict.fromkeys([match.parent if match.name == "s" else match for match in matches ]))
     #inserts namespace unnecessarily
     return [ str(m).replace("tei:", "") for m in matches]
 

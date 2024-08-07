@@ -5,7 +5,7 @@
          <titleStmt>
             <idno>MOL_ANG_002</idno>
             <title type="main"> Testament d'vn Escossois</title>
-            <title type="collection">Moliyé</title>
+            <title type="collection">Molyé</title>
             <author>Anonymous</author>
             <respStmt>
                <resp>Encoding</resp>
@@ -13,14 +13,6 @@
                   <surname>Dent</surname>
                   <forename>Rasul</forename>
                   <idno type="orcid">0009-0004-1032-1745</idno>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Encoding</resp>
-               <persName xml:id="JJANES">
-                  <surname>Janès</surname>
-                  <forename>Juliette</forename>
-                  <idno type="orcid">0000-0002-8971-6173</idno>
                </persName>
             </respStmt>
             <principal>

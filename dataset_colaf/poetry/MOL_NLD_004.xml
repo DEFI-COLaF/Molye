@@ -41,17 +41,17 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="PrintSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392207s/f4.item.r=%22mais%20mo%20pas%22.zoom"/>
           <title>Pitche</title>
           <author>Jules Watteuw</author>
-          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <publisher>Le Dimanche du Journal de Roubaix</publisher>
           <date when="1927-03-13"/>
         </bibl>
         <bibl type="CorpusSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392207s/f4.item.r=%22mais%20mo%20pas%22.zoom"/>
           <title>Pitche</title>
           <author>Jules Watteuw</author>
-          <publisher>Bibliothèque nationale de France</publisher>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
           <date when="2019-01-22"/>
         </bibl>
       </sourceDesc>

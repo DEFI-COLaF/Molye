@@ -70,7 +70,7 @@ def prep_all_plays(folder, target_langs):
     prepped_extracts = []
     file_names = [f"{folder}/{file}" for file in os.listdir(folder)]
     for file_name in file_names:
-        print(file_name)
+        #print(file_name)
         short_metadata, quote_groups = prep_play_extract(file_name, target_langs)
         #Handle whitespace and repeated names in xml:ids
         prepped_extracts.append([short_metadata, quote_groups, target_langs, None])
@@ -78,7 +78,6 @@ def prep_all_plays(folder, target_langs):
     return prepped_extracts, all_langs
 
 
-#TODO fix tags in manually added works
 def get_all_lines(soup, lang, primary_tags, secondary_tags):
     quotes = [q for q in soup.find_all(primary_tags) if not "xml:lang" in q.attrs or q["xml:lang"] not in ["met-fr", "eng"]]
     for q in quotes:
@@ -89,7 +88,6 @@ def get_all_lines(soup, lang, primary_tags, secondary_tags):
     quotes += [q for q in secondary_quotes if q not in " ".join(quotes)]
     return quotes
 
-#TODO finish
 def prep_wiki_works(wiki_works, folder):
     prepped_extracts = []
     all_langs = set()
@@ -149,15 +147,18 @@ def prep_misc_works(folder, target_langs=["fra-ang", "mau", "fra-gsc"]):
             prepped_extracts.append([short_metadata, quote_groups, main_lang, None])
     return prepped_extracts, all_langs
 
+def prep_prose(folder):
+    pass
 
 
-def test_prose():
-    wiki_title = 'Une de perdue'
-    wiki_link = "https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_I"
-    test_root = wiki.convert_one_wiki_prose(wiki_link, "000", "Moliyé")
-    out = ET.tostring(test_root, encoding="unicode").replace("XMLID", "xml:id")
-    ET.ElementTree(ET.fromstring(out)).write("dataset_colaf/test.xml", xml_declaration=True, encoding="UTF-8",  pretty_print=True)
-
+#
+# def test_prose():
+#     wiki_title = 'Une de perdue'
+#     wiki_link = "https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_I"
+#     test_root = wiki.convert_one_wiki_prose(wiki_link, "000", "Moliyé")
+#     out = ET.tostring(test_root, encoding="unicode").replace("XMLID", "xml:id")
+#     ET.ElementTree(ET.fromstring(out)).write("dataset_colaf/test.xml", xml_declaration=True, encoding="UTF-8",  pretty_print=True)
+#
 
 #If the lang date (originally written) is earlier than the publication date, use the lang date
 def effective_doc_date(doc):
@@ -168,7 +169,7 @@ def effective_doc_date(doc):
         for lang in langs:
             if lang.find_all("date"):
                 effective_date=lang.find("date")["when"]
-                print(effective_date[:4])
+                #print(effective_date[:4])
     return int(effective_date[:4])
 
 def arrange_timeline(file):
@@ -183,8 +184,7 @@ def arrange_timeline(file):
         corpus_root.append(ET.fromstring(corrected))
     m_util.write_tree(corpus_root, file)
 
-def main(list_file, recache=False, annotate=False):
-    works = m_util.load_works(list_file)
+def recache(works, annotate):
     classique_works = [w for w in works if w["Source"] == "theatre-classique"]
     wikisource_works = [w for w in works if w["Source"] == "Wikisource"]
     src_dir = "../source"
@@ -195,13 +195,18 @@ def main(list_file, recache=False, annotate=False):
     classique_tei_folder = f"{fin_dir}/{tc_dir}"
     raw_wiki_folder = f"{src_dir}/{wiki_dir}"
     wiki_tei_folder = f"{fin_dir}/{wiki_dir}"
-    if recache:
-        folders = [raw_classique_folder, classique_tei_folder, raw_wiki_folder, wiki_tei_folder]
-        m_util.prepare_folders(folders)
-        tc.save_tc_works(raw_classique_folder, classique_works)
-        tc.transform_classique(raw_classique_folder, classique_tei_folder)
+    folders = [raw_classique_folder, classique_tei_folder, raw_wiki_folder, wiki_tei_folder]
+    m_util.prepare_folders(folders)
+    tc.save_tc_works(raw_classique_folder, classique_works)
+    tc.transform_classique(raw_classique_folder, classique_tei_folder)
     if annotate:
         annotation.annotate_all_plays(classique_works, f"{fin_dir}/{classique_tei_folder}")
+
+def main(list_file, recache=False, annotate=False):
+    works = m_util.load_works(list_file)
+    if recache:
+        recache(annotate)
+
     #
     # hat.main()
     # gal.main()
@@ -210,29 +215,24 @@ def main(list_file, recache=False, annotate=False):
     # lou.main()
     targets = ["fra-dia", "fra-ang", "fra-deu", "fra-gsc", "rcf", "hat", "lou", "gcf", "fra-nld"]
     play_extracts, play_langs = prep_all_plays("../dataset_colaf/theatre", targets)
-
-
     poem_extracts, poem_langs = prep_all_poems("../dataset_colaf/poetry")
-    prose_extracts, prose_langs = prep_wiki_works(wikisource_works, "../dataset_colaf/prose")
-
-
     misc_extracts, misc_langs = prep_misc_works("../dataset_colaf/misc_works", targets)
-
-
-    all_extracts = play_extracts + poem_extracts + prose_extracts + misc_extracts
-    all_langs = play_langs.union(poem_langs).union(misc_langs).union(prose_langs)
+    all_extracts = play_extracts + poem_extracts   + misc_extracts
+    all_langs = play_langs.union(poem_langs).union(misc_langs)
 
     #print(all_langs)
     main_corpus_fol = "../main_corpus"
-    corpus_file_name = f"{main_corpus_fol}/molyé.xml"
+    corpus_file_name = f"{main_corpus_fol}/molyé20240808.xml"
     corpus_metadata = {"id" : "Molyé_000", "title": "Molyé", "author": "Rasul Dent",
                        "publisher": "CoLAF", "online_publisher": "CoLAF",  "permalien" : "https://colaf.huma-num.fr/",
                        "online_date": "2024"}
     corpus_tree = metadata_patterns.create_corpus_xml(corpus_metadata, all_langs, all_extracts)
     m_util.write_tree(corpus_tree, corpus_file_name)
+    m_util.write_tree(corpus_tree, "/home/rdent/molyé20240808.xml")
     arrange_timeline(corpus_file_name)
+    arrange_timeline("/home/rdent/molyé202408.xml")
 
 if __name__ == '__main__':
-    list_file = "Molyé_list.tsv"
+    list_file = "../Molyé_list.tsv"
     main(list_file)
 

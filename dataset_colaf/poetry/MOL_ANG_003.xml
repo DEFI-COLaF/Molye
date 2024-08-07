@@ -5,7 +5,7 @@
          <titleStmt>
             <idno>MOL_ANG_003</idno>
             <title type="main">Rime anglaise contre les ofﬁciers généraux de la Martinique</title>
-            <title type="collection">Moliyé</title>
+            <title type="collection">Molyé</title>
             <author>Anonymous</author>
             <respStmt>
                <resp>Encoding</resp>
@@ -13,14 +13,6 @@
                   <surname>Dent</surname>
                   <forename>Rasul</forename>
                   <idno type="orcid">0009-0004-1032-1745</idno>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>Encoding</resp>
-               <persName xml:id="JJANES">
-                  <surname>Janès</surname>
-                  <forename>Juliette</forename>
-                  <idno type="orcid">0000-0002-8971-6173</idno>
                </persName>
             </respStmt>
             <principal>
@@ -81,7 +73,8 @@
    </teiHeader>
   <text>
       <body>
-         <lg xml:lang="fra-ang">
+         <div type="part" xml:lang="fra-ang">
+         <lg>
             <l xml:lang="fra-ang">Je t’écris, mon ami,</l>
             <l xml:lang="fra-ang">Comme le gouvernement de Martinique</l>
             <l xml:lang="fra-ang">Ly être bien conduit</l>
@@ -151,6 +144,7 @@
             <l xml:lang="fra-ang">By God, j’en riré,</l>
             <l xml:lang="fra-ang">Farewell countrymen.<note n="4">Écrit au dos de la pièce : Pour M. le général de Feuquières. (R)</note></l>
          </lg>
+         </div>
       </body>
   </text>
 </TEI>

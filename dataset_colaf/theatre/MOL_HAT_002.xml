@@ -3,7 +3,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <idno>MOL_HC_002</idno>
+    <idno>MOL_HAT_002</idno>
     <title type="main">Jeannot et Thérèse</title>
     <title type="collection">Molyé</title>
     <author>Clément </author>
@@ -45,7 +45,7 @@
      <title>Jeannot et Thérèse</title>
      <author>Clément</author>
      <publisher></publisher>
-     <date when="1758"/>
+     <date when="1783"/>
     </bibl>
     <bibl type="CorpusSource">
      <ptr target="http://creoles.free.fr/Attente/Textes-anciens/Jeannot%20et%20Th.%20corrig%E92.doc"/>
@@ -62,7 +62,8 @@
    <language ident="hat">
     <idno type="langue">hat</idno>
     <idno type="script">Latin</idno>
-    <name>Haitian Creole (presumed)</name>
+    <name>Haitian Creole</name>
+    <date when="1758"/>
    </language>
     <language ident="met-fr">
      <idno type="langue">met-fr</idno>

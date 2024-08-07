@@ -41,14 +41,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="PrintSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392074h/f7.image.r=sisca%20pasquilles?rk=21459;2"/>
           <title>Min petite Sisca</title>
           <author>Jules Watteuw</author>
-          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <publisher>Le Dimanche du Journal de Roubaix</publisher>
           <date when="1924-08-24"/>
         </bibl>
         <bibl type="CorpusSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392074h/f7.image.r=sisca%20pasquilles?rk=21459;2"/>
           <title>Min petite Sisca</title>
           <author>Jules Watteuw</author>
           <publisher>Bibliothèque nationale de France</publisher>

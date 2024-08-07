@@ -1,16 +1,20 @@
 import molyé_util as m_util
-import regex as re
 from bs4 import BeautifulSoup
 from lxml import etree as ET
 import metadata_patterns
 import os
 
-def save_tc_works(raw_xml_folder, works):
-    for work in works:
-        title, link = work["Title"], work["Link"]
-        html = m_util.get_html_content(link)
-        with open(f"{raw_xml_folder}/{m_util.format_title(title)}.xml", mode="w") as f:
-            f.write(html)
+
+def save_one_play(raw_xml_folder, play):
+    title, link = play["Title"], play["Link"]
+    html = m_util.get_html_content(link)
+    with open(f"{raw_xml_folder}/{m_util.format_title(title)}.xml", mode="w") as f:
+        f.write(html)
+def save_tc_works(raw_xml_folder, plays):
+    for play in plays:
+        save_one_play(raw_xml_folder, play)
+
+
 
 def create_multiple_person(item_multiple):
     metadata_list = []
@@ -55,14 +59,14 @@ def parse_tree_metadata(xml_file):
     metadata["digitizer"] = "Gallica"
     return metadata
 
-def transform_one_classique_play(xml_file, idno, collection="Moliyé"):
+def transform_one_classique_play(xml_file, idno, collection="Molyé"):
     #print(f"converting {xml_file} to CoLAF schema")
     metadata = parse_tree_metadata(xml_file)
     metadata["collection"] = collection
     metadata["online_publisher"] = "Theatre Classique"
     metadata["id"] = idno
     #TODO fix date
-    metadata["online_date"] = "2024-05-30"
+    metadata["online_date"] = "2022-11-30"
     # TODO fix permalien
     if type(metadata["permalien"]) == type(None):
         metadata["permalien"] = "https://www.theatre-classique.fr/"

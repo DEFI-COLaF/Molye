@@ -51,11 +51,6 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="met-fr">
-               <idno type="langue">met-fr</idno>
-               <idno type="script">Latin</idno>
-               <name>French of Metropolitan France</name>
-            </language>
             <language ident="fra-deu">
                <idno type="langue">fra-deu</idno>
                <idno type="script">Latin</idno>

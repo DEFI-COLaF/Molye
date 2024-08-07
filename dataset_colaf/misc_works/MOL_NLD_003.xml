@@ -41,17 +41,17 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="PrintSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392126s/f3.image.r=Ze%20l%27attender%20toujours%20y%20parler%20de%20chine%CC%81ma?rk=21459;2"/>
           <title>Sisca à de Cinéma</title>
           <author>Jules Watteuw</author>
-          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
+          <publisher>Le Dimanche du Journal de Roubaix</publisher>
           <date when="1925-08-23"/>
         </bibl>
         <bibl type="CorpusSource">
-          <ptr target="http://catalogue.bnf.fr/ark:/12148/cb327574898"/>
+          <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k2392126s/f3.image.r=Ze%20l%27attender%20toujours%20y%20parler%20de%20chine%CC%81ma?rk=21459;2"/>
           <title>Sisca à de Cinéma</title>
           <author>Jules Watteuw</author>
-          <publisher>Bibliothèque nationale de France</publisher>
+          <publisher>Bibliothèque nationale de France, département Droit, économie, politique, JO-86058 (BIS)</publisher>
           <date when="2019-01-20"/>
         </bibl>
       </sourceDesc>

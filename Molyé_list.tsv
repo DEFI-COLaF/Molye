@@ -1,0 +1,81 @@
+COLaF ID and link	Title	Year	Original Search term	Link	Author	Genre	Character	Target_region	Lang	Metalang	Source	Transcribed	TEI	Added to corpus?
+MOL_ANG_001	Le Testament du Gentil Cossois	1509	"moy donne"	https://www.jstor.org/stable/pdf/25519232.pdf?refreqid=fastly-default%3Ace3343ffd00160281d9c43f2b76c17d5&ab_segments=&origin=&initiator=&acceptTC=1	Anonymous	poetry	n/a	Scotland	fra-ang	met-fr	Google Books	yes	yes	yes
+MOL_DEU_001	Le Noel des Reitres	1580-1600	moi sti	https://www.delpher.nl/nl/boeken1/gview?query=moi+sti&coll=boeken1&identifier=OR5bAAAAQAAJ&rowid=2	Anonymous	lyrics	n/a	Switzerland	fra-deu	met-fr	Delpher	yes	yes	yes
+MOL_ANG_002	Testament d'vn escossois	1620	moy ly	https://books.google.fr/books?id=ksvql72IXpAC&pg=PA651&dq=moy+ly&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjqyf2j6_aFAxXYUaQEHcy6CYQQ6AF6BAgEEAI#v=onepage&q=moy%20ly&f=false	Sieur de Sygognes.	poetry	n/a	Scotland	fra-ang	met-fr	Google Books	yes	yes	yes
+MOL_DEU_004	L' histoire comique de Francion	1630	"ly va"	https://google.fr/books/edition/L_histoire_comique_de_Francion_ou_les_tr/2avypkWifOsC?hl=en&gbpv=1&dq=%22ly+va%22&pg=PA533&printsec=frontcover	Charles Sorel	prose-novel	Le Suisse	Switzerland	fra-deu	met-fr	Google Books	yes	yes	yes
+MOL_DEU_003	 Qvestion cardinale plaisamment agitée ov dasthicotée entre vn Holandois et vn Svisse, et décidée par vn François	1649	moy ly	https://books.google.fr/books?id=f236EfgvJRYC&pg=PP7&dq=moy+ly&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjdjK2a9PaFAxX2VKQEHZFxC8M4KBDoAXoECAoQAg#v=onepage&q=moy%20ly&f=false	Anonymous	drama	Le Suisse, Le Hollandois	Switzerland, Holland	fra-deu, fra-nld	met-fr	Google Books	yes	yes	yes
+MOL_DEU_001	Les divertissements curieux: D'un Suisse et d'un singe	1650	ly moy toy	https://books.google.fr/books?id=doYca2pWzVAC&pg=PA110&dq=ly+moy+toy&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi77faOo_eFAxXzUKQEHb2DA-4QuwV6BAgLEAg#v=onepage&q=ly%20moy%20toy&f=false	Huguetan, Jean	prose	n/a	Switzerland	fra-deu	met-fr	Google Books	yes	yes	yes
+MOL_TC_001	Dom Juan	1665	n/a	https://www.theatre-classique.fr/pages/documents/MOLIERE_DOMJUAN.xml	Molière	drama	Pierrot, Charlotte	French Peasant	fra-dia, fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_002	Elomire Hypocondre	1670	n/a	https://www.theatre-classique.fr/pages/documents/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml	Le Boulanger de Chalussay	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_003	Monsieur de Pourceaugnac 	1670	n/a	https://www.theatre-classique.fr/pages/documents/MOLIERE_MONSIEURPOURCEAUGNAC.xml	Molière	drama	Premier Suisse, Second Suisse	Switzerland	fra-deu, fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_GCF_001	Le Triton v.1	1671	n/a		Greffe de Port Royal	prose	n/a	Martinique	gcf	eng	Creolist archives	yes	yes	yes
+MOL_GCF_002	Le Triton v.2	1671	n/a		Greffe de Port Royal	prose	n/a	Martinique	gcf	met-fr	creoles.free.fr	yes	yes	yes
+MOL_TC_004	 La Hollande Malade 	1672	n/a	https://www.theatre-classique.fr/pages/documents/POISSON_HOLANDEMALADE.xml	Poisson, Raymond	drama	La Flamande	Flanders	fra-nld	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_005	Les fêtes de l'amour et de Bacchus	1672	n/a	https://www.theatre-classique.fr/pages/documents/QUINAULT_FETESAMOURBACCHUS.xml	Quinault, Philippe 	drama	Le Suisse, Gascon, Autre Gascon	Switzerland, Gascony	fra-deu, fra-gsc, fra-gsc	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_006	Le Bourgeois Gentilhomme	1673	n/a	https://www.theatre-classique.fr/pages/documents/MOLIERE_BOURGEOISGENTILHOMME.xml	Molière	drama	Le Suisse, Gascon, Autre Gascon	Switzerland, Gascony	fra-deu, fra-gsc, fra-gsc	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_007	Les fragments de Molière	1682	"ly"	https://www.theatre-classique.fr/pages/documents/CHAMPMESLE_FRAGMENTSDEMOLIERE.xml	Champmeslé	drama	Pierrot	Sailor	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_008	Les Filles Errantes	1690	n/a	https://www.theatre-classique.fr/pages/documents/REGNARD_FILLESERRANTES.xml	Regnard, Jean-François 	drama	LE-HOLLANDAIS	Holland	fra-nld	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_009	Le Moulin de Javelle	1692	disont	https://www.theatre-classique.fr/pages/documents/DANCOURT_MOULINDEJAVELLE.xml	Dancourt	drama	Nicolas	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_010	Les Vendanges	1694	fons	https://theatre-classique.fr/pages/documents/DANCOURT_VENDANGES.xml	Dancourt	drama	Lucas	bourgeois	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_011	Le Tuteur	1694	Dancourt ly, li parliont	https://www.theatre-classique.fr/pages/documents/DANCOURT_TUTEUR.xml	Dancourt	drama	Lucas	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_012	La loterie	1697	n/a	https://www.theatre-classique.fr/pages/documents/DANCOURT_LOTERIE.xml	Dancourt	drama	LE-FLAMAND	Flanders	fra-nld	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_013	Le charivari	1697	alle	https://www.theatre-classique.fr/pages/documents/DANCOURT_CHARIVARI.xml	Dancourt	drama	Thibaut, Mathurine	Jardinier, Servante	fra-dia, fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_014	 Les empiriques	1697 (1735)	"moi point"	https://www.theatre-classique.fr/pages/documents/BRUEYS_EMPIRIQUES.xml	Brueys, David-Augustin de	drama	Fribourg	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_015	La Maison de campagne	1697	Dancourt li	https://www.theatre-classique.fr/pages/documents/DANCOURT_MAISONDECAMPAGNE.xml	Dancourt	drama	Thibaut	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_016	Le Double Veuvage	1699	n/a	https://www.theatre-classique.fr/pages/documents/DUFRESNY_DOUBLEVEUVAGE.xml	Dufresny	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_017	L'Esprit de contradiction	1700	ous	https://www.theatre-classique.fr/pages/documents/DUFRESNY_ESPRITDECONTRADICTION.xml	Dufresny	drama	Lucas	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_018	Colin-Maillard	1701	alle	https://www.theatre-classique.fr/pages/documents/DANCOURT_COLIN-MAILLARD.xml	Dancourt	drama	Mathurin, Claudine	Jardinier, fiancée	fra-dia, fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_DEU_005	Lettre de la Comtesse de ***	1703 (1738)	n/a	https://www.delpher.nl/nl/boeken1/gview?query=%22ly+dire%22&coll=boeken1&maxperpage=40&identifier=jSROtXbhTfsC&rowid=6		letter	La Comtesse	Switzerland	fra-deu	met-fr	Gallica	yes	yes	yes
+MOL_TC_019	Le Galant Jardinier	1704	Dancourt li	https://www.theatre-classique.fr/pages/documents/DANCOURT_GALANTJARDINIER.xml	Dancourt	drama	Lucas	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_020	La Comédie des comédiens	1710	n/a	https://www.theatre-classique.fr/pages/documents/DANCOURT_COMEDIECOMEDIENS.xml	Dancourt	drama	Thibaut	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_021	Première Parade	1714 (1740)	n/a	https://www.theatre-classique.fr/pages/documents/GUEULLETTE_PARADE1.xml	Gueullette	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_022	Arelequin-Pluton	1719	n/a	https://www.theatre-classique.fr/pages/documents/GUEULLETTE_ARLEQUINPLUTON.xml	Gueullette	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_ANG_003	Rime anglaise contre les officiers généraux de la Martinique	1721	n/a	https://satires18.univ-st-etienne.fr/texte/martinique-anglais-parodie/rime-anglaise-contre-les-officiers-g%C3%A9n%C3%A9raux-de-la-martinique	Anonymous	poetry	n/a	England	fra-ang	met-fr	univ st etienne	yes	yes	yes
+	île de la Rasion	1727		https://www.theatre-classique.fr/pages/documents/MARIVAUX_ILEDELARAISON.xml	Marivaux	drama	Marivaux	Fontignac	fra-gsc	met-fr	theatre-classique			
+MOL_HC_001	La passion de Notre Seigneur selon St Jean en Langage Negre	1730		http://creoles.free.fr/Cours/passion.htm	Anonymous	bible	n/a	Caribbean	hat	met-fr	creoles.fr	yes	yes	yes
+MOL_TC_023	LE JE NE SAIS QUOI	1731	n/a	https://www.theatre-classique.fr/pages/documents/BOISSY_JENESAISQUOI.xml	Boissy	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_024	La Mère confidente	1735	n/a	https://www.theatre-classique.fr/pages/documents/MARIVAUX_MERECONFIDENTE.xml	Marivaux	drama	Lubin	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_025	L'école de la raison	1739	n/a	https://www.theatre-classique.fr/pages/documents/LAFOSSEM_ECOLEDELARAISON.xml	La Fosse	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_026	L’Épreuve	1740	li-meme	https://www.theatre-classique.fr/pages/documents/MARIVAUX_EPREUVE.xml	Marivaux	drama	MAÎTRE BLAISE	French Peasant	fra-dia	met-fr	theatre-classique	yes	yes	yes
+MOL_LOU_009	Trial of Charlot	1748	n/a		n/a	spoken	Charlot	Louisiana	lou	eng		yes	yes	yes
+MOL_TC_027	LES PRISONNIERS DE GUERRES	1752	avre été	https://www.theatre-classique.fr/pages/documents/ROUSSEAU_PRISONNIERSDEGUERRE.xml	Rousseau	drama	Jacquard	Suisse	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_028	Cendrillon	1759	n/a	https://www.theatre-classique.fr/pages/documents/ANSEAUME_CENDRILLON.xml	Anseaume	drama	Le Suisse	Suisse	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_RCF_001	Deux textes religieux	1770s	n/a	http://www.creolica.net/caulier.pdf	Caulier	bible	n/a	Reunion	rcf	met-fr	Creolica	yes	yes	yes
+MOL_TC_029	Le Suisse de Porte 	1771	n/a	https://www.theatre-classique.fr/pages/documents/CARMONTELLE_SUISSEDEPORTE.xml	Carmontelle	drama	Le-Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_030	LE SUISSE MALADE	1776	n/a	https://www.theatre-classique.fr/pages/documents/CARMONTELLE_SUISSEMALADE.xml	Carmontelle	drama	Le Major, Le Caporal	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_031	 L'opéra de Province	1777	n/a	https://www.theatre-classique.fr/pages/documents/BARRE-DESPRES-PIIS-RESNIER_OPERADEPROVINCE.xml	Barré; Radet; Desfontaines	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_032	La méprise	1778	n/a	https://www.theatre-classique.fr/pages/documents/SACY_MEPRISE.xml	Sacy	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_TC_033	Janot Chez Le Dégraisseur	1779	n/a	https://www.theatre-classique.fr/pages/documents/ARCHAMBAULT_JANOTDEGRAISSEUR.xml	Archambault	drama	Le Suisse	Switzerland	fra-deu	met-fr	theatre-classique	yes	yes	yes
+MOL_MAU_001	Le duel singulier	1800		https://www.google.fr/books/edition/Le_duel_singulier_com%C3%A9die_en_un_acte_et/WIf8TGD9F_UC?hl=en&gbpv=1&dq=%22li+va%22+moi&pg=PA15&printsec=frontcover	Dorvigny	drama	Strafford, Jacques, Fijeac	Boston, Mauritius, Gascony	fra-ang, mau, fra-gsc	met-fr	Google Books	yes	yes	yes
+MOL_LOU_007	Di tems Missié D'artaguette	1815 (1851)	la yé	https://www.google.fr/books/edition/Louisiana/MJUpAAAAYAAJ?hl=en&gbpv=1&dq=%22y%C3%A9%22+louisiane&pg=PA532&printsec=frontcover	Gayarré	lyrics	n/a	Louisiana	lou	eng	Google Books	yes	yes	yes
+MOL_RCF_002	Fables créoles	1828 (1883)		https://fr.wikisource.org/wiki/Fables_cr%C3%A9oles	Héry	poetry	n/a	Réunion	rcf	met-fr	Wikisource_corrected	yes	yes	yes
+MOL_LOU_004	L'amour d'un nègre	1836 (1860)	"li" "té" "yé" vous	https://www.google.fr/books/edition/L_amour_d_un_N%C3%A8gre/CKSWUG4ujhoC?hl=en&gbpv=1&dq=%22li%22+%22t%C3%A9%22+%22y%C3%A9%22+vous&pg=PA227&printsec=frontcover	Jobey	prose-novel	n/a	Louisiana	lou	met-fr	Google Books	yes	yes	yes
+MOL_LOU_005	L'amour d'une blanche	1837 (1861)	"li" "té" "yé" vous	https://www.google.fr/books/edition/L_amour_d_une_blanche/7-s5AAAAcAAJ?hl=en&gbpv=1&dq=%22li%22+%22t%C3%A9%22+%22y%C3%A9%22+vous&pg=PA261&printsec=frontcover	Jobey	prose-novel	n/a	Louisiana	lou	met-fr	Google Books	yes	yes	yes
+MOL_LOU_002	Une de perdue, deux de trouvées, TOME II	1838 (1874)		https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_II	Boucherville	prose-novel	Trim, Trim's aunt	Louisiana	lou	met-fr	Wikisource	yes	yes	yes
+MOL_LOU_003	Une de perdue, deux de trouvées, TOME I	1839 (1874)	"conné" li	https://fr.wikisource.org/wiki/Une_de_perdue%2C_deux_de_trouv%C3%A9es/Tome_I	Boucherville	prose-novel	Trim, Trim's aunt	Louisiana	lou	met-fr	Wikisource	yes	yes	yes
+MOL_LOU_001	La Cigale et la Fourmi	1846	"layé" moi li	https://www.google.fr/books/edition/Revue_Louisianaise/KdAqRw20ZzcC?hl=en&gbpv=1&dq=%22lay%C3%A9%22+moi+li&pg=PA538&printsec=frontcover		poetry	n/a	Louisiana	lou	met-fr	Google Books	yes	yes	yes
+MOL_LOU_008	L'autre monde	1855	"conné" li	https://www.google.fr/books/edition/L_autre_monde/qZfECMqlKE0C?hl=en&gbpv=1&dq=%22conn%C3%A9%22+li&pg=PA68&printsec=frontcover	Grandfort	press	n/a	Louisiana	lou	met-fr	Google Books	yes	yes	yes
+MOL_LOU_005	L'Habitation Saint-Ybars	1851~1870 (1881)		https://fr.wikisource.org/wiki/L%E2%80%99Habitation_Saint-Ybars	Mercier	prose-novel	various	Louisiana	lou	met-fr	Wikisource	yes	yes	yes
+MOL_GCR_001	Atipa	1885		https://fr.wikisource.org/wiki/Atipa	Parépou	prose-novel	n/a	French Guiana	gcr	gcr	Wikisource	yes	yes	yes
+MOL_LOU_010	Louisiana Folktales	1895		https://huggingface.co/datasets/jhu-clsp/kreyol-mt/viewer/lou-eng	Fortier	prose-short-stories	n/a	Louisiana	lou	eng	Kreyòl-MT	yes	yes	yes
+MOL_NLD_001	Poutche	1924		https://gallica.bnf.fr/ark:/12148/bpt6k2392049f/f3.item.r=mo.zoom#	Watteuw	poetry	n/a	Tourcoing	fra-nld	met-fr	Gallica	yes	yes	yes
+MOL_NLD_002	Min petite Sisca	1924		https://gallica.bnf.fr/ark:/12148/bpt6k2392074h/f7.image.r=sisca%20pasquilles?rk=21459;2	Watteuw	prose-short-stories	n/a	Tourcoing	fra-nld	met-fr	Gallica	yes	yes	yes
+MOL_NLD_003	Sisca à de Cinéma	1925		https://gallica.bnf.fr/ark:/12148/bpt6k2392126s/f3.image.r=Ze%20l'attender%20toujours%20y%20parler%20de%20chine%CC%81ma?rk=21459;2	Watteuw	prose-short-stories	n/a	Tourcoing	fra-nld	met-fr	Gallica	yes	yes	yes
+MOL_NLD_004	Pitche	1927		https://gallica.bnf.fr/ark:/12148/bpt6k2392207s/f4.item.r=%22mais%20mo%20pas%22.zoom	Watteuw	poetry	n/a	Tourcoing	fra-nld	met-fr	Gallica	yes	yes	yes
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														                        <date>1874</date>
