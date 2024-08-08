@@ -3,6 +3,7 @@
   <teiHeader>
 <fileDesc>
 <titleStmt>
+<idno>Molyé_000</idno>
 <title type="main">Molyé</title>
 <respStmt>
 <resp>Encoding</resp>
@@ -45,60 +46,64 @@
 <date when="2024"/>
 </bibl>
 </sourceDesc>
+<extent>TO BE DEFINED</extent>
 </fileDesc>
 <profileDesc>
 <langUsage>
-<language ident="gcf">
-<idno type="langue">gcf</idno>
-<idno type="script">Latin</idno>
-<name>Antillean Creole</name>
-</language>
-<language ident="fra-deu">
-<idno type="langue">fra-deu</idno>
-<idno type="script">Latin</idno>
-<name>Germanic Baragouin</name>
-</language>
-<language ident="gcr">
-<idno type="langue">gcr</idno>
-<idno type="script">Latin</idno>
-<name>French Guianese Creole</name>
-</language>
-<language ident="fra-dia">
-<idno type="langue">fra-dia</idno>
-<idno type="script">Latin</idno>
-<name>Peasant French</name>
-</language>
-<language ident="rcf">
-<idno type="langue">rcf</idno>
-<idno type="script">Latin</idno>
-<name>Réunion Creole</name>
-</language>
 <language ident="fra-nld">
 <idno type="langue">fra-nld</idno>
 <idno type="script">Latin</idno>
 <name>Flemish Baragouin</name>
-</language>
-<language ident="hat">
-<idno type="langue">hat</idno>
-<idno type="script">Latin</idno>
-<name>Haitian Creole</name>
-</language>
-<language ident="fra-ang">
-<idno type="langue">fra-ang</idno>
-<idno type="script">Latin</idno>
-<name>Anglo-Baragouin</name>
 </language>
 <language ident="lou">
 <idno type="langue">lou</idno>
 <idno type="script">Latin</idno>
 <name>Louisiana Creole</name>
 </language>
+<language ident="gcf">
+<idno type="langue">gcf</idno>
+<idno type="script">Latin</idno>
+<name>Antillean Creole</name>
+</language>
+<language ident="gcr">
+<idno type="langue">gcr</idno>
+<idno type="script">Latin</idno>
+<name>French Guianese Creole</name>
+</language>
+<language ident="rcf">
+<idno type="langue">rcf</idno>
+<idno type="script">Latin</idno>
+<name>Réunion Creole</name>
+</language>
+<language ident="fra-dia">
+<idno type="langue">fra-dia</idno>
+<idno type="script">Latin</idno>
+<name>Peasant French</name>
+</language>
 <language ident="met-fr">
 <idno type="langue">met-fr</idno>
 <idno type="script">Latin</idno>
 <name>French of Metropolitan France</name>
 </language>
+<language ident="fra-ang">
+<idno type="langue">fra-ang</idno>
+<idno type="script">Latin</idno>
+<name>Anglo-Baragouin</name>
+</language>
+<language ident="hat">
+<idno type="langue">hat</idno>
+<idno type="script">Latin</idno>
+<name>Haitian Creole</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
 </langUsage>
+<textClass>
+<keywords/>
+</textClass>
 </profileDesc>
 <revisionDesc>
 <change when="2024-05-30" who="#RDENT">Génération du document</change>
@@ -1055,130 +1060,6 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
-<author>LE BOULANGER DE CHALUSSAY</author>
-</titleStmt>
-<publicationStmt>
-<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
-<date when="2024-05-30"/>
-<availability>
-<licence target="https://creativecommons.org/licenses/by/4.0/"/>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="PrintSource">
-<ptr target="http://memoirevive.besancon.fr/ark:/48565/a011411194376fdlVLU/1/1"/>
-<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
-<author>LE BOULANGER DE CHALUSSAY</author>
-<publisher>Gallica</publisher>
-<date when="1670"/>
-</bibl>
-<bibl type="CorpusSource">
-<ptr target="https://www.theatre-classique.fr/pages/documents/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml"/>
-<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
-<author>LE BOULANGER DE CHALUSSAY</author>
-<publisher>Theatre Classique</publisher>
-<date when="2016-05-01"/>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="met-fr">
-<idno type="langue">met-fr</idno>
-<idno type="script">Latin</idno>
-<name>French of Metropolitan France</name>
-</language>
-<language ident="fra-deu">
-<idno type="langue">fra-deu</idno>
-<idno type="script">Latin</idno>
-<name>Germanic Baragouin</name>
-</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div n="2_1" type="scene">
-<head>SCÈNE PREMIÈRE. Alcandre, Geraste, Epistenez, Antoine, Le Suisse.</head>
-<stage>La scène de cet acte est devant et dedans une grande maison, à la porte de laquelle il y a un Suisse, et où arrivent les trois médecins sur leurs mules pour voir Élomire déguisé en Turc, sous le nom du Bassa Sigale.</stage>
-<sp who="ANOINE" xml:lang="met-fr">
-<speaker>ANTOINE.</speaker>
-<l>Suisse, est-ce ici l'Hôtel de Monseigneur Sigale ?</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE.</speaker>
-<l xml:lang="fra-deu">Dis Bassa, point Monsgneur ; ma queu-sti parpe sale ?</l>
-</sp>
-<sp who="ANTOINE" xml:lang="met-fr">
-<speaker>ANTOINE.</speaker>
-<l>Ce sont ses médecins qui viennent le guérir.</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE.</speaker>
-<l xml:lang="fra-deu">Martecins ? Pon, mon foi, pour fare ly mourir. </l>
-<l xml:lang="fra-deu">Martecins pons pouriots ; comme il disait, mon fame. </l>
-<l xml:lang="fra-deu">Quand dy leu drogueman, il y voumit son lame.</l>
-</sp>
-<sp who="ALCANDRE" xml:lang="met-fr">
-<speaker>ALCANDRE.</speaker>
-<note>Suisse : Domestique chargé de garder la porte d'un hôtel, ainsi appelé parce qu'autrefois ce domestique était pris ordinairement parmi les Suisses (on dit présentement plutôt portier ou concierge ; on met une s minuscule) [L]</note>
-<l>Ouvrez suisse, ouvrez vite ; après tout à loisir,</l>
-<l>Vous cuverez le vin qui vous fait discourir.</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE.</speaker>
-<l xml:lang="fra-deu">Moi livre ? Point pour tout : ton chival n'est qu'un peste ;</l>
-<l xml:lang="fra-deu">Moi point mal à mon pied ; moi point mal à mon teste.</l>
-</sp>
-<sp who="ALCANDRE" xml:lang="met-fr">
-<speaker>ALCANDRE.</speaker>
-<l>Antoine, entrez dedans, et parlez à quelqu'un.</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE, présentant sa hallebarde à Antoine qui veut entrer dans la maison.</speaker>
-<l xml:lang="fra-deu">Parti, si lentre toi ; moi ti...</l>
-</sp>
-<sp who="ALCANDRE" xml:lang="met-fr">
-<speaker>ALCANDRE, à part.</speaker>
-<l>Quel importun ?</l>
-<l>Sans doute, il nous fera perdre quelque pratique.</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE, jouant de la hallebarde et faisant un petit saut après.</speaker>
-<l xml:lang="fra-deu">Moi pou les martecins fair touchour trique, nique ?</l>
-<l xml:lang="fra-deu">Frisque, fraque, et pon fin pour moi suisse, mon foi.</l>
-</sp>
-<sp who="ALCANDRE" xml:lang="met-fr">
-<speaker>ALCANDRE, voyant des Turcs dans la cour.</speaker>
-<l>Holà, gens du Bassa ; venez et parlez-moi ?</l>
-<stage>À part.</stage>
-<l>J'en vois six, et, parbleu pas un d'eux ne s'avance ;</l>
-<l>Mais, enfin, les voici ; Dieux ! Quelle contenance !</l>
-<stage>Les six Turcs viennent, font de grandes révérences aux médecins sans rien dire, s'étant mis en haie devant la porte.</stage>
-</sp>
-</div>
-<div n="2_2" type="scene">
-<head>SCÈNE II. Six Turcs, Alcandre, Géraste, Epistenez, Antoine, Le Suisse.</head>
-<sp who="ALCANDRE" xml:lang="met-fr">
-<speaker>ALCANDRE, aux Turcs faisant les révérences.</speaker>
-<l>Trêve de révérence, et parlez, s'il vous plaît : </l>
-<l>Est-il heure d'entrer, votre maître est-il prêt ?</l>
-</sp>
-<sp who="LE SUISSE" xml:lang="fra-deu">
-<speaker>LE SUISSE, à Alcandre.</speaker>
-<l xml:lang="fra-deu">Toi l'est fou martecin, n'entendre point ton langue.</l>
-<stage>Le Dragoman paraît.</stage>
-<l xml:lang="fra-deu">Ma foicy ly Dracman, fiche à li ton harangue.</l>
-</sp>
-</div>
-</body>
-</text>
-</TEI>
-  <TEI>
-<teiHeader>
-<fileDesc>
-<titleStmt>
 <title>MONSIEUR DE POURCEAUGNAC, COMÉDIE-BALLET.</title>
 <author>MOLIERE, Jean-Baptiste Poquelin dit (1622-1673)</author>
 </titleStmt>
@@ -1392,6 +1273,130 @@
 <sp who="MONSIEUR DE POURCEAUGNAC" xml:lang="met-fr">
 <speaker>MONSIEUR DE POURCEAUGNAC.</speaker>
 <p>Hélas !</p>
+</sp>
+</div>
+</body>
+</text>
+</TEI>
+  <TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+</titleStmt>
+<publicationStmt>
+<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+<date when="2024-05-30"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="PrintSource">
+<ptr target="http://memoirevive.besancon.fr/ark:/48565/a011411194376fdlVLU/1/1"/>
+<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+<publisher>Gallica</publisher>
+<date when="1670"/>
+</bibl>
+<bibl type="CorpusSource">
+<ptr target="https://www.theatre-classique.fr/pages/documents/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml"/>
+<title>ELOMIRE HYPOCONDRE OU LES MÉDECINS VENGÉS, COMÉDIE</title>
+<author>LE BOULANGER DE CHALUSSAY</author>
+<publisher>Theatre Classique</publisher>
+<date when="2016-05-01"/>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="met-fr">
+<idno type="langue">met-fr</idno>
+<idno type="script">Latin</idno>
+<name>French of Metropolitan France</name>
+</language>
+<language ident="fra-deu">
+<idno type="langue">fra-deu</idno>
+<idno type="script">Latin</idno>
+<name>Germanic Baragouin</name>
+</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div n="2_1" type="scene">
+<head>SCÈNE PREMIÈRE. Alcandre, Geraste, Epistenez, Antoine, Le Suisse.</head>
+<stage>La scène de cet acte est devant et dedans une grande maison, à la porte de laquelle il y a un Suisse, et où arrivent les trois médecins sur leurs mules pour voir Élomire déguisé en Turc, sous le nom du Bassa Sigale.</stage>
+<sp who="ANOINE" xml:lang="met-fr">
+<speaker>ANTOINE.</speaker>
+<l>Suisse, est-ce ici l'Hôtel de Monseigneur Sigale ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l xml:lang="fra-deu">Dis Bassa, point Monsgneur ; ma queu-sti parpe sale ?</l>
+</sp>
+<sp who="ANTOINE" xml:lang="met-fr">
+<speaker>ANTOINE.</speaker>
+<l>Ce sont ses médecins qui viennent le guérir.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l xml:lang="fra-deu">Martecins ? Pon, mon foi, pour fare ly mourir. </l>
+<l xml:lang="fra-deu">Martecins pons pouriots ; comme il disait, mon fame. </l>
+<l xml:lang="fra-deu">Quand dy leu drogueman, il y voumit son lame.</l>
+</sp>
+<sp who="ALCANDRE" xml:lang="met-fr">
+<speaker>ALCANDRE.</speaker>
+<note>Suisse : Domestique chargé de garder la porte d'un hôtel, ainsi appelé parce qu'autrefois ce domestique était pris ordinairement parmi les Suisses (on dit présentement plutôt portier ou concierge ; on met une s minuscule) [L]</note>
+<l>Ouvrez suisse, ouvrez vite ; après tout à loisir,</l>
+<l>Vous cuverez le vin qui vous fait discourir.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE.</speaker>
+<l xml:lang="fra-deu">Moi livre ? Point pour tout : ton chival n'est qu'un peste ;</l>
+<l xml:lang="fra-deu">Moi point mal à mon pied ; moi point mal à mon teste.</l>
+</sp>
+<sp who="ALCANDRE" xml:lang="met-fr">
+<speaker>ALCANDRE.</speaker>
+<l>Antoine, entrez dedans, et parlez à quelqu'un.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, présentant sa hallebarde à Antoine qui veut entrer dans la maison.</speaker>
+<l xml:lang="fra-deu">Parti, si lentre toi ; moi ti...</l>
+</sp>
+<sp who="ALCANDRE" xml:lang="met-fr">
+<speaker>ALCANDRE, à part.</speaker>
+<l>Quel importun ?</l>
+<l>Sans doute, il nous fera perdre quelque pratique.</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, jouant de la hallebarde et faisant un petit saut après.</speaker>
+<l xml:lang="fra-deu">Moi pou les martecins fair touchour trique, nique ?</l>
+<l xml:lang="fra-deu">Frisque, fraque, et pon fin pour moi suisse, mon foi.</l>
+</sp>
+<sp who="ALCANDRE" xml:lang="met-fr">
+<speaker>ALCANDRE, voyant des Turcs dans la cour.</speaker>
+<l>Holà, gens du Bassa ; venez et parlez-moi ?</l>
+<stage>À part.</stage>
+<l>J'en vois six, et, parbleu pas un d'eux ne s'avance ;</l>
+<l>Mais, enfin, les voici ; Dieux ! Quelle contenance !</l>
+<stage>Les six Turcs viennent, font de grandes révérences aux médecins sans rien dire, s'étant mis en haie devant la porte.</stage>
+</sp>
+</div>
+<div n="2_2" type="scene">
+<head>SCÈNE II. Six Turcs, Alcandre, Géraste, Epistenez, Antoine, Le Suisse.</head>
+<sp who="ALCANDRE" xml:lang="met-fr">
+<speaker>ALCANDRE, aux Turcs faisant les révérences.</speaker>
+<l>Trêve de révérence, et parlez, s'il vous plaît : </l>
+<l>Est-il heure d'entrer, votre maître est-il prêt ?</l>
+</sp>
+<sp who="LE SUISSE" xml:lang="fra-deu">
+<speaker>LE SUISSE, à Alcandre.</speaker>
+<l xml:lang="fra-deu">Toi l'est fou martecin, n'entendre point ton langue.</l>
+<stage>Le Dragoman paraît.</stage>
+<l xml:lang="fra-deu">Ma foicy ly Dracman, fiche à li ton harangue.</l>
 </sp>
 </div>
 </body>
@@ -26785,185 +26790,6 @@ Fig. À tout hasard. [L]</note>
 <l xml:lang="rcf">Bli pas li cont' maman torti.</l>
 </lg>
 </div>
-</body>
-</text>
-</TEI>
-  <TEI>
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>L’Amour d'un Nègre</title>
-<author>Charles Jobey</author>
-</titleStmt>
-<publicationStmt>
-<publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
-<date when="2024-05-30"/>
-<availability>
-<licence target="https://creativecommons.org/licenses/by/4.0/"/>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="PrintSource">
-<ptr target="https://www.google.fr/books/edition/L_amour_d_un_N%C3%A8gre/CKSWUG4ujhoC"/>
-<title>L’Amour d'un Nègre</title>
-<author>Charles Jobey</author>
-<publisher>Michel Lévy frères</publisher>
-<date when="1860"/>
-</bibl>
-<bibl type="CorpusSource">
-<ptr target="https://www.google.fr/books/edition/L_amour_d_un_N%C3%A8gre/CKSWUG4ujhoC"/>
-<title>L’Amour d'un Nègre</title>
-<author>Charles Jobey</author>
-<publisher>Harvard University</publisher>
-<date when="2006-01-06"/>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="lou">
-<idno type="langue">lou</idno>
-<idno type="script">Latin</idno>
-<name>Louisiana Creole</name>
-<date when="1836"/>
-</language>
-<language ident="met-fr">
-<idno type="langue">met-fr</idno>
-<idno type="script">Latin</idno>
-<name>French of Metropolitan France</name>
-</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<sp who="Laputcha" xml:lang="lou">
-<l>Vieux Rostalès bon, petit Rostalès bon.</l>
-<l>Franck, diable noir, mauvais !</l>
-<l>Mauvais! mauvais ! Ouragan! ouragan!</l>
-<l>Wiskey bon, bon pour Laputcha !</l>
-<l>Wiskey pour Laputcha?</l>
-<l>Laputcha en veut un peu.</l>
-<l>Oui, tout, tout demain . Petit Rostales bon .</l>
-<l>Congo mauvais!</l>
-<l>Congo mauvais, congo mauvais !</l>
-<l>toi, petit Rostalès, matelot ; toi, petit Français de France, matelot ; Laputcha , capitaine !</l>
-</sp>
-<p>Mô maîte, voilà des grillades ?</p>
-<p>Pourtant, mô maite , voilà des grillades !</p>
-<p>
-<s xml:lang="lou"> « ― Dites donc , vié tante Zabeth </s>
-<s xml:lang="lou">vous té néguèsse Saint-Domingue !</s>
-<s xml:lang="lou">«- Mamezelle !</s> répond la vieille qui est sourde
-               comme un pot.
-               <s xml:lang="lou">« - Tendé ça moi dit vous ? Moè té cré bin vous té
-               néguèsse la Matinique ? C'est ça des bouguèsses qu'aimé
-               si-o (sirop). </s>
-<s xml:lang="lou"> Mâmezelle !- » </s>
-<s xml:lang="lou"> Alors , vous té néguèsse la cotte ? </s>
-<s xml:lang="lou">Mâmezelle !- »</s>
-<s xml:lang="lou">« Couri , tante Zabeth . Allons, couri, vié monde,
-               pisqué vous té pas capable réponde moè. »</s>
-<s xml:lang="lou">«T'en prie, Mouché, quitté vous la chambre, m'a fourbi plancher-là yest .</s>
-</p>
-<p>
-<s xml:lang="lou">Plus fort, maîtresse ! plus fort ! vous pas
-               fait moè mal; plus fort ! vous té pas connai battre nègue.</s>
-</p>
-<p>
-<s xml:lang="lou">Ne pleurez pas! maman Prudence, quand maîtresse aura
-               fait tuié moè, tout sera fini</s>
-</p>
-<p>
-<s xml:lang="lou">Vous n'a pas gagné la chance ce soir, mô maite</s>
-<s xml:lang="lou">Mô té dit vous, piti Français de France avait bien
-                  dit, li fairai chasser vous d'ici.</s>
-<s xml:lang="lou">Oui, mô maîte, li té dit cela même !</s>
-</p>
-<p>
-<s xml:lang="lou">Ça vous gagné, maîtresse? vous té gagné gros cœur?</s>
-<s xml:lang="lou">Moè tendé vous après crié, maîtresse ; moè té cru vous
-                  malade.</s>
-<s xml:lang="lou">Oui, maîtresse, moè té connai, cila qui té la cause
-                  maîtresse laisse tombé de l'eau par ses yeux.</s>
-</p>
-<p>
-<s xml:lang="lou">Moè té couri à la poste, n'a pas gagné des lettres.</s>
-<s xml:lang="lou">Oui, maitresse; Post-Boy li vini dans la nuit même.</s>
-<s xml:lang="lou">Moè té dis vous non , maîtresse. Moè té sûr pitit Fran-
-                  çais de France a oublié maîtresse</s>
-<s xml:lang="lou">Maîtresse peut battre moè</s>
-<s xml:lang="lou">Moè té dis li n'a pas gagné des lettres; voilà tout ça
-                  moè dis.</s>
-<s xml:lang="lou">Moè té cré bien, moè perdu papier la yest</s>
-</p>
-<p>
-<s xml:lang="lou">Moè té dis vous, n'a pas gagné des lettres , maîtresse.</s>
-<s xml:lang="lou">Tuié moè, maîtresse, moè té dis vous n'a pas gagné des
-                  lettres.</s>
-<s xml:lang="lou">Moè té déjà dis vous n'a pas gagné des lettres.</s>
-<s xml:lang="lou">
-                  Grâce, maîtresse, grâce pour Lisimon ! Je t'en
-                  prie, maîtresse . Coupez plus so la figure!
-               </s>
-<s xml:lang="lou">
-                  Prends garde, maîtresee, moè dis vous : Si vous te
-                  battre encore vié monde-là, moè te capable faire un mal-
-                  heur!
-               </s>
-<s xml:lang="lou">
-                  Moè tendé ça vous dis moè, mais bon Dieu qui té con-
-                  nai juger blanc et pi noir, vengera moè !
-               </s>
-</p>
-<p>
-<s xml:lang="lou">Vous aussi , maman Mariquita , vous allez gronder
-                  moè ; prenez garde , moè taillé vous d'abord.
-               </s>
-<s xml:lang="lou">Négresse!</s>
-<s xml:lang="lou">portez-
-                  moè baleine là yest, pour fouetter vou maman ; tendé
-                  ça moè dis vous?</s>
-<s xml:lang="lou"/>
-</p>
-<p>
-<s xml:lang="lou">« Boujou , mô maîte ! achèté moè qui
-                  -chose?
-                  </s>
-<s xml:lang="lou">Moè té pas capable rien vende vous l'autre hier?</s>
-<s xml:lang="lou">Pove moè, n'a pas de chance : </s>
-<s xml:lang="lou">mon maîte va batte moè, et pi mo femme, et pi tout piti monde layé. »</s>
-</p>
-<p>
-<s xml:lang="lou">Tendé ça moè dis vous, tante Lucette ?</s>
-<s xml:lang="lou">
-                  Piti n’en-
-                  fant là yest, c'est piti milâtre ! pas piti milâtre nègue, piti
-                  milâtre blanc !
-               </s>
-<s xml:lang="lou">
-                  Signeur Dieu !
-               </s>
-<s xml:lang="lou">vache noire, té pas capable tuié son veau ; vache blanche, oui!</s>
-<s xml:lang="lou">
-                  to voir si
-                  neguèsses là yest, té capables dôné la toile n'Irlande à so
-                  piti?
-               </s>
-<s xml:lang="lou">Tante Zozo! </s>
-<s xml:lang="lou">vous té pas connai ça vous va faire ? </s>
-<s xml:lang="lou">vous té couri voir zâmis, pou faire la quête pou piti n'ange du bon Dié!</s>
-<s xml:lang="lou">
-                  Puisqué so maman a<note>This "a" does not appear in the 1857 serial version.</note> abandôné li , nous autres entéré yé bien.
-               </s>
-<s xml:lang="lou">merci, bon Dié aussi veut venger moè!</s>
-</p>
-<p>
-<s xml:lang="lou">T'en prie, mon maître, laissé moè vini, requin là
-                  va couper mon jambe ; requin là va manger moè.
-               </s>
-</p>
-<p/>
 </body>
 </text>
 </TEI>

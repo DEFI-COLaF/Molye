@@ -126,7 +126,7 @@ def prep_all_poems(folder):
         all_langs = all_langs.union(set(main_lang))
     return prepped_extracts, all_langs
 
-def prep_misc_works(folder, target_langs=["fra-ang", "mau", "fra-gsc"]):
+def prep_misc_works(folder, target_langs):
     prepped_extracts = []
     all_langs = set()
     file_names = [f"{folder}/{file}" for file in os.listdir(folder)]
@@ -151,31 +151,11 @@ def prep_prose(folder):
     pass
 
 
-#
-# def test_prose():
-#     wiki_title = 'Une de perdue'
-#     wiki_link = "https://fr.wikisource.org/wiki/Une_de_perdue,_deux_de_trouv%C3%A9es/Tome_I"
-#     test_root = wiki.convert_one_wiki_prose(wiki_link, "000", "Moliyé")
-#     out = ET.tostring(test_root, encoding="unicode").replace("XMLID", "xml:id")
-#     ET.ElementTree(ET.fromstring(out)).write("dataset_colaf/test.xml", xml_declaration=True, encoding="UTF-8",  pretty_print=True)
-#
-
-#If the lang date (originally written) is earlier than the publication date, use the lang date
-def effective_doc_date(doc):
-    effective_date = doc.find("bibl").find("date")["when"]
-    lang_usage = doc.find("langUsage")
-    if lang_usage:
-        langs = lang_usage.find_all("language")
-        for lang in langs:
-            if lang.find_all("date"):
-                effective_date=lang.find("date")["when"]
-                #print(effective_date[:4])
-    return int(effective_date[:4])
 
 def arrange_timeline(file):
     soup = BeautifulSoup(open(file), features="xml")
     docs = soup.find_all("TEI")
-    docs_sorted = sorted(docs, key=lambda x: effective_doc_date(x))
+    docs_sorted = sorted(docs, key=lambda x: m_util.effective_doc_date(x))
     corpus_root = ET.Element("teiCorpus", xmlns="http://www.tei-c.org/ns/1.0")
     header = m_util.fix_tei_tag(soup.find("teiHeader"))
     corpus_root.append(ET.fromstring(header))
@@ -222,15 +202,15 @@ def main(list_file, recache=False, annotate=False):
 
     #print(all_langs)
     main_corpus_fol = "../main_corpus"
-    corpus_file_name = f"{main_corpus_fol}/molyé20240808.xml"
+    corpus_file_name = f"{main_corpus_fol}/molyé.xml"
     corpus_metadata = {"id" : "Molyé_000", "title": "Molyé", "author": "Rasul Dent",
                        "publisher": "CoLAF", "online_publisher": "CoLAF",  "permalien" : "https://colaf.huma-num.fr/",
                        "online_date": "2024"}
     corpus_tree = metadata_patterns.create_corpus_xml(corpus_metadata, all_langs, all_extracts)
     m_util.write_tree(corpus_tree, corpus_file_name)
-    m_util.write_tree(corpus_tree, "/home/rdent/molyé20240808.xml")
+    m_util.write_tree(corpus_tree, "/home/rdent/molyé.xml")
     arrange_timeline(corpus_file_name)
-    arrange_timeline("/home/rdent/molyé202408.xml")
+    arrange_timeline("/home/rdent/molyé.xml")
 
 if __name__ == '__main__':
     list_file = "../Molyé_list.tsv"

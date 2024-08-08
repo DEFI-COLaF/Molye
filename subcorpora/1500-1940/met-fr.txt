@@ -1,15 +1,3 @@
-Suisse, est-ce ici l'Hôtel de Monseigneur Sigale ?
-Ce sont ses médecins qui viennent le guérir.
-Ouvrez suisse, ouvrez vite ; après tout à loisir,
-Vous cuverez le vin qui vous fait discourir.
-Antoine, entrez dedans, et parlez à quelqu'un.
-Quel importun ?
-Sans doute, il nous fera perdre quelque pratique.
-Holà, gens du Bassa ; venez et parlez-moi ?
-J'en vois six, et, parbleu pas un d'eux ne s'avance ;
-Mais, enfin, les voici ; Dieux ! Quelle contenance !
-Trêve de révérence, et parlez, s'il vous plaît :
-Est-il heure d'entrer, votre maître est-il prêt ?
 J'attends mes gens, Messieurs.
 Doucement, Messieurs.
 Je vous rends grâce.
@@ -29,6 +17,18 @@ Voilà un discours qui marque quelque chose, et je vous arrête prisonnier.
 Eh, Monsieur, de grâce.
 Non, non, à votre mine, et à vos discours, il faut que vous soyez ce Monsieur de Pourceaugnac que nous cherchons, qui se soit déguisé de la sorte ; et vous viendrez en prison tout à l'heure.
 Hélas !
+Suisse, est-ce ici l'Hôtel de Monseigneur Sigale ?
+Ce sont ses médecins qui viennent le guérir.
+Ouvrez suisse, ouvrez vite ; après tout à loisir,
+Vous cuverez le vin qui vous fait discourir.
+Antoine, entrez dedans, et parlez à quelqu'un.
+Quel importun ?
+Sans doute, il nous fera perdre quelque pratique.
+Holà, gens du Bassa ; venez et parlez-moi ?
+J'en vois six, et, parbleu pas un d'eux ne s'avance ;
+Mais, enfin, les voici ; Dieux ! Quelle contenance !
+Trêve de révérence, et parlez, s'il vous plaît :
+Est-il heure d'entrer, votre maître est-il prêt ?
 À moi, Monsieur, à moi de grâce, à moi Monsieur,
 Un livre, s'il vous plaît, à votre serviteur.
 Monsieur, distinguez nous parmi les gens qui crient,
@@ -39,16 +39,6 @@ Mon_Dieu ! Qu'aux personnes bien faites
 On sait peu rendre honeur céans ?
 Ils n'ont des livres et des bancs
 Que pour Mesdames les Grisettes.
-Aho ! L'homme aux libres, qu'on m'en baille,
-J'ai déjà le poumon usé,
-Bous boyez que chacun mé raille,
-Et je fuis escandalisé
-De boir és mains de la canaille
-Ce qui m'est par bous refusé.
-Eh, cadedis, Monseu, boyez qui l'on peut être,
-Un livret, je bous prie, au Baron Dasbarat ;
-Je pense, mordi, que le fat
-N'a pas l'honneur dé mé connaître.
 De tout ceci franc et net,
 Je suis mal satisfait,
 Et cela sans doute est laid.
@@ -93,10 +83,6 @@ Quel désordre !
 Quel embarras !
 On y sèche,
 L'on y tient pas.
-Bentre, je fuis à bout.
-J'enrage, Dieu me damne.
-Je murs.
-Je perds la tramontane.
 Allons, ma vie,
 Suivez mes pas,
 Je vous en prie,
@@ -163,16 +149,6 @@ Mon_Dieu qu'aux personnes bien faites,
 On sait peu rendre honneur céans.
 Ils n'ont des livres et des bancs,
 Que pour Mesdames les grisettes.
-Aho ! L'homme aux libres, qu'on m'en vaille !
-J'ai déjà le poumon usé.
-Bous boyez qué chacun mé raille,
-Et je suis escandalisé
-De boir és mains dé la canaille,
-Cé qui m'est par bous refusé.
-Eh cadédis, Monseu, boyez qui l'on pût être ;
-Un libret, je bous prie, au varon d'Asbarat.
-Jé pense, mordv, que le fat
-N'a pas l'honnur dé mé connaître.
 De tout ceci, franc et net,
 Je suis mal satisfait ;
 Et cela sans doute est laid,
@@ -217,9 +193,7 @@ Quel désordre !
 Quel embarras
 On y sèche.
 L'on n'y tient pas.
-Bentré je suis à vout.
 J'enrage, Diou me damne.
-Jé murs.
 Jé perds la tramontane.
 Allons, ma mie,
 Suivez mes pas,
@@ -447,6 +421,105 @@ Allons donc, Monsieur de Javelle, une bonne matelote ; tenez quatre louis d'or,
 Voilà de belles manières, Madame_la_Comtesse.
 Ah ! Que les gens de qualité savent bien faire les choses !
 Morgué, les gens de qualité ne faisont pas comme ça : c'est un badaud, je ne m'y trompe guère.
+Tiens, Lucas, veux-tu franchement que je te dise la chose ?
+Mais ça te fâchera peut-être ?
+Elle a peur d'être malheureuse en ménage.
+Que fait-on ? Ce Collecteur est peut-être un ivrogne comme toi ; comprends-tu, Lucas ?
+Assurément, est-ce que tu crois que je ne veux pas bien du mal à mon père et à me mère, de m'avoir mariée avec un homme qui ne fait que boire ?
+Tu crois te moquer, mais…
+Je ne sis pas bonne, que veux-tu dire ?
+Ç'amon, voirement, tu te soucies bien de quelle humeur je sis, tu ne songes qu'au vin.
+Hé bien, mais que n'en bois-tu chez toi ? Tu es depuis le matin jusques au soir au cabaret.
+C'est la mienne ?
+Vela de beaux contes, tu as des amis, mais tu paies toujours.
+Fort bien, ne vas-tu pas t'enivrer encore aujourd'hui ?
+Oui, fort bien, et le cousin Dubois s'enivrera à tes dépens pour entretenir connaissance.
+Quoi ?
+Que veux-tu dire.
+N'as-tu pas envie de les mener boire ?
+À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.
+C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.
+Je crois, Dieu me pardonne, que c'est ce Monsieur de Paris qui veut faire Claudine Madame.
+Il est vrai pour cela, que la réputation de Monsieur Lucas est extrêmement en réputation, et Monsieur Lucas a la réputation d'avoir toujours le meilleur vin de France, aussi je meurs d'envie d'en boire, ou le diable m'emporte.
+La nièce Claudine n'est pas menteuse. Il ne faut rien dire.
+Ce n'est pas la seule envie de goûter votre vin, qui nous fait vous rendre visite : nous venons voir comment vous faites, Monsieur Lucas, vous êtes dans le temps des vendanges ?
+Quand nos habillements ne suffiraient pas à nous faire connaître, il serait difficile de cacher notre condition. Pour vous parler franchement, nous sommes nés comme vous l'un et l'autre en bonne et franche paysannerie.
+Nous ? Nous sommes de bons enfants qui ne cherchons qu'à nous réjouir. Nous aimons le bon vin préférablement à toutes choses : mais comme nous nous ferions un scrupule d'en boire, si nous n'aidions pas à le faire, c'est pour cela que nous venons vous offrir nos services.
+Nous avons la conscience fort délicate, et nous voulons gagner le vin que nous buvons, nous autres.
+Il n'y a rien de plus juste.
+Grand merci.
+Voilà d'excellent vin, Monsieur Lucas, et il n'y a qu'honneur et plaisir à travailler à vos vignes, à ce que je vois.
+Nous ne sommes point intéressés, vous avez de bon vin, nous en boirons avec vous tant que dureront les vendanges, nous ne vous demandons point autre chose.
+Mais nous gîterons aussi chez vous, Monsieur Lucas ?
+Assurément.
+Monsieur Lucas se porte un peu mieux que quand il nous a quittés.
+Je ne sais, il est avec votre ménagère Margot, et avec cette Nièce que vous allez marier, je pense. Pour moi qui n'aime que le vin, je laisse-là les femmes.
+Assurément.
+Cela est admirable.
+Vous faites fort bien.
+Oui vraiment, et cela est admirable. Comme toutes choses ont deux faces !
+C'est que Margot a un cousin, qui de son côté a fait aussi pour elle une chanson à peu près sur les mêmes rimes que la vôtre.
+Oui, parbleu ; je vais vous la dire.
+Sitôt que Margot querelle,
+Lucas en mari discret,
+Pour éviter noise avec elle,
+S'en court tout droit au cabaret,
+Et le galant vient voir la belle.
+Lucas n'a-t-il pas un beau secret !
+Il changera sa manière,
+S'il m'en croit.
+Une femme peut tout faire
+Pendant que son mari boit.
+Hé bien, Monsieur Lucas, que vous en semble ?
+Vous auriez chaud, monsieur Lucas : ne jurez de rien, elle ne vous croit pas si prêt à revenir : cachons-nous un peu, nous en apprendrons plus que vous n'en voudrez savoir.
+Allez, vous êtes pire qu'un loup-çarvier, de me vouloir faire un tour comme sti-là.
+Monsieur Lucas, hem ?
+Baillez-moi queuque raison du moins. Pourquoi vous marier ? Pourquoi ne m'aimer pas, moi qui vous aime tant ?
+La chanson n'a pas trop menti, Monsieur Lucas.
+Vous ne me répondez non plus qu'une souche, coeur dur, coeur ingrat, coeur parfide.
+Le temps que vous passez au cabaret, Monsieur Lucas.
+Dis-moi donc queuque chose, ou je t'étranglerai, serpent.
+Que voulez-vous que je vous dise ?
+Oui, vraiment.
+Tu es bienheureux que je t'aime autant que je le fais, je t'aurais dévisagé pour ta parfidie.
+Oui vraiment, et vous ne l'êtes guères, vous.
+Inhumain que tu es !
+Ma chère Madame Margot, vous avez beau m'aimer, cela n'a rien de solide : il faut que je songe à un établissement, permettez de grâce…
+Madame Margot ! Tu m'appelles Madame, et tu en tutaies d'autres à ma barbe, barbare ?
+Que voulez-vous que je fasse ? Monsieur Lucas me reçoit chez lui, il me fait boire de son vin, il me donne sa grange, il me retient pour travailler à ses vignes, Madame Margot, je suis honnête homme.
+Tu es honnête homme, et tu ne m'aimes point : cela se peut-il imaginer, tigre ?
+Voilà l'affaire en assez bon train ; allons faire venir Claudine pour le dénouement.
+Ne te marie point, sitôt, petit monstre, ne te marie point ; Lucas mourra, c'est un ivrogne, je nous marierons ensemble.
+C'est un sac à vin qu'il faut qu'il crève.
+Si je puis une fois l'entarrer, drès le lendemain je serai ra femme.
+Ah ! C'est vous, notre homme, j'en sis bian aise.
+Non vraiment, je ne rêve point. Tiens, Lucas, voilà un vaurien à qui j'ai baillé mon coeur, il me l'emporte. Est-ce que tu souffriras ça, mon pauvre Lucas ?
+Oh, non, non, puisque je lui ai baillé, je ne veux point le reprendre.
+Il ne m'aime point, Lucas, et je l'aime plus que ma vie.
+Non, je n'en ai point, je veux que tout le Village le sache, moi. Il me fait pièce ; mais j'aurai la consolation de m'en plaindre.
+Ah palsanguenne vela la bande joyeuse, les Vendangeux et les Vendangeuses venont sur mes talons, j'allons nous divartir comme des Princes.
+Promets-moi donc que tu m'aimeras, petit parfide.
+Oh, oh, qu'est-ce que c'est donc ça, Monsieur Lucas ?
+Tatigué queux folies !
+Ce ne sont point des folies, je n'aime que lui, il a mon coeur ; et tant que j'aurai queuque espérance de devenir veuve je ne veux point qu'il se marie.
+L'espérance d'être veuve, monsieur Lucas ?
+Comment, morguenne, y a-t-il tant de façons ? C'est ce drôle-là, qu'il faut assommer, baillez-moi une fourche.
+Doucement, Monsieur le collecteur.
+Des pistolets ? Alarme, alarme.
+Si vous faites le moindre bruit, je tuerai quelqu'un.
+Miséricorde.
+Le premier qui branle, je fais main basse.
+Mon pauvre Monsieur Lucas, je suis fâché de cette aventure ! Je suis homme de condition, j'aime votre nièce : mais dans la vue de l'épouser.
+C'est Claudine à qui ils en voulont ?
+Paix, taisez-vous, Monsieur le rustre ?
+Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'amour pour moi ; vous êtes malheureusement témoin d'une scène un peu fâcheuse, je vous l'avoue : consentez que j'épouse Claudine, et je vous rends le coeur de Margot.
+Est-ce que tu y consentiras, Lucas. Me feras-tu ce chagrin-là, mon enfant ?
+Qu'est-ce à dire ? Claudine est à moi, vous me l'avez promise ?
+Mais Claudine n'est pas de cet avis-là, elle.
+Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage.
+Ils ne voulont rien, je les avais amenés pour nous divartir : mais je les remmène, et je ne sis pas d'himeur à payer les violons pour faire danser les autres.
+Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure. Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges. Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.
+Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.
 Que fais-tu là, Lucas ?
 Mais, tu parlais tout seul, je pense ?
 Je le crois bien, tu as la physionomie d'avoir de l'esprit.
@@ -636,105 +709,115 @@ Vous êtes persuadé de mon zèle et de ma fidélité, je vais suivre votre maî
 Hom, je crève.
 Je laisse votre jardin en bon état. Souvenez-vous quelquefois de moi, je vous prie ; ne donnez jamais de coups de bâton à vos Jardiniers, ces marauds-là savent les rendre.
 Ah ! Mon pauvre Lucas, je perds Angélique, que deviendrai-je ?
-Tiens, Lucas, veux-tu franchement que je te dise la chose ?
-Mais ça te fâchera peut-être ?
-Elle a peur d'être malheureuse en ménage.
-Que fait-on ? Ce Collecteur est peut-être un ivrogne comme toi ; comprends-tu, Lucas ?
-Assurément, est-ce que tu crois que je ne veux pas bien du mal à mon père et à me mère, de m'avoir mariée avec un homme qui ne fait que boire ?
-Tu crois te moquer, mais…
-Je ne sis pas bonne, que veux-tu dire ?
-Ç'amon, voirement, tu te soucies bien de quelle humeur je sis, tu ne songes qu'au vin.
-Hé bien, mais que n'en bois-tu chez toi ? Tu es depuis le matin jusques au soir au cabaret.
-C'est la mienne ?
-Vela de beaux contes, tu as des amis, mais tu paies toujours.
-Fort bien, ne vas-tu pas t'enivrer encore aujourd'hui ?
-Oui, fort bien, et le cousin Dubois s'enivrera à tes dépens pour entretenir connaissance.
-Quoi ?
-Que veux-tu dire.
-N'as-tu pas envie de les mener boire ?
-À votre physionomie brillante et enluminée, il n'est pas mal aisé de deviner que vous êtes Monsieur Lucas.
-C'est le bruit de votre réputation, Monsieur Lucas, qui nous attire en ce pays-ci.
-Je crois, Dieu me pardonne, que c'est ce Monsieur de Paris qui veut faire Claudine Madame.
-Il est vrai pour cela, que la réputation de Monsieur Lucas est extrêmement en réputation, et Monsieur Lucas a la réputation d'avoir toujours le meilleur vin de France, aussi je meurs d'envie d'en boire, ou le diable m'emporte.
-La nièce Claudine n'est pas menteuse. Il ne faut rien dire.
-Ce n'est pas la seule envie de goûter votre vin, qui nous fait vous rendre visite : nous venons voir comment vous faites, Monsieur Lucas, vous êtes dans le temps des vendanges ?
-Quand nos habillements ne suffiraient pas à nous faire connaître, il serait difficile de cacher notre condition. Pour vous parler franchement, nous sommes nés comme vous l'un et l'autre en bonne et franche paysannerie.
-Nous ? Nous sommes de bons enfants qui ne cherchons qu'à nous réjouir. Nous aimons le bon vin préférablement à toutes choses : mais comme nous nous ferions un scrupule d'en boire, si nous n'aidions pas à le faire, c'est pour cela que nous venons vous offrir nos services.
-Nous avons la conscience fort délicate, et nous voulons gagner le vin que nous buvons, nous autres.
-Il n'y a rien de plus juste.
-Grand merci.
-Voilà d'excellent vin, Monsieur Lucas, et il n'y a qu'honneur et plaisir à travailler à vos vignes, à ce que je vois.
-Nous ne sommes point intéressés, vous avez de bon vin, nous en boirons avec vous tant que dureront les vendanges, nous ne vous demandons point autre chose.
-Mais nous gîterons aussi chez vous, Monsieur Lucas ?
-Assurément.
-Monsieur Lucas se porte un peu mieux que quand il nous a quittés.
-Je ne sais, il est avec votre ménagère Margot, et avec cette Nièce que vous allez marier, je pense. Pour moi qui n'aime que le vin, je laisse-là les femmes.
-Assurément.
-Cela est admirable.
-Vous faites fort bien.
-Oui vraiment, et cela est admirable. Comme toutes choses ont deux faces !
-C'est que Margot a un cousin, qui de son côté a fait aussi pour elle une chanson à peu près sur les mêmes rimes que la vôtre.
-Oui, parbleu ; je vais vous la dire.
-Sitôt que Margot querelle,
-Lucas en mari discret,
-Pour éviter noise avec elle,
-S'en court tout droit au cabaret,
-Et le galant vient voir la belle.
-Lucas n'a-t-il pas un beau secret !
-Il changera sa manière,
-S'il m'en croit.
-Une femme peut tout faire
-Pendant que son mari boit.
-Hé bien, Monsieur Lucas, que vous en semble ?
-Vous auriez chaud, monsieur Lucas : ne jurez de rien, elle ne vous croit pas si prêt à revenir : cachons-nous un peu, nous en apprendrons plus que vous n'en voudrez savoir.
-Allez, vous êtes pire qu'un loup-çarvier, de me vouloir faire un tour comme sti-là.
-Monsieur Lucas, hem ?
-Baillez-moi queuque raison du moins. Pourquoi vous marier ? Pourquoi ne m'aimer pas, moi qui vous aime tant ?
-La chanson n'a pas trop menti, Monsieur Lucas.
-Vous ne me répondez non plus qu'une souche, coeur dur, coeur ingrat, coeur parfide.
-Le temps que vous passez au cabaret, Monsieur Lucas.
-Dis-moi donc queuque chose, ou je t'étranglerai, serpent.
-Que voulez-vous que je vous dise ?
-Oui, vraiment.
-Tu es bienheureux que je t'aime autant que je le fais, je t'aurais dévisagé pour ta parfidie.
-Oui vraiment, et vous ne l'êtes guères, vous.
-Inhumain que tu es !
-Ma chère Madame Margot, vous avez beau m'aimer, cela n'a rien de solide : il faut que je songe à un établissement, permettez de grâce…
-Madame Margot ! Tu m'appelles Madame, et tu en tutaies d'autres à ma barbe, barbare ?
-Que voulez-vous que je fasse ? Monsieur Lucas me reçoit chez lui, il me fait boire de son vin, il me donne sa grange, il me retient pour travailler à ses vignes, Madame Margot, je suis honnête homme.
-Tu es honnête homme, et tu ne m'aimes point : cela se peut-il imaginer, tigre ?
-Voilà l'affaire en assez bon train ; allons faire venir Claudine pour le dénouement.
-Ne te marie point, sitôt, petit monstre, ne te marie point ; Lucas mourra, c'est un ivrogne, je nous marierons ensemble.
-C'est un sac à vin qu'il faut qu'il crève.
-Si je puis une fois l'entarrer, drès le lendemain je serai ra femme.
-Ah ! C'est vous, notre homme, j'en sis bian aise.
-Non vraiment, je ne rêve point. Tiens, Lucas, voilà un vaurien à qui j'ai baillé mon coeur, il me l'emporte. Est-ce que tu souffriras ça, mon pauvre Lucas ?
-Oh, non, non, puisque je lui ai baillé, je ne veux point le reprendre.
-Il ne m'aime point, Lucas, et je l'aime plus que ma vie.
-Non, je n'en ai point, je veux que tout le Village le sache, moi. Il me fait pièce ; mais j'aurai la consolation de m'en plaindre.
-Ah palsanguenne vela la bande joyeuse, les Vendangeux et les Vendangeuses venont sur mes talons, j'allons nous divartir comme des Princes.
-Promets-moi donc que tu m'aimeras, petit parfide.
-Oh, oh, qu'est-ce que c'est donc ça, Monsieur Lucas ?
-Tatigué queux folies !
-Ce ne sont point des folies, je n'aime que lui, il a mon coeur ; et tant que j'aurai queuque espérance de devenir veuve je ne veux point qu'il se marie.
-L'espérance d'être veuve, monsieur Lucas ?
-Comment, morguenne, y a-t-il tant de façons ? C'est ce drôle-là, qu'il faut assommer, baillez-moi une fourche.
-Doucement, Monsieur le collecteur.
-Des pistolets ? Alarme, alarme.
-Si vous faites le moindre bruit, je tuerai quelqu'un.
-Miséricorde.
-Le premier qui branle, je fais main basse.
-Mon pauvre Monsieur Lucas, je suis fâché de cette aventure ! Je suis homme de condition, j'aime votre nièce : mais dans la vue de l'épouser.
-C'est Claudine à qui ils en voulont ?
-Paix, taisez-vous, Monsieur le rustre ?
-Je me suis introduit chez vous sous ce déguisement : votre femme a pris de l'amour pour moi ; vous êtes malheureusement témoin d'une scène un peu fâcheuse, je vous l'avoue : consentez que j'épouse Claudine, et je vous rends le coeur de Margot.
-Est-ce que tu y consentiras, Lucas. Me feras-tu ce chagrin-là, mon enfant ?
-Qu'est-ce à dire ? Claudine est à moi, vous me l'avez promise ?
-Mais Claudine n'est pas de cet avis-là, elle.
-Si fait, vraiment, je l'aime bien mieux que vous ; vous voulez vivre trop longtemps, et j'ai peur de m'ennuyer en ménage.
-Ils ne voulont rien, je les avais amenés pour nous divartir : mais je les remmène, et je ne sis pas d'himeur à payer les violons pour faire danser les autres.
-Sans emportement, Monsieur le Collecteur, prenez vous-même part à la fête, il ne vous en coûtera rien, je vous assure. Ce sont des gens à moi, Monsieur Lucas, que j'ai amenés de Paris, pour contribuer aux plaisirs de Claudine pendant les vendanges. Ils se sont joints à quelques personnes du Village : voyons ce que produira ce mélange, et que tout le monde prenne part à ma joie.
-Je ne te le rendrai point qu'ils ne soient tout à fait mariés, et à condition encore que tu n'iras plus au cabaret.
+Ce n'est pas à moi qu'il faut s'adresser, Monsieur, Lisette faites parler à mon père.
+Votre conversation me ferait beaucoup d'honneur et de plaisir, Monsieur, mais je n'ai pas le temps d'en profiter. Allons, Lisette, mon père va venir ; Monsieur je suis votre servante.
+Votre très humble servante, Monsieur.
+Fort à votre service, Monsieur, demandez-vous quelque chose ?
+C'est moi-même, Monsieur, de quoi s'agit-il ?
+Oui, Monsieur, je suis originaire de Naples.
+Je le crois bien, Monsieur, il y a bien de la mauvaise foi dans le monde.
+Non, Monsieur, je vous assure que je n'ai commercé qu'avec d'honnêtes gens, je fais profession d'une si exacte probité...
+Oui, Monsieur : Mais...
+Elle est fermée, Monsieur, mais cela n'empêche pas, si vous voulez, j'ai des boîtes de reste, et de quoi faire de nouveaux lots. Vous êtes le maître, donnez toujours votre argent ; combien voulez-vous de billets ?
+Ils sont tous noirs premièrement.
+Il n'y en a pas un de blanc, Monsieur, autant de billets, autant de lots. Je fais cela pour me divertir.
+Que voulez-vous donc dire, Monsieur, et comment l'entendez-vous, s'il vous plaît ?
+Pour qui me prenez-vous, Monsieur ; je vous trouve admirable.
+Je ne suis point un fripon.
+Je suis homme d'honneur.
+Ah, bourreau ! Qu'as-tu fait ? Et tu as l'effronterie de me le venir dire toi-même ? Coquin, ne t'avais-je pas donné ordre.....
+Que tu m'obéisses, traître.
+Et c'est par cette raison-là, maroufle.
+Il faut pourtant que je mette ordre à tout ceci. Viens çà, parle-moi un peu, écoute.
+Qui sont ces gens qui viennent d'arriver ?
+Combien sont-ils ?
+Tu ne sais comme on les appelle ?
+Et tout cet équipage est chez moi ?
+Ah, le pendard !
+Il n'y a pas moyen d'y résister ; et depuis que ma pendarde de femme m'a fait acheter cette maudite maison de campagne, j'y ai dépensé, en moins d'un été, mon revenu de quatre années.
+Eh ! Oui, oui, l'on m'aime ; mais je voudrais bien qu'on ne m'aimât point tant.
+Si j'avais bien su cela....
+Monsieur, madame est dans le jardin avec des dames et des messieurs qui vous demandent.
+Que le diable les emporte ! J'ai bien affaire de leur visite. Eh ! Qui sont-ils encore?
+Il y a ce gros abbé qui est si longtemps à table, et qui boit tant sans s'enivrer, avec un autre monsieur.
+Fort bien.
+Et puis cette jeune marquise qui gagna l'autre jour l'argent de madame.
+Ah, juste ciel !
+Elle est avec cette autre dame qui est de si bonne humeur.
+Qui ?
+Et là, celle qui, en riant, vous cassa l'autre jour toutes ces porcelaines de Hollande, parce qu'elle disait qu'il n'en faut avoir que de fines.
+Ne me voilà pas mal. Et comment madame a-telle reçu ces gens-là ?
+Oh ! Elle paraît bien fâchée contre eux.
+Oui ?
+Oui; car ils lui ont dit qu'ils ne seroient ici que huit jours.
+Comment, huit jours ? Oh ! Ventrebleu, je leur ferai si mauvaise mine, qu'ils n'y seront pas si longtemps. Ne dis-tu pas qu'ils sont dans le jardin ?
+Oui, monsieur, dans la grande allée. Je vais leur dire que vous allez venir.
+Huit jours, morbleu, huit jours ! Quatre personnes, six chevaux, et un tas de valets ! Mais ventrebleu, faudra-t-il que j'aie des pensionnaires comme ceux-là ? Qu'est-ce que c'est que ce gros coquin-ci encore ?
+Qu'est-ce ?
+Le baron de Messy ?
+Je vous demande pardon, monsieur, et j'ai à me reprocher que ce soit une occasion comme celle-ci qui me fait vous rendre âmes premiers devoirs.
+Vous vous moquez de moi, monsieur ; et pour être voisins, il n'est pas dit qu'on doive être toujours les uns chez les autres.
+Comment vous trouvez-vous du séjour de la campagne ?
+Fort mal, je vous jure, et j'en suis déjà si las...
+Eh ! Vraiment, justement, c'est le baron, c'est lui-même !
+Et c'est vous, mon pauvre marquis ! Nous ne nous sommes point vus depuis l'académie, je crois.
+Sandis, mon cher, voilà une des plus heureuses rencontres que j'aie eues de ma vie.
+Ces deux messieurs sont fort bons amis.
+Oui, je vois fort bien qu'ils se connaissent, mais je n'en connais pas un, moi.
+Monsieur, je vous le livre un des plus honnêtes hommes de la province. Je te félicite, baron, d'avoir un voisin comme monsieur.
+C'est pour moi un avantage dont je prétends bien profiter.
+Monsieur ?
+Cadédis, vous serez amis, et je veux former les noeuds de cette amitié, moi.
+C'est une grâce que je te demande.
+Mordi, je te l'accorde et sans remise. Nous sommes ici bonne compagnie ; renvoie ton équipage et passe quelques jours avec nous.
+Eh bien ! Ne voilà-t-il pas comme ils font les honneurs de chez moi ?
+Hem ? Je ne barguigne point, comme vous voyez, et je suis sûr que vous me saurez gré de me saisir ainsi de l'occasion ; la dame du logis ne me querellera pas non plus, je crois. Baron, te faudra-t-il beaucoup prier pour te faire demeurer à la cour de cette princesse ?
+Si cet homme-là connait toute la noblesse du pays, il me fera des amis, malgré que j'en aie, de tout le monde.
+Je ne vous dis point adieu, et nous ne vous ferons point attendre.
+Dépêche, au moins ; je ne me puis passer de toi.
+Qu'y a-t-il ?
+Comment donc ?
+Eh bien ?
+Non, vraiment; tu as bien fait, au contraire, et tu es un garçon de bon sens, pour le coup.
+Le ciel n'est pas tout-à-fait injuste, et cela ne pouvoit arriver plus à propos.
+Ah, double chien ! Tu m'as fait de belles affaires avec ton cerf.
+Monsieur, ces messieurs vous demandent.
+Quels messieurs ? Y a-t-il encore quelque chose de nouveau ?
+Non, monsieur, ce sont ces chasseurs. Les voila qui montent à la chambre de madame.
+Ils ne sont donc plus dans la cuisine ?
+Il n'y a plus que leurs gens.
+Ma pauvre Nicole, va prendre garde à ces fripons-là.
+Mon pauvre monsieur Griffard, je ne sais plus où j'en suis.
+Il faut mettre le feu à la maison.
+Écoutez, il ne me faudrait point trop presser là-dessus.
+Il faut le faire, vous dis-je.
+M'ont-ils bien fait du dégât ?
+Bon, bon, vous ne savez pas tout : chiens, chevaux, maîtres et valets, tout restera ici jusqu'à demain matin, pour être au bois de meilleure heure. Je leur ai ouï faire le complot.
+Ah, ah, je suis mort ! Et voilà de quoi abîmer tout le village. Quoi, ventrebleu ! Des gens que je ne connais point ?
+Ils vous connoissent bien, eux.
+Ils me connaissent ? Comment le sais-tu ?
+Cela vous fâchera, si je vous le dis.
+Et quelque chose me peut-il fâcher plus que je le suis ?
+Ils disent que c'est pain béni de venir ronger un homme de robe à la campagne, et qu'à Paris c'est vous qui rongez les autres.
+Les scélérats !
+Et je suis le plus trompé du monde, s'ils n'ont dessein de vous faire quelque pièce. J'ai entendu par-ci par-là de certaines choses.
+Oui ? Oh parbleu c'est moi qui leur en vais faire une. Viens-t'en avec moi seulement.
+Comment ?
+Cela part de là, vois-tu.
+Qu'est-ce que c'est ?
+Viens-t'en avec moi, te dis-je. Pour cela, l'esprit est une belle chose ! Ah ! Si je m'en étais avisé plus tôt, je me serais épargné bien des chagrins.
+Quel autre incident est-ce encore ici ?
+À qui en as-tu ?
+Au cabaret ! Que veux-tu dite ?
+En voici bien d'une autre.
+Courons avertir Mariane de l'extravagance de son père.
+Cette invention est admirable.
+Nous allons voir des gens bien penauds.
+Tu peux à	présent laisser entrer tout le monde.
+Cela est admirable. Comme mon père est changé d humeur depuis trois jours ! Thibaut, ne trouves-tu pas cela tout extraordinaire ?
+Ne sais-tu point d'où vient un si prompt changement ?
+À qui en a donc ce maroufle ?
+Écoute, si tu me fais prendre un bâton.
 Voilà une vraie physionomie de nouveau marié, ne serait-ce point celui dont nous venons honorer la noce ?
 Je ne me trompe point, c'est lui-même.
 Vous voulez bien qu'on ait l'honneur de vous faire la révérence, et que l'on vous témoigne la joie que l'on a de votre heureux mariage.
@@ -909,99 +992,6 @@ Approchez, Monsieur le Tabellion : allons, Madame.
 Mais, Madame, il serait bon de savoir...
 Mais, mon fils ?
 Je vous assure, monsieur Thibaut, que vous êtes un fort galant homme, et que...
-Ah, bourreau ! Qu'as-tu fait ? Et tu as l'effronterie de me le venir dire toi-même ? Coquin, ne t'avais-je pas donné ordre.....
-Que tu m'obéisses, traître.
-Et c'est par cette raison-là, maroufle.
-Il faut pourtant que je mette ordre à tout ceci. Viens çà, parle-moi un peu, écoute.
-Qui sont ces gens qui viennent d'arriver ?
-Combien sont-ils ?
-Tu ne sais comme on les appelle ?
-Et tout cet équipage est chez moi ?
-Ah, le pendard !
-Il n'y a pas moyen d'y résister ; et depuis que ma pendarde de femme m'a fait acheter cette maudite maison de campagne, j'y ai dépensé, en moins d'un été, mon revenu de quatre années.
-Eh ! Oui, oui, l'on m'aime ; mais je voudrais bien qu'on ne m'aimât point tant.
-Si j'avais bien su cela....
-Monsieur, madame est dans le jardin avec des dames et des messieurs qui vous demandent.
-Que le diable les emporte ! J'ai bien affaire de leur visite. Eh ! Qui sont-ils encore?
-Il y a ce gros abbé qui est si longtemps à table, et qui boit tant sans s'enivrer, avec un autre monsieur.
-Fort bien.
-Et puis cette jeune marquise qui gagna l'autre jour l'argent de madame.
-Ah, juste ciel !
-Elle est avec cette autre dame qui est de si bonne humeur.
-Qui ?
-Et là, celle qui, en riant, vous cassa l'autre jour toutes ces porcelaines de Hollande, parce qu'elle disait qu'il n'en faut avoir que de fines.
-Ne me voilà pas mal. Et comment madame a-telle reçu ces gens-là ?
-Oh ! Elle paraît bien fâchée contre eux.
-Oui ?
-Oui; car ils lui ont dit qu'ils ne seroient ici que huit jours.
-Comment, huit jours ? Oh ! Ventrebleu, je leur ferai si mauvaise mine, qu'ils n'y seront pas si longtemps. Ne dis-tu pas qu'ils sont dans le jardin ?
-Oui, monsieur, dans la grande allée. Je vais leur dire que vous allez venir.
-Huit jours, morbleu, huit jours ! Quatre personnes, six chevaux, et un tas de valets ! Mais ventrebleu, faudra-t-il que j'aie des pensionnaires comme ceux-là ? Qu'est-ce que c'est que ce gros coquin-ci encore ?
-Qu'est-ce ?
-Le baron de Messy ?
-Je vous demande pardon, monsieur, et j'ai à me reprocher que ce soit une occasion comme celle-ci qui me fait vous rendre âmes premiers devoirs.
-Vous vous moquez de moi, monsieur ; et pour être voisins, il n'est pas dit qu'on doive être toujours les uns chez les autres.
-Comment vous trouvez-vous du séjour de la campagne ?
-Fort mal, je vous jure, et j'en suis déjà si las...
-Eh ! Vraiment, justement, c'est le baron, c'est lui-même !
-Et c'est vous, mon pauvre marquis ! Nous ne nous sommes point vus depuis l'académie, je crois.
-Sandis, mon cher, voilà une des plus heureuses rencontres que j'aie eues de ma vie.
-Ces deux messieurs sont fort bons amis.
-Oui, je vois fort bien qu'ils se connaissent, mais je n'en connais pas un, moi.
-Monsieur, je vous le livre un des plus honnêtes hommes de la province. Je te félicite, baron, d'avoir un voisin comme monsieur.
-C'est pour moi un avantage dont je prétends bien profiter.
-Monsieur ?
-Cadédis, vous serez amis, et je veux former les noeuds de cette amitié, moi.
-C'est une grâce que je te demande.
-Mordi, je te l'accorde et sans remise. Nous sommes ici bonne compagnie ; renvoie ton équipage et passe quelques jours avec nous.
-Eh bien ! Ne voilà-t-il pas comme ils font les honneurs de chez moi ?
-Hem ? Je ne barguigne point, comme vous voyez, et je suis sûr que vous me saurez gré de me saisir ainsi de l'occasion ; la dame du logis ne me querellera pas non plus, je crois. Baron, te faudra-t-il beaucoup prier pour te faire demeurer à la cour de cette princesse ?
-Si cet homme-là connait toute la noblesse du pays, il me fera des amis, malgré que j'en aie, de tout le monde.
-Je ne vous dis point adieu, et nous ne vous ferons point attendre.
-Dépêche, au moins ; je ne me puis passer de toi.
-Qu'y a-t-il ?
-Comment donc ?
-Eh bien ?
-Non, vraiment; tu as bien fait, au contraire, et tu es un garçon de bon sens, pour le coup.
-Le ciel n'est pas tout-à-fait injuste, et cela ne pouvoit arriver plus à propos.
-Ah, double chien ! Tu m'as fait de belles affaires avec ton cerf.
-Monsieur, ces messieurs vous demandent.
-Quels messieurs ? Y a-t-il encore quelque chose de nouveau ?
-Non, monsieur, ce sont ces chasseurs. Les voila qui montent à la chambre de madame.
-Ils ne sont donc plus dans la cuisine ?
-Il n'y a plus que leurs gens.
-Ma pauvre Nicole, va prendre garde à ces fripons-là.
-Mon pauvre monsieur Griffard, je ne sais plus où j'en suis.
-Il faut mettre le feu à la maison.
-Écoutez, il ne me faudrait point trop presser là-dessus.
-Il faut le faire, vous dis-je.
-M'ont-ils bien fait du dégât ?
-Bon, bon, vous ne savez pas tout : chiens, chevaux, maîtres et valets, tout restera ici jusqu'à demain matin, pour être au bois de meilleure heure. Je leur ai ouï faire le complot.
-Ah, ah, je suis mort ! Et voilà de quoi abîmer tout le village. Quoi, ventrebleu ! Des gens que je ne connais point ?
-Ils vous connoissent bien, eux.
-Ils me connaissent ? Comment le sais-tu ?
-Cela vous fâchera, si je vous le dis.
-Et quelque chose me peut-il fâcher plus que je le suis ?
-Ils disent que c'est pain béni de venir ronger un homme de robe à la campagne, et qu'à Paris c'est vous qui rongez les autres.
-Les scélérats !
-Et je suis le plus trompé du monde, s'ils n'ont dessein de vous faire quelque pièce. J'ai entendu par-ci par-là de certaines choses.
-Oui ? Oh parbleu c'est moi qui leur en vais faire une. Viens-t'en avec moi seulement.
-Comment ?
-Cela part de là, vois-tu.
-Qu'est-ce que c'est ?
-Viens-t'en avec moi, te dis-je. Pour cela, l'esprit est une belle chose ! Ah ! Si je m'en étais avisé plus tôt, je me serais épargné bien des chagrins.
-Quel autre incident est-ce encore ici ?
-À qui en as-tu ?
-Au cabaret ! Que veux-tu dite ?
-En voici bien d'une autre.
-Courons avertir Mariane de l'extravagance de son père.
-Cette invention est admirable.
-Nous allons voir des gens bien penauds.
-Tu peux à	présent laisser entrer tout le monde.
-Cela est admirable. Comme mon père est changé d humeur depuis trois jours ! Thibaut, ne trouves-tu pas cela tout extraordinaire ?
-Ne sais-tu point d'où vient un si prompt changement ?
-À qui en a donc ce maroufle ?
-Écoute, si tu me fais prendre un bâton.
 Ne perdons point de temps en révérence, dites-moi si mon Intendant est mort ?
 Toutes ces choses-là consistent en un mot : est-il mort ou ne l'est-il pas.
 Fort bien, ce que je veux savoir est écrit sur votre Journal.
@@ -1657,6 +1647,317 @@ Pour vous consoler, je vous donne l'intendance de ma cave, à condition que vous
 Et moi je vais manger. Caron , ôte-moi mon habit de cérémonie.
 Il y a encore là plus d'un millier d'ombres qui demandent audience.
 Qu'elles s'aillent promener ! J'ai le ventre creux comme un tambour. Chasse-moi toute cette canaille.
+Que signifie tout cela ? quel sort que le nôtre !
+Mais, Messieurs, depuis six mois que nous avons été pris par cet insulaire qui vient de nous mettre ici, que vous est-il arrivé ? Car il nous avait séparés, quoique nous fussions dans la même maison. Vous a-t-il regardé comme des créatures raisonnables, comme des hommes ?
+Ah !
+J'entends cette réponse-là.
+Ils ne me prenaient point non plus pour une fille.
+Pour moi, j'ai été entre les mains de deux insulaires qui voulaient d'abord m'apprendre à parler comme on le fait aux perroquets.
+Oui.
+Quoi ?
+Pourquoi nous dites-vous cela ?
+Vous avez raison.
+C'est-à-dire ?
+Eh !
+Et moi, Fontignac, suis-je aussi petit qu'il me paraît que je le suis devenu ?
+Je ne saurais croire que notre petitesse soit réelle : il faut que l'air de ce pays-ci ait fait une révolution dans nos organes, et qu'il soit arrivé quelque accident à notre rétine, en vertu duquel nous nous croyons petits.
+La mort vaudrait mieux que l'état où nous sommes.
+Les voilà, Seigneur.
+Vous me montrez là quelque chose de bien extraordinaire : il n'y a assurément rien de pareil dans le monde. Quelle petitesse ! Et cependant ces petits animaux ont parfaitement la figure d'homme, et même à peu près nos gestes et notre façon de regarder. En vérité, puisque vous me les donnez, je les accepte avec plaisir. Approchons.
+Mon père, je me charge de cette petite femelle-ci, car je la crois telle.
+En voilà un que je serais bien aise d'avoir aussi : je crois que c'est un petit mâle.
+Madame, n'abusez point de l'état où je suis.
+Ah ! Mon père, je crois qu'il me répond ; mais il n'a qu'un petit filet de voix.
+Vraiment, ils parlent ; ils ont des pensées, et je leur ai fait apprendre notre langue.
+Que cela va me divertir ! Ah ! Mon petit mignon, que vous êtes aimable !
+Et ma petite femelle, me dira-t-elle quelque chose ?
+Vous me paraissez généreux, Seigneur ; secourez-moi, indiquez-moi, si vous le pouvez, de quoi reprendre ma figure naturelle.
+Ma soeur, ma femelle vaut bien votre mâle.
+Oh ! J'aime mieux mon mâle que tout le reste ; mais ne mordent-ils pas, au moins ?
+En voilà un qui rit de ce que je dis.
+Et les autres ?
+Les autres sont indignés du peu d'égard qu'on a ici pour des créatures raisonnables.
+Il me semble qu'ils se fâchent : allons, qu'on les remette en cage, et qu'on leur donne à manger ; cela les adoucira peut-être.
+Aimable dame, ne m'abandonnez pas dans mon malheur.
+Eh ! Voyez donc, mon père, comme il me baise la main ! Non, mon petit rat ; vous serez à moi, et j'aurai soin de vous. En vérité, il me fait pitié !
+Ah !
+Jolies petites marmottes, écoutez-moi ; nous soupçonnons que vous êtes des hommes.
+Soit.
+En doutant que nous soyons des hommes, vous nous faites douter si vous en êtes.
+Point de colère, vous y êtes sujet : ce sont des mouvements de quadrupèdes que je n'aime point à vous voir.
+Nous, quadrupèdes !
+Quelle humiliation !
+Maudit pays !
+Doucement, petits singes ; apaisez-vous, je ne demande qu'à sortir d'erreur ; et le parti que je vais prendre pour cela, c'est de vous entretenir chacun en particulier, et je vais vous laisser un moment ensemble pour vous y déterminer : calmez-vous, nous ne vous voulons que du bien ; si vous êtes des hommes, tâchez de devenir raisonnables : on dit que c'est pour vous le moyen de devenir grands.
+Pour moi, je crois que c'est un pays de magie, où notre naufrage nous a fait aborder.
+Un pays de magie ! Idée poétique que cela, Monsieur le Poète, car vous m'avez dit que vous l'étiez.
+Ma foi, Monsieur de la philosophie, car vous m'avez dit que vous l'aimiez, une idée de poète vaut bien une vision de philosophe.
+Eh finis, mon ami, finis, tu nous ennuies.
+Comme si les Français n'étaient pas raisonnables.
+Eh laissons de pareilles chimères.
+À quelque impertinence près, tout cela me paraîtrait assez naturel.
+Et moi, je le trouve pitoyable.
+Je n'ai pourtant rien à reprocher à ma raison.
+Cela est vrai. Je l'avais fait contre un homme puissant qui m'aimait assez, et qui s'est scandalisé mal à propos d'un pur jeu d'esprit.
+Taisez-vous, vos raisonnements ne me plaisent pas.
+Bon ! Vous nous faites là de beaux contes !
+Je ne crois pas, Monsieur de Fontignac, que vous m'ayez vu faire de folies.
+Allons, mes petits amis, lequel de vous veut lier le premier conversation avec moi ?
+C'est moi, je serai bien aise de savoir ce dont il s'agit.
+Allons, soit, qu'on ramène les autres.
+Et moi, je ne veux plus paraître ; je suis las de toutes ces façons.
+J'ai toujours remarqué que ce petit animal-là a plus de férocité que les autres ; qu'on le mette à part, de peur qu'il ne les gâte.
+Ne tient-il qu'à vous ouvrir votre cage pour vous rendre content ? Tenez, la voilà ouverte.
+Vous n'êtes, dit-on, devenus petits qu'en entrant dans notre île. Cela est-il vrai ?
+Sur ce pied-là, il faut que vous sachiez une chose.
+Il y a deux siècles qu'on prit ici de petites créatures comme vous autres.
+On les traita comme vous ; car ils n'étaient pas plus grands ; mais ensuite ils devinrent tout aussi grands que nous.
+Mon petit mignon, je vous l'ai déjà dit, rien que devenir raisonnable.
+Oui. Apparemment qu'elle ne l'était pas ; et sans doute vous êtes de même ?
+Que cet aveu-là me fait plaisir ! Mon petit ami, vous êtes dans le bon chemin. Poursuivez.
+Fort bien. Vous pensez à merveille. Ne vous lassez point.
+Prenez garde ; l'aveu que vous faites de manquer de raison n'est peut-être pas comme il faut : peut-être ne le faites-vous que dans la seule vue de rattraper votre figure ?
+Ce n'est pas assez. Ce ne doit pas être là votre objet.
+Eh ! Mon cher enfant, ne souhaitez la raison que pour la raison même. Réfléchissez sur vos folies pour en guérir ; soyez-en honteux de bonne foi : c'est de quoi il s'agit apparemment.
+Je ne saurais ; car je n'ai presque point l'idée de ce que vous êtes. Mais repassez cela vous-même, et excitez-vous à aimer la raison.
+Voyez la douceur et la tranquillité qui règnent parmi nous ; n'en êtes-vous pas touché ?
+C'est l'effet de la raison.
+Oh ! Ciel ! Quel prodige ! Ceci est sensible.
+Courage. Vous n'aimez pas plus tôt la raison, que vous en êtes récompensé.
+Ah ! Que j'ai de joie ! Ce sont des hommes, voilà qui est fini. Achevez, mon cher semblable, achevez ; encore une secousse.
+À merveille.
+Comme il change à vue d'oeil !
+Vous ne sauriez croire avec quelle joie je vois votre changement.
+Ah ! Que dites-vous là, mon cher ? Quel sentiment de bête ! Vous redevenez petit.
+N'y revenez plus.
+Ménagez-vous donc bien désormais.
+Il me tarde d'aller porter cette bonne nouvelle-là au roi.
+Vous raisonnez fort juste.
+Vous vaudrez mieux qu'un autre pour les instruire ; vous sortez du même monde, et vous aurez des lumières que je n'ai point.
+Comment, chétive condition ? Vous m'avez dit que vous étiez un laboureur.
+Et ils vous mépriseraient ! Oh ! Raison humaine, peut-on t'avoir abandonné jusque-là ! Eh bien ! Tirons parti de leur démence sur votre chapitre ; qu'ils soient humiliés de vous voir plus raisonnable qu'eux, vous dont ils font si peu de cas.
+Il ne tiendra qu'à vous qu'il vous en arrive autant, petit bonhomme.
+Tenez, il en sait le moyen, lui ; et je vous laisse ensemble.
+Pour moi, Fontignac, je ne te haïssais pas : mais j'avoue qu'aujourd'hui mon coeur est bien disposé pour toi ; je te dois autant que tu dois à Blaise.
+Hélas ! je ne demande pas mieux que de leur rendre service.
+La raison est un si grand trésor.
+Je vous suis bien obligée de l'avertissement.
+Me voilà.
+Lui-même.
+Allons ! Mes amis, il faut tâcher de le tirer d'affaire.
+Eh ! Mademoiselle, je ne demande pas mieux ; car en vérité, c'est quelque chose de bien affreux que de rester comme je suis, moi qui ai du bien, qui suis riche et estimé dans mon pays.
+Mais faudra-t-il que je demeure éloigné de chez moi, pauvre, et sans avoir de quoi vivre ?
+Non ; mais mon bien, que deviendra-t-il ?
+Dites-lui ce qu'il faut qu'il fasse pour redevenir comme il était.
+Moi, Messieurs ! c'est à moi à me taire où vous êtes.
+Eh ! Mes amis, voilà des compliments bien longs pour un homme qui souffre.
+Quoi ! Tout votre secret est de me dire des injures ? Je n'en veux point.
+Mais essayez, petit homme, essayez.
+Des injures à un docteur de la Faculté !
+Voyons donc ce que c'est.
+Voilà un paysan bien hardi.
+Non, je suis veuf ; ma femme est morte à vingt-cinq ans d'une fluxion de poitrine.
+Il ne me fut pas possible de la réchapper.
+Non.
+Non, vous dis-je. J'en avais trois ; et ils sont morts de la petite vérole, il y a quatre ans.
+Vous avez beau dire, j'étais plus couru qu'un autre.
+Sans doute.
+Mais enfin...
+Assurément.
+Ah ! Je m'en vais. Ces animaux-là se moquent de moi.
+Il n'a pas laissé que d'être frappé, il y reviendra.
+Et moi, je les rends aux dieux de l'état où vous êtes. Il ne s'agit plus que de vos camarades.
+Pour moi, j'espère que je ferai entendre raison à ma maîtresse, et que nous demeurerons tous ici ; car on y est si bien !
+Je me proposais de vous le persuader, mes enfants ; dans votre pays vous retomberiez peut-être.
+Cela signifie qu'elle vous aime et qu'elle vous en faisait la déclaration.
+Nullement. Comment donc ? C'est la loi du pays qui veut qu'on en use ainsi.
+Monsieur Blectrue aime à rire.
+Non, certes, je parle sérieusement.
+Vous voudriez que les hommes attaquassent les femmes ! Et la sagesse des femmes y résisterait-elle ?
+Que deviendra la faiblesse si la force l'attaque ?
+Que deviendra l'amour, si c'est le sexe le moins fort que vous chargez du soin d'en surmonter les fougues ? Quoi ? Vous mettrez la séduction du côté des hommes, et la nécessité de la vaincre du côté des femmes ! Et si elles y succombent, qu'avez-vous à leur dire ? C'est vous en ce cas qu'il faut déshonorer, et non pas elles. Quelles étranges lois que les vôtres en fait d'amour ! Allez mes enfants, ce n'est pas la raison, c'est le vice qui les a faites ; il a bien entendu ses intérêts. Dans un pays où l'on a réglé que les femmes résisteraient aux hommes, on a voulu que la vertu n'y servît qu'à ragoûter les passions, et non pas à les soumettre.
+Je vous avoue que j'aurai bien de la peine à m'accoutumer à vos usages, quoique sensés.
+Tant pis, je vous regarde comme retombée.
+Hélas ! Monsieur, actuellement j'en ai peur.
+Oui, je me rends ; je ferai tout ce qu'on voudra ; et pour preuve de mon obéissance, tenez, Fontignac, je vous prie de m'aimer, je vous en prie sérieusement.
+Je sens que vous avez raison, Monsieur Blectrue ; et je vous promets de me conformer à vos lois. Ce que je viens d'éprouver en ce moment me donne encore plus de respect pour elles. Allons, ma maîtresse gémit ; permettez que je travaille à la tirer d'affaire ; je veux lui parler.
+Je vais de ce pas dire qu'on vous l'amène.
+Tout me charme ici.
+Ah ! Mon beau garçon, je vous retrouve ; et vous, Mademoiselle, je suis bien ravie de vous voir comme vous êtes.
+Pour moi, vous me paraissez tel.
+Assurément.
+Eh quoi ! Me trouvez-vous si désagréable ?
+Maître Blaise, la conquête d'une si jolie fille mérite pourtant votre attention.
+Aimer toute seule est bien triste !
+Voici, je pense, quelqu'un de vos camarades qui vient ; je me retire, sans rien attendre de votre coeur.
+Passe pour cela.
+Eh bien ! Que me veut-on ? Ô ciel ! Que vois-je ? Par quel enchantement avez-vous repris votre figure naturelle ? Je tombe dans un désespoir dont je ne suis plus la maîtresse.
+Vous savez, Madame, que tantôt Fontignac et ce paysan croyaient que nous n'étions petits que parce que nous manquions de raison ; et ils croyaient juste : cela s'est vérifié.
+Quelles chimères ! Est-ce que je suis folle ?
+Moi, j'ai perdu l'esprit ! À quelle extrémité suis-je réduite !
+Ce n'est que par l'aveu de mes folies que j'ai rattrapé ma raison.
+Fontignac a eu autant de peine à me persuader que j'en ai après vous, ma chère maîtresse ; mais je me suis rendue.
+Ne lui parlez plus de cette malheureuse cour.
+Mes larmes m'empêchent de parler.
+Cela est vrai.
+Mais de grâce, apprenez-moi mes folies !
+Eh ! Madame, un peu de réflexion. Ne savez-vous pas que vous êtes jeune, belle, et fille de condition ? Citez-moi une tête de fille qui ait tenu contre ces trois qualités-là, citez-m'en une.
+Et la beauté ?
+À votre compte, Spinette, je suis donc une étourdie, une sotte et une glorieuse ?
+Madame, vous comptez si bien, que ce n'est pas la peine que je m'en mêle.
+De l'orgueil, de la sottise et de l'étourderie !
+Enfin, Spinette, je veux croire que tout ceci est de bonne foi ; mais je ne vois rien en moi qui ressemble à ce que vous dites.
+Aidez-vous, Madame ; songez, par exemple, à ce que c'est qu'une toilette.
+C'est cela même.
+Vous souvenez-vous, ma chère maîtresse, de cette quantité d'outils pour votre visage qui était sur la vôtre ?
+Bon ! Est-ce que le visage d'une coquette est jamais fini ? Tous les jours on y travaille : il faut concerter les mines, ajuster les oeillades. N'est-il pas vrai qu'à votre miroir, un jour, un regard doux vous a coûté plus de trois heures à attraper ? Encore n'en attrapâtes-vous que la moitié de ce que vous en vouliez ; car, quoique ce fût un regard doux, il s'agissait aussi d'y mêler quelque chose de fier : il fallait qu'un quart de fierté y tempérât trois quarts de douceur ; cela n'est pas aisé. Tantôt le fier prenait trop sur le doux : tantôt le doux étouffait le fier. On n'a pas la balance à la main ; je vous voyais faire, et je ne vous regardais que trop. N'allais-je pas répéter toutes vos contorsions ? Il fallait me voir avec mes yeux chercher des doses de feu, de langueur, d'étourderie et de noblesse dans mes regards. J'en possédais plus d'un mille qui étaient autant de coups de pistolet, moi qui n'avais étudié que sous vous. Vous en aviez un qui était vif et mourant, qui a pensé me faire perdre l'esprit : il faut qu'il m'ait coûté plus de six mois de ma vie, sans compter un torticolis que je me donnai pour le suivre.
+Ah !
+Et notre ajustement ! Et l'architecture de notre tête, surtout en France où Madame a demeuré ! Et le choix des rubans ! Mettrai-je celui-là ? Non, il me rend le visage dur. Essayons de celui-ci ; je crois qu'il me rembrunit. Voyons le jaune, il me pâlit ; le blanc, il m'affadit le teint. Que mettra-t-on donc ? Les couleurs sont si bornées, toutes variées qu'elles sont ! La coquetterie reste dans la disette ; elle n'a pas seulement son nécessaire avec elle. Cependant on essaye, on ôte, on remet, on change, on se fâche ; les bras tombent de fatigue, il n'y a plus que la vanité qui les soutient. Enfin on achève : voilà cette tête en état : voilà les yeux armés. L'étourdi à qui tant de grâces sont destinées arrivera tantôt. Est-ce qu'on l'aime ? Non. Mais toutes les femmes tirent dessus, et toutes le manquent. Ah ! Le beau coup, si on pouvait l'attraper !
+À peu près, mon pauvre Blaise.
+Ah ciel !
+Ne vous troublez point, Madame ; c'est un coeur tout à vous qui vous parle. Malheureusement je n'ai point de mémoire, et je ne me ressouviens pas de la moitié de vos folies. Orgueil sur le chapitre de la naissance : Qui sont-ils ces gens-là ? De quelle maison ? Et cette petite bourgeoise qui fait comparaison avec moi ? Et puis cette bonté superbe avec laquelle on salue des inférieurs ; cet air altier avec lequel on prend sa place ; cette évaluation de ce que l'on est et de ce que les autres ne sont pas. Reconduira-t-on celle-ci ? Ne fera-t-on que saluer celle-là ? Sans compter cette rancune contre tous les jolis visages que l'on va détruisant d'un ton nonchalant et distrait. Combien en avez-vous trouvé de boursouflés, parce qu'ils étaient gras ? Vous n'accordiez que la peau sur les os à celui qui était maigre. Il y avait un nez sur celui-ci qui l'empêchait d'être spirituel. Des yeux étaient-ils fiers ? Ils devenaient hagards. Étaient-ils doux ? Les voilà bêtes. Étaient-ils vifs ? Les voilà fous. À vingt-cinq ans, on approchait de sa quarantaine. Une petite femme avait-elle des grâces ? Ah ! La bamboche ! Était-elle grande et bien faite ? Ah ! La géante ! Elle aurait pu se montrer à la foire. Ajoutez à cela cette finesse avec laquelle on prend le parti d'une femme sur des médisances que l'on augmente en les combattant, qu'on ne fait semblant d'arrêter que pour les faire courir, et qu'on développe si bien, qu'on ne saurait plus les détruire.
+Arrête, Spinette, arrête, je te prie.
+Achevez, maître Blaise ; cela vaut mieux que tout ce que j'ai dit.
+Madame, assurément ce portrait-là a de quoi rappeler la raison.
+Spinette, il me dessille les yeux ; il faut se rendre : j'ai vécu comme une folle. Soutiens-moi ; je ne sais ce que je deviens.
+Ah ! Ma chère maîtresse, que je suis contente !
+Que je t'ai d'obligation, Blaise ; et à toi aussi, Spinette !
+Ah ! Mes enfants, ce qu'il y a de plus doux pour moi dans tout cela, c'est le jugement sain et raisonnable que je porte actuellement des choses. Que la raison est délicieuse !
+Je vous l'avais promis, et si vous m'en croyez, nous resterons ici. Il ne faut plus nous exposer ; les rechutes, chez nous autres femmes, sont bien plus faciles que chez les hommes.
+Ne craignez rien ; j'ai retrouvé la raison ici ; je n'en sortirai jamais. Que pourrais-je avoir qui la valût ?
+Très aimable, et je l'ai remarqué.
+Il ne vous sera pas difficile d'en être aimée.
+Que vois-je ? Ah ! Mon frère, la jolie personne !
+C'est ma maîtresse, cette petite femelle que Monsieur avait retenue.
+Quoi ! Vous, Madame ?
+Oui, Seigneur, c'est moi-même, sur qui la raison a repris son empire.
+Et mon petit mâle ?
+Je voudrais bien qu'il eût le même bonheur. Et vous, Madame, l'état où vous étiez nous cachait une charmante figure. Je vous demande votre amitié.
+J'allais vous demander la vôtre, Madame, avec un asile éternel en ce pays-ci.
+Vous ne pouvez, ma chère amie, nous faire un plus grand plaisir ; et si la modestie permettait à mon frère de s'expliquer là-dessus, je crois qu'il en marquerait autant de joie que moi.
+Doucement, ma soeur.
+Non, Prince, votre joie peut paraître ; elle ne risquera point de déplaire.
+Comment ? Je ne l'entends pas.
+Madame, c'est que cela a changé de main. Dans notre pays on nous assiège ; c'est nous qui assiégeons ici parce que la place en est mieux défendue.
+La pratique de cet usage-là m'est bien neuve ; mais j'y ai pensé plus d'une fois en ma vie, quand j'ai vu les hommes se vanter des faiblesses des femmes.
+Ainsi, ma chère amie, si vous aimiez mon frère, ne faites point de façon de lui en parler.
+Oui, oui, cela est extrêmement juste.
+Cela m'embarrasse un peu.
+Prenez garde, j'ai pensé retomber avec ces petites façons-là.
+Comme vous voudrez.
+Mon frère, Madame est instruite de nos usages, et elle a un secret à vous confier. Souvenez-vous qu'elle est étrangère, et qu'elle mérite plus d'égards qu'une autre. Pour moi, qui ne veux savoir les secrets de personne, je vous laisse.
+Et moi aussi, et je sors.
+Je le souhaite beaucoup. Adieu, chère belle-soeur.
+Allez, Madame, n'épargnez rien pour le tirer d'affaire.
+Oui, mon frère, rendez-vous aux exemples qui vous frappent ; vous nous voyez tous rétablis dans l'état où nous étions ; cela ne doit-il pas vous persuader ? Moi qui vous parle, voyez ce que je suis aujourd'hui ; reconnaissez-vous votre soeur à l'aveu franc qu'elle a fait de ses folies ? M'auriez-vous cru capable de ce courage-là ? Pouvez-vous vous empêcher de l'estimer, et ne me l'enviez-vous pas vous-même ?
+Oui, donnez-moi la joie de vous voir comme je m'imagine que vous serez. Sortez de cet état indigne de vous, où vous êtes comme enseveli.
+Allons, mon frère, n'hésitez plus, je vous en conjure.
+Il en faut venir là, Monsieur. Il n'y a pas moyen de faire autrement.
+Quelle situation !
+Eh bien ! nous en croirez-vous ?
+Ah ! Madame, quel événement ! Je vous demande en grâce de vouloir bien me laisser un moment avec Fontignac.
+Oui, mon frère, nous allons vous quitter ; mais, au nom de notre amitié, ne résistez plus.
+Je t'avoue, Fontignac, que je me sens ébranlé.
+Est-il vrai que ma soeur est convenue de toutes les folies dont elle parle ?
+Elle qui était si glorieuse, comment a-t-elle souffert cette confusion-là ?
+Mais dis-moi de quoi tu veux que je convienne ; car voilà mon embarras.
+Moi, je ne me connais point de ces faiblesses, de ces extravagances dont on peut rougir ; je ne m'en connais point.
+Vous plaisantez, sans doute, Fontignac ?
+Où est-il donc cet aveugle ?
+Ah ! Tu m'inquiètes. Que vas-tu me dire ? Je n'aime pas les critiques.
+Voudriez-vous bien me dire quelle est cette faiblesse par laquelle je prélude ?
+Que vous oubliez entièrement à qui vous parlez.
+Voilà un faquin que je ne reconnais pas. Où est donc le respect que tu me dois ?
+Misérable !
+Si j'en croyais ma colère...
+Retirez-vous, insolent que vous êtes, retirez-vous.
+Laissez-moi, vous dis-je ; mon plus grand malheur est de vous voir ici.
+C'est ce coquin que tu vois qui vient de me dire tout ce qu'il y a de plus injurieux au monde.
+La vue de cet impudent-là m'indigne.
+Eh ! Je t'assure que ce n'est pas la raison qui me manque.
+Quoi qu'il en soit, je te suis obligé de vouloir bien prendre mon parti.
+Qu'il ne m'approche pas.
+Je ne saurais souffrir qu'il parle davantage.
+Et que t'importent mes emprunts, dis ?
+Je ne sais ce qu'il veut dire.
+J'ai fait tout ce que j'ai pu pour éviter cet inconvénient-là.
+J'entends tout ce qu'il dit.
+Que veux-tu que je lui réponde, dès qu'il a perdu tout respect pour un homme de ma condition ?
+Aujourd'hui, il dit du mal de moi ; autrefois il faisait mon éloge.
+Ah ! Que viens-je d'entendre ?
+Non, il n'est plus nécessaire. Je ne le trouve plus coupable
+Fontignac, et toi, mon ami Blaise, je vous remercie tous deux.
+Arrête ! Arrête !
+C'est une chose qui mérite une véritable compassion. Il faut que les dieux soient bien ennemis de ces deux petites créatures-là ; car ils ne veulent rien faire pour elles.
+Quoi ! Vous, Monsieur le philosophe, vous, plus incapable que nous de devenir raisonnable, pendant qu'un homme de cour, peut-être de tous les hommes le plus frappé d'illusion et de folie, retrouve la raison ? Un philosophe plus égaré qu'un courtisan ! Qu'est-ce que c'est donc qu'une science où l'on puise plus de corruption que dans le commerce du plus grand monde ?
+Monsieur, je sais le cas qu'un courtisan en peut faire : mais il ne s'agit pas de cela. Il s'agit de cet impertinent-là qui a l'audace de faire des vers où il me satirise.
+Si vous appelez cela des vers, il en a fait contre nous tous en forme de requête, qu'il adressait au Gouverneur, en lui demandant sa liberté ; et j'y étais moi-même accommodé on ne peut pas mieux.
+Moi, je ne vous veux pas de mal.
+Pourquoi donc nous en faites-vous ?
+Point du tout ; ce sont des idées qui viennent et qui sont plaisantes ; il faut que cela sorte ; cela se fait tout seul. Je n'ai fait que les écrire, et cela aurait diverti le Gouverneur, un peu à vos dépens, à la vérité ; mais c'est ce qui en fait tout le sel ; et à cause que j'ai mis quelque épithète un peu maligne contre le Philosophe, cela l'a mis en colère. Voulez-vous que je vous en dise quelques morceaux ? Ils sont heureux.
+Poète insolent !
+Il faut que mon épigramme soit bonne, car il est bien piqué.
+Faire des vers en cet état-là ! Cela n'est pas concevable.
+Ils se battront, si on les lâche.
+Vraiment je suis arrivé comme ils se battaient ; j'ai voulu les prendre, et ils se sont enfui : mais je vais les séparer et les remettre entre les mains de quelqu'un qui les gardera pour toujours. Tout ce qu'on peut faire d'eux, c'est de les nourrir, puisque ce sont des hommes, car il n'est pas permis de les étouffer. Donnez-moi-les, que je les confie à un autre.
+Qu'est-ce que cela signifie ? Nous enfermer ? Je ne le veux point.
+Ah ! Tu parles, toi, manant. Comment t'es-tu guéri ?
+Et qu'est-ce que c'est que cette sagesse ?
+Mais je ne suis pas fou, moi ; et je ne guéris pourtant pas.
+Ni ne guériras.
+Fort bien.
+Fort mal ; car ce manant est donc fou aussi.
+C'est que tu ne crois pas l'être.
+Crois-moi, ne te joue point à lui. Ces gens-là sont dangereux.
+Comment, on me fera violence ?
+Allons, suivez-moi tous deux.
+Un poète aux Petites-Maisons !
+Plus de raisonnement, il faut qu'on vienne.
+Enfin, le ciel a donc exaucé nos voeux.
+Vous le voyez, Madame.
+Que vous êtes aimable de cette façon-là !
+Je suis raisonnable, et ce bien-là est sans prix ; mais, après cela, rien ne me flatte tant, dans mon aventure, que le plaisir de pouvoir vous offrir mon coeur.
+De quoi ris-tu donc ?
+Vous m'offrez votre coeur, et c'est à moi à vous offrir le mien.
+Je me rappelle en effet d'avoir entendu parler ma soeur dans ce sens-là. Mais en vérité, Madame, j'aurais bien honte de suivre vos lois là-dessus : quand elles ont été faites, vous n'y étiez pas ; si on vous avait vue, on les aurait changées.
+Je vous conjure, par toute la tendresse que je sens pour vous, de ne me plus tenir ce langage-là.
+Souvenez-vous que vous êtes un homme, et qu'il n'y aurait rien de si indécent qu'un abandon si subit à vos mouvements. Votre coeur ne doit point se donner ; c'est bien assez qu'il se laisse surprendre. Je vous instruis contre moi ; je vous apprends à me résister, mais en même temps à mériter ma tendresse et mon estime. Ménagez-moi donc l'honneur de vous vaincre ; que votre amour soit le prix du mien, et non pas un pur don de votre faiblesse : n'avilissez point votre coeur par l'impatience qu'il aurait de se rendre ; et pour vous achever l'idée de ce que vous devez être, n'oubliez pas qu'en nous aimant tous deux, vous devenez, s'il est possible, encore plus comptable de ma vertu que je ne la suis moi-même.
+Il faut donc se rendre à ce qui vous plaît, Madame ?
+Oui, si vous voulez que je vous aime.
+Si je le veux, Madame ? Mon bonheur...
+Arrêtez, de grâce, je sens que je vous mépriserais.
+Vous me forcerez à vous quitter.
+J'en serais bien fâché.
+Je ne saurais parler comme cela.
+Vous ne sauriez donc vous vaincre ? Adieu, je vous quitte ; mon penchant ne serait plus raisonnable.
+Madame, écoutez-moi : quoique vous vous en alliez, vous voyez bien que je ne vous arrête point ; et assurément vous devez, ce me semble, être contente de mon indifférence. Quand même vous vous en iriez tout à fait, j'aurais le courage de ne vous point rappeler.
+Cette indifférence-là ne me rebute point ; mais je ne veux point la fatiguer à présent, et je me retire.
+Ah !
+Mais, mon cher Blaise, elle est pourtant partie.
+Si tu savais combien je l'aime !
+Voilà ce que c'est.
+J'ai compté sur l'amitié que vous avez pour Fontignac.
+Mon dessein n'est pas de vous faire de la peine : et s'il est vrai que vous ne puissiez avoir du retour...
+Finis.
+N'est-ce pas assez disputer ?
+Me voilà contente.
+Je reviens. Je n'étais sortie que pour vous éprouver, et vous n'avez que trop bien soutenu cette épreuve. Votre indifférence même commence à m'alarmer.
+Faites-moi la grâce de me répondre.
+J'aurais peur de finir vos alarmes, que je ne hais point.
+Mes alarmes que vous ne haïssez point ? Expliquez-vous plus clairement.
+Ils me disent que vous m'aimez.
+Les en avouez-vous ?
+Vous le voyez bien.
+Oui, cela est fait : en voilà assez ; et je me charge du reste auprès de mon père.
+Oui, Seigneur, mettez le comble à vos bienfaits : je vous ai mille obligations ; joignez-y encore la grâce de m'accorder votre fils.
+Vous lui faites honneur, et je suis charmé que vous l'aimiez.
+Tendrement.
+Mais c'est pourtant à vous à décider, mon fils ; aimez-vous Madame ?
+Oui, mon père.
+J'ai besoin de la même grâce, mon père, et je vous demande Alvarès.
+Je consens à tout.
+Et cette jolie fille ?
+Nous n'en avons point d'autre ici que la présence de ceux devant qui on se marie. Quand on a de la raison, toutes les conventions sont faites. Puissent les dieux vous combler de leurs faveurs ! Quelqu'uns de vos camarades languissent encore dans leur malheur ; je vous exhorte à ne rien oublier pour les en tirer. L'usage le plus digne qu'on puisse faire de son bonheur, c'est de s'en servir à l'avantage des autres. Que des fêtes à présent annoncent la joie que nous avons de vous voir devenus raisonnables.
 L'aimable Ambassadeur ! Qu'il a de gentillesse !
 Quand Bacchus a choisi
 Un Envoyé de cette espèce,
@@ -2325,6 +2626,14 @@ Monsieur, laissez-moi.
 C'est l'ordre du Roi;
 Monsieur laissez-moi. ;
 C'est l'ordre du Roi.
+Qu'on fasse monter le Suisse.
+Le voilà qui apporte les lettres de Madame.
+Pourquoi avez-vous laissé entrer Monsieur ?
+Oui, mais Monsieur ? Ne vous a-t-on pas dit que jamais...
+Mais Fribourg, vous a laissé un portrait ?
+Et le voilà.
+Je n'ai que faire de voir.
+Je vous dis que c'est Monsieur, et je vous chasse.
 Non, Major, je suis tout embarrassé des jambes, de la tête, de la ventre.
 Pon. J'ai déja fumé plus que trois, et tout au contraire, il ne sait rien, je suis tout de même qu'auparavant.
 Hé bien, envoye vous.
@@ -2356,14 +2665,6 @@ Comment ! Il est ivre, je crois ! Vous lui avez laissé boire du vin, c'est donc
 Oui, mais pas de vin.
 Comment ; c'est une garde-malade, et c'était de la ptisanne qu'il fallait lui faire boire.
 J'ai cru que vous m'entendriez, ce n'est pas ùa faute ; mais il n'a pas besoin de moi à présent, je vous souhaite le bonjour.
-Qu'on fasse monter le Suisse.
-Le voilà qui apporte les lettres de Madame.
-Pourquoi avez-vous laissé entrer Monsieur ?
-Oui, mais Monsieur ? Ne vous a-t-on pas dit que jamais...
-Mais Fribourg, vous a laissé un portrait ?
-Et le voilà.
-Je n'ai que faire de voir.
-Je vous dis que c'est Monsieur, et je vous chasse.
 Seul, est-il possible !
 Ciel ! C'est Rigaut !
 Celui que j'aime !

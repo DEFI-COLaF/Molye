@@ -5,8 +5,8 @@ import molyé_util as m_util
 
 
 
-def in_year_range(doc_date, start_year, end_year):
-    doc_year = int(doc_date["when"][:4])
+def in_year_range(doc_year, start_year, end_year):
+    #doc_year = int(doc_date["when"][:4])
     return start_year <= doc_year and doc_year < end_year
 
 def write_lang_period_corpus(lines, lang, start, end, dataset):
@@ -17,9 +17,6 @@ def write_lang_period_corpus(lines, lang, start, end, dataset):
         os.mkdir(date_folder)
     with open(f"{date_folder}/{lang}.txt", mode="w") as f:
         f.write(lang_corpus)
-
-
-
 
 def check_tag_name(tag, target_names):
     return tag.name in target_names
@@ -42,7 +39,6 @@ def get_token_count(file):
     with open(file) as f:
         text = f.read()
         my_l = len(text.split())
-        print(file, my_l)
     return my_l
 
 def combine_subcorpora(subcorpus_files, labels):
@@ -51,58 +47,11 @@ def combine_subcorpora(subcorpus_files, labels):
     combined = "\n".join(combined)
     return combined
 
-
-def write_demo_corpora(corpus_fol, subcorpus_files):
-    baragouin_labels = ["fra-deu", "fra-ang", "fra-nld"]
-    creole_labels = ["gcf", "hat", "lou", "mau", "gcr"]
-
-    combined_fol = f"{corpus_fol}/full_combined"
-    dia = combine_subcorpora(subcorpus_files, ["fra-dia"])
-    rcf = combine_subcorpora(subcorpus_files, ["rcf"])
-    combined_baragouin = combine_subcorpora(subcorpus_files, baragouin_labels)
-    combined_creole = combine_subcorpora(subcorpus_files, creole_labels)
-    with open(f"{combined_fol}/all_peasant.txt", mode="w") as f:
-        f.write(dia)
-    with open(f"{combined_fol}/all_baragouin.txt", mode="w") as f:
-        f.write(combined_baragouin)
-
-    with open(f"{combined_fol}/all_americas.txt", mode="w") as f:
-        f.write(combined_creole)
-
-    with open(f"{combined_fol}/all_rcf.txt", mode="w") as f:
-        f.write(rcf)
-
-
-def main(dataset_f, start=1500, end=1940):
-    file = f"{dataset_fol}/molyé.xml"
-    soup = BeautifulSoup(open(file), features="xml")
-    dates = [t for t in soup.find_all("date") if t.parent.name == "bibl"]
-
-    good_dates = [date for date in dates if in_year_range(date, start, end)]
-    timed_docs = [date.parent.parent.parent.parent.parent for date in good_dates]
-    targets = [["met-fr"], ["fra-dia"], ["fra-deu"], ["fra-ang"], ["fra-nld"], ["fra-gsc"], ["rcf"], ["hat"], ["gcf"], ["lou"], ["gcr"], ["mau"]]
-    for target_langs in targets:
-        target_tags = ["p", "l"]
-        custom = build_custom(target_tags, target_langs)
-        grouped_lines = [get_line_group(doc, custom) for doc in timed_docs]
-        for i, doc in enumerate(timed_docs):
-            secondary = [s for s in doc.find_all(["s"], attrs={"xml:lang": target_langs}) if
-                         s.parent not in grouped_lines[i]]
-            grouped_lines[i].extend(secondary)
-        print(target_langs, len([g for g in grouped_lines if len(g)]))
-        flat_lines = ["\n".join([tag.text.strip() for tag in group if not tag.text.isspace()]) for group in grouped_lines]
-        write_lang_period_corpus(flat_lines, target_langs[0], start, end, f"{dataset_fol}/subcorpora")
-
 def create_simple_search_regex(search_words):
     wrapped = [fr"({word})" for word in search_words]
     united = "|".join(wrapped)
     bounded = fr"({united})"
     return bounded
-
-
-
-
-
 def calculate_etre(corpus_file):
     past_cr = ["été", "étais", "était", "étaient", "té"]
     cond_cr = ["serais", "serait", "seraient", "sré"]
@@ -129,19 +78,46 @@ def calculate_etre(corpus_file):
         stats[label] = len(re.findall(fr"\W{pattern}\W", text))
     return stats
 
+def calculate_doc_length(doc):
+    body = doc.find("body").text
+    tokens = body.split()
+    return len(tokens)
 
-dataset_fol = "../dataset_colaf"
-main(dataset_fol)
-subcorpora_fol = f"{dataset_fol}/subcorpora"
-corpus_folder = f"{subcorpora_fol}/1500-1940"
-subcorpus_files = [f"{corpus_folder}/{f}" for f in os.listdir(f"{corpus_folder}") if f[-3:] =="txt"]
-write_demo_corpora(subcorpora_fol, subcorpus_files)
-main(dataset_fol)
+def main(start, end):
+    corpus_file = f"../main_corpus/molyé.xml"
+    dataset_fol = "../dataset_colaf"
+    subcorpora_fol = f"../subcorpora"
+    soup = BeautifulSoup(open(corpus_file), features="xml")
+    #need to get written date
+    # dates = [t for t in soup.find_all("date") if t.parent.name == "bibl"]
+    # good_dates = [date for date in dates if in_year_range(date, start, end)]
+    docs = soup.find_all("TEI")
+    timed_docs = [d for d in docs if in_year_range(int(m_util.effective_doc_date(d)), start, end)]
 
+    targets = [["met-fr"], ["fra-dia"], ["fra-deu"], ["fra-ang"], ["fra-nld"], ["fra-gsc"], ["rcf"], ["hat"], ["gcf"], ["lou"], ["gcr"], ["mau"]]
+    for target_langs in targets:
+        target_tags = ["p", "l"]
+        custom = build_custom(target_tags, target_langs)
+        grouped_lines = [get_line_group(doc, custom) for doc in timed_docs]
+        for i, doc in enumerate(timed_docs):
+            secondary = [s for s in doc.find_all(["s"], attrs={"xml:lang": target_langs}) if
+                         s.parent not in grouped_lines[i]]
+            grouped_lines[i].extend(secondary)
+        print(target_langs, len([g for g in grouped_lines if len(g)]))
+        flat_lines = ["\n".join([tag.text.strip() for tag in group if not tag.text.isspace()]) for group in grouped_lines]
+        write_lang_period_corpus(flat_lines, target_langs[0], start, end, subcorpora_fol)
 
-subcorpus_folder = f"{dataset_fol}/subcorpora/1500-1940"
-test_corpora = [f"{subcorpus_folder}/{f}" for f in os.listdir(subcorpus_folder)]
-for file in test_corpora:
-    print(file)
-    stats = calculate_etre(file)
-    print(stats)
+    test_fol = f"{subcorpora_fol}/{start}-{end}"
+    test_corpora = [f"{test_fol}/{f}" for f in os.listdir(test_fol)]
+
+    total_size = sum([calculate_doc_length(doc) for doc in docs])
+    timed_size = sum([calculate_doc_length(doc) for doc in timed_docs])
+    print("Number of docs: ", len(docs), "Number of tokens: ", total_size)
+    print("Number docs in range: ", len(timed_docs), "Number of tokens: ", timed_size)
+    for file in test_corpora:
+        size = get_token_count(file)
+        etre_stats = calculate_etre(file)
+        print(file[len(test_fol)+1:-4], size, etre_stats)
+
+if __name__ == '__main__':
+    main(1500, 1940)

@@ -213,7 +213,17 @@ def get_lines_of_interest(file_text, langs, level="p"):
     #inserts namespace unnecessarily
     return [ str(m).replace("tei:", "") for m in matches]
 
-
+#If the lang date (originally written) is earlier than the publication date, use the lang date
+def effective_doc_date(doc):
+    effective_date = doc.find("bibl").find("date")["when"]
+    lang_usage = doc.find("langUsage")
+    if lang_usage:
+        langs = lang_usage.find_all("language")
+        for lang in langs:
+            if lang.find_all("date"):
+                effective_date=lang.find("date")["when"]
+                #print(effective_date[:4])
+    return int(effective_date[:4])
 def check_lines_direct(text, disjunctive):
     soup = BeautifulSoup(text, features="xml")
     paragraphs = soup.find_all("p")
