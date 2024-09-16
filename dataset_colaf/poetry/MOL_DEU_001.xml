@@ -83,10 +83,8 @@
     </teiHeader>
 <text>
     <body>
-        <div type="part" n="1">
-            <head>
-                LE NOEL DES REITRES.
-                (1580-1600.)
+        <div>
+            <head>LE NOEL DES REITRES.(1580-1600.)
             </head>
             <lg>
                 <l xml:lang="fra-deu">Il est un petit l'ange</l>
@@ -140,7 +138,7 @@
                 <l xml:lang="fra-deu">Car moi le saffre bien (I).</l>
             </lg>
             
-            <note xml:lang="met-fr">
+            <note>
                 (i) Noëls anciens et nouveaux. - Châlons sur.Marne,
                 Mercier. - Le XVIe siècle vit introduire dans les armées
                 françaises les Suisses et les reîtres.- Ce noël, dont la tra

@@ -73,8 +73,8 @@
    </langUsage>
    <textClass>
     <keywords>
-     <term rend="spoken" type="supergenre">Fiction</term>
-     <term rend="spoken-script" type="genre">fiction-drama</term>
+     <term rend="fiction" type="supergenre">Fiction</term>
+     <term rend="fiction-drama" type="genre">fiction-drama</term>
     </keywords>
    </textClass>
    <particDesc>

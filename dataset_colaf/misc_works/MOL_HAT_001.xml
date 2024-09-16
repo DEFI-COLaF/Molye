@@ -73,26 +73,10 @@
     </langUsage>
     <textClass>
      <keywords>
-      <term rend="spoken" type="supergenre">Fiction</term>
-      <term rend="spoken-script" type="genre">fiction-drama</term>
+      <term rend="fiction" type="supergenre">Fiction</term>
+      <term rend="fiction-prose" type="genre">Prose</term>
      </keywords>
     </textClass>
-    <particDesc>
-     <listPerson>
-      <person xml:id="JEANNOT">
-       <persName>Jeannot</persName>
-      </person>
-      <person xml:id="THÉRÈSE">
-       <persName>Thérèse</persName>
-      </person>
-      <person xml:id="SIMON">
-       <persName>Simon</persName>
-      </person>
-      <person xml:id="DANSANTS">
-       <persName>nègres et négresses dansants</persName>
-      </person>
-     </listPerson>
-    </particDesc>
    </profileDesc>
    <revisionDesc>
     <change when="2024-06-25" who="#RDENT">Génération du document</change>

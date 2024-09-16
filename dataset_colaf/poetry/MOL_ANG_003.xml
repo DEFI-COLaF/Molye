@@ -73,7 +73,7 @@
    </teiHeader>
   <text>
       <body>
-         <div type="part" xml:lang="fra-ang">
+         <div>
          <lg>
             <l xml:lang="fra-ang">Je t’écris, mon ami,</l>
             <l xml:lang="fra-ang">Comme le gouvernement de Martinique</l>

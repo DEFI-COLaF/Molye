@@ -60,7 +60,9 @@
             <textClass>
                <keywords>
                   <term type="supergenre" rend="nonfiction">Nonfiction</term>
-                  <term type="genre" rend="spoken-intended">Spoken-intended</term>
+                  <term type="genre" rend="nonfiction-administrative">Administrative</term>
+                  <term type="genre" rend="nonfiction-administrative-declaration">Declaration</term>
+                  <term type="keyword" rend="spoken-intended">Spoken-intended</term>
                </keywords>
             </textClass>
          </profileDesc>
@@ -70,11 +72,12 @@
       </teiHeader>
   <text>
       <body>
+         <div>
          <head>
             Au nom de la République Française.
             Proclamation à tous les Citoyens de la Colonie.
          </head>
-         <div type="part" n="0">
+         <div>
             <p xml:lang="hat">Yo sorti verti nous que gagné monde méchand, zamis des anglais, monde qui pas voulé voir vous autes libre, qui cherché trompé vous, et faire craire que la République pas gagné encore l'intention de soutenir liberté vous-autes ; nous conné que ces monde malouc la, yo après parlé mal la sous compte commissaire, et que yo dis vous mensonge en pille la sus compte nous, nous conné que yo dis vous-autes que la République voyés nous ici pour mettés vous encore dans l'esclavage.</p>
             <p xml:lang="hat">Citoyens, si vous voulés conné comme monde la yo menti, et si nous capable faire yon chose comme ci-la-la. Tandés-ça, l'assemblée nationale qui passé toute roi dans monde, dire ; ça li écrire, et ça li voulé. Li dire comme ça que li voulé que toute monde libre et égaux, li dire comme ça encore que li voulé ben que monde travail pour l'argent, mais que li pas voulé voir ni tandé absolument que monde vende corps yo, ni que l'aute monde capable achetté yo, parce que li di comme ça que monde qui conné parlé n'a pas chouval ni cochon pour vende corps yo tant comme dans yon marché.</p>
             <p xml:lang="hat">Citoyens, et que vous-autes pas conné le décret de l'assemblée nationale, du 16 Pluviôse, qui commandé que vous autes toute libre, et que vous autes pas conné encore que l'assemblée nationale France di comme ça que li voulé que toutes les Isles françaises faire rien que yon avec grand pays la France, et que toute monde va libre là comme en France ; Citoyens, et que vous-autes pas tendé ça commissaire dis vous quand yo rivé icy, et que vous pas tandé proclamation la qui dire comme ça que n'a point l'esclave encore, et que la France envoyé commissaire ici exprès pour assurer vous-autes tout que vous libre, et qui faut que nous toute ensemble chassé z'anglais, qui icy qui pas voulé vous-autes libres ; et:que vou-autes pas voir toute navires la qui veni porté poudre, fusi avec canon, pour tuyé toutes anglais qui pas voulé vous-autes libre, et qui tiembé frères vous-autes dans l'esclavage, au Môle, à Saint-Marc, Port-au-Prince, et tout par tout ou ty gagné z'anglais. Si vous conné tout ça, comment vous-autes capable craire monde malouc qui veni dy vous que nous veni icy pour mettés vous dans l'esclavage.</p>
@@ -144,7 +147,8 @@
             <p xml:lang="hat">SONTHONAX</p>
             <p xml:lang="hat">Le Secrétaire général</p>
             <p xml:lang="hat">PASCAL.</p>
-         </div>         
+         </div> 
+         </div>
        
       </body>
   </text>

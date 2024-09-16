@@ -68,9 +68,9 @@
       </langUsage>
       <textClass>
         <keywords>
-          <term type="supergenre" rend="fiction">Fiction</term>
-          <term type="genre" rend="fiction-bible">Bible</term>
-          <term type="genre" rend="spoken-intended">Spoken-intended</term>
+          <term type="supergenre" rend="nonfiction">Nonfiction</term>
+          <term type="genre" rend="nonfiction--religious">religious</term>
+            <term type="keyword" rend="spoken-intended">Spoken-intended</term>
         </keywords>
       </textClass>
     </profileDesc>

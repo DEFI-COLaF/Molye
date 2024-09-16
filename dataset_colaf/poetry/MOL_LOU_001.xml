@@ -81,10 +81,10 @@
             <change when="2024-05-30" who="#RDENT">Génération du document</change>
         </revisionDesc>
     </teiHeader>
-    <text xml:lang="lou">
+    <text>
     <body>
-        <div type="part" >
-            <head xml:lang="met-fr">
+        <div>
+            <head>
                 Fable de La Fontaine
                 Retenu par un jeune mulâtre charger de balayer une [école?]
             </head>

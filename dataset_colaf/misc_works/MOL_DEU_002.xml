@@ -76,7 +76,8 @@
    </teiHeader>
   <text>
       <body>
-         <p>
+         <div>
+         <p xml:lang="fra-deu">
             <pb n="110"/>
             VN Suisse vn iour à my-yure cherchant la mon¬
             noye d’vn cart d’escu, s’addressa à vn singe, cro¬
@@ -105,6 +106,7 @@
             faire pour luy.
             
          </p>
+         </div>
       </body>
   </text>
 </TEI>

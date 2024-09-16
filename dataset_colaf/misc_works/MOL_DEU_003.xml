@@ -74,7 +74,7 @@
         <textClass>
           <keywords>
             <term type="supergenre" rend="fiction">Fiction</term>
-            <term type="genre" rend="fiction-prose">Drama</term>
+            <term type="genre" rend="fiction-prose">Prose</term>
           </keywords>
         </textClass>
       </profileDesc>
@@ -84,6 +84,7 @@
     </teiHeader>
   <text>
     <body>
+      <div>
   <sp xml:lang="met-fr">
     <speaker>L’Autheur</speaker>
     <l>I'Alois n’agueres réuant aux intrigues de ce temps dans vne</l>
@@ -450,7 +451,7 @@
     <l>tet mon manteau pour m’entraisner au cabaret, ie m’en excusay toutefois</l>
     <l>mieux qu’il me fut possible, ne pouuant me tenir de rire des plaisans</l>
     <l>complimens, qu’ils faisoient pour m'inuiter a cette desbauche.</l>
-  </sp>
+      </sp></div>
     </body>
 </text>
 

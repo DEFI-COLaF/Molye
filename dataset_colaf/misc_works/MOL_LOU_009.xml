@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <idno>MOL_LOU_009</idno>
-            <title type="main">Trial of Charlot dit Kakaracou</title>
+            <title type="main">Trial of CHARLOT dit Kakaracou</title>
             <title type="collection">Molyé</title>
             <author>Superior Council of New Orleans</author>
             <respStmt>
@@ -74,9 +74,24 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
-               <term type="genre" rend="nonfiction-press">Press</term>
+               <term type="genre" rend="nonfiction-academic">Academic</term>
+               <term type="keyword" rend="nonfiction-academic-book">Book</term>
+               <term type="keyword" rend="nonfiction-academic-linguistic">Linguistic</term>
+               <term type="supergenre" rend="spoken">Spoken</term>
+               <term type="genre" rend="spoken-transcript">transcript</term>
             </keywords>
          </textClass>
+         <particDesc>
+            <listPerson>
+               <person xml:id="PIERROT"></person>
+               <person xml:id="LEVEILLE"></person>
+               <person xml:id="CHARLOT"></person>
+               <person xml:id="SOLDIER"></person>
+               <person xml:id="CHARLOT_MUM"></person>
+               <person xml:id="JOSEPH"></person>
+               <person xml:id="PLUTON"></person>
+            </listPerson>
+         </particDesc>
       </profileDesc>
       <revisionDesc>
          <change when="2024-07-30" who="#RDENT">Génération du document</change>
@@ -84,6 +99,7 @@
    </teiHeader>
   <text>
       <body>
+         <div>
          <sp n="1">
             <p>
             ... que ce francois ayant tiré sur les etourneaux qui alloien[t] sous
@@ -110,83 +126,83 @@
             petit francois de tirer sous la trape</s>
             </p>
          </sp>
-         <sp  who="Charlot" n="5">
+         <sp  who="CHARLOT" n="5">
             <p>
             sil connoit led. couteau a repondu qu<s xml:lang="lou" n="5">il ne connoit point ce
             couteau quil na pas encore gagné couteau depuis quil est dans le
             monde</s>
             </p>
          </sp>
-         <sp n="6" who="Pluton">
+         <sp n="6" who="PLUTON">
             <p>
-               <s xml:lang="lou" n="6">Ou toy courir Charlot pendant que nous diner</s>
+               <s xml:lang="lou" n="6">Ou toy courir CHARLOT pendant que nous diner</s>
             </p>
          </sp>
-         <sp n="7" who="Charlot">
+         <sp n="7" who="CHARLOT">
             <p>
                <s xml:lang="met-fr" n="7">Jay ete dans le bois pour voir s’il n’y avoit pas des etournaux
                   [pris] a mes atrapes</s>
             </p>
          </sp>
-         <sp n="8" who="Pluton">
+         <sp n="8" who="PLUTON">
             <p>
-               <s xml:lang="lou" n="8">Qui toy tuer Charlot</s>
+               <s xml:lang="lou" n="8">Qui toy tuer CHARLOT</s>
             </p>
          </sp>
-         <sp n="9" who="Charlot">
+         <sp n="9" who="CHARLOT">
             <p>
                <s xml:lang="lou" n="9">Moy na rien tué"</s>
             </p>
          </sp>
-     <sp n="10" who="Charlot's mother">
+     <sp n="10" who="CHARLOT_MUM">
         <p>
            <s xml:lang="lou" n="10">Comment, bougre, pourquoy tourner ton chemise comme ca</s>
         </p>
      </sp>
-     <sp n="11" who="Charlot">
+     <sp n="11" who="CHARLOT">
         <p>
            <s xml:lang="lou" n="11">Qu’est-ce que j’entends</s>
         </p>
      </sp>
-     <sp n="12" who="Pluton">
+     <sp n="12" who="PLUTON">
         <p>
            <s xml:lang="lou" n="12">e pense que c’est une vache quifaire comme cela</s>
         </p>
      </sp>
-     <sp n="13" who="Pluton">
+     <sp n="13" who="PLUTON">
         <p>
            <s xml:lang="met-fr" n="">[La] voila un grand malheur, un francois blessé</s>
         </p>
      </sp>
-         <sp n="14" who="Pluton">
+         <sp n="14" who="PLUTON">
             <p>
                <s xml:lang="met-fr" n="14">Les nègres du desert dirent, il ne faut pas mettre la main la
                   dessus</s>
             </p>
          </sp>
-         <sp n="15" who="Pluton">
+         <sp n="15" who="PLUTON">
             <p>
                <s xml:lang="met-fr" n="15">Quelle maniere est cela, travaille donc</s>
             </p>
          </sp>
-         <sp n="16" who="Joseph">
+         <sp n="16" who="JOSEPH">
             <p>
                <s xml:lang="met-fr" n="16">Qu’est-ce que tu fais de ce mauvais couteau</s>
             </p>
          </sp>
-         <sp n="17" who="Pluton">
+         <sp n="17" who="PLUTON">
             <p>
                <s xml:lang="lou" n="17">D’ou toy venir</s>
             </p>
          </sp>
-         <sp n="18" who="Pluton">
+         <sp n="18" who="PLUTON">
             <p>
-               Interrogé sy Pluton ne luy a pas dit, 
+               Interrogé sy PLUTON ne luy a pas dit, 
                <s xml:lang="met-fr" n="18">quest-ce que tu as tüé, que
                   tu as ton habits comme cela</s>
             </p>
          </sp>
-         <sp n="19" who="Charlot's mother">
+         <sp n="19" who="CHARLOT_MUM">
             <p>
                Interrogé sy en allant au travail sa mere ne luy dit pas
                <s xml:lang="met-fr" n="19">
@@ -194,19 +210,19 @@
                </s>
             </p>
          </sp>
-         <sp n="20" who="Pluton">
+         <sp n="20" who="PLUTON">
             <p>
-               Interrogé sy lorsquil etoit occupé a regarder Pluton ne luy dit
+               Interrogé sy lorsquil etoit occupé a regarder PLUTON ne luy dit
                pas 
                <s xml:lang="lou" n="20">quelle maniere est cela pourquoy toy pas travaille[r/s], travaille</s>
             </p>
          </sp>
-         <sp n="21" who="Charlot">
+         <sp n="21" who="CHARLOT">
             <p>
                <s xml:lang="met-fr" n="21">Veux tu laisser aller mon doigt tu me coupe mon doit,</s>
             </p>
          </sp>
-         <sp n="22" who="Soldier">
+         <sp n="22" who="SOLDIER">
             <p>
                a quoy le petit français luy repondit, 
                <s xml:lang="met-fr" n="22">[?] je ne te laisseray pas
@@ -214,51 +230,51 @@
             </p>
 
          </sp>
-         <sp n="23" who="Soldier">
+         <sp n="23" who="SOLDIER">
             <p>
                a repondu que 
                <s xml:lang="met-fr" n="23">Comme il alloit voir ses trapes qui sont dans le
                   bois, le petit francois luy dit Viens ramasser des etournaux avec moy</s>
             </p>
          </sp>
-         <sp n="24" who="Soldier">
+         <sp n="24" who="SOLDIER">
             <p>
                il luy repondit que non quil alloit voir ses trapes a quoy le
                francois luy dit, 
                <s xml:lang="met-fr" n="24">[h]ebien va te faire foutre</s>
             </p>
          </sp>
-         <sp n="25" who="Charlot">
+         <sp n="25" who="CHARLOT">
             <p>
                <s xml:lang="lou" n="25">pourquoy toy jurer contre moy comme cela
                   Monsieur</s>
             </p>
          </sp>
-         <sp n="26" who="Soldier">
+         <sp n="26" who="SOLDIER">
             <p>
                Le petit francois luy dit,
                <s xml:lang="met-fr" n="26"> Va ten foutu bougre </s>
                et  savanca contre luy pour le [bourer]
             </p>
          </sp>
-         <sp n="27" who="Soldier">
+         <sp n="27" who="SOLDIER">
             <p>
                que meme il luy donna un coup de bourade sous le bras gauche
                en luy disant 
                <s xml:lang="met-fr" n="27">Bougre si je te revois je te tireray un coup de fusil</s>
             </p>
          </sp>
-         <sp n="28" who="Charlot">
+         <sp n="28" who="CHARLOT">
             <p>
                qualors il luy dit 
                <s xml:lang="lou" n="28">Est-ce que je ne suis pas sur mon terrain a mon
                   maitre quest-ce que vous voulez me dire ‘</s>
             </p>
          </sp>
-         <sp n="29" who="Charlot">
+         <sp n="29" who="CHARLOT">
             <p>
                que revenant de ses trapes du fond du desert il a trouvé un
-               negre vacher de M. Bellisle nommé Pierrot, qu’il luy dit 
+               negre vacher de M. Bellisle nommé PIERROT, qu’il luy dit 
                <s xml:lang="met-fr" n="29">
                   Viens avec moy il y a un petit francois qui ma cherchè dispute, nous irons a la
                   cabanne nous trouverons des patates pour manger [que y] revenant
@@ -266,29 +282,29 @@
                   tombé dessus</s>
             </p>
          </sp>
-         <sp n="30" who="Charlot">
+         <sp n="30" who="CHARLOT">
             <p>
-               a quoy le dit Charlot a dit, 
+               a quoy le dit CHARLOT a dit, 
                <s xml:lang="lou" n="30">[tient] Monsieur luy mentir toujours et
                   il disoit toujours non a mon maitre quand luy cacher ma sœur dans
                   sa cabanne, Cest Banbara et luy toujours mentir </s>
             </p>
          </sp>
-         <sp n="31" who="Charlot">
+         <sp n="31" who="CHARLOT">
             <p>
                Et ont persiste chacun en leur raisonnement en les donnant
                beaucoup de dementir de part et d’autre en luy disant a luy 
-               <s xml:lang="lou" n="31">Pierrot toy mentir toujours</s>
+               <s xml:lang="lou" n="31">PIERROT toy mentir toujours</s>
             </p>
          </sp>
-         <sp n="32" who="Pierrot">
+         <sp n="32" who="PIERROT">
             <p>
-               et Pierrot disant a Charlot, 
+               et PIERROT disant a CHARLOT, 
                <s xml:lang="lou" n="32">Cela nest pas bon, sy toy mourir,
                   mourir seul et nia pas faire mourir monde qui ny’a rien faire avec toy</s>
             </p>
          </sp>
-         <sp n="33" who="Pierrot">
+         <sp n="33" who="PIERROT">
             <p>
                a repondu quil na point dautre capot que celuy quil porte
                actuellement et quil <s xml:lang="lou" n="33">na [jamais] gagné de gillet non plus que de
@@ -296,56 +312,57 @@
                
             </p>
          </sp>
-         <sp n="34" who="Leveillé">
+         <sp n="34" who="LEVEILLE">
             <p>
                interrogé sil a parlé a quelques Negres de son maitre peu de
                temps avant quils soient aller diner a Repondu que le Commandeur
-               de son maitre Nommé Leveillé Luy dit 
+               de son maitre Nommé LEVEILLE Luy dit 
                diner
-               <s xml:lang="lou" n="34">allons Pierrot allons Courir</s>
+               <s xml:lang="lou" n="34">allons PIERROT allons Courir</s>
             </p>
          </sp>
-         <sp n="35" who="Pierrot">
+         <sp n="35" who="PIERROT">
             <p>
                Et quil luy repondit quil netoit pas accoutumé de diner, que sil
                alloit diner son maitre le foüeteroit et 
                <s xml:lang="lou" n="35">sy luy pas voir, comme luy ecorchoit luy</s>
             </p>
          </sp>
-         <sp n="36" who="Pierrot">
+         <sp n="36" who="PIERROT">
             <p>
                interrogé sil a parle a quel[eun] des negres de son maitre
                lorsquils sont revenus au travail a repondu quil avoit parlé a Leveille
                et que meme il luy avoit demandé un pipe de tabac que led. negre
-               luy donna de son sac et quil vint allumer a son feu que led. Leveillé
+               luy donna de son sac et quil vint allumer a son feu que led. LEVEILLE
                voulut luy donner un epy de ma[hy] pour boucanner, que luy le [prit],
                mais quil luy rendit en luy disant 
                <s xml:lang="lou" n="36">jay mal aux dents je ne puis pas le
                   manger, ce soir je feray boullir sagamité que je mangeray</s>
             </p>
          </sp>
-         <sp n="37" who="Pierrot">
+         <sp n="37" who="PIERROT">
             <p>
                interrogé sy quelques negres de son maitre ne luy en ont pas
                donne a repondu que non et quil 
                <s xml:lang="lou" n="37">n’en connoit aucun qui ait gagne</s>
             </p>
          </sp>
-         <sp n="38" who="Pierrot">
+         <sp n="38" who="PIERROT">
             <p>
-               interrogé sy Lorsquil a Rencontré Charlot dans le Bois il ne Luy
-               a pas donné des patates a Repondu que Non Et que Charlot ment
+               interrogé sy Lorsquil a Rencontré CHARLOT dans le Bois il ne Luy
+               a pas donné des patates a Repondu que Non Et que CHARLOT ment
                En ajoutant, 
                <s xml:lang="lou" n="38">tu Vois bien que Luy ne pas dire Vray, quand il dit que
                   moy Gagner Gillet… </s>
             </p>
          </sp>
-         <sp n="39" who="Pierrot">
+         <sp n="39" who="PIERROT">
             <p>
                <s xml:lang="lou" n="39">je n’en ay jamais porté, et je nay pas dautre capot derriere ny
                   devant que Celluy que tu me vois</s>
             </p>
          </sp>
+         </div>
       </body>
   </text>
 

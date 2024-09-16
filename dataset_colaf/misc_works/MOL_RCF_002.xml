@@ -60,11 +60,17 @@
          </langUsage>
          <textClass>
             <keywords>
-               <term type="supergenre" rend="fiction">Fiction</term>
-               <term type="genre" rend="fiction-bible">Bible</term>
-               <term type="genre" rend="spoken-intended">Spoken-intended</term>
+               <term type="supergenre" rend="nonfiction">Nonfiction</term>
+               <term type="genre" rend="nonfiction-learningmaterials">Learning materials</term>
+               <term type="keyword" rend="spoken-intended">Spoken-intended</term>
             </keywords>
          </textClass>
+         <particDesc>
+            <listPerson>
+               <person xml:id="DEMANDE"/>
+               <person xml:id="REPONSE"/>
+            </listPerson>
+         </particDesc>
       </profileDesc>
       <revisionDesc>
          <change when="2024-08-07" who="#RDENT">Génération du document</change>
@@ -75,182 +81,182 @@
         <head>Petit Catechisme de l’Isle de Bourbon tourné au Style des Esclaves Nêgres.</head>
         <div type="part" n="1">
           <head>Leçon 1re </head>
-           <sp who="Demande" >
+           <sp who="#DEMANDE" >
               <speaker>Demande.</speaker>
               <p > Toi l’est Chretien;?  
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <speaker>Réponse.</speaker>
               <p>
                  Ouï, moi l’est Chrétien par la grace bon Dieu. 
                  (ou bien) Non, moi n’a pas encor Chrétien, moi content gagner Baptême et servir bon Dieu.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Toi connois bonDieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Moi connois.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça bonDieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Li qui
                  fini faire le Ciel la terre tout ça qu’y en a dans li monde.  
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Comment Dieu l’a fait le monde;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  L’a fait d’à rien par son grand, son seul puissance. 
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  N’en a plusieurs Dieux, deux trois, quatre;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  N’en a bonDieu tout seul, n’a pas
                  deux, n’a pas trois, n’a pas quatre;; maski;[8] un bon Dieu tant seulment, li ne peut pas
                  avoir camarade.;[9]
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Où qu’il est bonDieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Bon Dieu l’est partout, au Ciel, icy même, li voir à nous la nouïct cõe lé [li;?] jour.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause donc nous y ne voit pas Bon Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  à cause qu’ili [qui li] etre un espirit, ça que note zieux ne peut pas voir. 
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Bon Dieu n’en a un corps;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Nous y peut cacher nous autes au bon-Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va. Li est partout, li voir tout, tout ça que nou i pense, 
                  tout ça que nou i fait, li entend li acoute tout ça que nou i dit.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Bon Dieu l’a toujour été;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï, li n’a pas eû commencement, li pas jamais finir.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qui ça qui finit faire à nous aute tretous et metté au monde;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Bon Dieu même.
               </p>
            </sp>
            <pb n="ms 34"/>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause l’a metté à nous dans li [lé;?] monde;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Pour que nous connoitr’ a li, aimer, servi à li bian cõe i faut.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Bon Dieu n’a pas metté à nous dans le monde pour touzou vivre, touzou boire, manger, dormir, faire travail;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va;: note corps mourir un jour et aller pourrir dans la terre quand que bon Dieu voudra.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Notre ame mourir et pourrir etout;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va;: quand li monde finir, notre
                  ame veni charcher note corps.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Comment ça notre ame treuver notre corps, fini 
                  pourrir;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Bon Dieu fera treuver.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Fini treuver, où ça qu’ira note corps;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Si notre ame aller en Paradis, note corps itout;: Si notre ame aller au Diabe en Enfer, 
                  li étout.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Note corps donc arvenir en vie quéque jour;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï. Li revenir, et après ça notre ame et note corps touzour ensemble, jamais pus quitter l’in l’autre.
               </p>
@@ -260,91 +266,91 @@
         
         <div type="part" n="2">
           <head>Leçon 2me   </head>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Combien n’en a Personnes en Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  N’en a trois, Pere, Fils, St Espirit.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Le Pere est Dieu;? Le Fils est Dieu , le St Espirit est Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï va.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Ça même
                  trois bonDieux;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va;: Ça même trois Parsonnes-là qui appellé S. Tarnité.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça la Ste Tarnité;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Maski, un Dieu qui faire trois Parsonnes, 
                  et trois Parsonnes-là même, un Bon-Dieu tant seulement.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  La Ste Tarnité et
                  Dieu, tout de même donc;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Même chose.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  N’en a quequ’une trois Parsonnes-
                  -là, plus beaucoup grand, plus beaucoup fort, plus beaucoup vieille que l’aute;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va, 
                  à cause tou-trois même Dieu.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Parsonne qui appellé Père, stella qui appellé Fils, <pb n="ms 35"/>
                  stella qui appellé St Espirit, ça même Parsonne étout;?
               </p>
            </sp>
            
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va;: Eux autes
                  trois Parsonnes differances.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause nou i croit, trois Parsonnes differances
                  ne faire qu’un Bon-Dieu tant seulement;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Nous i croit, à cause bonDieu et
                  l’Eghilise dire à nous ça l’est bien beaucoup vrai.
@@ -355,133 +361,133 @@
         
         <div type="part" n="3">
           <head>Leçon 3e </head>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  N’en a quequ’une trois Parsonnes la Ste Tarnité, qui faire homme cõe nous autes;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï, n’en a une.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Laquelle;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  La 2de Parsonne. Dieu li Fils.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Dieu
                  le Pere n’a pas faire homme;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non, li n’a pas faire homme.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Dieu le St Espirit
                  n’a pas faire homme;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Li non pretre.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qui donc ça qui se faire homme;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Dieu le Fils seulement.
                  
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Comment qui nomme à li;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Li appellé Notre Sgr Jesus-Christ. 
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  J.C. note Signeur, Dieu et homme tout ensembe;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï Li Dieu, tout Etarnité, 
                  comme le Pere, le St Espirit, et homme dans li tems.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça faire homme, devenir
                  homme;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Sta dire que li a prendé corp et ame pareïe à nous comm’ à nous.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Où ça que Fils de Dieu a prandé corp et ame.
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Dans li Sein de la Ste Vierge
                  Marie, son maman, par grand marveïe St Espirit.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause Fils de Dieu se faire 
                  homme;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Pou rachiter à nous tretous pauves Saclaves du peché, pou empêcher que
                  nous aller en Enfer, et pou gagner à nous Paradis.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Est’ce [Est-ce] que nous tertous venir
                  au monde, Saclaves du Diabe et du Peché;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï, nous venir au monde Saclaves
                  ça même, à cause grand Peché d’adam [sic], premier Pere à nous.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Comment que N. Sgr <pb n="ms 36"/>
                  Jesus-Christ fini racheter à nous autres;? Li fini racheter avec Piastres;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Non va. 
                  Li racheter à nous par son sang, par la mort, li fini souffri et mouri pour nous.
@@ -493,231 +499,231 @@
 
         <div type="part" n="4">
           <head>Leçon 4e</head>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour notre Signeur l’a été conçu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Li jour l’annonsation.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué
                  jour li venir au monde;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jour Noël, stila même qui chanté Messe la nouïct, 
                  premier coq chantant.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué nom l’a donné à li;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Nom de Jésus.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça
                  veut dire, Jésus;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Veut dire Sauveur.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause qui appellé li Sauveur.
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  à cause Li venir su la terre pou sauver tout li [lé;?] monde.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour Rois beaucoup
                  savans, beaucoup bon l’esprit accouri loin loin, et veni metté à ginoux devant li dans
                  son caze, proche son cabane;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jour Piphanie, jour des Rois.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Que jour lé commandé St Saquerment La Messe;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jeudy la semaine Sainte, jour avant, li fini mourir.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour l’est mort;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Venderdi-Saint, jour que li monde baiser
                  la Croix à l’Eghilize.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Où que li est mort;; su son cabane;?   
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Nanni;: Li est mort
                  clouté à la Croix.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qui ça qui faire mourir à li;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Gouverneur qui appellé Ponce
                  Pilate, condamner à li, comme ça même, par mauvais malice. Mais note Signeur fini
                  mouri, à cause que li a bien voulu.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause N. Sgr voulu mouri;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  A cause li
                  resolu païer poutous li [lé;?] monde, grand-Peines nous merité par notte Pechéz.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Maski,;[10]
                  Si notte Signeur n’a pas mourir pou nous, quoi qui arrivé à nous;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  hébé;! nous
                  autes tous pardu tous Damnés.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Ou ça que l’a metté corps notre Signr, après que li fini mouri;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Braves gens metté son corps, didans grand l’auge de pierres.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Et son ame, où que li aller;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Son ame été allé aux Limbes charcher les ames des
                  justes, pour mener eux autes en Paradis.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Li corps N. Signeur quitté mort longtems;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Nanni;; Jesuschrist arsuscité 3e jour, après que li fini mourir.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoique vou
                  i entend, quand vou idit [i dit], que N. Sgr arsuscité 3e jour. 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Moi i entens, moi i dis, 
                  que son ame fini prendé son corps, li sorti glorieux, hors gros roche, où qu’eux autes
                  avoir metté son corps, et qu’ast’heure, n’a pas capable mourir davantage.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour Note Signeur arsuscité;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jour de Pâques.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoique Li a fait, après que
                  fini arsusciter;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Note Signeur faisé voir et montrer son Parsonne à tous sonz-
                  apprentis, et y a resté sus terre avant monter au Ciel.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour fini monter au
                  Ciel;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jour l’Ascension.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué jour l’anvoïé St Espirit à sonz-apotres.
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Jour la Penticote.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Puis ce tems-là, où ça qu’il est note Signeur.
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Comme Dieu l’est partout;; cõe homme l’est au Ciel, au St Sakerment l’autel, là qui dire Messe.
               </p>
@@ -726,87 +732,87 @@
         
         <div type="part" n="5">
           <head>Leçon 5e </head> 
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quéque jour Note Signeur J.C. revenir encor sus la terre;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï, li revenir encor
                  à la fin du monde.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi faire;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Li venir juger les Bons, les michans.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi-ça que li donner aux Bons;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Donnera Paradis.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça Paradis;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Paradis
                  est un lieu où qu’i aura touti sorte de Biens, maski;[11] jamais de mal.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué bien i aura en Paradis;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  En Paradis touzou voir Bon-Dieu, touzour aimer B. Dieu, touzour
                  bien avec B. Dieu, sans jamais craindé perde à li. 
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué faire pour aller en Paradis;?
               </p>
            </sp>
            <pb n="ms 38"/>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Garder Commandemens de Dieu, de l’Eghilise.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Combien Commandemens de 
                  Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  N’en a dix.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Dire;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Un seul Dieu tu adoreras…&amp;c;?
               </p>
@@ -863,85 +869,85 @@
             des terres, et autres les moins bruïans, surtout dans les Quartiers, et durant les offices. 
             </note>
           <p >Suite du Catechisme</p>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça Note Signeur donner aux Michans;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Donnera l’Enfer.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça l’Enfer;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  L’Enfer est un Lieu où qui aura touti sorte
                  de mal, et jamais auquin bien.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qui mal y aura en Enfer;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  En Enfer touzou bruler avec li Diabe, touzou sparé de Dieu, touzou tourmenté
                  par chagrin d’avoir perdi Dieu par sa faute.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi qui faire aller li monde en Enfer;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Peché moritel.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi-ça Peché moritel;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Stila qui tuïez notre ame, qui faire perde à nous grace, l’amitié bon Dieu.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Faut beaucoup Pechez Moritels pour tomber en Enfer;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Maski, n’en faut qu’un, si nou i meurt avec mauvais peché là.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Maski, Peché moritel donc
                  beaucoup grand mal;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Ouï va;: n’a pas pulu grand mal qu’estila dans li monde.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Ça qui encore Paÿen peut gagner grace li, pour tous son Pechés devant B. Dieu;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  R. Nanni.  Faut que li gagner son Baptême.
               </p>
@@ -950,110 +956,110 @@
 
         <div type="part" n="6">
           <head>Leçon 6e</head>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Toi l’est Kertien;?	
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  La Réponse cõe au commencement.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Grand grace
                  bon Dieu toi l’est Kertien;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  ouï va. Plus grand grace qué li pouvé faire à moi <pb n="ms 41"/> dans li monde.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça être Kertien;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Stila qui fini gagne son Baptême
                  qui croire [et;?] faire ça que note Signeur montré ànous autes.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Tout ça qu’est Kertien
                  aller en Paradis;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  R . Non va. Bon Kertiens tant seulement aller en Paradis.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quoi ça bon Kertien;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Stila qu’a bon croïance, qui faire tout ça que bonDieu
                  commande à nous.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qui ça michant Kertien;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Stila qui ne vêquir pas
                  bian cõe i faut.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Qué marque pour montrer toi l’est Kertien;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Signe la Croix.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Faire signe la croix, bian comme i faut.
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Au nom &amp;c
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  Quand qui faut faire signe la Croix;? 
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Bon matin quanqui lève, li fair
                  quan i couche, quand commence travaïe, et fini à li;: quanqui prend bouché manger
                  quand li Diabe i tente à nous;: quand qui trouve danger.
               </p>
            </sp>
-           <sp who="Demande">
+           <sp who="#DEMANDE">
               <p>
                  A cause faut faire
                  souvent signe la croix;?
               </p>
            </sp>
-           <sp who="Réponse">
+           <sp who="#REPONSE">
               <p>
                  Afin que BonDieu la Sainte Tarnité faire grace ànous, 
                  et que nou i pense touzou, Note Signeur l’est mort sus l’arbre la Croix.
@@ -1061,68 +1067,68 @@
            </sp>
           <div type="part" n="7">
             <head>Lecon 7e</head>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Combien n’en a Saquerment;?
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    N’en a Sept. Baptême, Confirmation, &amp;c.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Quoi ça Baptême;?
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Ça même qui lave tout note pechés, qui faire à nou, 
                    Enfans bon Dieu, de l’Eghilise.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Ça même qui lave tout note pechés, qui faire à nou, 
                    Enfans bon Dieu, de l’Eghilise.
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Non va. Si li fini mourir encor petit marmaïe, 
                    avant que li commence arzonne, son ame aller tout droit en Paradis. 
                 </p>
              </sp>
              <pb n="ms 42"/>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Stilà qui arzonne deja, ou qui fini deveni grand-monde, aller itout, droit en Paradis, 
                    après que li fini gagné Baptême;? 
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    N’a pas touzours.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Quant-ça que
                    li gagne Paradis tout droit;? 
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Quand que li  i apporte bonnes dicipocions.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Qué dicipocions qui faut que li apporte;? 
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    i faut qué li croire
                    bien vrai dans son cœur, tout ça que li Prêtre montré à li catchîme;; i faut
@@ -1130,36 +1136,36 @@
                    bonne envië bien garder commandemens de Dieu, de l’Eghilise.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Stila
                    qui conté menterië au Prêtre, pou gagner Baptême, quoi que li i gagne;?
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Bien vrai que li devient Kertien;; mais li ne gagne pas grace bonDieu;; 
                    Li rester comme Payen même, devant bonDieu, qui connoit son vilains menteriës.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Une fois fini Baptizer, peut gagner Baptême encor;?
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Non va. ja-
                    mais Baptizer qu’enne fois seulement.
                 </p>
              </sp>
-             <sp who="Demande">
+             <sp who="#DEMANDE">
                 <p>
                    Si après que fini Baptizer, toi
                    i fai encor mauvais peché, comment faire;?
                 </p>
              </sp>
-             <sp who="Réponse">
+             <sp who="#REPONSE">
                 <p>
                    Faut que moi aller à
                    confesse.
@@ -1168,23 +1174,23 @@
             
             <div type="topic">
               <head>De la Penitence. </head>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Comment qui appellé Sakerment Confesse;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Ça même Sakerment
                      Pénetence, manière deuxième Baptême, qui face peché que nou i fait, après <pb n="ms 43"/>que fini être Kertiens.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi qui doit faire stila qui va à Confesse;? 
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Faire cinq choses. Première, zaminer son consçience. – Deuxième –
                      beaucoup fâcher dans son coeur, tout ça qui offense BonDieu.  Troisieme –
@@ -1193,58 +1199,58 @@
                      camarades, et à tous stila qui a faisé tort.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi ça zaminer
                      Consçience;? 
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Charcher, fouïer dans note cœur tout ça qui a mauvais
                      pensées, mechans malices, mauvais paroles, mauvai oubliances.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Faut
                      zaminer consçience tant seulement jour là même que nou i va pour Confesse;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Jour-la même pinrcipal [sic], et tous les soirs avant d’aller dormir.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi ça veut dire, faché avoir offensé BonDieu;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Stadire, note
                      cœur beaucoup chagrin de tous notes pechez;: chagrin là même, qui appellé
                      Contirtion.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Sans Contirtion là, Bondieu pardonne pa à nous;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Non va;: Bondieu pardonne pas jamais.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Qui qui metté chagrin-là
                      dans note cœur;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Bon-Dieu Li même donne à nous contirtion-là, 
                      quand nou i pense, Peché beaucoup grand mal devant bonDieu;: Péché-même
@@ -1252,58 +1258,58 @@
                      et li envoïe note ame au Diabe en Enfer.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi ça faire bon Porpos;? <pb n="ms 44"/>
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Stadire, mette bian comme i faut dans note cœur arzolution pas faire
                      peché davantage, moïennant la grace bonDieu.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      BonDieu i donne grace là
                      à nous;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Ouï, bon Dieu i aide à nous, si nou i demande à li par bons Prières.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Qué marque i fait connoite bon Porpos;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      N’en a trois. Première, 
                      sanger la vie. Deuzième, travaïer à corriger mauvais vices. Troisième, pa
                      aller en mauvais compagné, pou conter, ni acouter mauvais porpos.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi-ça
                      sanger la vie;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Stadire faire li bien que nous ni faire pas, viter li mal
                      que nous n’evite pas auparavant.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Qu’est ce à dire satisfaire à Dieu;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Stadire
                      faire penitence, prières, tout ça que li Prêtre commandé faire, à nous;; donner note
@@ -1314,26 +1320,26 @@
             </div>
             <div type="topic" n="Communion">
               <head>De la Communion. </head>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Les Noirs, Nêgresses, stila surtout qui fini marier, n’a pa obligé aller la Ste Tabe, 
                      gagner la Communion;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Eux autes obligés, cõe les Blancs-même, tacher faire son
                      Pâques et recevoir li Bon Dieu, quand qui est proche mourir.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      La faute note Signeur
                      la faute du Prêtre, ou la faute Saclaves même, si eux-autes ne recevoir pas li bonDieu
                      jamais, pas même quand que bientôt fini mourir;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      La faute même, grand faute –
                      Saclaves-même, à cause eux ne vouloir pas ranger la vie bian cõe i faut;; ni ne
@@ -1347,69 +1353,69 @@
                
                <div type="topic" n="Onction et Mariage">
               <p >De l’Extrême Onction et du Mariage. </p>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Après que malade fini confesse, qué Sakerment li Prêtre y donne au Kertien;? 
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Li donner l’extrême onction, les Stes Huiles.
                   </p>
                </sp>
-               <sp who="Demande">
+               <sp who="#DEMANDE">
                   <p>
                      Quoi ça l’Extrême Onction;?
                   </p>
                </sp>
-               <sp who="Réponse">
+               <sp who="#REPONSE">
                   <p>
                      Un Sakerment, manière dernier medecine, pour que l’ame sipporte avec bien
                      beaucoup patience maladie, peines du corps;; pou effacer ça qui reste pechez;; gagner
                      grace bon Dieu, pour bien mourir en bon Kertien.
                   </p>
                </sp>
-                  <sp who="Demande">
+                  <sp who="#DEMANDE">
                      <p>
                         Nous donc tertous mourir;?
                      </p>
                   </sp>
-                  <sp who="Réponse">
+                  <sp who="#REPONSE">
                      <p>
                         Ouï va. Nous ne sait pas qué jour, comment, à quel endroit;; mais quand plaira
                         Bon Dieu. Touzour tenir prêt, quitter peché, avoir bon consçience, mener vie sage
                         en bon Kertien.  – 
                      </p>
                   </sp>
-                  <sp who="Demande">
+                  <sp who="#DEMANDE">
                      <p>
                         Quoi ça li mariage;?
                      </p>
                   </sp>
-                  <sp who="Réponse">
+                  <sp who="#REPONSE">
                      <p>
                         Un Sakerment qui heûnit [reûnit] 
                         saintement l’homme et la femme.
                      </p>
                   </sp>
-                  <sp who="Demande">
+                  <sp who="#DEMANDE">
                      <p>
                         Mariage des Kertiens comme mariages des
                         Payens, qui quitte ensembe cõe ça même;? 
                      </p>
                   </sp>
-                  <sp who="Réponse">
+                  <sp who="#REPONSE">
                      <p>
                         Non va. Fini marier, quitte pas
                         jamais, zusqu’à la mort.
                      </p>
                   </sp>
-                  <sp who="Demande">
+                  <sp who="#DEMANDE">
                      <p>
                         Que devoir i a pou gens mariés;?
                      </p>
                   </sp>
-                  <sp who="Réponse">
+                  <sp who="#REPONSE">
                      <p>
                         Gens mariés, 
                         homme et femme touzou ensembe vive en paix, bonne amitié dans li cœur, acouter

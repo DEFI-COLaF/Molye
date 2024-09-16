@@ -89,11 +89,7 @@
                <s xml:lang="lou">Oui, mô maite .</s>
                <s xml:lang="lou">Oui , mouché.</s>
                <s xml:lang="lou">C'est manman moè , quand li tè couri au pays la pluie coton.</s>
-            </p>
-            <p>
-               
-               <s xml:lang="lou"></s>
-            </p>            
+            </p> 
          </div>
          <div type="chapter" n="8">
             <p>
@@ -107,7 +103,8 @@
                </s>
             </p>       
          </div>
-         <div type="part" n="LE_LAC_CATHAOULA">
+         <div>
+            <head>Le lac Cathaoula</head>
             <p>
                <s xml:lang="lou">
                   Mon nègue, téné corde là , méné chouale layé à

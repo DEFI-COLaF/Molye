@@ -68,7 +68,8 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="fiction">Fiction</term>
-               <term type="genre" rend="fiction-prose-novel">Novel</term>
+               <term type="genre" rend="fiction-prose">Fiction Prose</term>
+               <term type="keywords" rend="fiction-prose-novel">Novel</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -78,6 +79,7 @@
    </teiHeader>
   <text>
       <body>
+         <div>
          <p >
             <pb n="205"/>
             ...quelque chose laide, je dy
@@ -113,6 +115,7 @@
             &amp; ie luy dis, laissez moy entre ie suis
             Francion.
          </p>
+         </div>+
       </body>
   </text>
 </TEI>

@@ -60,7 +60,9 @@
             <textClass>
                <keywords>
                   <term type="supergenre" rend="nonfiction">Nonfiction</term>
-                  <term type="genre" rend="spoken-intended">Spoken-intended</term>
+                  <term type="genre" rend="nonfiction-administrative">Administrative</term>
+                  <term type="keyword" rend="nonfiction-administrative-declaration">Declaration</term>
+                  <term type="keyword" rend="spoken-intended">Spoken-intended</term>
                </keywords>
             </textClass>
          </profileDesc>
@@ -70,7 +72,7 @@
       </teiHeader>
   <text>
       <body>
-         <div type="part">
+         <div>
             <head xml:lang="hat">
                Proclamation là, li tiré dans registe Consuls la Répiblique
                Paris, 17 Brimer, an 10 Répiblique francé, yon et indivisible.
@@ -94,7 +96,7 @@
             <p xml:lang="hat">LIBERTÉ	EGALITÉ </p>
                           
          </div>
-         <div type="part">
+         <div>
             <head xml:lang="hat">
                PROCLAMATION
                A bord de l'Océan, Rade du Cap, le... Pluviose, an 10.

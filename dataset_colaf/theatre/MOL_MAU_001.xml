@@ -84,8 +84,8 @@
             </langUsage>
             <textClass>
                <keywords>
-                  <term rend="spoken" type="supergenre">Fiction</term>
-                  <term rend="spoken-script" type="genre">fiction-drama</term>
+                  <term rend="fiction" type="supergenre">Fiction</term>
+                  <term rend="fiction-drama" type="genre">fiction-drama</term>
                </keywords>
             </textClass>
             <particDesc>
@@ -180,7 +180,7 @@
                   suivi de JACQUES, 
                   domestique négre
                </stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD</speaker>
                   <p>JACQUES , 
                      je entrer ici 
@@ -191,7 +191,7 @@
                      quand il être arrivé.
                   </p>
                </sp>
-               <sp who="JACQUES" xml:lang="mau">
+               <sp who="#JACQUES" xml:lang="mau">
                   <speaker>JACQUES.</speaker>
                   <p>
                      Li , bon maître ; toi pas peur , 
@@ -209,15 +209,15 @@
                   àgauche. VALCOUR sort de chez lui , du
                   fond , et arrête Strafford.
                </stage>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, d'en haut</speaker>
                   <p>Un mot, s'il vous plaît monsieur</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, se retournant</speaker>
                   <p>A moi vous parler ?</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>
                      A vous-même; vous ressouvenez-vous d'avoir été
@@ -225,44 +225,44 @@
                      
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker> STRAFFORD.</speaker>
                   <p>Oui , bien.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Vous ressouvenez-vous, de m'y avoir vu ?</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Très-peu.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Mais vous devez vous rappeller d'avoir eu une contestation fort vive avec moi?</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Point du tout.</p>
                </sp>
                
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Cela est surprenant ; une mémoire si courte risque
                      de vous faire du tort.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Pourquoi?</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR,</speaker>
                   <p>C'est qu'on regarde assez souvent comme manque de
                      bravoure, l'oubli d'une dispute vive et qui a été publique.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>C'est mal fait ; un honnête homme qui avait raison ,
                      il pouvait oublier l'étourderie de celui- là qui avait
@@ -270,18 +270,18 @@
                      il devait souvenir lui , pour plus avoir encore ein autre
                      fois.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Aussi je m'en souviens , monsieur , et je viens pour le réparer.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Alors il être bien fait; j'estime vous davantage , et je
                      pardonne de bon cœur. 
                   </p>
                   <stage>( Il lui tend la main.” )</stage>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR , fièrement.</speaker>
                   <p>Je ne veux pas de votre pardon ; c'est une offense
                      que vous me faites à votre tour .... et si je vous ai
@@ -289,54 +289,54 @@
                      vous faire , c'est de vous proposer de me couper la
                      gorge , ou de me brûler la cervelle avec vous.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Charmante réparation ! ....</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>C'est la seule entre gens d'honneur.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Très-bien il veut dire que , pour réparer l'offense
                      que vous convenez avoir fait à moi hier , vous venez
                      bonnement m'offrir de tuer moi aujourd'hui !</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Oui , monsieur, ou vous donner l'occasion de me
                      tuer moi-même.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>L'occasion il être fort agréable assurément ; mais ,
                      mon cher monsieur , il tenter pas moi di tout.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, dédaigneusement.</speaker>
                   <p>Je vous entends : c'est-à dire que vous aimez mieux
                      être deshonoré , et que vous consentez que je publie
                      par-tout que vous êtes un lâche.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, vivement,</speaker>
                   <p>Point du tout ; je deffendre bien au contraire.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR,</speaker>
                   <p>Hé bien donc , pour m'en empêcher , il n'est qu'un
                      moyen; c'est de vous battre avec moi.
                   </p>
                </sp>    
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, à part.</speaker>
                   <p>Quel diable d'homme ! il être enragé pour courir à
                      son mort ! .... 
                      </p><stage>(Haut. )</stage> 
                   <p>Vous vouloir donc absolument tout-à-fait , monsieur?</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>
                      Oh! très -absolument ; ou vous allez sortir avec
@@ -345,7 +345,7 @@
                      avez pas.
                   </p>
                </sp>    
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , piqué , mais avec une colère froide.</speaker>
                   <p>Gaddem ! il être trop fort celui-là ! .... La vie il
                      être certainement beaucoup .... mais la honneur il
@@ -354,11 +354,11 @@
                   </p>
                   <stage>( Il se touche le cœur. )</stage>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR impatienté.</speaker>
                   <p>Eh ! c'est ce que je deinande ; marchons , monsieur.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, l'arrestant.</speaker>
                   <p>Ecoute ein instant. Je comprendre à stheure véritablement que , pour sauver l'honneur à nous deux ,
                      il faut qu'une il perde la vie , et je consentir tout de bon ; mais j'être bien-aise d'avertir vous que , si j'aimais pas à battre moi , il n'être pas poltronnerie , ...
@@ -370,32 +370,32 @@
                      la loi même il avait deffendu pour moi.
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Eh bien , monsieur , je vous relève de cette loi-là ,
                      Et je vas vous signer d'avance que je vous pardonne ma mort,</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Très-bien , monsieur ; vous il être brave beaucoup ! ...
                      mais moi , je serais pas si je profitais. Ecoute donc bien
                      mon condition pour égaliser le sort des armes , sans quoi je batte pas.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR</speaker>
                   <p>Oh ! que de détours ! dites-la donc vite , cette condition ; car je commence à mal augurer de vous.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Presser pas vous encore tant ; vous verra bientôt. Réfléchir seulement un peu , et dire- moi si vous pense
                      bien sérieusement que notre honneur il voulait qu'un de nous deux il meure.
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, vivement et avec humeur.</speaker>
                   <p>Eh morbleu oui , monsieur , c'est obligé , et cela devrait être déjà fait.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , toujours froidement , mais fermement.</speaker>
                   <p>Bon il va pas tarder non plis , et mon manière il
                      étre bien aisée et bien sûre . Attendre-moi là deux minutes. </p>
@@ -407,7 +407,7 @@
 
             <div type="scene" n="3">
                <head>SCÈNE III.</head>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, seul.</speaker>
                   <p>AH monsieur l'Anglais , malgré votre sang-froid
                      et votre fermeté affectée , vous m'avez bien l'air de n'être pas dangereux..... 
@@ -420,7 +420,7 @@
             <div type="scene" n="4">
                <head>SCENE IV.</head>
                <stage>VALCOUR, STRAFFORD revient de chez lui.</stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, plus lestement,</speaker>
                   <p>DONNE la main , mon brave ; vous va être content
                      toute suite. Voilà ein bon pistolet carabiné et portant
@@ -431,11 +431,11 @@
                      </p>
                   <stage>(Il le pose surla table qu'il a un peu)</stage>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Eh bien où est l'autre pareil ?</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD,</speaker>
                   <p>Non , il faut pas davantage qu'une. Quand on se
                      batte avec deux , chacune la sienne , on se manquait ,
@@ -446,11 +446,11 @@
                      deux..... Nous i va jouer pair ou non...
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, surpris,</speaker>
                   <p>Comment! jouer !</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD,</speaker>
                   <p>
                      Oui , monsieur , quand on être décidé , la vie il n'être
@@ -461,11 +461,11 @@
                   </p>
                   <stage>(Il prend un siége , et s'assied devant la table. )</stage>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, un peu ému.</speaker>
                   <p>Oh oh ! vous avez-là une singulière façon....</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, avec sang froid.</speaker>
                   <p>
                      Singulière , si vous trouvez ; mais il être bien sûre...
@@ -480,7 +480,7 @@
                      mourir,
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, affecté.</speaker>
                   <p>Moi , peur ! allons , monsieur , je suis décidé , et voilà
                      votre dernier moment , ou le mien. Je prends les dez.
@@ -488,7 +488,7 @@
                      <stage>(Il remue le cornet. )</stage> 
                   <p>Le plut haut point aura le pistolet,</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Bon , je suis content ; roulez. </p>
                   <stage>( Valcour jette les der sur la table. )</stage> 
@@ -497,23 +497,23 @@
                   <p>18. La pistolet il être à moi. </p>
                   <stage>( Il le prend. )</stage>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, fermement.</speaker>
                   <p>Eh bien , monsieur , servez-vous - en. </p>
                   <stage>( Il se présente. )</stage>
                     <p> Mais ne vous flattez pas que j'aie peur. Tirez. </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Ah! vous il être donc toute prête pour mourir ?.
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR,</speaker>
                   <p>Oui , monsieur.</p>
                </sp>
-               <sp who="STRAFFORD">
+               <sp who="#STRAFFORD">
                   <speaker>STRAFFORD.</speaker>
                   <p>Oh bien ! moi , j'être pas encore en disposition pour
                      tuer ; mais il être tout de même. Pensez que vous il
@@ -529,7 +529,7 @@
             
             <div type="scene" n="5">
                <head>SCENE V.</head>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR , seul , et interdit.</speaker>
                   <p>
                      Je suis confondu de cette aventure .. et me voilà
@@ -548,7 +548,7 @@
 
             <div type="scene" n="6">
                <head>SCÈNE VI.</head>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON , sortant de chez mistriss Gefferson ,avec un air chagrin.</speaker>
                   <p>CERTES, je ne m'attendais pas à cette fâcheuse
                      nouvelle, Il faut que j'aille consulter mon ami Strafford ,
@@ -565,14 +565,14 @@
             <div type="scene" n="">
                <head>SCENE VII.</head>
                <stage>BELTON, STRAFFORD , sortant de chez lui.</stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , affectueusement.</speaker>
                   <p>
                      AH! mon cher Belton , j'attendais pour toi. Tu as
                      bien tardé pour venir.
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>
                      Hélas ! mon ami , tu me vois au désespoir. Je sors
@@ -583,7 +583,7 @@
                      dont il s'est vanté de jouir auprès du ministre.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , avec chagrin.</speaker>
                   <p>Comment toi i ne serait pas mon beau - frère ! ....
                      Oh si fait. Je voulais épouser moi miss Henriette
@@ -594,22 +594,22 @@
                      voulait supplanter toi ?
                      </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>C'est un Français qui est ici depuis peu.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD..</speaker>
                   <p>
                      Un Français ! ... Et comment il appeller lui ?     
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Miss Charlotte m'a dit que c'était monsieur Valcour, et qu'il s'est mème venu loger dans cette maison
                      depuis hier.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, vivement par amitié.</speaker>
                   <p>
                      Valcour ! .... Oh bien , prendre courage , et n'avoir
@@ -617,20 +617,20 @@
                      mort.
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Mort ! .. qu'est-ce que tu me dis- là ? Je l'ai vu encore hier au soir , et bien portant.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Hier il était possible .... Mais aujourd'hui , à
                      st'heure , je dire à toi qu'il n'être plis vivant.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Quel conte encore une fois , cela ne se peut pas.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>J'assure toi qu'il être véritablement. Toi i va voir
                      bien vite. </p>
@@ -643,17 +643,17 @@
                      » vivant , vous va faire voir que vous il vivre avec
                      » honneur». </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <stage>(Il ploie la lettre , se lève , et la montre à Belton , en lui disant)</stage>
                   <p>
                      Voilà tout.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Eh bien , après ; que vas-tu faire de cette folie-là 1</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>J'allais envoyer pour lui et toute suite , toi n'avoir
                      plis de rival. </p>
@@ -668,13 +668,13 @@
                <stage>
                   LES PRÉCÉDENS , JACQUES.
                </stage>
-               <sp who="JACQUES" xml:lang="mau">
+               <sp who="#JACQUES" xml:lang="mau">
                   <speaker>JACQUES.</speaker>
                   <p>
                      QUI çà maîte , voulet moi ?
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>
                      STRAFFORD, à Jacques.
                   </speaker>
@@ -684,7 +684,7 @@
                      et porter le réponse.
                   </p>
                </sp>
-               <sp who="JACQUES" xml:lang="mau">
+               <sp who="#JACQUES" xml:lang="mau">
                   <speaker>JACQUES,</speaker>
                   <p>
                      Moi couri. 
@@ -699,15 +699,15 @@
             <div type="scene" n="9">
                <head>SCENE IX.</head>
                <stage>STRAFFORD,BELTON.</stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD,</speaker>
                   <p>TOUT-A-L'HEURE toi va savoir.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Mais je ne te comprends pas...</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Il être tout-à-fait clair, miss Charlotte il être pour
@@ -715,18 +715,18 @@
                      lais faire ton raccommodement.
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Elle est sortie pour aller solliciter une place pour
                      son fils sir Henri.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Eh bien , nous attendre pour elle. Je voulais pas
                      que toi aller avant que la paix il être fait entre vous.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Mais , mon cher , encore une fois tu n'y penses pas..
                      Tes plaisanteries sont hors de saison. Je t'assures que
@@ -734,7 +734,7 @@
                      m'affirmer elle-même que sa mère lui avait expressément défendu de recevoir dorénavant mes visites,
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Il prouvait rien du tout ça. La mère il savait pas
@@ -743,13 +743,13 @@
                      fille.
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>En vérité , mon pauvre Strafford , tu m'inquiètes toimême à présent avec tes propos incompréhensibles !
                      Est-ce que ta raison est dérangée ? Comment tu me
                      dis que Valcour est mort , et tu lui écris ! .... Remarque donc la contradiction .</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Il n'y a pas du tout , et toi va convenir avec, Justement, voilà Jacques , écoute son réponse.</p>
                </sp>
@@ -761,19 +761,19 @@
                <head>SCÈNE X.</head>
                <stage>LES MÊMES, JACQUES revient de chez
                   Valcour , avec un papier.</stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>EH bien ! Jacques ? ....</p>
                </sp>
-               <sp who="JACQUES" xml:lang="mau">
+               <sp who="#JACQUES" xml:lang="mau">
                   <speaker>JACQUES.</speaker>
                   <p>Oh ! maîte à moi , ça monchié-là li fou !</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON, à part.</speaker>
                   <p>Je ne sais pas si mon pauvre ami est plus raisonnable.</p>
                </sp>
-               <sp who="JACQUES" xml:lang="mau">
+               <sp who="#JACQUES" xml:lang="mau">
                   <speaker>JACQUES.</speaker>
                   <p>ah vlà li tourné. Quand li fini miré billet à vous ,
                      grands yeux , et ouvri grand bouche , comme pour li va
@@ -793,7 +793,7 @@
                   <stage>( Strafford prend le billet, et
                      fait signe à Jacques de rentrer ; Jacques s'en va . )</stage>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD lit le billet haut.</speaker>
                   <p>» Vous avez raison , monsieur , je suis mort pour
                      vous et pour votre ami » . </p>
@@ -807,24 +807,24 @@
                      Eh bien ! toi comprendre à présent.
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Moins que jamais ; c'est absolument une énigme
                      pour moi.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Mais , du moins , toi comprendre bien qu'il céder
                      miss Charlotte pour toi ?
                   </p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Je le vois , et c'est ce qui m'étourdit davantage. Estce que la tête vous tourne à tous deux ? ... Que signifie
                      ce stile baroque de vos billets ?</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p> Il signifier , mon cher , que toutes les deux nous
                      être vraiment braves et honnêtes comme il dire fort
@@ -840,25 +840,25 @@
                   dehors ; ils la saluent tons deux : elle témoigne de
                   l'embarras en voyant Belton , et veut rentrer chez
                   elle sans parler, après avoir rendy le salut....</stage>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD arréte mistriss Gefferson.</speaker>
                   <p>OH non , passer pas vous encore.... Excuse, pardonne , mistriss .... mais voilà mon ami , la brave
                      Belton , que son cœur i saignait devant vous , et vous
                      que l'ame il être généreuse , i va donner consolation
                      pour lui.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>
                      Ah! mistriss ! pouvez-vous , en changeant ainsi à
                      mon égard , vouloir me désespérer.
                   </p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, se retirant toujours</speaker>
                   <p>Permettez-moi , messieurs ....</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD l'arrestant encore.</speaker>
                   <p>Ecoute , mistriss ; vous sauver ! vous pas vouloir
                      parler pour nous..... Oh! besoin parler , quand faire
@@ -866,15 +866,15 @@
                      soulageait le cœur.
                   </p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON.</speaker>
                   <p>Messieurs , une mère a ses raisons qui la déterminent,</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>Des raisons ! ....</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, à Belton</speaker>
                   <p>Taisez-toi ; moi va dire meilleur encore . . .. Non
                      mistriss , la raison il être pas ici .... Belton il être
@@ -886,37 +886,37 @@
                      convenir qu'il pouvait pas être , et vous va retourner
                      avec nous.</p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON.</speaker>
                   <p>Je croyais , messieurs , n'avoir pas de compte à rendre
                      de mes sentimens , et je m'étonne que vous m'en
                      demandiez.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Bien contraire , c'est nous qui rendaient à vous. Voir
                      d'abord la signature de ce billet-là.</p> 
                   <stage>( Il lui montre le
                      billet de Valcour. )</stage>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, regardant.</speaker>
                   <p>Je vois , Valcour.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Vous connaître bien l'écriture ?</p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistris GEFFERSON.</speaker>
                   <p>Oui , il me paraît que c'est la sienne véritablement.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p> Lire donc vous à présent ici. </p>
                   <stage>( Il lui montre , en cachant le reste. )</stage>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, lit haut.</speaker>
                   <p>Je sens que je ne dois pas disputer à Belton let
                      » cœur de miss Charlotte , sur-tout puisqu'elle l'aime ,
@@ -924,7 +924,7 @@
                   <stage>( Elle dit avec étonnement et confusion :)</stage>
                      <p> Cela est positif.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, vivement et avec ame.</speaker>
                   <p>Eh bien , ma chère mistriss ! nous chacune oublier la rancune ,
                      et revenir comme il était avant. Monsieur Valcour il être généreux et raisonable ; il voulait pas
@@ -932,14 +932,14 @@
                      aussi , et consentir pour faire la bonheur de deux
                      amans , que vous il avait déjà approuvé son tendresse.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>            
                      Ah mistriss ! ne me rendez pas le plus malheureux
                      des hommes ! .
                   </p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistris GEFFERSON, à part.</speaker>
                   <p>Voilà qui me confond , et je n'ai rien à répondre.</p>
                      <stage>( Haut )</stage> 
@@ -950,13 +950,13 @@
                      sœur qu'à celui qui lui ferait avoir un poste qu'il
                      ambitionne , celui de secrétaire du bureau de la marine.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON, vivement.</speaker>
                   <p>Oh bien , je taupe très-volontiers à cette condition ;
                      j'ai un ami intime qui a toute la confiance du ministre.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Et moi , je connaître beaucoup la première commis
@@ -972,7 +972,7 @@
 
             <div type="scene" n="12">
                <head>SCENE XII.</head>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, seule.</speaker>
                   <p>
                      JE ne conçois pas comment Valcour , après l'empressement qu'il m'a témoigné , peut se dédire ainsi ;
@@ -992,29 +992,29 @@
                <head>SCENE XIII.</head>
                <stage>Mistriss GEFFERSON , VALCOUR sort de
                   chez lui.</stage>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, venant à elle d'un air embarrassé et agité.</speaker>
                   <p>AH! mistris, que je suis confus de la peine que
                      vous prenez ! ....</p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker> Mistriss GEFFERSON, gravement.</speaker>
                   <p>On m'a dit , monsieur , que vous renonciez à la
                      main de ma fille , pour la céder à Belton ; j'ai voulu
                      savoir de vous-même si c'était la vérité.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, faisant effort pour cacher les mouvemens qui l'agitent , dit enfin avec peine :</speaker>
                   <p>Oui , madame.</p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, avec dépit, mais toujours gravement.</speaker>
                   <p>
                      Peut- on apprendre les motifs qui vous font mépriser
                      notre alliance après l'avoir recherchée ?
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, vivement.</speaker>
                   <p>
                      Moila mépriser ! ... Oh ! ma chère mistriss , nevoyez ,
@@ -1033,7 +1033,7 @@
                      seront pourvues - à- la fois .
                   </p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, lui tendant la main qu'il baise.</speaker>
                   <p>Cette explication raisonnable me raccommode avec
                      vous ; venez donc , je vais vous présenter à miss Henriette , et je ferai agréer à mon fils les motifs de ce
@@ -1048,16 +1048,16 @@
                <head> SCENE XIV.</head>
                <stage> STRAFFORD , BELTON revenant de dehors</stage>
                
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON, avec humeur.</speaker>
                   <p>ENCORE un obstacle , et une affaire de manquée !</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Oh oui ! la première commis il a dit pour moi que
                      le brévet il être expédié depuis eine heure seulement.</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON.</speaker>
                   <p>               
                      Si du moins il avait voulu nous dire à qui .... en
@@ -1065,7 +1065,7 @@
                      mais il s'est obstiné à nous le cacher.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Il faut aller lire toutes les papiers publics , et là
                      sûrement , nous va apprendre bientôt ...
@@ -1080,17 +1080,17 @@
                   <stage> LES MEMES , FIJEAC sort de chez Valcour avec
                      un paquet de papier,</stage>
                   
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , vivement à eux.</speaker>
                      <p>AH sandis , messieurs , pourriez- bous mé donner
                         des noubelles dé mossu dé Balcour,
                      </p>
                   </sp>
-                  <sp who="BELTON" xml:lang="met-fr">
+                  <sp who="#BELTON" xml:lang="met-fr">
                      <speaker>BELTON, froidement.</speaker>
                      <p>Nous ne l'avons pas vu.</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Où diavlé s'amuse-t-i donc à la vagatelle , tandis
@@ -1099,24 +1099,24 @@
                         bient dé lui expédier.
                      </p>
                   </sp>
-                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <sp who="#STRAFFORD" xml:lang="fra-ang">
                      <speaker>STRAFFORD, avec intérest.</speaker>
                      <p>Cet paquet , dites- vous , ils viendre du ministre?</p>
                      
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>Eh cadédis dé lui-même ... et boilà vien le timbre :
                         ministère dé la marine.
                      </p>
                   </sp>
-                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <sp who="#STRAFFORD" xml:lang="fra-ang">
                      <speaker>STRAFFORD, bas à Belton qu'il pousse.</speaker>
                      <p>Belton , ministère de la marine ! .... </p>
                      <stage>( A Fijeac )</stage>
                      <p>Eh I devine-vous bien-à-peuprès ce qu'il peut être là ?</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Sandis , il est sûrément lé vrébet d'un emploi majur
@@ -1126,21 +1126,21 @@
                      </p>
                      
                   </sp>
-                  <sp who="BELTON" xml:lang="met-fr">
+                  <sp who="#BELTON" xml:lang="met-fr">
                      <speaker>BELTON, à Fijeac,</speaker>
                      <p>Et encore, vous doutez-vous quel est cet emploi ?</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , d'un ton de prétention ridicule.</speaker>
                      <p>Eh donc il est simplément lé sécrétariat dé la marine , rien qué ça.</p>
                   </sp>
-                  <sp who="BELTON" xml:lang="met-fr">
+                  <sp who="#BELTON" xml:lang="met-fr">
                      <speaker>BELTON, s'écrie à part avec douleur.</speaker>
                      <p>Oh ciel ! je suis perdu !</p>
                      
                   </sp>
                   
-                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <sp who="#STRAFFORD" xml:lang="fra-ang">
                      <speaker>STRAFFORD, bas à Belton.</speaker>
                      <p>Au contraire , tu es sauvé ; je répondre pour toi
                         de la place ; cours bien vite retrouver l'ami qu'il devait
@@ -1148,22 +1148,22 @@
                         et j'assure à toi qu'il va avoir.</p>
                      
                   </sp>
-                  <sp who="BELTON" xml:lang="met-fr">
+                  <sp who="#BELTON" xml:lang="met-fr">
                      <speaker>BELTON, bas.</speaker>
                      <p>Cela est impossible , puisque Valcour l'à .</p>
                      
                   </sp>
-                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <sp who="#STRAFFORD" xml:lang="fra-ang">
                      <speaker>STRAFFORD, bas.</speaker>
                      <p>Il pouvait pas avoir lui,</p>
                      
                   </sp>
-                  <sp who="BELTON" xml:lang="met-fr">
+                  <sp who="#BELTON" xml:lang="met-fr">
                      <speaker>BELTON, bas.</speaker>
                      <p>Mais ...</p>
                      
                   </sp>
-                  <sp who="STRAFFORD" xml:lang="fra-ang">
+                  <sp who="#STRAFFORD" xml:lang="fra-ang">
                      <speaker>STRAFFORD, bas , et le poussant.</speaker>
                      <p>Non , pas de mais ; parte tout de suite ; je répondre
                         de tout.... aller vite. </p>
@@ -1177,13 +1177,13 @@
                      <head>SCENE XVI.</head>
                      <stage>STRAFFORD , FIJEAC.</stage>
                      
-                     <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <sp who="#STRAFFORD" xml:lang="fra-ang">
                         <speaker>STRAFFORD, allant à la table écrire.</speaker>
                         <p>MON ami, quand vous va remettre cet paquet à monsieur Valcour, je prier vous pour lui donner aussi ein
                            billet que j'écrire là</p>
                      </sp>
                      
-                     <sp who="FIJEAC" xml:lang="fra-gsc">
+                     <sp who="#FIJEAC" xml:lang="fra-gsc">
                         <speaker>FIJEAC.</speaker>
                         <p>
                            Bolontiers , mossu , jé bous férai cé pétit plaisir.
@@ -1196,7 +1196,7 @@
                            baut mieux lé guetter ici d'arrache-pied.
                         </p>
                      </sp>
-                     <sp who="STRAFFORD" xml:lang="fra-ang">
+                     <sp who="#STRAFFORD" xml:lang="fra-ang">
                         <speaker>STRAFFORD, se lève , et lui donne le billet qu'il a
                            cacheté avec un pain.</speaker>
                         <p>Tenez , et gardez bien de l'oublier : il être fort intéressant encore.</p>
@@ -1211,7 +1211,7 @@
             <div type="scene" n="17">
                <head>SCENE XVII.</head>
 
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, seul.</speaker>
                   <p>
                      SANDIS! quel grand intérêt y peut-il y avoir dans
@@ -1244,14 +1244,14 @@
                   <stage>FIJEAC  VALCOUR sort de chez mistriss , d'un air content.</stage>
                   
                   
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, à lui-même.</speaker>
                      <p>
                         ENFIN , c'est arrangé ; la mère est satisfaite , et
                         je serai du moins tranquille de ce côté-là avec ce monsieur Strafford.
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , allant à lui.</speaker>
                      <p>
                         Mossu , je suis enchanté de bous boir en si velle
@@ -1261,7 +1261,7 @@
                         la part du ministre.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, vivement.</speaker>
                      <p>Ah! donne. </p>
                         <stage>( Ille décachette et le parcourt , pendant
@@ -1275,7 +1275,7 @@
                         je vais le porter sur- le- champ à mistriss Gefferson pour son fils.
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC, l'arrestant.</speaker>
                      <p>
                         Un petit moment , mossu ; une vonne noubelle i né
@@ -1283,24 +1283,24 @@
                         remettre , qué l'on dit trés-intéressant.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR , vivement.</speaker>
                      <p>Du ministre aussi ?</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Non-pas , i né bient pas dé la même main. Lé boici, 
                      </p>
                      <stage>( Il lui donne en appuyant encore la main sur le cachet. )</stage>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, avec une forte émotion en voyant l'adresse..</speaker>
                      <p>C'est de l'écriture de Strafford ! .... </p>
                      <stage>( Il s'éloigne un peu, l'ouvre vite et lit bas ; puis il s'écrie. )</stage> 
                      <p>Ciel ! .... Il se jette dans unfauteuil et laisse tomber le billet. )</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC, à part.</speaker>
                      <p>
                         Eh quel diavle d'intérêt qu'il a donc mis dans cé
@@ -1315,11 +1315,11 @@
                         Quel peste de varvouillage ! et qué céla i beut- ti dire.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, revenant un peu à lui.</speaker>
                      <p>O Dieu qu'elle situation terrible ! ....</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Eh ! quest-ce donc ça , mossu , qui dit qué bous
@@ -1327,14 +1327,14 @@
                         semblant bous-même.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, se relevant furieux.</speaker>
                      <p>
                         Oui , mon ami , je le suis, et c'est Strafford qui
                         m'a tué,
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC, étourdi.</speaker>
                      <p>
                         Allons , boilà vien une autre histoire à cette hure!
@@ -1351,14 +1351,14 @@
                      </p>
                      <stage>( Il rejette le billet. )</stage>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR‚ à lui-même, avec une réflexionforte et douloureuse.</speaker>
                      <p>
                         Céderai-je encore cette fois .... et dois-je en effet me
                         regarder comme mort pour lui ?
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Eh ! mais non , mossu ; ié bous garantis tout aussi
@@ -1369,14 +1369,14 @@
                      </p>
                      
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR , s'égarant encore.</speaker>
                      <p>
                         Céderai-je encore cette fois .... et dois-je en effet me
                         regarder comme mort pour lui ?
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , avec impatience.</speaker>
                      <p>
                         Mais cadédis , bous me feriez débénir fou .... sinon
@@ -1386,23 +1386,23 @@
                         
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, avec une fureur concentrée.</speaker>
                      <p>
                         Je l'ai provoqué au combat.....
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>Eh vien , lé comvat i n'a pas été murtrier ; car , Dieu
                         merch, bous n'êtes vlessés ni l'un ni l'autre.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR , lui serrant le bras fortement.</speaker>
                      <p>Si fait ;je suis mort.</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , criant et secouant son bras.</speaker>
                      <p>
                         Oh! non , dé par tous les diavles ! Jé lé sens vien , et
@@ -1410,7 +1410,7 @@
                         logogrife , je bous en prie.
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, d'un ton farouche et vivement.</speaker>
                      <p>
                         Sous prétexte qu'il était plus fort que moi aux armes , il m'a proposé de tirer au sort à qui aurait le pistolet pour tuer l'autre. Dans ma fureur , je l'ai accepté.
@@ -1418,7 +1418,7 @@
                         vie est maintenant à sa disposition.
                      </p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , s'écriant.</speaker>
                      <p>
                         Ah! Satanas ! quel diavle dé jeu enragé qué bous abez
@@ -1427,25 +1427,25 @@
                         
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR</speaker>
                      <p>C'est Strafford.</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC , s'écriant comiquement.</speaker>
                      <p>Eh vien , mossu , iz étaient pipés.</p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR.</speaker>
                      <p>Oh ! c'est un homme d'honneur ; il est incapable de
                         cette infamie.</p>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>Eh, sandis ! on a fait cette fripponnérie à des parties
                         de bien moins de conséquence.</p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR, après une réflexion , à lui-même.</speaker>
                      <p>
                         Oui , je le dois à mon honneur ; je lui cède encore
@@ -1456,7 +1456,7 @@
                        <p> Va dire à Strafford qu'il sera satisfait, </p>
                         <stage>( Il ramasse le billet , et retourne chez lui. )</stage>
                   </sp>
-                  <sp who="FIJEAC" xml:lang="fra-gsc">
+                  <sp who="#FIJEAC" xml:lang="fra-gsc">
                      <speaker>FIJEAC.</speaker>
                      <p>
                         Il suffit , mossu..... </p>
@@ -1466,7 +1466,7 @@
                         qué bous abez joué ?
                      </p>
                   </sp>
-                  <sp who="VALCOUR" xml:lang="met-fr">
+                  <sp who="#VALCOUR" xml:lang="met-fr">
                      <speaker>VALCOUR , déjà sur sa porte.</speaker>
                      <p>Oui , et il a amené 18. </p>
                      <stage>( Il rentre chez lui. )</stage>
@@ -1483,7 +1483,7 @@
 
                
                
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , seul , s'écriant vivement.</speaker>
                   <p>
                      18! raffle dé six ! .... Quand jé lé disais ... Certes,
@@ -1521,7 +1521,7 @@
                <stage>FIJEAC , STRAFORD sort de chez lui.</stage>
                
                
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, d'un ton important.</speaker>
                   <p>
                      Mossu, j'ai remis bostre villet à monsieur dé Balcour,
@@ -1529,7 +1529,7 @@
                      bous seriez satisfait , et qu'il allait renboyer le vrébet.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Très-bien , je suis content. Adieu , mon garçon.
@@ -1537,7 +1537,7 @@
                   </p>
                   <stage>(Il va pour rentrer chez lui. )</stage>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, l'arrête.</speaker>
                   <p>
                      Adieu , mon garçon ! .... Ah ! si bous êtes content
@@ -1550,14 +1550,14 @@
                      dé la récidibe.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Eh ! qu'est-ce que vous il demande moi ? est- ce que
                      vous n'être pas valet de Valcour ?
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, jouant la colère de l'orgueil.</speaker>
                   <p>
                      Qu'appellez-bous , balet ! ... sandis , apprénez qué jé
@@ -1568,11 +1568,11 @@
                      ligne , et dé père en fils , jusqu'à la dernière génération.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, bonnement.</speaker>
                   <p>Excuse-moi donc , je connaissais pas encore votre noblesse.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      Eh donc , jé bous la déclare et bous la manifeste ...
@@ -1581,11 +1581,11 @@
                      i né sé contente pas abec des excuses bervales.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Qu'est-ce que vous il exigeait donc de plis encore ?</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, faisant de l'embarras.</speaker>
                   <p>            
                      J'esige , monsieur , qué la pointe dé la lame il en découse par une et deux .... 
@@ -1597,14 +1597,14 @@
                      bous joue lé même jeu qué lui.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Comment , monsieur le gouverneur , vous vouloir
                      forcer moi pour tuer vous aussi.
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      Oh ! jé dis , mé tuer ! .... I n'est pas encore décidé
@@ -1614,7 +1614,7 @@
                      ma novlesse.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Eh bien , monsieur , puisque vous voulez , il faut
@@ -1635,7 +1635,7 @@
                <head>SCENE XXI.</head>
                
                
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , seul.</speaker>
                   <p>
                      ALLONS , cadédis , le sort il est jeté , Jé né beux
@@ -1659,11 +1659,11 @@
                </stage>
                
                
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>ALLONS , choisir vous , monsieur gentilhomme la Garonne.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC</speaker>
                   <p>
                      Jé bous ai dit qué jé suis aussi hasardeux qué monsieur dé Balcour, et jé m'en tiens aux dez comme lui. </p>
@@ -1672,11 +1672,11 @@
                      c'est-ti qué cette vourse , où cé qué jé bois dé l'or dédans ? Est- elle dé la partie ?
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD. </speaker>
                   <p>Non, monsieur ; il est des guinées pour prendre dedans chacune , au cas que vous voulez jouer pair ou non.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      Oh bien , non ; comme ié bous ai dit , jé mé fisque
@@ -1685,7 +1685,7 @@
                      serbira dé ses propres armes.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>
                      Tout comme il plaira à vous. Tirer , monsieur ; je
@@ -1693,26 +1693,26 @@
                   </p>
                   <stage>( Îl lui donne le cornet. )</stage>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      Bon ! j'accette la politesse ..... Boilà un papier qué
                      jé bous rémets , où cé qué les conditions dé notre comvat i sont expliquées.... Mais bous né lé lirez qu'après lé tirage.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Soit ; je consentais encore tout de même. Roulez , monsieur.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , mettant ses dez dans le cornet,</speaker>
                   <p>Lé pistolet il est-i vien chargé ?</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD.</speaker>
                   <p>Trois balles dedans , et double amorce.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, remuant les dez dans le cornet.</speaker>
                   <p>
                      Sandis il est un joli passeport pour lé perdant, "
@@ -1723,14 +1723,14 @@
                      tavle , pour serbir dé témoins.</p>
                   <stage>( Il lui donne le cornet. )</stage>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , mettant ses dez dedans.</speaker>
                   <p>
                      Très-volontiers. Ils témoignent que vous n'avez pas
                      beau jeu ; et même , j'acquitte vous encore , si vous voulez.
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, triomphant.</speaker>
                   <p>
                      Oh! nenni pas , sandis ! je l'ai plus veau qué bous
@@ -1739,7 +1739,7 @@
                      né ....
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, remuant le cornet.</speaker>
                   <p>
                      Pourquoi pas ? toutes les points , il être dans le jeu....
@@ -1747,14 +1747,14 @@
                   </p>
                   <stage>( H jette les dez. )</stage>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, regarde , et s'écrie au désespoir.</speaker>
                   <p>
                      Trois as ! ... ahlé magicien d'homme ..
                      sorcier abec ses raffles 1
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, tranquillement.</speaker>
                   <p>
                      il est Certes , j'avais perdu avec ein belle espérance ! ..
@@ -1762,12 +1762,12 @@
                   </p>
                   <stage>( Il le prend et l'ouvre. )</stage>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, frappant des pieds et des mains .</speaker>
                   <p>Oui, perdu 1. ... Faut-i pas qué lé diavle i s'en mêle .</p>
                </sp>
                
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, lit haut</speaker>
                   <p>
                      « Le plus bas point il aura le pistolet » . Oh ! gaddem !
@@ -1780,7 +1780,7 @@
                      pistolet.
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, recule effrayé , en s'écriant</speaker>
                   <p>
                      Eh ! non , eh ! non ; pas encore .... Sandis ! bous êtes
@@ -1788,7 +1788,7 @@
                      Lisez cé qué j'ai ajouté au vas,
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , lit haut.</speaker>
                   <p>
                      « Le perdant sera à la disposition du vainqueur ; mais
@@ -1796,14 +1796,14 @@
                      affaires ».
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, vivement.</speaker>
                   <p>
                      Oui , mossu , c'est-là ma condition espresse , et sine
                      quâ non ; et jé bous réponds qué jé profitérai vien du terme dé répit.
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, ramassant toutes ses affaires qu'il met tranquillement dans ses poches.</speaker>
                   <p>
                      C'est bien , monsieur , je donnais à vous les vingtquatre heures ; mais après manquer pas vous pour revenir , et les trois balles qu'il être ici , </p>
@@ -1823,7 +1823,7 @@
                <head>SCENE XXIII.</head>
                
                
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , seul.</speaker>
                   <p>Οui , poun !... compte là-dessus.... Sandis ! jé né
                      té laissérai pas lé tems dedé faire cé beau pon-là ..... et jé
@@ -1846,7 +1846,7 @@
                </stage>
                
                
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, dès sa porté.</speaker>
                   <p>
                      TIENS , va porter cela au bureau de la marine.
@@ -1854,15 +1854,15 @@
                   <stage>( Fijeac ne répond pas. Il avance à lui . )</stage> 
                   <p>Eh bien ! que fais-tu donc là ? </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , piteusement , sans bouger.</speaker>
                   <p>Hélas ! mossu , je suis mort.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Comment mort ! ...</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , sans se lever.</speaker>
                   <p>
                      Oui , mossu , ni plus ni moins qué bous . Bostre diavle
@@ -1870,11 +1870,11 @@
                      son commandement.
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>Je ne te comprends pas.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , toujours assis:</speaker>
                   <p>
                      Ni moi non plus ; car ça béritablement, i mé passe ! ..
@@ -1887,7 +1887,7 @@
                      et i m'emporte lé pistolet par une raffle d'as....
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>
                      Eh bien , mon ami ! mon brave Fijeać ! je te remercie
@@ -1895,19 +1895,19 @@
                      présent il faut te résigner comme j'ai fait.
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , se relevant vivement , s'écie.</speaker>
                   <p>
                      Non , cadédis ! qué jé né mé résigne pas ! ... Hurusément que j'abais eu la sage précaution d'espécifier aussi 
                      bingt- quatre hures dé répit entre la sentence et l'exécution , et j'en vas profiter pour mé mettre déhors dé la portée dé son maudit pistolet carabiné..... Il y a justément en rade un nabire qui doit partir cette nuit à la marée montante , et jé bas mé serbir dé l'occasion,
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR,</speaker>
                   <p>Comment ! tu veux t'en aller ?.</p>
                </sp>
                
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      Oui , certes , qué jé lé beux. J'aime mieux faire un
@@ -1917,7 +1917,7 @@
                      mé les solder , pour qué jé puisse mé payer mon passage.
                   </p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR.</speaker>
                   <p>            
                      Cela est juste. Quand tu auras porté ce paquet-là , je
@@ -1937,7 +1937,7 @@
                </stage>
                
                
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , à lui- même , sans les voir.</speaker>
                   <p>
                      OH! pour celle- là , il va être trop fort , assurément !...
@@ -1952,15 +1952,15 @@
                      Oui , monsieur , débarrassez-moi.
                   </p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , tremblant.</speaker>
                   <p>Eh ! mossu , soubenez-bous donc qué j'ai bingt-quatre hures.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , avec un gestefort et de mépris.</speaker>
                   <p>Décamper toi , lâche.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC , partant vite.</speaker>
                   <p>I n'y a pas de lâcheté , mossu ; j'osserbe les conditions. </p>
                   <stage>( Il rentre chez Valcour. )</stage>
@@ -1973,7 +1973,7 @@
                <stage>VALCOUR, STRAFEORD.</stage>
                
                
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, avec flegme , mais dépit.</speaker>
                   <p>ECOUTE-MOI ,, vous VO , brave monsieur Valcour , er juger
                      vous-même. Suivant notre convention aussi , vous il être
@@ -1985,7 +1985,7 @@
                      même ; et comme ça il ne pouvait pas rester plus longtems , décider vous ; voilà encore un article que vous il
                      devait céder moi , la main de miss Henrietté,</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, outré,</speaker>
                   <p>
                      Oh! morbleu ! monsieur , c'est trop de sacrifices ! et
@@ -2000,7 +2000,7 @@
                   </p>
                      <stage>( Il lui présente sa poitrine. )</stage>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, froidement.</speaker>
                   <p>
                      Vous avez du courage et de l'honneur , monsieur , je
@@ -2030,25 +2030,25 @@
                </stage>
                
                
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON.</speaker>
                   <p>EH! mon Dieu ! qu'est-ce là ?</p>
                </sp>
-               <sp who="BELTON" xml:lang="met-fr">
+               <sp who="#BELTON" xml:lang="met-fr">
                   <speaker>BELTON, courant à Strafford.</speaker>
                   <p>Quest-ce que c'est , mon ami?</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, à Valcour.</speaker>
                   <p>h sandis il est- ti tout dé bon cette fois ? ...</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, tranquillement.</speaker>
                   <p>Il n'être rien encore , attendre ein instant , il va être fini. </p>
                      <stage>( A Valcour. )</stage> 
                   <p>Allons , monsieur , nous achever le partie.</p>
                </sp>
-               <sp who="VALCOUR" xml:lang="met-fr">
+               <sp who="#VALCOUR" xml:lang="met-fr">
                   <speaker>VALCOUR, avec noblesse et sentiment.</speaker>
                   <p>
                      Non , monsieur , votre conduite loyale a terminé
@@ -2064,11 +2064,11 @@
                      un ami sincère de toute votre famille..
                   </p>
                </sp>
-               <sp who="GEFFERSON" xml:lang="met-fr">
+               <sp who="#GEFFERSON" xml:lang="met-fr">
                   <speaker>Mistriss GEFFERSON, avec affection.</speaker>
                   <p> Vous le méritez , et nous nous en ferons tous honneur.</p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD , à Belton.</speaker>
                   <p>
                      Goddem! il faire rougir moi à st'heure ... mais j'admire et je remercie ... </p>
@@ -2076,7 +2076,7 @@
                   <p> Embrasse pour moi , brave homme ! ....</p>
                   <stage>( Il le serre dans ses bras. )</stage>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC, se coulant derrière Strafford et son maître.</speaker>
                   <stage>( A Strafford, )</stage>
                   <p>
@@ -2085,11 +2085,11 @@
                      quitté dé déssus moi ?
                   </p>
                </sp>
-               <sp who="STRAFFORD" xml:lang="fra-ang">
+               <sp who="#STRAFFORD" xml:lang="fra-ang">
                   <speaker>STRAFFORD, riant.</speaker>
                   <p>Oui , oui , mon ami ; à st'heure , toi il pouvait rester vivant tout-à-fait.</p>
                </sp>
-               <sp who="FIJEAC" xml:lang="fra-gsc">
+               <sp who="#FIJEAC" xml:lang="fra-gsc">
                   <speaker>FIJEAC.</speaker>
                   <p>
                      A la vonne hure ; et je promets vien dé né plus

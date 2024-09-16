@@ -68,7 +68,8 @@
       <textClass>
         <keywords>
           <term type="supergenre" rend="fiction">Fiction</term>
-          <term type="genre" rend="fiction-prose-novel">Novel</term>
+          <term type="genre" rend="fiction-prose">Prose</term>
+          <term type="keywords" rend="fiction-prose-novel">Novel</term>
         </keywords>
       </textClass>
     </profileDesc>

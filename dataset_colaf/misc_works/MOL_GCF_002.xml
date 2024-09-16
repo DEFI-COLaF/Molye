@@ -68,8 +68,9 @@
          </langUsage>
          <textClass>
             <keywords>
-               <term rend="spoken" type="supergenre">Fiction</term>
-               <term rend="spoken-script" type="genre">fiction-drama</term>
+               <term rend="spoken" type="supergenre">Spoken</term>
+               <term rend="spoken-transcript" type="genre">Transcript</term>
+               <term rend="nonfiction" type="supergenre">NonFiction</term>
             </keywords>
          </textClass>
          <particDesc>
@@ -93,8 +94,8 @@
    </teiHeader>
    <text>
       <body>
-         
-         <sp who="André" xml:lang="gcf">
+         <div>
+         <sp who="#André" xml:lang="gcf">
             <speaker>André negre du Sieur Desforges</speaker>
             <p>
                J'ai vû bête faite
@@ -113,7 +114,7 @@
             </p>
          </sp>
          
-         <sp who="Pierre_la_Rosiere" xml:lang="gcf">
+         <sp who="#Pierre_la_Rosiere" xml:lang="gcf">
             <speaker>Pierre negre du Né noel di la Rosiere</speaker>
             <p>
                moi miré un homme en mer du
@@ -130,7 +131,7 @@
             </p>
          </sp>
          
-         <sp who="Pierre_legras" xml:lang="gcf">
+         <sp who="#Pierre_legras" xml:lang="gcf">
             <speaker>Pierre negre du Sr. legras</speaker>
             <p>
                Moy miré bête , lui teny yeux ,
@@ -146,6 +147,7 @@
                lui d'avantage
             </p>
          </sp>
+         </div>
       </body>
    </text>
 </TEI>

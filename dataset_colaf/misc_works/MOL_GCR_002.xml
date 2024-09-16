@@ -60,7 +60,9 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
-               <term type="genre" rend="spoken-intended">Spoken-intended</term>
+               <term type="genre" rend="nonfiction-administrative">Administrative</term>
+               <term type="keyword" rend="nonfiction-administrative-declaration">Declaration</term>
+               <term type="keyword" rend="spoken-intended">Spoken-intended</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -70,6 +72,7 @@
    </teiHeader>
   <text>
       <body>
+         <div>
          <head xml:lang="gcr">
             Aux Citoyens qui dévini libres dépis loi di seze Pluviose,
             dideuzième année di la République.
@@ -107,7 +110,7 @@
          <p>
             Le Secrétaire général,
             Signé : LEGRAND.
-         </p>
+         </p></div>
       </body>
   </text>
 </TEI>
