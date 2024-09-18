@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -44,7 +43,7 @@
      <ptr target="https://www.lameca.org/publications-numeriques/dossiers-et-articles/la-musique-coloniale-des-antilles-francaises-au-18eme-siecle/jeannot-et-therese-manuscrit/"/>
      <title>Jeannot et Thérèse</title>
      <author>Clément</author>
-     <publisher></publisher>
+     <publisher/>
      <date when="1783"/>
     </bibl>
     <bibl type="CorpusSource">
@@ -82,7 +81,7 @@
      <person xml:id="JEANNOT">
       <persName>Jeannot</persName>
      </person>
-     <person xml:id="THÉRÈSE">
+     <person xml:id="TH&#xC9;R&#xC8;SE">
       <persName>Thérèse</persName>
      </person>
      <person xml:id="SIMON">
@@ -121,7 +120,7 @@ parodie nègre du Devin du village
 <p>le théâtre représente dans le fond un morne établi en place à vivres, au pied de ce morne paraît d’un côté la case de Thérèse et de l’autre côté celle de Simon</p>
 </div>
   <div type="act" n="1">
-   <div type="scene" n="1" >
+   <div type="scene" n="1">
     <head>Scène première: Thérèse</head>
     <sp>
      <speaker>Thérèse </speaker>
@@ -529,7 +528,7 @@ parodie nègre du Devin du village
     </sp>
 
    </div>
-   <div type="scene" n ="3">
+   <div type="scene" n="3">
     <head>Scène troisième: Simon</head>
 
 
@@ -728,7 +727,7 @@ parodie nègre du Devin du village
     </sp>
 
     <sp>
-     <speaker></speaker>
+     <speaker/>
      <stage>Simon</stage>
      <lg>
       <l xml:lang="hat">cila qui mandé</l>

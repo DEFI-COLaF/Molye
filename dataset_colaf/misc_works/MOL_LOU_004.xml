@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -194,7 +193,7 @@
                <s xml:lang="lou">portez-
                   moè baleine là yest, pour fouetter vou maman ; tendé
                   ça moè dis vous?</s>
-               <s xml:lang="lou"></s>
+               <s xml:lang="lou"/>
             </p>
             
          </div>
@@ -233,25 +232,25 @@
                <s xml:lang="lou">merci, bon Dié aussi veut venger moè!</s>
             </p>
          </div>
-         <div type="part" n=" LA_PASSÉE_DES_CANARDS">
+         <div type="part" n=" LA_PASS&#xC9;E_DES_CANARDS">
             <p>
                <s xml:lang="lou">T'en prie, mon maître, laissé moè vini, requin là
                   va couper mon jambe ; requin là va manger moè.
                </s>
             </p>
-            <sp who="#Laputcha" xml:lang="lou">
-               <l>Vieux Rostalès bon, petit Rostalès bon.</l>
-               <l>Franck, diable noir, mauvais !</l>
-               <l>Mauvais! mauvais ! Ouragan! ouragan!</l>
-               <l>Wiskey bon, bon pour Laputcha !</l>
-               <l>Wiskey pour Laputcha?</l>
-               <l>Laputcha en veut un peu.</l>
-               <l>Oui, tout, tout demain . Petit Rostales bon .</l>
-               <l>Congo mauvais!</l>
-               <l>Congo mauvais, congo mauvais !</l>
-               <l>toi, petit Rostalès, matelot ; toi, petit Français de France, matelot ; Laputcha , capitaine !</l>
+            <sp who="#Laputcha">
+               <l xml:lang="lou">Vieux Rostalès bon, petit Rostalès bon.</l>
+               <l xml:lang="lou">Franck, diable noir, mauvais !</l>
+               <l xml:lang="lou">Mauvais! mauvais ! Ouragan! ouragan!</l>
+               <l xml:lang="lou">Wiskey bon, bon pour Laputcha !</l>
+               <l xml:lang="lou">Wiskey pour Laputcha?</l>
+               <l xml:lang="lou">Laputcha en veut un peu.</l>
+               <l xml:lang="lou">Oui, tout, tout demain . Petit Rostales bon .</l>
+               <l xml:lang="lou">Congo mauvais!</l>
+               <l xml:lang="lou">Congo mauvais, congo mauvais !</l>
+               <l xml:lang="lou">toi, petit Rostalès, matelot ; toi, petit Français de France, matelot ; Laputcha , capitaine !</l>
             </sp>
-            <p></p>
+            <p/>
          </div>
          
       </body>

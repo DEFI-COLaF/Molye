@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -75,21 +75,21 @@
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
                <term type="genre" rend="nonfiction-academic">Academic</term>
-               <term type="keyword" rend="nonfiction-academic-book">Book</term>
-               <term type="keyword" rend="nonfiction-academic-linguistic">Linguistic</term>
+               <term type="motclef" rend="nonfiction-academic-book">Book</term>
+               <term type="motclef" rend="nonfiction-academic-linguistic">Linguistic</term>
                <term type="supergenre" rend="spoken">Spoken</term>
                <term type="genre" rend="spoken-transcript">transcript</term>
             </keywords>
          </textClass>
          <particDesc>
             <listPerson>
-               <person xml:id="PIERROT"></person>
-               <person xml:id="LEVEILLE"></person>
-               <person xml:id="CHARLOT"></person>
-               <person xml:id="SOLDIER"></person>
-               <person xml:id="CHARLOT_MUM"></person>
-               <person xml:id="JOSEPH"></person>
-               <person xml:id="PLUTON"></person>
+               <person xml:id="PIERROT"/>
+               <person xml:id="LEVEILLE"/>
+               <person xml:id="CHARLOT"/>
+               <person xml:id="SOLDIER"/>
+               <person xml:id="CHARLOT_MUM"/>
+               <person xml:id="JOSEPH"/>
+               <person xml:id="PLUTON"/>
             </listPerson>
          </particDesc>
       </profileDesc>
@@ -107,7 +107,7 @@
             blanc <s xml:lang="lou" n="1">pourquoy toy [tirer] sur les etourneaux qui vont sous ma trape</s>
             </p>
          </sp>
-         <sp n ="2"> 
+         <sp n="2"> 
             <p>que le francois repondit au negre [par? ce que desert] <s xml:lang="lou" n="2">est a toy
             [ne tee] pas a M. Raguet qui est tout ce quil a dit scavoir</s>
             </p>
@@ -126,7 +126,7 @@
             petit francois de tirer sous la trape</s>
             </p>
          </sp>
-         <sp  who="CHARLOT" n="5">
+         <sp who="CHARLOT" n="5">
             <p>
             sil connoit led. couteau a repondu qu<s xml:lang="lou" n="5">il ne connoit point ce
             couteau quil na pas encore gagné couteau depuis quil est dans le

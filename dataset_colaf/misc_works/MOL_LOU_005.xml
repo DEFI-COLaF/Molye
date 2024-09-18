@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -63,7 +62,7 @@
                <idno type="langue">lou</idno>
                <idno type="script">Latin</idno>
                <name>Louisiana Creole</name>
-               <date when="1837"></date>
+               <date when="1837"/>
             </language>
             <language ident="met-fr">
                <idno type="langue">met-fr</idno>

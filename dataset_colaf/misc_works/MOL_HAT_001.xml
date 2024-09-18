@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
    <fileDesc>
@@ -84,7 +83,7 @@
   </teiHeader>
  <text>
   <body>
-  <div type="entry" xml:lang="met-fr">
+  <div type="entry">
    <head>La passion de Notre Seigneur selon St Jean en Langage Negre</head>
    <p xml:lang="met-fr">
     Pour une meilleure lisibilité de ce texte, qui date vraisemblablement de la 2e moitié du 
@@ -296,7 +295,7 @@
    </p>
 
   </div>
-  <div type="chapter" n="2" xml:lang="met-fr">
+  <div type="chapter" n="2">
    <head>La Passion de Notre Seigneur selon St Jean
     (traduction de G. Hazaël-Massieux)</head>
   

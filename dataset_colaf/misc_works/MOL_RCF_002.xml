@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -81,9 +80,9 @@
         <head>Petit Catechisme de l’Isle de Bourbon tourné au Style des Esclaves Nêgres.</head>
         <div type="part" n="1">
           <head>Leçon 1re </head>
-           <sp who="#DEMANDE" >
+           <sp who="#DEMANDE">
               <speaker>Demande.</speaker>
-              <p > Toi l’est Chretien;?  
+              <p> Toi l’est Chretien;?  
               </p>
            </sp>
            <sp who="#REPONSE">
@@ -845,7 +844,7 @@
             <row><cell>8e</cell><cell>Pas mentir jamais, pas couter, ni inventer menteries contre un aute.</cell></row>
             <row><cell>9 et 10e</cell><cell>Pas avoir jam’envië pour ça qui est à un aute, qui n’a pas à nous.</cell></row> 
           </table>
-          <p >Commandemens de l’Eglise.</p>
+          <p>Commandemens de l’Eglise.</p>
           <table>
             <row><cell>1er et 2e</cell><cell>Jour qui l’est Fête, garder cõe Dimanche même, venir à la Messe,</cell></row>
             <row><cell>;</cell><cell> acouter catchîme, bon parole du Prêtre, qui montre à nous l’espirit,.</cell></row> 
@@ -868,7 +867,7 @@
             leur faisant observer encore, que ces travaux s’entendent principalement de la culture 
             des terres, et autres les moins bruïans, surtout dans les Quartiers, et durant les offices. 
             </note>
-          <p >Suite du Catechisme</p>
+          <p>Suite du Catechisme</p>
            <sp who="#DEMANDE">
               <p>
                  Quoi ça Note Signeur donner aux Michans;?
@@ -1352,7 +1351,7 @@
                </sp>
                
                <div type="topic" n="Onction et Mariage">
-              <p >De l’Extrême Onction et du Mariage. </p>
+              <p>De l’Extrême Onction et du Mariage. </p>
                <sp who="#DEMANDE">
                   <p>
                      Après que malade fini confesse, qué Sakerment li Prêtre y donne au Kertien;? 
