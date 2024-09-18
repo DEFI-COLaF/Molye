@@ -61,7 +61,7 @@
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
                <term type="genre" rend="nonfiction-learningmaterials">Learning materials</term>
-               <term type="keyword" rend="spoken-intended">Spoken-intended</term>
+               <term type="motclef" rend="spoken-intended">Spoken-intended</term>
             </keywords>
          </textClass>
          <particDesc>

@@ -61,7 +61,7 @@
                   <term type="supergenre" rend="nonfiction">Nonfiction</term>
                   <term type="genre" rend="nonfiction-administrative">Administrative</term>
                   <term type="genre" rend="nonfiction-administrative-declaration">Declaration</term>
-                  <term type="keyword" rend="spoken-intended">Spoken-intended</term>
+                  <term type="motclef" rend="spoken-intended">Spoken-intended</term>
                </keywords>
             </textClass>
          </profileDesc>

@@ -69,7 +69,7 @@
         <keywords>
           <term type="supergenre" rend="nonfiction">Nonfiction</term>
           <term type="genre" rend="nonfiction--religious">religious</term>
-            <term type="keyword" rend="spoken-intended">Spoken-intended</term>
+            <term type="motclef" rend="spoken-intended">Spoken-intended</term>
         </keywords>
       </textClass>
     </profileDesc>

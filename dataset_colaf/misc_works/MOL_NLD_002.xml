@@ -1,3 +1,4 @@
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -68,7 +69,7 @@
         <keywords>
           <term type="supergenre" rend="fiction">Fiction</term>
           <term type="genre" rend="fiction-prose">Prose</term>
-          <term type="keyword" rend="fiction-prose-short-stories">Short Story</term>
+          <term type="motclef" rend="fiction-prose-short-stories">Short Story</term>
         </keywords>
       </textClass>
     </profileDesc>
