@@ -1,20 +1,35 @@
 name: HTMLgenerator
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  test:
+  create-files:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
-      with: 
-        python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install lxml
-    - name: Create HTML pages
-      run: |
-        python3 XML2HTML.py
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python (if you use Python for scripts)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install lxml
+      - name: Create HTML pages
+        run: |
+          python3 XML2HTML.py
+
+      - name: Commit new files
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add dataset_html/
+          git commit -m 'Add new files'
+          git push
