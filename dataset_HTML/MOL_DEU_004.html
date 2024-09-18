@@ -1,0 +1,177 @@
+<html xmlns:tei="http://www.tei-c.org/ns/1.0">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<title>L' histoire comique de Francion</title>
+<style>
+                    body {
+                    font-family: Arial, sans-serif;
+                    line-height: 1.6;
+                    margin: 20px;
+                    background-color: #f4f4f4;
+                    color: #333;
+                    }
+                    
+                    .layout {
+                    display: flex;
+                    max-width: 1200px;
+                    margin: auto;
+                    padding: 20px;
+                    background-color: #fff;
+                    border-radius: 8px;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    }
+                    
+                    .sidebar {
+                    width: 30%;
+                    padding: 20px;
+                    background-color: #d5e8d4;
+                    border-right: 2px solid #bdc3c7;
+                    padding-right: 30px;
+                    }
+                    
+                    .sidebar b {
+                    font-size: 1.2em;
+                    color: #2c3e50;
+                    }
+                    
+                    .sidebar p, .sidebar ul {
+                    margin: 10px 0;
+                    font-size: 1.1em;
+                    }
+                    
+                    .sidebar a {
+                    color: #2980b9;
+                    text-decoration: none;
+                    }
+                    
+                    .sidebar a:hover {
+                    text-decoration: underline;
+                    }
+                    
+                    .content {
+                    width: 70%;
+                    padding-left: 40px;
+                    }
+                    
+                    h3, h4 {
+                    color: #2c3e50;
+                    }
+                    
+                    h3 {
+                    font-size: 2em;
+                    color: #6aa84f;
+                    }
+                    
+                    h4 {
+                    font-size: 1.5em;
+                    margin-bottom: 10px;
+                    }
+                    
+                    .row {
+                    margin-bottom: 20px;
+                    }
+                    
+                    .locuteur {
+                    font-weight: bold;
+                    margin-top: 20px;
+                    color: #6aa84f;
+                    }
+                    
+                    .content p {
+                    font-family: "Georgia", serif;
+                    font-size: 1.1em;
+                    margin: 5px 0;
+                    }
+                    
+                    .text-justify {
+                    text-align: justify;
+                    }
+                    
+                    hr {
+                    margin: 20px 0;
+                    border: 0;
+                    border-top: 1px solid #bdc3c7;
+                    }
+                    
+                    input[type="checkbox"] {
+                    margin-right: 5px;
+                    }
+                </style>
+</head>
+<body>
+<div class="layout">
+<div class="sidebar">
+<div>
+<b>BIBLIOGRAPHIC INFORMATIONS</b><p>Title: L' histoire comique de Francion: ou les tromperies, les subtilitez, les mauuaises humeurs, les sottises, 
+                  &amp; tous les autres vices de quelques personnes de ce siecle, sont naisuement representez&#8206;</p>
+<p>Author: Charles Sorel</p>
+<p>Publisher:<a href="https://www.google.fr/books/edition/L_histoire_comique_de_Francion_ou_les_tr/2avypkWifOsC">University of Turin</a></p>
+<p>Licence <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a></p>
+</div>
+<div class="langues">
+<b>LANGUAGES</b><br><input type="checkbox" id="met-fr" name="met-fr">French of Metropolitan France<br><input type="checkbox" id="fra-deu" name="fra-deu">Germanic Baragouin<br>
+</div>
+</div>
+<div class="content"><div class="row text-justify"><div>
+<h3>L' histoire comique de Francion</h3>
+<h4>Charles Sorel, 
+                                    1630</h4>
+<hr>
+<div>
+<p>
+            ...quelque chose laide, je dy
+            que c'estoit vn petit gar&#231;on laid c&#245;me vn
+            Diable, car ie prenois le singe qui auoit
+            vne casaque verte, pour vn petit garc&#245;. Et
+            i;estois bien en cela aussi raisonnable que
+            ce Suisse qui trouu&#227;t vn singe sur la porte
+            d'vne tauerne, luy auoit donn&#233; vn test&#245; &#224;
+            changer, &amp; voyant qu'il ne le payoit qu'&#7869;
+            grimasses, ne cessoit de luy dire. Parli
+               petite gar&#231;on, volle vous pas donner la m&#245;noye
+               de mon piece? Est-ce de l&#224;
+            possible que vient le prouerbe, quand l'on dit que
+            les grimasses, les g&#227;bades, ou les mocqueries,
+            sont monnoye de singe.
+         </p>
+<p>
+            ...le Suisse &#224; demy-yure, 
+            &amp; &#224; demy endormy s'en vient, &amp; demande
+            qui c'est: ie ne luy respondis qu'&#224; grands
+            coups de marteau. Madame l'a fendu que
+            l'on fasse du bruit ceans, a mal &#224; son teste dit il,
+            si vous ne fous arrestez, moy vous
+            bailleray de mon libarde dans le triquebille,Pardy que demande vous toy?Madame 
+               ny peut dormir &amp; ly va faire son petit musique.Este vous vn Chancre: Si vous l'estes
+            vn Chancre ly montre ton liure. En achevant
+            ce beau discourse, il m'ouurit la porte 
+            &amp; ie luy dis, laissez moy entre ie suis
+            Francion.
+         </p>
+</div>
+</div></div></div>
+</div>
+<script>
+                        // Get all checkboxes within the "langues" class
+                                      const checkboxes = document.querySelectorAll('.langues input[type="checkbox"]');
+                        
+                        // Function to toggle color of paragraphs based on checkbox state
+                        function toggleColor(checkbox) {
+                        // Get the lang attribute from the checkbox name
+                        const lang = checkbox.name;
+                        // Select paragraphs that match the lang attribute
+                        const paragraphs = document.querySelectorAll(`p[lang="${lang}"]`);
+                        paragraphs.forEach(p => {
+                        // Toggle the color based on checkbox state
+                        p.style.color = checkbox.checked ? 'red' : '';
+                        });
+                        }
+                        
+                        // Add event listeners to all checkboxes
+                        checkboxes.forEach(checkbox => {
+                        checkbox.addEventListener('change', () => toggleColor(checkbox));
+                        });
+                    </script><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
