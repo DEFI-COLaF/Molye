@@ -12,7 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: 1arp/create-a-file-action@0.4.5
+      - name: Set up Python
+        uses: actions/setup-python@v2
 
       - name: Set up Python (if you use Python for scripts)
         uses: actions/setup-python@v4
