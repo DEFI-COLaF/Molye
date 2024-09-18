@@ -3,6 +3,7 @@ name: HTMLgenerator
 on:
   push:
     branches:
+      - visualisationHTML
       - main
 
 jobs:
