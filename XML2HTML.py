@@ -14,8 +14,7 @@ os.makedirs(output_folder, exist_ok=True)
 xslt_root = etree.parse(xsl_file)
 transform = etree.XSLT(xslt_root)
 
-# List of (title, filename) for the page d'accueil
-titles_and_files = []
+content=[]
 
 # Iterate over each XML file in the directory
 for xml_subfolder in os.listdir(xml_folder):
@@ -49,7 +48,7 @@ for xml_subfolder in os.listdir(xml_folder):
                 keywords.append(key.text)
             # Append the title and corresponding HTML file to the list for the index
             xml_path = xml_folder+xml_subfolder+'/'+xml_filename
-            titles_and_files.append((title, html_filename,date, langue, keywords, xml_path, xml_subfolder))
+            content.append([title, html_filename, langue, keywords, xml_path, xml_subfolder, date])
 
 # Create the page d'accueil (index.html)
 with open(index_file, 'w', encoding='utf-8') as f:
@@ -135,13 +134,14 @@ with open(index_file, 'w', encoding='utf-8') as f:
     <tr>
     <th>SubCorpus
     </th><th>Title</th>
+    <th>Date</th>
                 <th>Languages</th>
                 <th>Genres</th>
                 <th>Links</th>
                 </tr></thead><tbody>\n""")  # Table headers
 
-    # Add each document's title and link to the HTML version
-    for title, html_filename, date, langue, keywords, xml_path, xml_subfolder  in titles_and_files:
-        f.write(f'<tr><td>{xml_subfolder}<td>{title}</td><td>{",".join(langue)}</td><td>{",".join(keywords)}</td><td><a href="{html_filename}">HTML</a>,<a href="https://github.com/DEFI-COLaF/Molye/tree/main/{xml_path}">XML</a></td></tr>\n')
+    content_sorted_by_date = sorted(content, key=lambda x: x[6])
+    for sublist in content_sorted_by_date:
+        f.write(f'<tr><td>{sublist[5]}</td><td>{sublist[0]}<td>{sublist[6]}</td><td>{",".join(sublist[2])}</td><td>{",".join(sublist[3])}</td><td><a href="{sublist[1]}">HTML</a>,<a href="https://github.com/DEFI-COLaF/Molye/tree/main/{sublist[4]}">XML</a></td></tr>\n')
 
     f.write("""<tbody></table></body>\n</html>""")
