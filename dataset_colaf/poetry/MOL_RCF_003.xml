@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <idno>MOL_RCF_003</idno>
-        <title type="main">Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+        <title type="main">Fables créoles et Explorations dans l'intérieur de l'île Bourbon :
+          esquisses africaines (Nouvelle édition)</title>
         <title type="collection">Moliyé</title>
         <author>Héry, Louis</author>
         <respStmt>
@@ -33,7 +33,8 @@
         <funder>Inria</funder>
       </titleStmt>
       <publicationStmt>
-        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
+        <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France
+          (COLaF)</publisher>
         <date when="2024-05-30"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
@@ -42,14 +43,17 @@
       <sourceDesc>
         <bibl type="PrintSource">
           <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k5470315c/f21.item"/>
-          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses
+            africaines (Nouvelle édition)</title>
           <author>Héry, Louis</author>
-          <publisher>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK11-2249</publisher>
+          <publisher>Bibliothèque nationale de France, département Philosophie, histoire, sciences
+            de l'homme, 4-LK11-2249</publisher>
           <date when="1833"/>
         </bibl>
         <bibl type="CorpusSource">
           <ptr target="https://gallica.bnf.fr/ark:/12148/bpt6k5470315c/f21.item"/>
-          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses africaines (Nouvelle édition)</title>
+          <title>Fables créoles et Explorations dans l'intérieur de l'île Bourbon : esquisses
+            africaines (Nouvelle édition)</title>
           <author>Héry, Louis</author>
           <publisher>Wikisource</publisher>
           <date when="2008"/>
@@ -78,64 +82,64 @@
   </teiHeader>
   <text xml:lang="rcf">
     <body>
-      <div n="1" type="part">
+      <div n="1" type="chapter">
         <head>L'AIGRETTE TROP VANTARD</head>
         <lg>
-        <l xml:lang="rcf">Approç moussié la Gourgu' dans n'lit haut bras d'civrette, </l>
-        <l xml:lang="rcf">L'avait ein trop vantard z'aigrette, </l>
-        <l xml:lang="rcf">Çà l'était fier tout comme ein Paon </l>
-        <l xml:lang="rcf">Pour li n'a point quinq'çôs plaisant ; </l>
-        <l xml:lang="rcf">Quand qu'li voit di l'eau claire et belle </l>
-        <l xml:lang="rcf">Li mir' di dans, li fair' çinill' brinzelle, </l>
-        <l xml:lang="rcf">Li març en tortillant, li navigue au roulis </l>
-        <l xml:lang="rcf">Comment plis d'ein manzell' dans la vill' Saint-Denis. </l>
-        <l xml:lang="rcf">Ein matin li descend, pour fair' voir son visaze, </l>
-        <l xml:lang="rcf">Li s'en va l'étang Saint-André </l>
-        <l xml:lang="rcf">Li' mazin' côté la trouver son badinaze, </l>
-        <l xml:lang="rcf">Qu'li f'ra son l'embarras quand mêm' bon gré, mal gré. </l>
-        <l xml:lang="rcf">Quand qu'li l'approç li bord, bel milets y promène </l>
-        <l xml:lang="rcf">Comm' pour dire à li : bon manzer ! </l>
-        <l xml:lang="rcf">Mais nout' vantard z'aigrett' dit : "çà n'a pas la peine </l>
-        <l xml:lang="rcf">N'a pas encor' l'hèr dézéner." </l>
-        <l xml:lang="rcf">Li pique ein cours' di côté di Bois-Rouze, </l>
-        <l xml:lang="rcf">Son l'appétit y commence gratte à li, </l>
-        <l xml:lang="rcf">La çaler la rend' son patt' rouze, </l>
-        <l xml:lang="rcf">Li l'a r'grett' milets li la vi. </l>
-        <l xml:lang="rcf">Mais n'a plis là. Li voit des loç bien grasse </l>
-        <l xml:lang="rcf">Qui dort tout au bord dans di l'eau. </l>
-        <l xml:lang="rcf">Li l'a commenç fait la grimace : </l>
-        <l xml:lang="rcf">" — Des loç ! manzer canaill' ; moi vé poisson plis beau."</l>
-        <l xml:lang="rcf">Li sorte encor'… son l'estomac cacaille </l>
-        <l xml:lang="rcf">Qu'l'a 'blizé dir : "Courons vite à l'Étang, </l>
-        <l xml:lang="rcf">Manzons, si n'a pas d'aut' ; ça failli loç canaille ; </l>
-        <l xml:lang="rcf">Mon la faim commenç l'est trop grand." </l>
-        <l xml:lang="rcf">Mais loç l'a plonze au fond ; cabots s'il y rencontre </l>
-        <l xml:lang="rcf">Encor' n'a pas beaucoup qui montre. </l>
-        <l xml:lang="rcf">Z'aigrette y prend colèr : "A qu'faire à moi cabot </l>
-        <l xml:lang="rcf">Avec ça gros-ball' là moi bourrer mon zabot ? </l>
-        <l xml:lang="rcf">Autant vaut grinouitt' la rigole, </l>
-        <l xml:lang="rcf">Ou biçiq' à trois sous la bole. </l>
-        <l xml:lang="rcf">Moi r'tourn mon cas'…" Arriv' mitant d'cimin </l>
-        <l xml:lang="rcf">Li n'en pé plis, l'est enrazé la faim ! </l>
-        <l xml:lang="rcf">Devin' quouqu' la manz' nout' z'aigrette </l>
-        <l xml:lang="rcf">Qu'son vantard dans n'son coer y pète ? </l>
-        <l xml:lang="rcf">Li la trouve ein gros l'escargot </l>
-        <l xml:lang="rcf">Et l'aval' comm' ein citt', pour plein-ventre son zabot. </l>
-        <l xml:lang="rcf">Moi razist' là li zouli fille </l>
-        <l xml:lang="rcf">Li mamzell' z'aut' y dit d'famille ; </l>
-        <l xml:lang="rcf">Quand qu' la saison vient pour marier, </l>
-        <l xml:lang="rcf">Z'aut vantard y commence babier. </l>
-        <l xml:lang="rcf">"Moi vé pas zène' homme là son gros nez l'est trop longue, </l>
-        <l xml:lang="rcf">Moi vé pas cé l'aut là, son bouç comment bouç'rongue, </l>
-        <l xml:lang="rcf">Moi vé pas z'aut voisin, avar' comment banian, </l>
-        <l xml:lang="rcf">Li donn'ra pas calèç ni des rob' à volant." </l>
-        <l xml:lang="rcf">Mais qui r'fis' mis' comm' li blancs y raconte </l>
-        <l xml:lang="rcf">Et z'aut' parol' vient parfinir mon conte. </l>
-        <l xml:lang="rcf">Z'aigrett' trop fier finit par souque ein escargot </l>
-        <l xml:lang="rcf">Et mamzell' trop çipéq' épous'ra vié magot.</l>
+          <l xml:lang="rcf">Approç moussié la Gourgu' dans n'lit haut bras d'civrette, </l>
+          <l xml:lang="rcf">L'avait ein trop vantard z'aigrette, </l>
+          <l xml:lang="rcf">Çà l'était fier tout comme ein Paon </l>
+          <l xml:lang="rcf">Pour li n'a point quinq'çôs plaisant ; </l>
+          <l xml:lang="rcf">Quand qu'li voit di l'eau claire et belle </l>
+          <l xml:lang="rcf">Li mir' di dans, li fair' çinill' brinzelle, </l>
+          <l xml:lang="rcf">Li març en tortillant, li navigue au roulis </l>
+          <l xml:lang="rcf">Comment plis d'ein manzell' dans la vill' Saint-Denis. </l>
+          <l xml:lang="rcf">Ein matin li descend, pour fair' voir son visaze, </l>
+          <l xml:lang="rcf">Li s'en va l'étang Saint-André </l>
+          <l xml:lang="rcf">Li' mazin' côté la trouver son badinaze, </l>
+          <l xml:lang="rcf">Qu'li f'ra son l'embarras quand mêm' bon gré, mal gré. </l>
+          <l xml:lang="rcf">Quand qu'li l'approç li bord, bel milets y promène </l>
+          <l xml:lang="rcf">Comm' pour dire à li : bon manzer ! </l>
+          <l xml:lang="rcf">Mais nout' vantard z'aigrett' dit : "çà n'a pas la peine </l>
+          <l xml:lang="rcf">N'a pas encor' l'hèr dézéner." </l>
+          <l xml:lang="rcf">Li pique ein cours' di côté di Bois-Rouze, </l>
+          <l xml:lang="rcf">Son l'appétit y commence gratte à li, </l>
+          <l xml:lang="rcf">La çaler la rend' son patt' rouze, </l>
+          <l xml:lang="rcf">Li l'a r'grett' milets li la vi. </l>
+          <l xml:lang="rcf">Mais n'a plis là. Li voit des loç bien grasse </l>
+          <l xml:lang="rcf">Qui dort tout au bord dans di l'eau. </l>
+          <l xml:lang="rcf">Li l'a commenç fait la grimace : </l>
+          <l xml:lang="rcf">" — Des loç ! manzer canaill' ; moi vé poisson plis beau."</l>
+          <l xml:lang="rcf">Li sorte encor'… son l'estomac cacaille </l>
+          <l xml:lang="rcf">Qu'l'a 'blizé dir : "Courons vite à l'Étang, </l>
+          <l xml:lang="rcf">Manzons, si n'a pas d'aut' ; ça failli loç canaille ; </l>
+          <l xml:lang="rcf">Mon la faim commenç l'est trop grand." </l>
+          <l xml:lang="rcf">Mais loç l'a plonze au fond ; cabots s'il y rencontre </l>
+          <l xml:lang="rcf">Encor' n'a pas beaucoup qui montre. </l>
+          <l xml:lang="rcf">Z'aigrette y prend colèr : "A qu'faire à moi cabot </l>
+          <l xml:lang="rcf">Avec ça gros-ball' là moi bourrer mon zabot ? </l>
+          <l xml:lang="rcf">Autant vaut grinouitt' la rigole, </l>
+          <l xml:lang="rcf">Ou biçiq' à trois sous la bole. </l>
+          <l xml:lang="rcf">Moi r'tourn mon cas'…" Arriv' mitant d'cimin </l>
+          <l xml:lang="rcf">Li n'en pé plis, l'est enrazé la faim ! </l>
+          <l xml:lang="rcf">Devin' quouqu' la manz' nout' z'aigrette </l>
+          <l xml:lang="rcf">Qu'son vantard dans n'son coer y pète ? </l>
+          <l xml:lang="rcf">Li la trouve ein gros l'escargot </l>
+          <l xml:lang="rcf">Et l'aval' comm' ein citt', pour plein-ventre son zabot. </l>
+          <l xml:lang="rcf">Moi razist' là li zouli fille </l>
+          <l xml:lang="rcf">Li mamzell' z'aut' y dit d'famille ; </l>
+          <l xml:lang="rcf">Quand qu' la saison vient pour marier, </l>
+          <l xml:lang="rcf">Z'aut vantard y commence babier. </l>
+          <l xml:lang="rcf">"Moi vé pas zène' homme là son gros nez l'est trop longue, </l>
+          <l xml:lang="rcf">Moi vé pas cé l'aut là, son bouç comment bouç'rongue, </l>
+          <l xml:lang="rcf">Moi vé pas z'aut voisin, avar' comment banian, </l>
+          <l xml:lang="rcf">Li donn'ra pas calèç ni des rob' à volant." </l>
+          <l xml:lang="rcf">Mais qui r'fis' mis' comm' li blancs y raconte </l>
+          <l xml:lang="rcf">Et z'aut' parol' vient parfinir mon conte. </l>
+          <l xml:lang="rcf">Z'aigrett' trop fier finit par souque ein escargot </l>
+          <l xml:lang="rcf">Et mamzell' trop çipéq' épous'ra vié magot.</l>
         </lg>
       </div>
-      <div n="2" type="part">
+      <div n="2" type="chapter">
         <head>L'ANE ET LE PETIT CHIEN </head>
         <lg>
           <l xml:lang="rcf"> Saint' Sizann' çez Bonhomm' Zozet, </l>
@@ -178,7 +182,7 @@
           <l xml:lang="rcf">Mais rotin la coumagne à li.</l>
         </lg>
       </div>
-      <div n="3" type="part">
+      <div n="3" type="chapter">
         <head>LES ANIMAUX MALADES DE LA PESTE </head>
         <lg>
           <l xml:lang="rcf"> Ein bien mauvais malad' l'était 'friç' tout bébête, </l>
@@ -235,11 +239,11 @@
           <l xml:lang="rcf"> Ein fois qu'vous pauvr' diabl' , si vous n'en a kabar, </l>
           <l xml:lang="rcf">Ensemb' man-la zistiç' , fait pas trop vout' vantard ; </l>
           <l xml:lang="rcf">Vous n'aura beau fignoler vout' parole, </l>
-          <l xml:lang="rcf"> Vous l'est trop sir vous va passe à la zeole.</l>          
+          <l xml:lang="rcf"> Vous l'est trop sir vous va passe à la zeole.</l>
         </lg>
 
       </div>
-      <div n="4" type="part">
+      <div n="4" type="chapter">
         <head>LA PECHE DES BICHIQUES </head>
         <lg>
           <l xml:lang="rcf">Bourbon ein bon payés quand même. </l>
@@ -309,11 +313,11 @@
           <l xml:lang="rcf">Merci donc mon bon Dié, merci la nourritire, </l>
           <l xml:lang="rcf">Qu'nous donn' dans Mascarin pour tout' vout' criatire. </l>
           <l xml:lang="rcf">Çaq' fois qu'biçique y monte' , nous doit bénir à vous, </l>
-          <l xml:lang="rcf">Pisque vout' Providençe' sonze à nourrir à nous.</l>          
+          <l xml:lang="rcf">Pisque vout' Providençe' sonze à nourrir à nous.</l>
         </lg>
 
       </div>
-      <div n="5" type="part">
+      <div n="5" type="chapter">
         <head>LA CAILLE ENSEMBL' SON PETITS </head>
         <lg>
           <l xml:lang="rcf"> Ein maman caill' dans n' foutac Saint' Sizanne </l>
@@ -355,11 +359,11 @@
           <l xml:lang="rcf">Vous n'a quéq'çôs' pressé pour faire? </l>
           <l xml:lang="rcf">Fais vit'ment vous-mêm' vout' z'affaire. </l>
           <l xml:lang="rcf">Si vous y rôd' parens, si vous y fier z'amis, </l>
-          <l xml:lang="rcf">Vous va s'trouve enguézé, vous va rester camis.</l>          
+          <l xml:lang="rcf">Vous va s'trouve enguézé, vous va rester camis.</l>
         </lg>
 
       </div>
-      <div n="6" type="part">
+      <div n="6" type="chapter">
         <head>LA CHUTE D'ICARE </head>
         <lg>
           <l xml:lang="rcf"> Moi dir' z'histoir'… N'avait in' fois, </l>
@@ -419,11 +423,11 @@
           <l xml:lang="rcf">Dans la mer l'a touff'à forç' boire, </l>
           <l xml:lang="rcf">L'a néyé…çà mêm' mon z'histoire. </l>
           <l xml:lang="rcf"> Li cont' là li fait pour z'enfants </l>
-          <l xml:lang="rcf">Çà qui n'acout' pas z'aut' parents.</l>          
+          <l xml:lang="rcf">Çà qui n'acout' pas z'aut' parents.</l>
         </lg>
 
       </div>
-      <div n="7" type="part">
+      <div n="7" type="chapter">
         <head xml:lang="rcf">LE JUGEMENT DE PARIS </head>
         <lg>
           <l xml:lang="rcf"> D'aut' fois, rois n'a pas 'tait faraud, </l>
@@ -530,7 +534,7 @@
           <l xml:lang="rcf">Li femm's rôde encor sipité.</l>
         </lg>
       </div>
-      <div n="8" type="part">
+      <div n="8" type="chapter">
         <head>LA LAITIERE ET LE POT AU LAIT </head>
         <lg>
           <l xml:lang="rcf"> La vaç mon voisin Nicolas, </l>
@@ -611,11 +615,11 @@
           <l xml:lang="rcf">Toinett' l'a pèr, l'a bien raison. </l>
           <l xml:lang="rcf">Prends gard', voisin' , li coups de bâton, </l>
           <l xml:lang="rcf">Vout' n'homm' quand qu'son fangouni monte, </l>
-          <l xml:lang="rcf">N'accout' pas ça qui rôd'li conte.</l>          
+          <l xml:lang="rcf">N'accout' pas ça qui rôd'li conte.</l>
         </lg>
 
       </div>
-      <div n="9" type="part">
+      <div n="9" type="chapter">
         <head>LI LIEVRE ENSEMB' MAN-TORTI </head>
         <lg>
           <l xml:lang="rcf"> Ein zour maman Torti demande à Lièvr' faraud </l>
@@ -659,11 +663,11 @@
           <l xml:lang="rcf">Mais laquell va gaigner ? Tout mavouz' sans cervelle, </l>
           <l xml:lang="rcf">Ç'à mêm' va gaign' couronn' ? N'a point, va gagn' miguèle </l>
           <l xml:lang="rcf">Zécoliers raisonnab' çà qu'blancs y nomm' piocèrs, </l>
-          <l xml:lang="rcf">Va racler tout li prix…Couraze aux travaillèrs.</l>          
+          <l xml:lang="rcf">Va racler tout li prix…Couraze aux travaillèrs.</l>
         </lg>
 
       </div>
-      <div n="10" type="part">
+      <div n="10" type="chapter">
         <head>LE MEUNIER, SON FILS ET L'ANE </head>
         <lg>
           <l xml:lang="rcf"> Moin l'entendi conté (sait pas trop qué l'endroit, </l>
@@ -743,11 +747,11 @@
           <l xml:lang="rcf">"Appell' à moi bourriq', appell' à moi milet, </l>
           <l xml:lang="rcf">"Bourriq' n'en a bon têt' , comm' mon famill' moi fait, </l>
           <l xml:lang="rcf">"Z'aut' montre à moi siprit, avant moi l'était bête, </l>
-          <l xml:lang="rcf">"Azourd'hi qu'moi bourriq' moi va faire à mon tête."</l>          
+          <l xml:lang="rcf">"Azourd'hi qu'moi bourriq' moi va faire à mon tête."</l>
         </lg>
 
       </div>
-      <div n="11" type="part">
+      <div n="11" type="chapter">
         <head>LES AVENTURES DE PHAETON </head>
         <lg>
           <l xml:lang="rcf"> Soleil l'était dans son maison, </l>
@@ -827,11 +831,11 @@
           <l xml:lang="rcf">Mais comm' z'aut' connaît pas la route, </l>
           <l xml:lang="rcf">Z'aut' y calbit' , y fait banq'route : </l>
           <l xml:lang="rcf">Çà fait voir faut pas essayer </l>
-          <l xml:lang="rcf">Ein quéq'çôs' n'est pas not' métier.</l>          
+          <l xml:lang="rcf">Ein quéq'çôs' n'est pas not' métier.</l>
         </lg>
 
       </div>
-      <div n="12" type="part">
+      <div n="12" type="chapter">
         <head>LE RAT DE VILLE ET LE RAT DES CHAMPS </head>
         <lg>
           <l xml:lang="rcf"> Salaz' , dans n'la grande Ilette, </l>
@@ -944,11 +948,11 @@
           <l xml:lang="rcf">"La grande Ilette l'est plis meillère ; </l>
           <l xml:lang="rcf">"Moi s'en va r'zoindre' mon brèd' lastron, </l>
           <l xml:lang="rcf">"Moi n'acout'ra plis l'ambition, </l>
-          <l xml:lang="rcf">"Vaut mié manzer gros balle et dort la nouit entière.</l>          
+          <l xml:lang="rcf">"Vaut mié manzer gros balle et dort la nouit entière.</l>
         </lg>
 
       </div>
-      <div n="13" type="part">
+      <div n="13" type="chapter">
         <head>LE RENARD ET LA CIGOGNE </head>
         <lg>
           <l xml:lang="rcf">(Li cien ensemb' z'aigrette) </l>
@@ -993,11 +997,11 @@
           <l xml:lang="rcf">Quand qu'z'aut' l'a séparé , n'a pas 'tait bons amis. </l>
           <l xml:lang="rcf">Li cien, li ventr'plat, tout camis, </l>
           <l xml:lang="rcf">La r'tourn' la cas' son maîtr' , son qué rentr' son patte." </l>
-          <l xml:lang="rcf"> Vous donne à moi manioc, moi rendre à vous batate.</l>          
+          <l xml:lang="rcf"> Vous donne à moi manioc, moi rendre à vous batate.</l>
         </lg>
 
       </div>
-      <div n="14" type="part">
+      <div n="14" type="chapter">
         <head>LE RENARD ENSEMBL' LI BOUC </head>
         <lg>
           <l xml:lang="rcf"> Pitit renard fité l'était faire ein voyage, </l>
@@ -1045,11 +1049,11 @@
           <l xml:lang="rcf">"Z'ami, siquise à moi, n'en a beaucoup z'affaire, </l>
           <l xml:lang="rcf">"Salam, moi quitte à vous darrière ; </l>
           <l xml:lang="rcf">"Mais commenç plis quéq'çôs' vous n'a pas sir finir, </l>
-          <l xml:lang="rcf">"Descends plis dans ein plaç vous n'a pas si sortir.</l>          
+          <l xml:lang="rcf">"Descends plis dans ein plaç vous n'a pas si sortir.</l>
         </lg>
 
       </div>
-      <div n="15" type="part">
+      <div n="15" type="chapter">
         <head>LE REQUIN </head>
         <lg>
           <l xml:lang="rcf"> A proç' li cap bon l'Espérance, </l>
@@ -1087,11 +1091,11 @@
           <l xml:lang="rcf">Dans n'mât z'aut' y clout' son mâçoire. </l>
           <l xml:lang="rcf">Ça même la finis mon z'histoire. </l>
           <l xml:lang="rcf"> Fais pas comment réquin, z'ami, </l>
-          <l xml:lang="rcf">Son gourmand la fait mort à li.</l>          
+          <l xml:lang="rcf">Son gourmand la fait mort à li.</l>
         </lg>
 
       </div>
-      <div n="16" type="part">
+      <div n="16" type="chapter">
         <head>LA TORTUE ET LES DEUX CANARDS </head>
         <lg>
           <l xml:lang="rcf"> Moi tire ein cont' pays Bourbon. </l>
@@ -1151,7 +1155,7 @@
           <l xml:lang="rcf"> Zens qui trop grand parler, acout' siprit mon conte ; </l>
           <l xml:lang="rcf"> Nout' la langue y ramasse malhèr ensemb' la honte ; </l>
           <l xml:lang="rcf">Çaud la langu' li zist' pour perdi ; </l>
-          <l xml:lang="rcf">Bli pas li cont' maman torti.</l>          
+          <l xml:lang="rcf">Bli pas li cont' maman torti.</l>
         </lg>
       </div>
     </body>

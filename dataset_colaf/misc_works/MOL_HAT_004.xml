@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader>
          <fileDesc>
@@ -36,7 +35,7 @@
                   <ptr target="http://creoles.free.fr/Cours/proclam2.htm"/>
                   <title>Proclamations de Leclerc</title>
                   <author>Charles Victoire Emmanuel Leclerc</author>
-                  <publisher></publisher>
+                  <publisher/>
                   <date when="1802"/>
                </bibl>
                <bibl type="CorpusSource">
@@ -60,7 +59,9 @@
             <textClass>
                <keywords>
                   <term type="supergenre" rend="nonfiction">Nonfiction</term>
-                  <term type="genre" rend="spoken-intended">Spoken-intended</term>
+                  <term type="genre" rend="nonfiction-administrative">Administrative</term>
+                  <term type="motclef" rend="nonfiction-administrative-declaration">Declaration</term>
+                  <term type="motclef" rend="spoken-intended">Spoken-intended</term>
                </keywords>
             </textClass>
          </profileDesc>
@@ -70,7 +71,7 @@
       </teiHeader>
   <text>
       <body>
-         <div type="part">
+         <div>
             <head xml:lang="hat">
                Proclamation là, li tiré dans registe Consuls la Répiblique
                Paris, 17 Brimer, an 10 Répiblique francé, yon et indivisible.
@@ -94,7 +95,7 @@
             <p xml:lang="hat">LIBERTÉ	EGALITÉ </p>
                           
          </div>
-         <div type="part">
+         <div>
             <head xml:lang="hat">
                PROCLAMATION
                A bord de l'Océan, Rade du Cap, le... Pluviose, an 10.

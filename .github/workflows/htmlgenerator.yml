@@ -1,0 +1,38 @@
+name: HTMLgenerator
+
+on:
+  push:
+    branches:
+      - visualisationHTML
+      - main
+
+jobs:
+  createFile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+
+      - name: Set up Python (if you use Python for scripts)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install lxml
+      - name: Create HTML pages
+        run: |
+          python3 XML2HTML.py
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN }}

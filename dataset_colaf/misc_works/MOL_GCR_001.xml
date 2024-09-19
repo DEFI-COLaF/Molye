@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -68,7 +67,8 @@
       <textClass>
         <keywords>
           <term type="supergenre" rend="fiction">Fiction</term>
-          <term type="genre" rend="fiction-prose-novel">Novel</term>
+          <term type="genre" rend="fiction-prose">Prose</term>
+          <term type="motclef" rend="fiction-prose-novel">Novel</term>
         </keywords>
       </textClass>
     </profileDesc>

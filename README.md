@@ -10,3 +10,5 @@ where we store the full documents used to create the Molyé timeline. The datase
 which is mainly a by-product of the compilation procedure varying according to the type of work.
 
 To find examples of a specific language, try searching xml:lang="[lang-code]". For convenience we have also included some pre-compiled subcorpora in the subcorpora folder. To access them, first go to the subfolder for the relevant time period and then find the file with the correct lang-code.
+
+The HTML version of the dataset is available [here](https://defi-colaf.github.io/Molye/dataset_HTML/index.html).

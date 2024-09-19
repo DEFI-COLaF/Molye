@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -62,7 +61,8 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
-               <term type="genre" rend="nonfiction-press">Press</term>
+               <term type="genre" rend="nonfiction-academic">Academic</term>
+               <term type="motclef" rend="nonfiction-academic-book">Book</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -72,6 +72,7 @@
    </teiHeader>
   <text>
       <body>
+         <div>
          <p xml:lang="fra-deu">
             <pb n="310"/>
             Ly fiens d'aprentre avec in crant cha-
@@ -111,6 +112,7 @@
             tir, mais fenir promptement foir moi,
             que ly attendre à vous afec in crant im-
             patiemment.</p>
+            </div>
       </body>
   </text>
 </TEI>

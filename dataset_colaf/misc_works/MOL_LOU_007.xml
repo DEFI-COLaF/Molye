@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -70,7 +69,8 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
-               <term type="genre" rend="nonfiction-press">Press</term>
+               <term type="genre" rend="nonfiction-academic">Nonfiction-academic</term>
+               <term type="genre" rend="nonfiction-academic-book">Book</term>
             </keywords>
          </textClass>
       </profileDesc>

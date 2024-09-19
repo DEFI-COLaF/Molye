@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -79,8 +78,8 @@
   </teiHeader>
 <text>
   <body>
-    <div type="part" xml:lang="fra-ang">
-      <lg n="1">
+    <div>
+      <lg>
         <l xml:lang="fra-ang">Puisque mon gaich et tout mon pontement</l>
         <l xml:lang="fra-ang">Laty rompre voy bin que ma col cas</l>
         <l xml:lang="fra-ang">Moy l'aury fait ung belle testament</l>
@@ -90,7 +89,7 @@
         <l xml:lang="fra-ang">Preny papier, crivy cela moy pas</l>
         <l xml:lang="fra-ang">Ma cueur ja pens mory tant l’esty fad.</l>
       </lg>
-      <lg n="2">
+      <lg>
         <l xml:lang="fra-ang">Item premier a Diou et Nostre Dam</l>
         <l xml:lang="fra-ang">Sainct Michel l'Anch et Sainct Trignen de Cos</l>
         <l xml:lang="fra-ang">Moy recommand tout entier mon povre am</l>
@@ -100,7 +99,7 @@
         <l xml:lang="fra-ang">Et la me couch tout du long de ma dos,</l>
         <l xml:lang="fra-ang">Bin a mon ais comme sera de guis.</l>
       </lg>
-      <lg n="3">
+      <lg>
         <l xml:lang="fra-ang">Mon secuteur vostre vous me bon prest</l>
         <l xml:lang="fra-ang">Chanty de mes tout la jour hardement,</l>
         <l xml:lang="fra-ang">Quand quelque chos de bon couraich me pres</l>
@@ -110,7 +109,7 @@
         <l xml:lang="fra-ang">Quarante ens plus vault ung foys vraiement</l>
         <l xml:lang="fra-ang">Moy donne vous avecque mon perons.</l>
       </lg>
-      <lg n="4">
+      <lg>
         <l xml:lang="fra-ang">Mon brigandin, gratebras et sallad,</l>
         <l xml:lang="fra-ang">Dag, javrelin, albard et gorgery,</l>
         <l xml:lang="fra-ang">Donne a ma paich sert moy sain et malad</l>
@@ -120,7 +119,7 @@
         <l xml:lang="fra-ang">Mais il a ty ung grand curagery</l>
         <l xml:lang="fra-ang">Menge farsin par tout jusquez son gorch.</l>
       </lg>
-      <lg n="5">
+      <lg>
         <l xml:lang="fra-ang">Moy les aussi une bell heritaich</l>
         <l xml:lang="fra-ang">A mon parens, barbis, beuf, vach et veaulx</l>
         <l xml:lang="fra-ang">Fait comme il veult entre luy ung partaich</l>
@@ -130,7 +129,7 @@
         <l xml:lang="fra-ang">Tappissery, vais d'argent et joiaulx,</l>
         <l xml:lang="fra-ang">Moy donne tout, laty bin revestus.</l>
       </lg>
-      <lg n="6">
+      <lg>
         <l xml:lang="fra-ang">Item j'ordon j'auri six torch de chir,</l>
         <l xml:lang="fra-ang">Deux gros chandel acusson de mon arm,</l>
         <l xml:lang="fra-ang">C'est par amour le bon roy nostre sir</l>
@@ -140,7 +139,7 @@
         <l xml:lang="fra-ang">Pour monstrere que j'aty bon gen d'arm</l>
         <l xml:lang="fra-ang">Dessus mon fos planty une tandard.</l>
       </lg>
-      <lg n="7">
+      <lg>
         <l xml:lang="fra-ang">Moy ne veult moy sonnery me tempest</l>
         <l xml:lang="fra-ang">La choch il est in bones ung trop grant tail</l>
         <l xml:lang="fra-ang">Mais je jorry sonner yn grand trompet</l>
@@ -150,7 +149,7 @@
         <l xml:lang="fra-ang">Ploury bin fort ou de tot ou de tail</l>
         <l xml:lang="fra-ang">Ma paich et luy faity trestous la deul.</l>
       </lg>
-      <lg n="8">
+      <lg>
         <l xml:lang="fra-ang">Tout bon Cossoys je cuid se trouvery</l>
         <l xml:lang="fra-ang">Myner ma corps avec son sepultur ;</l>
         <l xml:lang="fra-ang">Bel ocqueton carchy d'orfavery</l>
@@ -160,7 +159,7 @@
         <l xml:lang="fra-ang">Se my parly a Diou par avantur</l>
         <l xml:lang="fra-ang">Moy pry qui vien trestout en paradis.</l>
       </lg>
-      <lg n="9">
+      <lg>
         <l xml:lang="fra-ang">Couury dity une belle raison</l>
         <l xml:lang="fra-ang">Tout continent que moy vient à lesglis</l>
         <l xml:lang="fra-ang">Mess et vagil, psaultier et crie l’oyson</l>
@@ -170,7 +169,7 @@
         <l xml:lang="fra-ang">Moy donne à eulx ung bouteil fort exquis</l>
         <l xml:lang="fra-ang">Tout plain pocras pour chante labara.</l>
       </lg>
-      <lg n="10">
+      <lg>
         <l xml:lang="fra-ang">Item moy veult qu'on fait ung beau donné</l>
         <l xml:lang="fra-ang">Vin plain de pot a cule de potaich</l>
         <l xml:lang="fra-ang">A court ouvert mason bin bandonneé</l>
@@ -180,7 +179,7 @@
         <l xml:lang="fra-ang">Tot la livre par la main de ma paich</l>
         <l xml:lang="fra-ang">A l'ôpital pour vestir la coquins.</l>
       </lg>
-      <lg n="11">
+      <lg>
         <l xml:lang="fra-ang">Ainsi moy pas mon testamen sans mocq,</l>
         <l xml:lang="fra-ang">Et ne vouly qu'il a point de rabat;</l>
         <l xml:lang="fra-ang">Tout testement d’ aultreffoys je révocq,</l>
@@ -190,7 +189,7 @@
         <l xml:lang="fra-ang">Quinz en fevrier quand y couri pour dat</l>
         <l xml:lang="fra-ang">Mil quatre cens quatre vingt xvj* et traiz.</l>
       </lg>
-      <lg n="12">
+      <lg>
         <l xml:lang="fra-ang">Mon terrement laty bin ordonné</l>
         <l xml:lang="fra-ang">N'atendre plus vivre el mon, jour ny heur</l>
         <l xml:lang="fra-ang">Puysque fortun tient moy pour bandonné</l>
@@ -200,7 +199,7 @@
         <l xml:lang="fra-ang">Ja prens vault mieulx pour pontement meilleur</l>
         <l xml:lang="fra-ang">Te rens à Diou da bin, da corps et d’am</l>
       </lg>
-      <lg n="13">
+      <lg>
         <l xml:lang="fra-ang">Adieu le prins gorrieux et mon mignon,</l>
         <l xml:lang="fra-ang">Adieu mon dam, adiou mon marmouzel,</l>
         <l xml:lang="fra-ang">Adieu l’archiez, capetain, compaignon,</l>
@@ -210,7 +209,7 @@
         <l xml:lang="fra-ang"> Adiou trestout le bon vii et castel,</l>
         <l xml:lang="fra-ang">Adieau fourrieux, mon logeon est en terr.</l>
       </lg>
-      <lg n="14">
+      <lg>
         <l xml:lang="fra-ang">Adiou par tout nobe royaulm de Frans</l>
         <l xml:lang="fra-ang">Adiou comman le povre pals de Cos</l>
         <l xml:lang="fra-ang">Moy vient tantost prendre ma corps par trans</l>
@@ -220,7 +219,7 @@
         <l xml:lang="fra-ang">Tout vis vif l’autre costé mon fos</l>
         <l xml:lang="fra-ang">Contry ung mur crivoy moy cest pitaph :</l>
       </lg>
-      <lg n="15">
+      <lg>
         <l xml:lang="fra-ang">L’Epitaph</l>
         <l xml:lang="fra-ang">Le fleich de mort qui tout horn desnatur,</l>
         <l xml:lang="fra-ang">Dont sa vivant une foys fait hommaich</l>
@@ -231,7 +230,7 @@
         <l xml:lang="fra-ang">Dont ung chandel encontre quelque ymaich :</l>
         <l xml:lang="fra-ang">Pry Dieu trestous pren mercy de son am.</l>
       </lg>
-      <lg n="16">
+      <lg>
         <l xml:lang="fra-ang">Belle, plaisant, mignonne pourtraictur</l>
         <l xml:lang="fra-ang">Ault il estoit, gorriere de corsaich</l>
         <l xml:lang="fra-ang">Vous dit que e'est droit ymaich en painctur</l>
@@ -241,7 +240,7 @@
         <l xml:lang="fra-ang">Sur tot Cossoys ly saury bin Pusaich.</l>
         <l xml:lang="fra-ang">Pry Dieu trestout pren mercy de son am.</l>
       </lg>
-      <lg n="17">
+      <lg>
         <l xml:lang="fra-ang">Oncq son vivant fit tort à creatur</l>
         <l xml:lang="fra-ang">Dessoubz la champs pour vivre davantaich</l>
         <l xml:lang="fra-ang">Tant seulement s'il trouvry davantur</l>
@@ -251,7 +250,7 @@
         <l xml:lang="fra-ang">Sept piedz de terr Pa choisy pour partaich</l>
         <l xml:lang="fra-ang">Pry Dieu trestout pren mercy de son am.</l>
       </lg>
-      <lg n="18">
+      <lg>
         <l xml:lang="fra-ang">Prins, Jehan de Cos demory pour hostaich</l>
         <l xml:lang="fra-ang">Vaquez la vers que tout son corps entam</l>
         <l xml:lang="fra-ang">A fin qu'il ait à sa propre heritaich</l>

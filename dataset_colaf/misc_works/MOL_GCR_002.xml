@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -36,7 +35,7 @@
                <ptr target="http://creoles.free.fr/Cours/proclam3.htm"/>
                <title>Proclamation de Burnel</title>
                <author>Étienne Laurent Pierre Burnel</author>
-               <publisher></publisher>
+               <publisher/>
                <date when="1799"/>
             </bibl>
             <bibl type="CorpusSource">
@@ -60,7 +59,9 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="nonfiction">Nonfiction</term>
-               <term type="genre" rend="spoken-intended">Spoken-intended</term>
+               <term type="genre" rend="nonfiction-administrative">Administrative</term>
+               <term type="motclef" rend="nonfiction-administrative-declaration">Declaration</term>
+               <term type="motclef" rend="spoken-intended">Spoken-intended</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -70,6 +71,7 @@
    </teiHeader>
   <text>
       <body>
+         <div>
          <head xml:lang="gcr">
             Aux Citoyens qui dévini libres dépis loi di seze Pluviose,
             dideuzième année di la République.
@@ -107,7 +109,7 @@
          <p>
             Le Secrétaire général,
             Signé : LEGRAND.
-         </p>
+         </p></div>
       </body>
   </text>
 </TEI>

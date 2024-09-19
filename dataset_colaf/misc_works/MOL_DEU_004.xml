@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../metadata/TEI/out/ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -68,7 +68,8 @@
          <textClass>
             <keywords>
                <term type="supergenre" rend="fiction">Fiction</term>
-               <term type="genre" rend="fiction-prose-novel">Novel</term>
+               <term type="genre" rend="fiction-prose">Fiction Prose</term>
+               <term type="motclef" rend="fiction-prose-novel">Novel</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -78,7 +79,8 @@
    </teiHeader>
   <text>
       <body>
-         <p >
+         <div>
+         <p>
             <pb n="205"/>
             ...quelque chose laide, je dy
             que c'estoit vn petit garçon laid cõme vn
@@ -113,6 +115,7 @@
             &amp; ie luy dis, laissez moy entre ie suis
             Francion.
          </p>
+         </div>
       </body>
   </text>
 </TEI>

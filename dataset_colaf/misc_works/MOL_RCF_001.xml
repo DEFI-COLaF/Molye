@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -68,9 +67,9 @@
       </langUsage>
       <textClass>
         <keywords>
-          <term type="supergenre" rend="fiction">Fiction</term>
-          <term type="genre" rend="fiction-bible">Bible</term>
-          <term type="genre" rend="spoken-intended">Spoken-intended</term>
+          <term type="supergenre" rend="nonfiction">Nonfiction</term>
+          <term type="genre" rend="nonfiction--religious">religious</term>
+            <term type="motclef" rend="spoken-intended">Spoken-intended</term>
         </keywords>
       </textClass>
     </profileDesc>

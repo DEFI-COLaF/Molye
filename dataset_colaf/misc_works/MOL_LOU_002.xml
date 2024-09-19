@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -623,7 +622,7 @@
         <p><s xml:lang="lou">— Mais, mon maître, moué y fais le souper pou li,</s></p>
         <p><s xml:lang="lou">mon la marmite y es au feu, personne pou veillé li.</s></p>
         <p>— Au diable ta marmite et toi aussi. Va où je te dis. </p>
-        <p></p>
+        <p/>
         <p>
           Et la négresse s’en alla en grommelant entre ses dents :
           <s xml:lang="lou"> — Mé qué y a donc, le docteur, y fâché contre son lorloge, contre le soupé, contre moué, contre tout l’y monde, gros la tempête y va vinir !</s> 

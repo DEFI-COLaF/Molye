@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -66,20 +65,21 @@
                <date when="1671"/>
             </language>
             <language ident="eng">
-               <idno type="langue">met-fr</idno>
+               <idno type="langue">eng</idno>
                <idno type="script">Latin</idno>
                <name>English</name>
             </language>
          </langUsage>
          <textClass>
             <keywords>
-               <term rend="spoken" type="supergenre">Fiction</term>
-               <term rend="spoken-script" type="genre">fiction-drama</term>
+               <term rend="spoken" type="supergenre">Spoken</term>
+               <term rend="spoken-transcript" type="genre">Transcript</term>
+               <term rend="nonfiction" type="supergenre">NonFiction</term>
             </keywords>
          </textClass>
          <particDesc>
             <listPerson>
-               <person xml:id="André">
+               <person xml:id="Andr&#xE9;">
                   <persName>André negre du Sieur Desforges</persName>
                </person>
                <person xml:id="Pierre_la_Rosiere">
@@ -98,36 +98,38 @@
    </teiHeader>
   <text>
       <body>
+         <div type="liminal">
          <head>French, Martinique, 1671</head>
          <p xml:lang="eng">These texts give the witnesses of the slaves who claim to have seen a merman near the islet of Diamant, off Martinique's southern coast in 1671.
             They were presented by Guy Carden, Morris Goodman, Rebecca Posner and William Stewart at the 1990 Meeting of the Society for Pidgin and Creole Linguistics, on January 5th, 1991. 
             No info available on the speakers, except that the second one was about 22 or 23 years old.</p>
-         
-         
-         <sp who="André" xml:lang="gcf">
+         </div>
+         <div>
+         <sp who="#Andr&#xE9;">
             <speaker>André negre du Sieur Desforges</speaker>
-            <p>J'ai vu bete comme homme dans lamer, cheveux longs comme Epaules, un peu gris, 
+            <p xml:lang="gcf">J'ai vu bete comme homme dans lamer, cheveux longs comme Epaules, un peu gris, 
                barbe grise, large comme mains, pardevant le Corps tout demême comme homme, le Col 
                blanc, poils gris sus le sein, laqueue tout de même comme Carangue, li vini trois fois sur 
                l'eau et gardez nous tous avec gros yeux, moi tini peur li: mouchié faire yon autre negre 
                courir après li pour prendre li avec [ligne?] li caché dans lamer et puis moi pas voir li.</p>
          </sp>
          
-         <sp who="Pierre_la_Rosiere" xml:lang="gcf">
+         <sp who="#Pierre_la_Rosiere">
             <speaker>Pierre negre du Né noel di la Rosiere</speaker>
-            <p>Moi mirer un homme en mer du Diamant, moi voir li trois fois, li tini assés bon visage et
+            <p xml:lang="gcf">Moi mirer un homme en mer du Diamant, moi voir li trois fois, li tini assés bon visage et
                Zyeux comme monde, li tini grande barbe grise, li sorti hors de l'eau, regardé nous tous, 
                moi prendre ligne et Zain pour prendre li, moi teni petit peur; non pas grand, et puis li caché 
                li, li tourné pour garder nous enpartant, li tini queue comme poisson.</p>
          </sp>
          
-         <sp who="Pierre_legras" xml:lang="gcf">
+         <sp who="#Pierre_legras">
             <speaker>Pierre negre du Sr. legras</speaker>
-            <p>moi miré bête qui tini Zyeux, tini barbe, tini mains, tini Zépaules tout comme homme, tini
+            <p xml:lang="gcf">moi miré bête qui tini Zyeux, tini barbe, tini mains, tini Zépaules tout comme homme, tini
                cheveux et barbe gris, noir et puis blanc, moi na pas miré bas li parce li té dans diau, li 
                sembe pourtant poisson moi té tini peur bete là manger monde, li regardé plusieurs fois, 
                li allé devant savanne, puis li caché li dans diau, puis moi pas voir li d'avantage.</p>
          </sp>
+         </div>
       </body>
   </text>
 </TEI>

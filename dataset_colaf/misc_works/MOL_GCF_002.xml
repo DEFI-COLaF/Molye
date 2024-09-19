@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -68,13 +67,14 @@
          </langUsage>
          <textClass>
             <keywords>
-               <term rend="spoken" type="supergenre">Fiction</term>
-               <term rend="spoken-script" type="genre">fiction-drama</term>
+               <term rend="spoken" type="supergenre">Spoken</term>
+               <term rend="spoken-transcript" type="genre">Transcript</term>
+               <term rend="nonfiction" type="supergenre">NonFiction</term>
             </keywords>
          </textClass>
          <particDesc>
             <listPerson>
-               <person xml:id="André">
+               <person xml:id="Andr&#xE9;">
                   <persName>André negre du Sieur Desforges</persName>
                </person>
                <person xml:id="Pierre_la_Rosiere">
@@ -93,10 +93,10 @@
    </teiHeader>
    <text>
       <body>
-         
-         <sp who="André" xml:lang="gcf">
+         <div>
+         <sp who="#Andr&#xE9;">
             <speaker>André negre du Sieur Desforges</speaker>
-            <p>
+            <p xml:lang="gcf">
                J'ai vû bête faite
                comme homme dans la mer ; cheveux
                longs , épaules , un poil gris ; bar-
@@ -113,9 +113,9 @@
             </p>
          </sp>
          
-         <sp who="Pierre_la_Rosiere" xml:lang="gcf">
+         <sp who="#Pierre_la_Rosiere">
             <speaker>Pierre negre du Né noel di la Rosiere</speaker>
-            <p>
+            <p xml:lang="gcf">
                moi miré un homme en mer du
                Diamant , moi miré lui trois fois , lui
                teny tête;bon viſage de ly comme mon-
@@ -130,9 +130,9 @@
             </p>
          </sp>
          
-         <sp who="Pierre_legras" xml:lang="gcf">
+         <sp who="#Pierre_legras">
             <speaker>Pierre negre du Sr. legras</speaker>
-            <p>
+            <p xml:lang="gcf">
                Moy miré bête , lui teny yeux ,
                teny barbe , teny mains , teny épaules
                tout comme homme , teny cheveux &amp;
@@ -146,6 +146,7 @@
                lui d'avantage
             </p>
          </sp>
+         </div>
       </body>
    </text>
 </TEI>
