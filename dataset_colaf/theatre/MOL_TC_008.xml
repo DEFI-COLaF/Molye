@@ -2,7 +2,6 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<idno>MOL_TC_008</idno>
 <title type="main">LES FILLES ERRANTES, OU LES INTRIGUES DES HÔTELLERIES, COMÉDIE EN TROIS ACTES</title>
 <title type="collection">Moliyé</title>
 <author>REGNARD, Jean-François (1655-1709)</author>
@@ -31,7 +30,7 @@
 </principal>
 <funder>Inria</funder>
 </titleStmt>
-<publicationStmt>
+    <publicationStmt><idno>MOL_TC_008</idno>
 <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
 <date when="2024-05-30"/>
 <availability>

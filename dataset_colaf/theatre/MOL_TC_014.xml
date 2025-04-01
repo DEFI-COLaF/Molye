@@ -2,7 +2,6 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <idno>MOL_TC_014</idno>
                 <title type="main">LES EMPIRIQUES, COMÉDIE EN TROIS ACTES ET EN PROSE.</title>
                 <title type="collection">Moliyé</title>
                 <author>David-Augustin de BRUEYS (1640-1723)</author>
@@ -32,6 +31,7 @@
                 <funder>Inria</funder>
             </titleStmt>
             <publicationStmt>
+                <idno>MOL_TC_014</idno>
                 <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de
                     France (COLaF)</publisher>
                 <date when="2024-05-30"/>

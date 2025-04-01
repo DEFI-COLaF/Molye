@@ -2,7 +2,6 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <idno>MOL_TC_001</idno>
                 <title type="main">DON JUAN ou LE FESTIN DE PIERRE, COMÉDIE </title>
                 <title type="collection">Molyé</title>
                 <author>MOLIERE, Jean-Baptiste Posquelin dit (1622-1673)</author>
@@ -32,6 +31,7 @@
                 <funder>Inria</funder>
             </titleStmt>
             <publicationStmt>
+                <idno>MOL_TC_001</idno>
                 <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de
                     France (COLaF)</publisher>
                 <date when="2024-05-30"/>

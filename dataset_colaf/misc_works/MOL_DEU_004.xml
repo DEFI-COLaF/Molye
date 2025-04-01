@@ -3,7 +3,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <idno>MOL_DEU_004</idno>
             <title type="main">L' histoire comique de Francion</title>
             <title type="collection">Molyé</title>
             <author>Charles Sorel</author>
@@ -25,6 +24,7 @@
             <funder>Inria</funder>
          </titleStmt>
          <publicationStmt>
+            <idno>MOL_DEU_004</idno>
             <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
             <date when="2024-05-30"/>
             <availability>

@@ -2,7 +2,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <idno>MOL_NLD_004</idno>
         <title type="main">Pitche</title>
         <title type="collection">Molyé</title>
         <author>Jules Watteuw</author>
@@ -32,6 +31,7 @@
         <funder>Inria</funder>
       </titleStmt>
       <publicationStmt>
+        <idno>MOL_NLD_004</idno>
         <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
         <date when="2024-05-30"/>
         <availability>

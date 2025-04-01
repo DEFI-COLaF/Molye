@@ -2,7 +2,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <idno>MOL_ANG_002</idno>
             <title type="main"> Testament d'vn Escossois</title>
             <title type="collection">Molyé</title>
             <author>Anonymous</author>
@@ -24,6 +23,7 @@
             <funder>Inria</funder>
          </titleStmt>
          <publicationStmt>
+            <idno>MOL_ANG_002</idno>
             <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
             <date when="2024-05-30"/>
             <availability>
