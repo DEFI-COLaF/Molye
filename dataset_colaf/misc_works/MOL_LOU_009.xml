@@ -3,7 +3,6 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <idno>MOL_LOU_009</idno>
             <title type="main">Trial of CHARLOT dit Kakaracou</title>
             <title type="collection">Molyé</title>
             <author>Superior Council of New Orleans</author>
@@ -33,6 +32,7 @@
             <funder>Inria</funder>
          </titleStmt>
          <publicationStmt>
+            <idno>MOL_LOU_009</idno>
             <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de France (COLaF)</publisher>
             <date when="2024-05-30"/>
             <availability>

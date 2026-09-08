@@ -3,7 +3,6 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <idno>MOL_TC_003</idno>
                 <title type="main">MONSIEUR DE POURCEAUGNAC, COMÉDIE-BALLET.</title>
                 <title type="collection">Moliyé</title>
                 <author>MOLIERE, Jean-Baptiste Poquelin dit (1622-1673)</author>
@@ -33,6 +32,7 @@
                 <funder>Inria</funder>
             </titleStmt>
             <publicationStmt>
+                <idno>MOL_TC_003</idno>
                 <publisher ref="https://colaf.huma-num.fr">Corpus et Outils pour les Langues de
                     France (COLaF)</publisher>
                 <date when="2024-05-30"/>
