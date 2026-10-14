@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -72,99 +73,112 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-05-30" who="#RDENT">Génération du document</change>
+      <change when="2026-10-14" who="#RDENT">Correction du document</change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="fra-nld">
     <body>
       <div n="1">
-        
         <head>Poutche</head>
         <lg xml:lang="fra-nld">
-        <l xml:lang="fra-nld">Accoute un fois : mo y soldate</l>
-        <l xml:lang="fra-nld">Dans d' régiment de y guernate :</l>
-        <l xml:lang="fra-nld">Dri companie, vir bataïon,</l>
-        <l xml:lang="fra-nld">Qu' ill' est Bruxell' à garnison.</l>
-        <l xml:lang="fra-nld">Un' zour que moi, en train d'astique</l>
-        <l xml:lang="fra-nld">Ma feurniment et mas feusique,</l>
-        <l xml:lang="fra-nld">Y lui venir de caporal</l>
-        <l xml:lang="fra-nld">Qui rentrer zuss' de l'axercice.</l>
-        <l xml:lang="fra-nld">Y dire à moi : -- Sp'c' d'anemal</l>
-        <l xml:lang="fra-nld">Venir à de Polais d'Zestice,</l>
-        <l xml:lang="fra-nld">Toi y-aller monter de faction,</l>
-        <l xml:lang="fra-nld">Et salit te faut fair' de tention</l>
-        <l xml:lang="fra-nld">Quansque vous toi, y factionnaire,</l>
-        <l xml:lang="fra-nld">Hein ! Allez, inn' deuss' `a l'avant,</l>
-        <l xml:lang="fra-nld">Mo, y suiver à sa derrière</l>
-        <l xml:lang="fra-nld">Tout droit' zusqu'à de bâtiment</l>
-        <l xml:lang="fra-nld">Qui appeler Polais d'Zustice</l>
-        <l xml:lang="fra-nld">-- Allez, te faut fair ta service</l>
-        <l xml:lang="fra-nld">Dit de cap'ral vous promener,</l>
-        <l xml:lang="fra-nld">Comprenne? Mais vous ne pas bouzer.</l>
-        <l xml:lang="fra-nld">`-- Ah! ze di moi : y difficile.</l>
-        <l xml:lang="fra-nld">Y promener, y pas bouzer.</l>
-        <l xml:lang="fra-nld">Ah! caperal, pas comprener.</l>
-        <l xml:lang="fra-nld">--Taise vous, spèc' de béelle,</l>
-        <l xml:lang="fra-nld">Y dit à mo, et s'en d'aller,</l>
-        <l xml:lang="fra-nld">Te povez croire, y moi tout de suite</l>
-        <l xml:lang="fra-nld">Rentrer y dedans me guérite...</l>
-        <l xml:lang="fra-nld">Mo... y ne pas beaucoup plaisir</l>
-        <l xml:lang="fra-nld">Mo embêter comm' de morir,</l>
-        <l xml:lang="fra-nld">Et mo y gratter à me tête...</l>
-        <l xml:lang="fra-nld">Mo, y çanter de çansonnette...</l>
-        <l xml:lang="fra-nld">Mo, y çufell petit' refrain,</l>
-        <l xml:lang="fra-nld">Mo y de gratter à me rein...</l>
-        <l xml:lang="fra-nld">Et à min fess... Oué mais accoute :</l>
-        <l xml:lang="fra-nld">Mo y attender sur de route,</l>
-        <l xml:lang="fra-nld">Psst! Psst! Psst! quéqu'in crier</l>
-        <l xml:lang="fra-nld">Et tout de suit y retourner,</l>
-        <l xml:lang="fra-nld">Et y voyer moi me ma mère</l>
-        <l xml:lang="fra-nld">Qui moi dir' : -- Poutche, te factionnaire?</l>
-        <l xml:lang="fra-nld">--Ah! ze dis moudre, quoisque y faire!</l>
-        <l xml:lang="fra-nld">Si de cap'ral y lui venir,</l>
-        <l xml:lang="fra-nld">Bott' ferderck y va moi peunir.</l>
-        <l xml:lang="fra-nld">--Nine, Poutche partir tout suite,</l>
-        <l xml:lang="fra-nld">Moi, y porter de poir' quittes</l>
-        <l xml:lang="fra-nld">Et un' panier d'ousqui dedans</l>
-        <l xml:lang="fra-nld">Tatine et fromace puant.</l>
-        <l xml:lang="fra-nld">Vas, manze Poutche y dir' me mère,</l>
-        <l xml:lang="fra-nld">Mais, que vous te vas fair' bon çère !</l>
-        <l xml:lang="fra-nld">Et de moudre y s'en aller,</l>
-        <l xml:lang="fra-nld">Mol, assier sur de bord de gu'rite</l>
-        <l xml:lang="fra-nld">Et mo quemancer à manzer</l>
-        <l xml:lang="fra-nld">Me tartine fromace bien vite.</l>
-        <l xml:lang="fra-nld">Mais vela que z'attends : -- Hum! hein!</l>
-        <l xml:lang="fra-nld">Mo, je l'avais mon bouz' tout plein</l>
-        <l xml:lang="fra-nld">Ze pas pouvoir crier : " Qui vife! "</l>
-        <l xml:lang="fra-nld">Mais y venir grande scogrife</l>
-        <l xml:lang="fra-nld">Y de grands zamp' y de grand' nez</l>
-        <l xml:lang="fra-nld">Y de grand' boarpe, y ditt, -- Parlez.</l>
-        <l xml:lang="fra-nld">Soldat', te manzer de fremace?</l>
-        <l xml:lang="fra-nld">-- Ia, ze dis. -- Et bien à de p[l]ace</l>
-        <l xml:lang="fra-nld">Te f'rai mieux rent' moi de z'hommace.</l>
-        <l xml:lang="fra-nld">-- Ah! ze réponds, tout suite, oh! mais,</l>
-        <l xml:lang="fra-nld">Mo, Menherr, ne vous pas moi connaite?...</l>
-        <l xml:lang="fra-nld">Te savez pas quisque ze ête?...</l>
-        <l xml:lang="fra-nld">-- Non... t'es vous Députe, beut ête?</l>
-        <l xml:lang="fra-nld">-- Ze suis plus haut' que Depute, ma garçon,</l>
-        <l xml:lang="fra-nld">Y dit de boarpe. Garde moi, allons veyons.</l>
-        <l xml:lang="fra-nld">-- Ah! que ze moi répoins, toi il est de Sénate?</l>
-        <l xml:lang="fra-nld">--Ze suis cor plus haute que Sénate, soldate</l>
-        <l xml:lang="fra-nld">Y de de boarp' -- Ah ze disé ah! mois y sais</l>
-        <l xml:lang="fra-nld">Ah! bon, bon, la, vela, bon, bon mois bous connais,</l>
-        <l xml:lang="fra-nld">A de Polais d'Zustisse,</l>
-        <l xml:lang="fra-nld">Vous y êtes Minisse</l>
-        <l xml:lang="fra-nld">Et moi</l>
-        <l xml:lang="fra-nld">Y deux, trois zours après mo va d mon meson</l>
-        <l xml:lang="fra-nld">A Lacken, près de Bruxell'. Me mère y dit: --Arçon</l>
-        <l xml:lang="fra-nld">Vous, te l'aut' zour au soir, y te l'as fait bon cère?</l>
-        <l xml:lang="fra-nld">-- Ah! oué, oué, moi y dit, mais te sais pas me mère.</l>
-        <l xml:lang="fra-nld">Liopol y venir, y tenir ma feusique</l>
-        <l xml:lang="fra-nld">Y dire à moi que lui y de Ro de Belzique.</l>
-        <l xml:lang="fra-nld">Lui rinconter sin conte, y rier, y parler.</l>
-        <l xml:lang="fra-nld">-- Et t'l'as donné morceau d'ton tartine à manzer?</l>
-        <l xml:lang="fra-nld">-- Non moudre, pas pensé -- Ah! y Poutche, y damaze;</l>
-        <l xml:lang="fra-nld">Liopold zamais manzé lui de si bon fromace.</l>
+          <l xml:lang="fra-nld" n="1">Accoute un fois : mo y soldate</l>
+          <l xml:lang="fra-nld" n="2">Dans d' régiment de y guernate :</l>
+          <l xml:lang="fra-nld" n="3">Dri companie, vir bataïon,</l>
+          <l xml:lang="fra-nld" n="4">Qu'ill' est Bruxell' à garnison.</l>
+          <l xml:lang="fra-nld" n="5">Un' zour que moi, en train d'astique</l>
+          <l xml:lang="fra-nld" n="6">Ma feurniment et ma feusique.</l>
+          <l xml:lang="fra-nld" n="7">Y lui venir de caporal</l>
+          <l xml:lang="fra-nld" n="8">Qui rentrer zuss' de l'axercice.</l>
+          <l xml:lang="fra-nld" n="9">Y dire à moi : — Sp'c' d'anemal</l>
+          <l xml:lang="fra-nld" n="10">Venir à de Polais d'Zustice,</l>
+          <l xml:lang="fra-nld" n="11">Toi y-aller monter de faction,</l>
+          <l xml:lang="fra-nld" n="12">Et, sait' te faut fair' de tention</l>
+          <l xml:lang="fra-nld" n="13">Quansque vous, toi, y factionnaire,</l>
+          <l xml:lang="fra-nld" n="14">Hein! Allez, inn' deuss' à l'avant.</l>
+          <l xml:lang="fra-nld" n="15">Mo, y su'ver à sa derrière</l>
+          <l xml:lang="fra-nld" n="16">Tout droit' zusqu'à de bâtiment</l>
+          <l xml:lang="fra-nld" n="17">Qui appeler Po'lais d'Zustice.</l>
+          <l xml:lang="fra-nld" n="18">— Allez, te faut fair' ta service,</l>
+          <l xml:lang="fra-nld" n="19">Dit de cap'ral vous promener,</l>
+          <l xml:lang="fra-nld" n="20">Comprenne? Mais vous ne pas bouzer.</l>
+          <l xml:lang="fra-nld" n="21">— Ah! ze dis moi : y difficile.</l>
+          <l xml:lang="fra-nld" n="22">Y promener, y pas bouzer.</l>
+          <l xml:lang="fra-nld" n="23">Ah! caperal, pas comprener.</l>
+          <l xml:lang="fra-nld" n="24">— Taise vous, s'pèc' de bécille,</l>
+          <l xml:lang="fra-nld" n="25">Y dit à mo, et s'en d'aller.</l>
+          <l xml:lang="fra-nld" n="26">Te povez croire, y moi tout de suite</l>
+          <l xml:lang="fra-nld" n="27">Rentrer y dedans me guérite...</l>
+          <l xml:lang="fra-nld" n="28">Mo... y ne pas beaucoup plaisir,</l>
+          <l xml:lang="fra-nld" n="29">Mo embêter comm' de morir.</l>
+          <l xml:lang="fra-nld" n="30">Et mo y gratter à me tête...</l>
+          <l xml:lang="fra-nld" n="31">Mo, y çanter de çansonnette...</l>
+          <l xml:lang="fra-nld" n="32">Mo, y çufell petit' refrain,</l>
+          <l xml:lang="fra-nld" n="33">Mo y de gratter à me rein...</l>
+          <l xml:lang="fra-nld" n="34">Et à min fess... Oué, mais accoute :</l>
+          <l xml:lang="fra-nld" n="35">Mo y attender sur de route,</l>
+          <l xml:lang="fra-nld" n="36">Psst! Psst! Psst! quéqu'in crier,</l>
+          <l xml:lang="fra-nld" n="37">Et tout de suit' y retourner,</l>
+          <l xml:lang="fra-nld" n="38">Et y voyer moi me ma mère</l>
+          <l xml:lang="fra-nld" n="39">Qui moi dir' : — Poutche, te factionnaire?</l>
+          <l xml:lang="fra-nld" n="40">— Ah! ze dis moudre, quoisque y faire!</l>
+          <l xml:lang="fra-nld" n="41">Si de cap'ral y lui venir,</l>
+          <l xml:lang="fra-nld" n="42">Bott' ferderck y va moi peunir.</l>
+          <l xml:lang="fra-nld" n="43">— Nine, Poutche, partir tout suite,</l>
+          <l xml:lang="fra-nld" n="44">Moi, y porter de poir' quittes</l>
+          <l xml:lang="fra-nld" n="45">Et un' panier d'ousqui dedans</l>
+          <l xml:lang="fra-nld" n="46">Tartine et fromace puant.</l>
+          <l xml:lang="fra-nld" n="47">Vas, manze Poutche y dir' me mère,</l>
+          <l xml:lang="fra-nld" n="48">Mais, que vous te vas fair' bon çère!</l>
+          <l xml:lang="fra-nld" n="49">Et de moudre y s'en aller.</l>
+          <l xml:lang="fra-nld" n="50">Moi, assier sur de bord de gu'rite</l>
+          <l xml:lang="fra-nld" n="51">Et mo quemancer à manzer</l>
+          <l xml:lang="fra-nld" n="52">Me tartine fromace bien vite.</l>
+          <l xml:lang="fra-nld" n="53">Mais vela que z'attends : — Hum! hein!</l>
+          <l xml:lang="fra-nld" n="54">Mo, je l'avais mon bouz' tout plein</l>
+          <l xml:lang="fra-nld" n="55">Ze pas pouvoir crier : « Qui vife! »</l>
+          <l xml:lang="fra-nld" n="56">Mais y venir grande scogrife</l>
+          <l xml:lang="fra-nld" n="57">Y de grands zamp' y de grand' nez</l>
+          <l xml:lang="fra-nld" n="58">Y de grand' boarpe, y ditt, — Parlez,</l>
+          <l xml:lang="fra-nld" n="59">Soldat', te manzer de freumace?</l>
+          <l xml:lang="fra-nld" n="60">— Ia, ze dis. — Et bien à de p'ace</l>
+          <l xml:lang="fra-nld" n="61">Te f'rai mieux rent' moi de z'hommace.</l>
+          <l xml:lang="fra-nld" n="62">— Ah! ze réponds, tout suite, oh! mais,</l>
+          <l xml:lang="fra-nld" n="63">Mo, Menherr, ne vous pas connais.</l>
+          <l xml:lang="fra-nld" n="64">— Ah! te ne vous pas moi connaîte?...</l>
+          <l xml:lang="fra-nld" n="65">Te savez pas quisque ze ête?...</l>
+          <l xml:lang="fra-nld" n="66">— Non... t'es vous Députe, beut ête?</l>
+          <l xml:lang="fra-nld" n="67">— Ze suis plus haut' que Depute, ma garçon,</l>
+          <l xml:lang="fra-nld" n="68">Y dit de boarpe. Garde moi, allons veyons.</l>
+          <l xml:lang="fra-nld" n="69">— Ah! que ze moi réponds, toi il est de Sénate?</l>
+          <l xml:lang="fra-nld" n="70">— Ze suis cor plus haute que Sénate, soldate</l>
+          <l xml:lang="fra-nld" n="71">Y dit de boarp' — Ah! ze disé, ah! mois y sais</l>
+          <l xml:lang="fra-nld" n="72">Ah! bon, bon, là, vela, bon, bon, mois vous connais.</l>
+          <l xml:lang="fra-nld" n="73">A de Polais d'Zustisse,</l>
+          <l xml:lang="fra-nld" n="74">Vous y êtes Minisse</l>
+          <l xml:lang="fra-nld" n="75">Et moi y de faction</l>
+          <l xml:lang="fra-nld" n="76">A porte de maison.</l>
+          <l xml:lang="fra-nld" n="77">— Ze suis plus haute que Minisse, ma garçon</l>
+          <l xml:lang="fra-nld" n="78">Y dit de grand boarp. — Moi pas encor' connaîte</l>
+          <l xml:lang="fra-nld" n="79">Ah! bott ferdeck, ze dit en grattant à mon tête,</l>
+          <l xml:lang="fra-nld" n="80">Vous te l'es Liopold?... Oh! io, io, ça y bête!</l>
+          <l xml:lang="fra-nld" n="81">— Ia, ze suis Liopold, vous te l'avez raison</l>
+          <l xml:lang="fra-nld" n="82">Mo, y de Ro des Belz' savez-vous, ma garçon...</l>
+          <l xml:lang="fra-nld" n="83">— Bé, Liopold, tenez ma tartine fromace.</l>
+          <l xml:lang="fra-nld" n="84">Mo y dit, ze vas rente à de vous me l'hommace.</l>
+          <l xml:lang="fra-nld" n="85">Lui tenir me tartine pendant un tit' moment</l>
+          <l xml:lang="fra-nld" n="86">Pendant que ze faire arme à lui présentement!</l>
+          <l xml:lang="fra-nld" n="87">Et Liopold aller boire un outt' de zenêfe</l>
+          <l xml:lang="fra-nld" n="88">A de cab'ret de petite Zezèphe.</l>
+          <l xml:lang="fra-nld" n="89">Y deux, trois zours après, mo va à mon meson</l>
+          <l xml:lang="fra-nld" n="90">A Laeken, près de Bruxell'. Me mère y dit : — Arçon</l>
+          <l xml:lang="fra-nld" n="91">Vous te l'aut' zour au soir, y te l'as fait bon çère?</l>
+          <l xml:lang="fra-nld" n="92">— Ah! oué, oué, moi y dit, mais te sais-pas me mère,</l>
+          <l xml:lang="fra-nld" n="93">Liopol y venir, y tenir ma feusique</l>
+          <l xml:lang="fra-nld" n="94">Y dire à moi que lui y de Ro de Belzique.</l>
+          <l xml:lang="fra-nld" n="95">Lui rinconter sin conte, y rier, y parler.</l>
+          <l xml:lang="fra-nld" n="96">— Et t'l'as donné morceau d'ton tartine à manzer?</l>
+          <l xml:lang="fra-nld" n="97">— Non moudre, pas pensé. — Ah! y Poutche, y damaze;</l>
+          <l xml:lang="fra-nld" n="98">Liopold zamais manzé lui de si bon fromace.</l>
         </lg>
       </div>
     </body>
